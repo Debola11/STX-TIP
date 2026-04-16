@@ -3,11 +3,6 @@ TiP Stacks is a decentralized tipping platform built on the Stacks blockchain bu
 
 ---
 
-### Deployed smart contract url
- https://explorer.hiro.so/txid/0x3cd2275570b99fc8df9168c917ae65c05f44494ef05f8c8ab438e150923badf8?chain=testnet
- ST3P8GST1CH1QTD2W8VQ9BT60EPBQFWDN9DRGBR64.STX-TIPPPS
-
-
 ## Features
 
 ### Key Features
@@ -23,11 +18,6 @@ TiP Stacks is a decentralized tipping platform built on the Stacks blockchain bu
 
 ---
 
-## Firstly, you have to connect wallet, then you would join community and then you can view your dashboard
-
-<img width="1440" alt="Screenshot 2024-12-14 at 9 46 29 PM" src="https://github.com/user-attachments/assets/477ccfba-7090-420d-8aa3-4a03a8351300" />
-
-<img width="1439" alt="Screenshot 2024-12-14 at 9 46 47 PM" src="https://github.com/user-attachments/assets/62c0f69c-9348-48bc-8b93-f42f585f3865" />
 
 ## Smart Contract Components
 
@@ -75,14 +65,6 @@ TiP Stacks is a decentralized tipping platform built on the Stacks blockchain bu
      ```clojure
      (update-user-reward-points 'SP123456789' u20)
      ```
-
-4. **Read-Only Functions**:
-   - `get-user-tip-stats`: Retrieve a user's tipping statistics.
-   - `get-user-identity`: Fetch a user's identity information.
-   - `get-transaction-logs`: Access logs of a specific transaction.
-  
-   
-<img width="1440" alt="Screenshot 2024-12-14 at 9 50 48 PM" src="https://github.com/user-attachments/assets/149ed8bd-ff1e-4e7f-b203-ae9d4a8b0f6f" />
 
 #### Private Functions
 - **`process-tip-transfer`**:
@@ -137,9 +119,6 @@ TiP Stacks is a decentralized tipping platform built on the Stacks blockchain bu
 - **`ERR_REWARD_UPDATE_FAILED` (u4)**: Reward points update failed.
 
 ---
-
-
-<img width="1439" alt="Screenshot 2024-12-14 at 9 46 47 PM" src="https://github.com/user-attachments/assets/85a98fdc-fd57-4edb-9bd6-9143b7a92be2" />
 
 ## Future Enhancements
 
