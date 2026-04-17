@@ -89,7 +89,7 @@
 // };
 
 import React from 'react';
-import { ExternalLink, Github, Twitter, Mail, ArrowUpRight, Sparkles } from 'lucide-react';
+import { Github, Twitter, Mail, ArrowUpRight, Sparkles } from 'lucide-react';
 
 export const Footer: React.FC = () =>
 {
