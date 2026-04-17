@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@stacks/wallet-sdk": "^6.16.0",
+    "@stacks/transactions": "^6.16.0",
+    "@stacks/network": "^6.16.0",
+    "dotenv": "^16.0.0"
+  }
+}
