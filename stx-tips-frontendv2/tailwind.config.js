@@ -1,4 +1,4 @@
-// @v2: perf pass-2: reduced component tree depth
+// @v2: docs pass-1: documented hook return values
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
