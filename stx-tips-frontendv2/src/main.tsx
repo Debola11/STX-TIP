@@ -1,4 +1,4 @@
-// @v2: docs: document entry point
+// @v2: ui-polish pass-1: optimized mobile-first styles
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
