@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added missing type exports
+// @v2: type-safety pass-2: refined union type definitions
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
