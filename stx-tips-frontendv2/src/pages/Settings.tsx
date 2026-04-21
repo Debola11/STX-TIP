@@ -1,4 +1,4 @@
-// @v2: style: update Settings styles
+// @v2: ui-polish pass-1: updated color token references
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
