@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: reviewed padding and margin values
+// @v2: type-safety pass-1: verified prop types and interfaces
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
