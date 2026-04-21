@@ -1,1 +1,1 @@
-// @v2: ui-polish pass-2: optimized mobile-first styles
+// @v2: type-safety pass-1: improved generic type constraints
