@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced unnecessary re-renders
+// @v2: docs pass-1: documented hook return values
 import { Stat } from '@/lib/type';
 import React from 'react';
 
