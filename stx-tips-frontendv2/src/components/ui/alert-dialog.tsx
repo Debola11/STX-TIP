@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added module-level docs
+// @v2: docs pass-2: added usage examples in comments
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 
