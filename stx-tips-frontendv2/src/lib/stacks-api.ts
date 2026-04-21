@@ -1,3 +1,4 @@
+// @v2: docs: document Stacks API methods
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
