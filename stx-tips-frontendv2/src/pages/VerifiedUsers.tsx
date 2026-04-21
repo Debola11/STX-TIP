@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved return type annotations
+// @v2: perf pass-1: lazy loaded heavy components
 import { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
