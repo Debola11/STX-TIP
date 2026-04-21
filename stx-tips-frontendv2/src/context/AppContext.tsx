@@ -1,4 +1,4 @@
-// @v2: docs: document context API
+// @v2: ui-polish pass-1: improved dark mode compatibility
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
