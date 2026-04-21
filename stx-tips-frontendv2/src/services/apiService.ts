@@ -1,4 +1,4 @@
-// @v2: docs: document service layer
+// @v2: ui-polish pass-1: optimized mobile-first styles
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
