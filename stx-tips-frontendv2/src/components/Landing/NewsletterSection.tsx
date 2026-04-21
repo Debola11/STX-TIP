@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: reviewed padding and margin values
+// @v2: type-safety pass-2: verified prop types and interfaces
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
