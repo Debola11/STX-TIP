@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: type-safety pass-2: fixed implicit any usages -->
+<!-- @v2: perf pass-1: added React.memo for expensive renders -->
