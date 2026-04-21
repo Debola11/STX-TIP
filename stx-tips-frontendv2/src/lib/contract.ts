@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced unnecessary re-renders
+// @v2: perf pass-2: reduced component tree depth
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
