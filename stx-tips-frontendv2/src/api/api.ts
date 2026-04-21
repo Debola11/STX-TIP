@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced unnecessary re-renders
+// @v2: docs pass-1: documented hook return values
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
