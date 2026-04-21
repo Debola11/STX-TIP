@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved useMemo usage
+// @v2: docs pass-1: added usage examples in comments
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
