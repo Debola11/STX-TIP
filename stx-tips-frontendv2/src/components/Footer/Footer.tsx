@@ -1,4 +1,4 @@
-// @v2: style: update footer styles
+// @v2: ui-polish pass-1: reviewed padding and margin values
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
