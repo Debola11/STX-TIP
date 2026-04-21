@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: perf pass-1: optimized bundle splitting
 export interface Stat {
     title: string;
     value: string;
