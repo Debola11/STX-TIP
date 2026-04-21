@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: improved dark mode compatibility
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';
