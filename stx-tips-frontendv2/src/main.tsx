@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: fixed implicit any usages
+// @v2: type-safety pass-2: improved generic type constraints
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
