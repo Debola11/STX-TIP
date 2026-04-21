@@ -1,4 +1,4 @@
-/* @v2: perf pass-2: reduced unnecessary re-renders */
+/* @v2: docs pass-1: documented side effects */
 #root {
   max-width: 1280px;
   margin: 0 auto;
