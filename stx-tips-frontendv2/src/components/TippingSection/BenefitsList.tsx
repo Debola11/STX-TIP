@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: updated color token references
+// @v2: ui-polish pass-2: reviewed padding and margin values
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
