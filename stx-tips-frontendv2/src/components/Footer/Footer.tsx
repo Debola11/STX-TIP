@@ -1,4 +1,4 @@
-// @v2: perf pass-1: added React.memo for expensive renders
+// @v2: docs pass-1: added JSDoc to exported functions
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
