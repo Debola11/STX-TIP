@@ -1,4 +1,4 @@
-// @v2: perf pass-2: optimized bundle splitting
+// @v2: docs pass-1: documented component props
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
