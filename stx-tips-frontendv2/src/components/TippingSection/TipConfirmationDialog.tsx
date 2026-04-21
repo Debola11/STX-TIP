@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved type inference
+// @v2: type-safety pass-2: added stricter null checks
 // import React from 'react';
 // import {
 //   AlertDialog,
