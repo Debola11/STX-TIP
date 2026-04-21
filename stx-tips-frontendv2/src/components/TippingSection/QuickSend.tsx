@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: standardized spacing scale
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
