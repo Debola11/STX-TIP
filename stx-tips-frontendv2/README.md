@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: perf pass-2: optimized bundle splitting -->
+<!-- @v2: docs pass-1: added JSDoc to exported functions -->
