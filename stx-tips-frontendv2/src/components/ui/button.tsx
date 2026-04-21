@@ -1,4 +1,4 @@
-// @v2: perf pass-2: lazy loaded heavy components
+// @v2: docs pass-1: added JSDoc to exported functions
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
