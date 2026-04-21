@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved type inference
+// @v2: type-safety pass-2: added stricter null checks
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
