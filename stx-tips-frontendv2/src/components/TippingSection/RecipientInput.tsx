@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: optimized mobile-first styles
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
