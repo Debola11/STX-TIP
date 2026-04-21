@@ -1,3 +1,4 @@
+// @v2: docs: document wallet hook
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
