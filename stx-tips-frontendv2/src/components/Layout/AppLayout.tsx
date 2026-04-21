@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved dark mode compatibility
+// @v2: type-safety pass-1: added missing type exports
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';
