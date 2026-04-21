@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: reviewed padding and margin values
+// @v2: type-safety pass-1: refined union type definitions
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
