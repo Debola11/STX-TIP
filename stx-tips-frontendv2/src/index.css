@@ -1,4 +1,4 @@
-/* @v2: style: add CSS custom properties */
+/* @v2: ui-polish pass-1: reviewed padding and margin values */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
