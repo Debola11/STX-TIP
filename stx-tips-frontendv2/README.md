@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: docs pass-2: documented error handling -->
+<!-- @v2: a11y pass-1: added ARIA labels to interactive elements -->
