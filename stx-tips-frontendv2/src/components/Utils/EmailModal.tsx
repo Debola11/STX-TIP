@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: improved flex and grid layouts
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
