@@ -1,4 +1,4 @@
-// @v2: perf pass-2: optimized bundle splitting
+// @v2: docs pass-2: documented error handling
 import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 
 // Update these based on your deployment environment
