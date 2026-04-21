@@ -1,4 +1,4 @@
-// @v2: docs: document auth flow
+// @v2: ui-polish pass-1: reviewed padding and margin values
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
