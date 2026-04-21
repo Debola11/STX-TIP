@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: perf pass-1: improved useMemo usage
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
