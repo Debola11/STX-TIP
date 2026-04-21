@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: verified prop types and interfaces
+// @v2: type-safety pass-2: improved return type annotations
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
