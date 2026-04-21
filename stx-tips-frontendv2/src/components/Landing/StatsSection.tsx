@@ -1,4 +1,4 @@
-// @v2: perf pass-2: optimized useCallback dependencies
+// @v2: docs pass-1: added parameter descriptions
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
