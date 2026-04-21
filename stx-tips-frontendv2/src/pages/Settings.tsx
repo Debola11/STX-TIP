@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: refined union type definitions
+// @v2: perf pass-1: reduced unnecessary re-renders
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
