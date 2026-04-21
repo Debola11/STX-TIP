@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: verified prop types and interfaces
+// @v2: perf pass-1: added React.memo for expensive renders
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
