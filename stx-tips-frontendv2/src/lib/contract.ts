@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented hook return values
+// @v2: docs pass-2: documented side effects
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
