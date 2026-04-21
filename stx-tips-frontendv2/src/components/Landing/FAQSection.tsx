@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: refined responsive breakpoints
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
