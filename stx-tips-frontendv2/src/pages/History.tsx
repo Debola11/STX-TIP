@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: reviewed padding and margin values
+// @v2: type-safety pass-1: verified prop types and interfaces
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';
