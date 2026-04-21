@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: fixed implicit any usages
+// @v2: perf pass-2: optimized bundle splitting
 import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 
 // Update these based on your deployment environment
