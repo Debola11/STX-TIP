@@ -1,4 +1,4 @@
-/* @v2: type-safety pass-2: refined union type definitions */
+/* @v2: perf pass-1: reduced component tree depth */
 #root {
   max-width: 1280px;
   margin: 0 auto;
