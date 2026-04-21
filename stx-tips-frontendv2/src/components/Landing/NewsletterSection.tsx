@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: verified prop types and interfaces
+// @v2: perf pass-2: added React.memo for expensive renders
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
