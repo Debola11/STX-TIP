@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: reviewed padding and margin values
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
