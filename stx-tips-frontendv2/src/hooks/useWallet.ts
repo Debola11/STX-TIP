@@ -1,4 +1,4 @@
-// @v2: perf pass-2: reduced component tree depth
+// @v2: docs pass-1: added usage examples in comments
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
