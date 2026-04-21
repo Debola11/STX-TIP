@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved generic type constraints
+// @v2: perf pass-1: optimized useCallback dependencies
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
