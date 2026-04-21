@@ -1,4 +1,4 @@
-// @v2: perf pass-2: improved data fetching patterns
+// @v2: docs pass-1: added usage examples in comments
 export default {
   plugins: {
     tailwindcss: {},
