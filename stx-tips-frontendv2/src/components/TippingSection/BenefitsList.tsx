@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: refined union type definitions
+// @v2: type-safety pass-2: verified prop types and interfaces
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
