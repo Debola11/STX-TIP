@@ -1,2 +1,2 @@
-// @v2: perf pass-2: added React.memo for expensive renders
+// @v2: docs pass-1: added parameter descriptions
 /// <reference types="vite/client" />
