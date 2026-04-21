@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added missing type exports
+// @v2: perf pass-1: reduced component tree depth
 import
   {
     Wallet,
