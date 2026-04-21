@@ -1,4 +1,4 @@
-// @v2: perf pass-2: reduced component tree depth
+// @v2: docs pass-2: documented side effects
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
