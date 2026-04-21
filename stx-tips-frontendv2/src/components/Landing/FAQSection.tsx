@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented component props
+// @v2: docs pass-2: documented error handling
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
