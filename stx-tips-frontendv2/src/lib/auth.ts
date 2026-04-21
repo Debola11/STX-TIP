@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized useCallback dependencies
+// @v2: perf pass-2: improved data fetching patterns
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
