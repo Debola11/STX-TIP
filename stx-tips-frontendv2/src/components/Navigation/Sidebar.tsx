@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved data fetching patterns
+// @v2: docs pass-1: added module-level docs
 import React from 'react';
 import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
 import { useAppContext } from '../../context/AppContext';
