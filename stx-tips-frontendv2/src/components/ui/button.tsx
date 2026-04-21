@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added JSDoc to exported functions
+// @v2: docs pass-2: added parameter descriptions
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
