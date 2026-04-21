@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: perf pass-1: optimized bundle splitting
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
