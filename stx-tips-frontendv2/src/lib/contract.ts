@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added missing type exports
+// @v2: perf pass-1: reduced unnecessary re-renders
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
