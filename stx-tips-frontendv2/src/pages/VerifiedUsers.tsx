@@ -1,4 +1,4 @@
-// @v2: perf pass-1: lazy loaded heavy components
+// @v2: docs pass-1: added parameter descriptions
 import { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
