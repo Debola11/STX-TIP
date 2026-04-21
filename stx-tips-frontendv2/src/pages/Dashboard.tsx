@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced component tree depth
+// @v2: docs pass-1: documented side effects
 import
   {
     Wallet,
