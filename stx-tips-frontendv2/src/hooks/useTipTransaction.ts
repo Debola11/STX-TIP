@@ -1,4 +1,4 @@
-// @v2: perf pass-2: improved data fetching patterns
+// @v2: docs pass-2: added module-level docs
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';
