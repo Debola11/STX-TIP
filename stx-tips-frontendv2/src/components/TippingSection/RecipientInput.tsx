@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented error handling
+// @v2: docs pass-2: documented component props
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
