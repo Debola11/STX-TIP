@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: verified prop types and interfaces
+// @v2: perf pass-1: lazy loaded heavy components
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
