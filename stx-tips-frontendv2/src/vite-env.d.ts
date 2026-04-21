@@ -1,2 +1,2 @@
-// @v2: docs pass-1: added parameter descriptions
+// @v2: docs pass-2: added JSDoc to exported functions
 /// <reference types="vite/client" />
