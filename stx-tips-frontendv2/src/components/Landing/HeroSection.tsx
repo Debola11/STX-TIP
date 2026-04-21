@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added usage examples in comments
+// @v2: docs pass-2: added module-level docs
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
