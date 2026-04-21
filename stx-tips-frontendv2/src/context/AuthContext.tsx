@@ -1,4 +1,4 @@
-// @v2: perf pass-1: added React.memo for expensive renders
+// @v2: perf pass-2: lazy loaded heavy components
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
