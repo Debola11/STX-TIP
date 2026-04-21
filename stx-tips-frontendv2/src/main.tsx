@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: perf pass-1: optimized bundle splitting
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
