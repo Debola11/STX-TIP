@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: standardized spacing scale
+// @v2: type-safety pass-1: verified prop types and interfaces
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
