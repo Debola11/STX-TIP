@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved return type annotations
+// @v2: perf pass-1: added React.memo for expensive renders
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
