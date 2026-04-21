@@ -1,4 +1,4 @@
-// @v2: docs: document wallet hook
+// @v2: ui-polish pass-1: improved flex and grid layouts
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
