@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented hook return values
+// @v2: docs pass-2: documented side effects
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
