@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: perf pass-2: improved data fetching patterns
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';
