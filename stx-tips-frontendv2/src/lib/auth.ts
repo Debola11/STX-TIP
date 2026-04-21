@@ -1,4 +1,4 @@
-// @v2: docs: document auth helpers
+// @v2: ui-polish pass-1: refined responsive breakpoints
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
