@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized useCallback dependencies
+// @v2: perf pass-2: optimized bundle splitting
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
