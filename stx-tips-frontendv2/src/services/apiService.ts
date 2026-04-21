@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: perf pass-1: optimized bundle splitting
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
