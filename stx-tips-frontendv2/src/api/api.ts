@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: refined union type definitions
+// @v2: perf pass-1: reduced unnecessary re-renders
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
