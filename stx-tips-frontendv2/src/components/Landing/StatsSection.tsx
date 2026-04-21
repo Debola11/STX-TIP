@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added parameter descriptions
+// @v2: docs pass-2: documented component props
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
