@@ -1,4 +1,4 @@
-// @v2: style: improve Dashboard layout
+// @v2: ui-polish pass-1: improved dark mode compatibility
 import
   {
     Wallet,
