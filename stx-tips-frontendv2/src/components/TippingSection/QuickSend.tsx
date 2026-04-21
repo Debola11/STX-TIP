@@ -1,4 +1,4 @@
-// @v2: perf pass-1: lazy loaded heavy components
+// @v2: docs pass-1: added parameter descriptions
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
