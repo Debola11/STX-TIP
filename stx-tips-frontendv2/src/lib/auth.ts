@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented component props
+// @v2: docs pass-2: added module-level docs
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
