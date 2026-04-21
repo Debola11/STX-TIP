@@ -1,4 +1,4 @@
-// @v2: refactor: improve utility exports
+// @v2: ui-polish pass-1: cleaned up redundant class names
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
