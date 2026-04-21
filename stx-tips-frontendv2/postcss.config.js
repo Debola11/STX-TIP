@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved flex and grid layouts
+// @v2: ui-polish pass-2: cleaned up redundant class names
 export default {
   plugins: {
     tailwindcss: {},
