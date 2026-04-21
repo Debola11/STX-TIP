@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: updated color token references
+// @v2: type-safety pass-1: refined union type definitions
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
