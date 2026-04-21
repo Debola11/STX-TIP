@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: refined union type definitions
+// @v2: perf pass-1: reduced component tree depth
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
