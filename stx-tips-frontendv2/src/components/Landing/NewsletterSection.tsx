@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-2: reviewed padding and margin values
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
