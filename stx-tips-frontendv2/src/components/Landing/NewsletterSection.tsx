@@ -1,4 +1,4 @@
-// @v2: perf pass-2: added React.memo for expensive renders
+// @v2: docs pass-2: added JSDoc to exported functions
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
