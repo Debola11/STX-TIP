@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: optimized mobile-first styles
+// @v2: type-safety pass-2: fixed implicit any usages
 import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 
 // Update these based on your deployment environment
