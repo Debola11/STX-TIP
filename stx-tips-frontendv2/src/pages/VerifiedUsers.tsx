@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: standardized spacing scale
+// @v2: type-safety pass-1: improved return type annotations
 import { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
