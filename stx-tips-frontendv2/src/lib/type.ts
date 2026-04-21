@@ -1,4 +1,4 @@
-// @v2: perf pass-2: optimized useCallback dependencies
+// @v2: docs pass-1: documented error handling
 export interface Stat {
     title: string;
     value: string;
