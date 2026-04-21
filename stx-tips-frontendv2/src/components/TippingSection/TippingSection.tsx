@@ -1,4 +1,4 @@
-// @v2: style: refine TippingSection layout
+// @v2: ui-polish pass-1: improved dark mode compatibility
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
