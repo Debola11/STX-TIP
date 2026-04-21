@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added stricter null checks
+// @v2: perf pass-1: improved useMemo usage
 import React from 'react';
 import { Gift, ChevronRight, Lock } from 'lucide-react';
 
