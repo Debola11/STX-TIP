@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented hook return values
+// @v2: docs pass-2: added JSDoc to exported functions
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
