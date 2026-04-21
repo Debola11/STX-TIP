@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: optimized mobile-first styles
+// @v2: type-safety pass-1: improved generic type constraints
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
