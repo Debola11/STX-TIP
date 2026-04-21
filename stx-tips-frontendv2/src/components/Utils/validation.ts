@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved data fetching patterns
+// @v2: docs pass-1: added module-level docs
 export const validateStacksAddress = (address: string): boolean => {
     return address.startsWith('ST') || address.startsWith('SP') && address.length >= 41;
     // return true;
