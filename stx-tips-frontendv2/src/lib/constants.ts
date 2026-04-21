@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved flex and grid layouts
+// @v2: type-safety pass-1: added stricter null checks
 // Network configuration
 export const NETWORK_CONFIG = {
     API_URL: 'https://api.platform.hiro.so/v1/ext/0833814e84b812825680a1419eb34308/stacks-blockchain-api',
