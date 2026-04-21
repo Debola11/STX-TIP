@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: updated color token references
+// @v2: type-safety pass-1: added missing type exports
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
