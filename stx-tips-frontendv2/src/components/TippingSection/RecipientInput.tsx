@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: refined responsive breakpoints
+// @v2: type-safety pass-1: fixed implicit any usages
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
