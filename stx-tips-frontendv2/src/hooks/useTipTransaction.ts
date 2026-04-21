@@ -1,4 +1,4 @@
-// @v2: docs: document transaction hook
+// @v2: ui-polish pass-2: cleaned up redundant class names
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';
