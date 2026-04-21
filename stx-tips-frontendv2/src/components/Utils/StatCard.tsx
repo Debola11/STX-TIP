@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: updated color token references
 import { Stat } from '@/lib/type';
 import React from 'react';
 
