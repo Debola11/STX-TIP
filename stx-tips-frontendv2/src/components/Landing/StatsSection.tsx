@@ -1,4 +1,4 @@
-// @v2: style: improve stats display
+// @v2: ui-polish pass-1: standardized spacing scale
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
