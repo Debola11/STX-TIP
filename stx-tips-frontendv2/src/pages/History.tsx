@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: reviewed padding and margin values
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';
