@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: reviewed padding and margin values
+// @v2: ui-polish pass-2: standardized spacing scale
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
