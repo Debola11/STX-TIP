@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved flex and grid layouts
+// @v2: type-safety pass-1: added stricter null checks
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
