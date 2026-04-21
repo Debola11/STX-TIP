@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: refined responsive breakpoints
+// @v2: type-safety pass-1: fixed implicit any usages
 export interface Stat {
     title: string;
     value: string;
