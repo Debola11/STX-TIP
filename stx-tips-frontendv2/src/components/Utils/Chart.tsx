@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: refined responsive breakpoints
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
