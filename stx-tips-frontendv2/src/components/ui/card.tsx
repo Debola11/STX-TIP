@@ -1,3 +1,4 @@
+// @v2: refactor: improve Card composition
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
