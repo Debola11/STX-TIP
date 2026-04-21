@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: improved flex and grid layouts
+// @v2: type-safety pass-1: improved type inference
 // import React from 'react';
 // import {
 //   AlertDialog,
