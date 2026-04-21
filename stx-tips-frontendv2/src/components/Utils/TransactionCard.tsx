@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: standardized spacing scale
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
