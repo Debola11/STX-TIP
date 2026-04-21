@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: refined responsive breakpoints
+// @v2: type-safety pass-1: improved generic type constraints
 import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
