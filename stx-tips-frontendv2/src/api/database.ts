@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: verified prop types and interfaces
+// @v2: perf pass-1: lazy loaded heavy components
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
