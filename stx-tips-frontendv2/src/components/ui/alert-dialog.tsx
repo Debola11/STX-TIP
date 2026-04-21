@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: cleaned up redundant class names
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 
