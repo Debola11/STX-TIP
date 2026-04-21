@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added usage examples in comments
+// @v2: docs pass-2: added module-level docs
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
