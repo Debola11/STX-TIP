@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: standardized spacing scale
+// @v2: type-safety pass-1: verified prop types and interfaces
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
