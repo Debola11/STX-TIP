@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added missing type exports
+// @v2: perf pass-2: reduced component tree depth
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
