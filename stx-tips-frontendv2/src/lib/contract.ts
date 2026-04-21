@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: refined union type definitions
+// @v2: type-safety pass-2: added missing type exports
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
