@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added usage examples in comments
+// @v2: docs pass-2: documented side effects
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
