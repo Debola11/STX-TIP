@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: fixed implicit any usages
+// @v2: perf pass-1: optimized bundle splitting
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
