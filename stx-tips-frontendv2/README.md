@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: ui-polish pass-2: optimized mobile-first styles -->
+<!-- @v2: type-safety pass-1: verified prop types and interfaces -->
