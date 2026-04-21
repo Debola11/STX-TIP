@@ -1,4 +1,4 @@
-// @v2: docs: document API client
+// @v2: ui-polish pass-1: updated color token references
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
