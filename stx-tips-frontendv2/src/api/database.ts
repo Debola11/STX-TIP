@@ -1,4 +1,4 @@
-// @v2: perf pass-2: added React.memo for expensive renders
+// @v2: docs pass-1: added parameter descriptions
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
