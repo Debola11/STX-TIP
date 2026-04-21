@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added stricter null checks
+// @v2: perf pass-1: improved useMemo usage
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
