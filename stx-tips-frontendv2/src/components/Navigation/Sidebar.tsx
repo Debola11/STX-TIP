@@ -1,4 +1,4 @@
-// @v2: style: refine Sidebar spacing
+// @v2: ui-polish pass-1: cleaned up redundant class names
 import React from 'react';
 import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
 import { useAppContext } from '../../context/AppContext';
