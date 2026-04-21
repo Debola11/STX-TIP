@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: refined responsive breakpoints
+// @v2: type-safety pass-1: improved generic type constraints
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
