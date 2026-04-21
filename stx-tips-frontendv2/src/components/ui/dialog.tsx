@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: cleaned up redundant class names
+// @v2: type-safety pass-1: added stricter null checks
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
