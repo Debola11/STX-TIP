@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized useCallback dependencies
+// @v2: perf pass-2: optimized bundle splitting
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
