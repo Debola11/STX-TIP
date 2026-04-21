@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: perf pass-1: added React.memo for expensive renders -->
+<!-- @v2: perf pass-2: optimized bundle splitting -->
