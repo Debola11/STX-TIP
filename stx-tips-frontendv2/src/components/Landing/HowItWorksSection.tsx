@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added missing type exports
+// @v2: perf pass-1: reduced unnecessary re-renders
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
