@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: standardized spacing scale
+// @v2: ui-polish pass-2: reviewed padding and margin values
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
