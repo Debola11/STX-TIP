@@ -1,4 +1,4 @@
-// @v2: docs: document database layer
+// @v2: ui-polish pass-1: standardized spacing scale
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
