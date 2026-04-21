@@ -1,4 +1,4 @@
-// @v2: perf pass-1: lazy loaded heavy components
+// @v2: perf pass-2: optimized useCallback dependencies
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
