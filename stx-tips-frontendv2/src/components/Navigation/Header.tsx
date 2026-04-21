@@ -1,4 +1,4 @@
-// @v2: style: improve Header layout
+// @v2: ui-polish pass-1: optimized mobile-first styles
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
