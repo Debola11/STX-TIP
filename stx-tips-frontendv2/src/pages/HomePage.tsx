@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: refined responsive breakpoints
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
