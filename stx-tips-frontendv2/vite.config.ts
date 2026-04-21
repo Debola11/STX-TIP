@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized useCallback dependencies
+// @v2: docs pass-1: documented component props
 import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
