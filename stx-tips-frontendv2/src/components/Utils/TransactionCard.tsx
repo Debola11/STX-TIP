@@ -1,4 +1,4 @@
-// @v2: perf pass-1: lazy loaded heavy components
+// @v2: docs pass-1: added parameter descriptions
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
