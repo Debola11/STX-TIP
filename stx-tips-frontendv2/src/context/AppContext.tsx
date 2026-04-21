@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: updated color token references
+// @v2: type-safety pass-1: added missing type exports
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
