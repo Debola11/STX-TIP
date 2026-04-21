@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: fixed implicit any usages
+// @v2: perf pass-1: optimized bundle splitting
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
