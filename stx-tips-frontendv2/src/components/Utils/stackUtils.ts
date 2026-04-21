@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized bundle splitting
+// @v2: docs pass-1: documented error handling
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
