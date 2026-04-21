@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: improved dark mode compatibility
+// @v2: type-safety pass-2: added missing type exports
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
