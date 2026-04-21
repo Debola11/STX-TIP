@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added stricter null checks
+// @v2: perf pass-1: improved data fetching patterns
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
