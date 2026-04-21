@@ -1,4 +1,4 @@
-// @v2: perf pass-2: improved useMemo usage
+// @v2: docs pass-1: added module-level docs
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
