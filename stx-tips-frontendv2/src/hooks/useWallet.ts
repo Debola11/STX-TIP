@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added stricter null checks
+// @v2: type-safety pass-2: added missing type exports
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
