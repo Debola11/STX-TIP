@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized bundle splitting
+// @v2: perf pass-2: optimized useCallback dependencies
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
