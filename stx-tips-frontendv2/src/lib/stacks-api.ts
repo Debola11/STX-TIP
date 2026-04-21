@@ -1,4 +1,4 @@
-// @v2: docs: document Stacks API methods
+// @v2: ui-polish pass-1: standardized spacing scale
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
