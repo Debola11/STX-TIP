@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced component tree depth
+// @v2: perf pass-2: reduced unnecessary re-renders
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
