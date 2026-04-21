@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved useMemo usage
+// @v2: perf pass-2: reduced component tree depth
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
