@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: improved flex and grid layouts
 import React from 'react';
 import { Gift, ChevronRight, Lock } from 'lucide-react';
 
