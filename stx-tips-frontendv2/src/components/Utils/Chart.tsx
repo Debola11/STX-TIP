@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved generic type constraints
+// @v2: perf pass-1: optimized useCallback dependencies
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
