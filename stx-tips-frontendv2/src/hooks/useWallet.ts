@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: improved dark mode compatibility
+// @v2: type-safety pass-1: added stricter null checks
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
