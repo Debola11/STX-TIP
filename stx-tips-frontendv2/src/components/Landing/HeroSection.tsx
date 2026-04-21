@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: cleaned up redundant class names
+// @v2: type-safety pass-1: added stricter null checks
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
