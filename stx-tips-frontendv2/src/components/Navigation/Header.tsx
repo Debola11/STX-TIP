@@ -1,4 +1,4 @@
-// @v2: perf pass-1: optimized bundle splitting
+// @v2: docs pass-1: documented error handling
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
