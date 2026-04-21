@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented error handling
+// @v2: docs pass-2: documented component props
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
