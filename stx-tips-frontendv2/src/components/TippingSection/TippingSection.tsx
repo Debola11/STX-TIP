@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved dark mode compatibility
+// @v2: ui-polish pass-2: updated color token references
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
