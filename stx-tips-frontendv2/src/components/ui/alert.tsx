@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented side effects
+// @v2: docs pass-2: documented hook return values
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
