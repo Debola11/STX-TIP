@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented error handling
+// @v2: docs pass-2: documented component props
 export interface Stat {
     title: string;
     value: string;
