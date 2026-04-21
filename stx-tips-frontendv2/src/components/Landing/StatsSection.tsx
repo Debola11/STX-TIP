@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: perf pass-1: lazy loaded heavy components
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
