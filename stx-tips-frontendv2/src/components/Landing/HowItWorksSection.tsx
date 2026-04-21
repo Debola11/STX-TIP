@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented hook return values
+// @v2: docs pass-2: documented side effects
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
