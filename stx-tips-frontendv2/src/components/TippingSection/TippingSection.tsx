@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced component tree depth
+// @v2: perf pass-2: reduced unnecessary re-renders
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
