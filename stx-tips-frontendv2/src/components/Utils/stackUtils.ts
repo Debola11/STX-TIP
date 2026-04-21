@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: optimized mobile-first styles
+// @v2: type-safety pass-1: fixed implicit any usages
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
