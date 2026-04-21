@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: cleaned up redundant class names
 // import React from 'react';
 // import {
 //   AlertDialog,
