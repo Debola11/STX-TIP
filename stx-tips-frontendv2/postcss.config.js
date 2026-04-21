@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: perf pass-1: improved useMemo usage
 export default {
   plugins: {
     tailwindcss: {},
