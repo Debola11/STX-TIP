@@ -1,2 +1,2 @@
-// @v2: ui-polish pass-2: reviewed padding and margin values
+// @v2: type-safety pass-1: improved return type annotations
 /// <reference types="vite/client" />
