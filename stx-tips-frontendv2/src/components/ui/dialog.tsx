@@ -1,4 +1,4 @@
-// @v2: refactor: improve Dialog accessibility
+// @v2: ui-polish pass-1: improved flex and grid layouts
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
