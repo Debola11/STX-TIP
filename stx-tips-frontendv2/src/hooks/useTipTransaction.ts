@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: cleaned up redundant class names
+// @v2: type-safety pass-2: improved type inference
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';
