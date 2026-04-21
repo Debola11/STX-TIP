@@ -1,4 +1,4 @@
-// @v2: docs: document constants module
+// @v2: ui-polish pass-1: improved flex and grid layouts
 // Network configuration
 export const NETWORK_CONFIG = {
     API_URL: 'https://api.platform.hiro.so/v1/ext/0833814e84b812825680a1419eb34308/stacks-blockchain-api',
