@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: fixed implicit any usages
+// @v2: perf pass-1: optimized useCallback dependencies
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
