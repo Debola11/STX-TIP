@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved generic type constraints
+// @v2: type-safety pass-2: fixed implicit any usages
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
