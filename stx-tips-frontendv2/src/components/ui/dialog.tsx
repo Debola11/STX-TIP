@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: perf pass-1: improved useMemo usage
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
