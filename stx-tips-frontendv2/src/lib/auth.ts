@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: perf pass-1: optimized useCallback dependencies
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
