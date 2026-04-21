@@ -1,3 +1,4 @@
+// @v2: ui-polish pass-1: updated color token references
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
