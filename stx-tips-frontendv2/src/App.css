@@ -1,4 +1,4 @@
-/* @v2: cleanup pass-1: standardized naming conventions */
+/* @v2: cleanup pass-2: removed unused variables */
 #root {
   max-width: 1280px;
   margin: 0 auto;
