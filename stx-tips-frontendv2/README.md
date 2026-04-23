@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: error-handling pass-1: added try/catch to async functions -->
+<!-- @v2: error-handling pass-2: improved loading state handling -->
