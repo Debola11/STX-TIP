@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved timeout handling
+// @v2: cleanup pass-1: removed unused variables
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
