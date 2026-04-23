@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved error boundary coverage
+// @v2: cleanup pass-1: simplified complex conditionals
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
