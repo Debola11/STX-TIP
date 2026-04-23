@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved keyboard navigation
+// @v2: constants pass-1: revised retry logic constants
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
