@@ -1,4 +1,4 @@
-// @v2: constants pass-2: refined error message strings
+// @v2: error-handling pass-1: improved timeout handling
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
