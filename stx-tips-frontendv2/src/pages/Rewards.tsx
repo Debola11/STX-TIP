@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added focus-visible styles
+// @v2: constants pass-1: updated feature flag defaults
 import React from 'react';
 import { Gift, ChevronRight, Lock } from 'lucide-react';
 
