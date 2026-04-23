@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added ARIA labels to interactive elements
+// @v2: constants pass-2: updated API endpoint constants
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
