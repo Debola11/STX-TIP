@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: simplified complex conditionals
+// @v2: release pass-1: cleaned up dev artifacts
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
