@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented hook return values
+// @v2: a11y pass-1: improved screen reader output
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
