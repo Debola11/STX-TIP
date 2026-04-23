@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: simplified complex conditionals
+// @v2: cleanup pass-2: removed commented-out code
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
