@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: constants pass-2: updated pagination defaults
 export default {
   plugins: {
     tailwindcss: {},
