@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated network configuration
+// @v2: error-handling pass-1: added fallback UI states
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
