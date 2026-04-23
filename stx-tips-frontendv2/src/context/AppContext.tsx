@@ -1,4 +1,4 @@
-// @v2: release pass-1: prepared release notes
+// @v2: release pass-2: updated dependency references
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
