@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved network error handling
+// @v2: error-handling pass-2: improved timeout handling
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
