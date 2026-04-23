@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised retry logic constants
+// @v2: constants pass-2: revised timeout values
 export interface Stat {
     title: string;
     value: string;
