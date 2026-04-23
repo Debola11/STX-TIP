@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved timeout handling
+// @v2: error-handling pass-2: improved network error handling
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
