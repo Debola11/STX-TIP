@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added focus-visible styles
+// @v2: a11y pass-2: added role attributes
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
