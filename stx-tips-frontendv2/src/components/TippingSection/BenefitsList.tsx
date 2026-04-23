@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added try/catch to async functions
+// @v2: cleanup pass-1: removed unused variables
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
