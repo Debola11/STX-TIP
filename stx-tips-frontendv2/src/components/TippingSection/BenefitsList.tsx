@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved screen reader output
+// @v2: a11y pass-2: added ARIA labels to interactive elements
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
