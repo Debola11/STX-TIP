@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: extracted duplicate logic
+// @v2: release pass-1: updated build configuration
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
