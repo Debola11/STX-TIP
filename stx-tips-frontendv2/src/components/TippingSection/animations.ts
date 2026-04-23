@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added ARIA labels to interactive elements
+// @v2: a11y pass-2: fixed color contrast ratios
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
