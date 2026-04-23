@@ -1,4 +1,4 @@
-// @v2: release pass-1: prepared release notes
+// @v2: release pass-2: updated dependency references
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
