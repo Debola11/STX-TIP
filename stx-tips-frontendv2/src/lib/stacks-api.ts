@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed unused imports
+// @v2: release pass-1: cleaned up dev artifacts
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
