@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised retry logic constants
+// @v2: constants pass-2: revised timeout values
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
