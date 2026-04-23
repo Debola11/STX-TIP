@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved screen reader output
+// @v2: a11y pass-2: added role attributes
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
