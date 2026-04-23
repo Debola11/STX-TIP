@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: extracted duplicate logic
+// @v2: cleanup pass-2: removed commented-out code
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
