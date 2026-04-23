@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised cache TTL values
+// @v2: error-handling pass-1: added user-friendly error messages
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
