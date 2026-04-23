@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused variables
+// @v2: cleanup pass-2: removed unused imports
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
