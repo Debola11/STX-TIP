@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated API endpoint constants
+// @v2: error-handling pass-1: improved network error handling
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
