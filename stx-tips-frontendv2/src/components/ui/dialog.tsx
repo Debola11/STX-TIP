@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: improved file organization
+// @v2: release pass-1: finalized README documentation
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
