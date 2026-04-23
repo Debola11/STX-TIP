@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: cleaned up console.log statements
+// @v2: cleanup pass-2: improved file organization
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
