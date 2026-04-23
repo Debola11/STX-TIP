@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: fixed color contrast ratios
+// @v2: constants pass-1: updated network configuration
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
