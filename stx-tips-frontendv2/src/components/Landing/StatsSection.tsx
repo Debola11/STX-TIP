@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented component props
+// @v2: a11y pass-1: fixed color contrast ratios
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
