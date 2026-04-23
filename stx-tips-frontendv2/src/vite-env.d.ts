@@ -1,2 +1,2 @@
-// @v2: error-handling pass-1: added fallback UI states
+// @v2: error-handling pass-2: added try/catch to async functions
 /// <reference types="vite/client" />
