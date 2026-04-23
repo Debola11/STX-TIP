@@ -1,1 +1,1 @@
-// @v2: error-handling pass-1: improved error boundary coverage
+// @v2: error-handling pass-2: improved loading state handling
