@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: cleanup pass-2: extracted duplicate logic -->
+<!-- @v2: release pass-1: bumped version for release -->
