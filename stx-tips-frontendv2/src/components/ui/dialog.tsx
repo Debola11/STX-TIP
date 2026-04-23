@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: constants pass-2: updated pagination defaults
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
