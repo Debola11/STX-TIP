@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed commented-out code
+// @v2: cleanup pass-2: extracted duplicate logic
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
