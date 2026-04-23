@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added skip navigation links
+// @v2: constants pass-1: revised timeout values
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
