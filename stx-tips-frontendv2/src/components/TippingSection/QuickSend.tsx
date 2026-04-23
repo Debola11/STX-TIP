@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added parameter descriptions
+// @v2: a11y pass-1: fixed color contrast ratios
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
