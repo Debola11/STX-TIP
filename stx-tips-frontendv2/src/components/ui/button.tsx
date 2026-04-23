@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: simplified complex conditionals
+// @v2: release pass-1: bumped version for release
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
