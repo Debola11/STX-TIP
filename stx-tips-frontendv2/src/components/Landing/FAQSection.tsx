@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: constants pass-2: revised retry logic constants
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
