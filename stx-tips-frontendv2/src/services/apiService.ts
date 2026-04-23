@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved loading state handling
+// @v2: error-handling pass-2: improved error boundary coverage
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
