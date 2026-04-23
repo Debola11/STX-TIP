@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: standardized naming conventions
+// @v2: release pass-1: updated dependency references
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
