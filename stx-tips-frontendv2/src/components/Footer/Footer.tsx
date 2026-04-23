@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added ARIA labels to interactive elements
+// @v2: constants pass-1: updated API endpoint constants
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
