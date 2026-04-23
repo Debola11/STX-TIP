@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated changelog entries
+// @v2: release pass-2: finalized type definitions
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
