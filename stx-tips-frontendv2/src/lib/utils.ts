@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added user-friendly error messages
+// @v2: cleanup pass-1: improved file organization
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
