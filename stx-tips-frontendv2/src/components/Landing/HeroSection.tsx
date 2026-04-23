@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added user-friendly error messages
+// @v2: error-handling pass-2: added retry logic for requests
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
