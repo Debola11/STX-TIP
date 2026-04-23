@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused imports
+// @v2: cleanup pass-2: simplified complex conditionals
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
