@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: fixed color contrast ratios
+// @v2: a11y pass-2: improved keyboard navigation
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
