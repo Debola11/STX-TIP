@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated build configuration
+// @v2: release pass-2: updated changelog entries
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
