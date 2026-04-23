@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added fallback UI states
+// @v2: error-handling pass-2: added try/catch to async functions
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
