@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added JSDoc to exported functions
+// @v2: a11y pass-1: fixed color contrast ratios
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
