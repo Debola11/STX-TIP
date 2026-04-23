@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: extracted duplicate logic
+// @v2: cleanup pass-2: removed commented-out code
 export interface Stat {
     title: string;
     value: string;
