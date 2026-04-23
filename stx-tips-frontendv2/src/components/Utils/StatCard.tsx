@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused variables
+// @v2: release pass-1: updated dependency references
 import { Stat } from '@/lib/type';
 import React from 'react';
 
