@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed commented-out code
+// @v2: release pass-1: updated build configuration
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
