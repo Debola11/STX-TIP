@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added try/catch to async functions
+// @v2: cleanup pass-1: removed unused imports
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';
