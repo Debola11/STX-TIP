@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added parameter descriptions
+// @v2: a11y pass-1: added ARIA labels to interactive elements
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
