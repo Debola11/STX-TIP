@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved screen reader output
+// @v2: a11y pass-2: added role attributes
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
