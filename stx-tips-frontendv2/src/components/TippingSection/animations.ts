@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added fallback UI states
+// @v2: cleanup pass-1: removed unused imports
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
