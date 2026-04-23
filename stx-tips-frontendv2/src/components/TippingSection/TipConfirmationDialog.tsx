@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added focus-visible styles
+// @v2: constants pass-1: updated pagination defaults
 // import React from 'react';
 // import {
 //   AlertDialog,
