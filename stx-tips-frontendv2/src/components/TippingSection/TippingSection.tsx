@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added role attributes
+// @v2: a11y pass-2: improved screen reader output
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
