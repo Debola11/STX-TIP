@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: constants pass-2: revised cache TTL values
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
