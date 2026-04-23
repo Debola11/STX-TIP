@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved error boundary coverage
+// @v2: cleanup pass-1: removed commented-out code
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
