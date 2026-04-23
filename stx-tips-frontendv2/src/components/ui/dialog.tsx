@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added module-level docs
+// @v2: a11y pass-1: added focus-visible styles
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
