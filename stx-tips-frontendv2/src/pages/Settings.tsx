@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused variables
+// @v2: release pass-1: updated dependency references
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
