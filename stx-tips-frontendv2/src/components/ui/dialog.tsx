@@ -1,4 +1,4 @@
-// @v2: release pass-1: finalized README documentation
+// @v2: release pass-2: finalized type definitions
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
