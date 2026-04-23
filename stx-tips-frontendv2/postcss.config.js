@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: cleaned up console.log statements
+// @v2: cleanup pass-2: improved file organization
 export default {
   plugins: {
     tailwindcss: {},
