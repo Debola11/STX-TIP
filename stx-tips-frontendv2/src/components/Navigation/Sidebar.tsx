@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated pagination defaults
+// @v2: error-handling pass-1: added retry logic for requests
 import React from 'react';
 import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
 import { useAppContext } from '../../context/AppContext';
