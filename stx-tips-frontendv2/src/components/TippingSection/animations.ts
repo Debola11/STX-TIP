@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: simplified complex conditionals
+// @v2: release pass-1: bumped version for release
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
