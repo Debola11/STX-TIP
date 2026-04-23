@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: cleaned up console.log statements
+// @v2: release pass-1: finalized README documentation
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
