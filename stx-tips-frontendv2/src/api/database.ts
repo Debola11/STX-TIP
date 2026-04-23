@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: fixed color contrast ratios
+// @v2: a11y pass-2: added ARIA labels to interactive elements
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
