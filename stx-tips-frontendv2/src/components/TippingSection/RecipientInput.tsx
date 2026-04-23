@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved error boundary coverage
+// @v2: cleanup pass-1: extracted duplicate logic
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
