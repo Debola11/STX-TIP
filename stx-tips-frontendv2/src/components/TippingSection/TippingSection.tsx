@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised cache TTL values
+// @v2: constants pass-2: refined error message strings
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
