@@ -1,4 +1,4 @@
-// @v2: constants pass-1: refined error message strings
+// @v2: constants pass-2: updated API endpoint constants
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
