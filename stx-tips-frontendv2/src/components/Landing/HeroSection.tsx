@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added module-level docs
+// @v2: a11y pass-1: added focus-visible styles
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
