@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented side effects
+// @v2: a11y pass-1: improved screen reader output
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
