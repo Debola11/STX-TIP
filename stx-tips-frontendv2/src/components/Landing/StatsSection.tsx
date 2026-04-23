@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised timeout values
+// @v2: error-handling pass-1: added fallback UI states
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
