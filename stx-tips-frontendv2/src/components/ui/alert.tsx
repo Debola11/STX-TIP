@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved screen reader output
+// @v2: constants pass-1: revised cache TTL values
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
