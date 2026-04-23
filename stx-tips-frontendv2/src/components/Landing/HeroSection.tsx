@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: constants pass-2: updated pagination defaults
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
