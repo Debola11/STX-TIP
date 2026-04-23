@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved loading state handling
+// @v2: cleanup pass-1: extracted duplicate logic
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
