@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added JSDoc to exported functions
+// @v2: a11y pass-1: improved screen reader output
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
