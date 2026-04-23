@@ -1,2 +1,2 @@
-// @v2: release pass-1: cleaned up dev artifacts
+// @v2: release pass-2: bumped version for release
 /// <reference types="vite/client" />
