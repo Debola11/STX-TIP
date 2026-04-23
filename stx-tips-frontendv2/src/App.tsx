@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added retry logic for requests
+// @v2: error-handling pass-2: added user-friendly error messages
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';
