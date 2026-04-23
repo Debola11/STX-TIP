@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed unused variables
+// @v2: release pass-1: prepared release notes
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
