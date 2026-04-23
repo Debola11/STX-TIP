@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added skip navigation links
+// @v2: constants pass-1: revised retry logic constants
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
