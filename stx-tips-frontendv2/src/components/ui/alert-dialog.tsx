@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated feature flag defaults
+// @v2: error-handling pass-1: added retry logic for requests
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 
