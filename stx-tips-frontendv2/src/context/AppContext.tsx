@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved network error handling
+// @v2: cleanup pass-1: standardized naming conventions
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
