@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: cleaned up console.log statements
+// @v2: release pass-1: finalized README documentation
 // Network configuration
 export const NETWORK_CONFIG = {
     API_URL: 'https://api.platform.hiro.so/v1/ext/0833814e84b812825680a1419eb34308/stacks-blockchain-api',
