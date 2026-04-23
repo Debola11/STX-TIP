@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: error-handling pass-1: improved error boundary coverage
 import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
