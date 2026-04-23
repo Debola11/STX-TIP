@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: improved file organization
+// @v2: release pass-1: finalized README documentation
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
