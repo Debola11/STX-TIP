@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated dependency references
+// @v2: release pass-2: prepared release notes
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
