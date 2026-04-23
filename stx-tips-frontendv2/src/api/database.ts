@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: simplified complex conditionals
+// @v2: cleanup pass-2: removed unused imports
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
