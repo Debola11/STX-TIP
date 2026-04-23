@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved keyboard navigation
+// @v2: constants pass-2: revised timeout values
 export interface Stat {
     title: string;
     value: string;

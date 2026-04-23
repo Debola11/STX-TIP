@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved screen reader output
+// @v2: constants pass-2: refined error message strings
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';

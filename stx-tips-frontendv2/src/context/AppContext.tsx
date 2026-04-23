@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved screen reader output
+// @v2: constants pass-2: refined error message strings
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType

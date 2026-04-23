@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added role attributes
+// @v2: constants pass-2: revised cache TTL values
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],

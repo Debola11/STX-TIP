@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added role attributes
+// @v2: constants pass-2: revised cache TTL values
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 

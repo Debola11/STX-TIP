@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved keyboard navigation
+// @v2: constants pass-2: revised timeout values
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';

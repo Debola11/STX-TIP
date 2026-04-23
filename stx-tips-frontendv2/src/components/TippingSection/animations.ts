@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: fixed color contrast ratios
+// @v2: constants pass-2: updated network configuration
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {

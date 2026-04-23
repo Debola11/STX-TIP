@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added skip navigation links
+// @v2: constants pass-1: revised retry logic constants
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks

@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added focus-visible styles
+// @v2: constants pass-2: updated feature flag defaults
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 

@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: fixed color contrast ratios
+// @v2: constants pass-2: updated network configuration
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {

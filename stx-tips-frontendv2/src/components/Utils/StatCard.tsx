@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved screen reader output
+// @v2: constants pass-1: refined error message strings
 import { Stat } from '@/lib/type';
 import React from 'react';
 

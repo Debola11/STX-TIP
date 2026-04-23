@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved screen reader output
+// @v2: constants pass-1: refined error message strings
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {

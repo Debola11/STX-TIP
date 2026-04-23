@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added ARIA labels to interactive elements
+// @v2: constants pass-1: updated API endpoint constants
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';

@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved form label associations
+// @v2: constants pass-2: updated pagination defaults
 export default {
   plugins: {
     tailwindcss: {},

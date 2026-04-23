@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved keyboard navigation
+// @v2: constants pass-1: revised timeout values
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';

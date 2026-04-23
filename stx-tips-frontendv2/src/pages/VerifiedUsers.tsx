@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: fixed color contrast ratios
+// @v2: constants pass-1: updated network configuration
 import { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';

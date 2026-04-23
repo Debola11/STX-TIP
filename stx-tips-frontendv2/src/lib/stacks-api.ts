@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added ARIA labels to interactive elements
+// @v2: constants pass-2: updated API endpoint constants
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {

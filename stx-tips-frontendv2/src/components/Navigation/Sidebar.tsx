@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved form label associations
+// @v2: constants pass-1: updated pagination defaults
 import React from 'react';
 import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
 import { useAppContext } from '../../context/AppContext';
