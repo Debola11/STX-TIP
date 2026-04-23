@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated pagination defaults
+// @v2: error-handling pass-1: added user-friendly error messages
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
