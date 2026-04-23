@@ -1,1 +1,1 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: constants pass-2: revised retry logic constants
