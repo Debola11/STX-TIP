@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: standardized naming conventions
+// @v2: cleanup pass-2: removed unused variables
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
