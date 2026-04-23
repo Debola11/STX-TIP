@@ -1,4 +1,4 @@
-// @v2: release pass-1: finalized README documentation
+// @v2: release pass-2: finalized type definitions
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
