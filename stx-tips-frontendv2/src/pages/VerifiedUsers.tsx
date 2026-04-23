@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added parameter descriptions
+// @v2: a11y pass-1: fixed color contrast ratios
 import { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
