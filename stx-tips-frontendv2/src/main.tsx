@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved loading state handling
+// @v2: error-handling pass-2: improved error boundary coverage
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
