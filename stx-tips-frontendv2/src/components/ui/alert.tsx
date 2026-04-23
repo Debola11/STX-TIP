@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised cache TTL values
+// @v2: constants pass-2: refined error message strings
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
