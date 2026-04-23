@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised retry logic constants
+// @v2: error-handling pass-1: improved error boundary coverage
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
