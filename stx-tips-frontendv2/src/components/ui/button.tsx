@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated API endpoint constants
+// @v2: constants pass-2: updated network configuration
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
