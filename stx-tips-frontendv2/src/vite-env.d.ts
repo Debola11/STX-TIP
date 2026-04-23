@@ -1,2 +1,2 @@
-// @v2: cleanup pass-2: removed unused imports
+// @v2: release pass-1: cleaned up dev artifacts
 /// <reference types="vite/client" />
