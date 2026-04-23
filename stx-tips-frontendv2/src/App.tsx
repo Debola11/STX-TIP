@@ -1,4 +1,4 @@
-// @v2: release pass-1: finalized type definitions
+// @v2: release pass-2: finalized README documentation
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';
