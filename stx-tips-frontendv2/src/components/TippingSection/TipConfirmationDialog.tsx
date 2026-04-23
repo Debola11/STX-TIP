@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added usage examples in comments
+// @v2: a11y pass-1: improved form label associations
 // import React from 'react';
 // import {
 //   AlertDialog,
