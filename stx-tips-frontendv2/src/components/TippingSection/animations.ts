@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated API endpoint constants
+// @v2: constants pass-2: updated network configuration
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
