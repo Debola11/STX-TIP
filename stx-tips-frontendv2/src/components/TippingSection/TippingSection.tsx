@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented hook return values
+// @v2: a11y pass-1: added role attributes
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
