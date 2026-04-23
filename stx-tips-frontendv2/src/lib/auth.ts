@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: improved file organization
+// @v2: release pass-1: updated changelog entries
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
