@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: improved file organization
+// @v2: cleanup pass-2: cleaned up console.log statements
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 
