@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: constants pass-2: revised retry logic constants
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
