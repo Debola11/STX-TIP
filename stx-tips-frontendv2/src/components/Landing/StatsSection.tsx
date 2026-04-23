@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated network configuration
+// @v2: constants pass-2: revised timeout values
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
