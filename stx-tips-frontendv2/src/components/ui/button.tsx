@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added fallback UI states
+// @v2: cleanup pass-1: removed unused imports
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
