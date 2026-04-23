@@ -1,4 +1,4 @@
-// @v2: release pass-1: bumped version for release
+// @v2: release pass-2: cleaned up dev artifacts
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
