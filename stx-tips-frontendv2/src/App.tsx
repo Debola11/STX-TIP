@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved form label associations
+// @v2: a11y pass-2: added focus-visible styles
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';
