@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented component props
+// @v2: a11y pass-1: improved keyboard navigation
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
