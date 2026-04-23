@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised timeout values
+// @v2: error-handling pass-1: improved loading state handling
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
