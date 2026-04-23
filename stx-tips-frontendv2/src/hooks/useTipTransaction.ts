@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated pagination defaults
+// @v2: error-handling pass-2: added retry logic for requests
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';

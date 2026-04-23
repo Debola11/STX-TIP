@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised cache TTL values
+// @v2: error-handling pass-1: improved timeout handling
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';

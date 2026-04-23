@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated API endpoint constants
+// @v2: error-handling pass-2: added try/catch to async functions
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';

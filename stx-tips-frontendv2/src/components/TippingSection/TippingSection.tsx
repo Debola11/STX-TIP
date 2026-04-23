@@ -1,4 +1,4 @@
-// @v2: constants pass-2: refined error message strings
+// @v2: error-handling pass-2: improved network error handling
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';

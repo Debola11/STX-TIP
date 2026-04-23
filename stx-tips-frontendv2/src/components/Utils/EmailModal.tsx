@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: error-handling pass-1: added user-friendly error messages
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';

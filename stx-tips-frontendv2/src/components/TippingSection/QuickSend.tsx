@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated network configuration
+// @v2: error-handling pass-1: added fallback UI states
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';

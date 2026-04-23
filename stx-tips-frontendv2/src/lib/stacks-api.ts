@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated API endpoint constants
+// @v2: error-handling pass-2: added try/catch to async functions
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {

@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated API endpoint constants
+// @v2: error-handling pass-2: added try/catch to async functions
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';

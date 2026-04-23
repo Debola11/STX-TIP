@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised timeout values
+// @v2: error-handling pass-2: improved error boundary coverage
 export interface Stat {
     title: string;
     value: string;

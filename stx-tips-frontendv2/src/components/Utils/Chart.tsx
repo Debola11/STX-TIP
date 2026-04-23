@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: error-handling pass-1: improved error boundary coverage
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';

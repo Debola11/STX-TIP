@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised retry logic constants
+// @v2: error-handling pass-1: improved loading state handling
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks

@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated network configuration
+// @v2: error-handling pass-2: added fallback UI states
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {

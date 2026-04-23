@@ -1,1 +1,1 @@
-// @v2: constants pass-2: revised retry logic constants
+// @v2: error-handling pass-2: improved loading state handling

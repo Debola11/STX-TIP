@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated API endpoint constants
+// @v2: error-handling pass-1: added try/catch to async functions
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 

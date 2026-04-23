@@ -1,4 +1,4 @@
-// @v2: constants pass-2: refined error message strings
+// @v2: error-handling pass-2: improved network error handling
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType

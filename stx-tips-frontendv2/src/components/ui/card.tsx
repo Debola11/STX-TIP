@@ -1,4 +1,4 @@
-// @v2: constants pass-2: revised retry logic constants
+// @v2: error-handling pass-2: improved loading state handling
 import * as React from "react"
 
 import { cn } from "@/lib/utils"

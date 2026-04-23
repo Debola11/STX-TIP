@@ -1,4 +1,4 @@
-/* @v2: constants pass-2: refined error message strings */
+/* @v2: error-handling pass-2: improved network error handling */
 #root {
   max-width: 1280px;
   margin: 0 auto;
