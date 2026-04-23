@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: standardized naming conventions
+// @v2: release pass-2: prepared release notes
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],

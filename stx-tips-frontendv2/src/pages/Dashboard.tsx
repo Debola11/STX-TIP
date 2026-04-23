@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: standardized naming conventions
+// @v2: release pass-1: prepared release notes
 import
   {
     Wallet,

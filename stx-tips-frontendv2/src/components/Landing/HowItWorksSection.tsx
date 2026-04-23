@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: standardized naming conventions
+// @v2: release pass-2: prepared release notes
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 

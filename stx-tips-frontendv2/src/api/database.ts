@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed unused imports
+// @v2: release pass-2: bumped version for release
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';

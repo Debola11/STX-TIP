@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: simplified complex conditionals
+// @v2: release pass-2: cleaned up dev artifacts
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {

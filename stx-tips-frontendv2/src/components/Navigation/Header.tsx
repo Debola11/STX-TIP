@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: extracted duplicate logic
+// @v2: release pass-1: updated build configuration
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';

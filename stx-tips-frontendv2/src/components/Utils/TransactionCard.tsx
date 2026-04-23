@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: simplified complex conditionals
+// @v2: release pass-1: cleaned up dev artifacts
 import { Transaction } from '@/lib/type';
 import React from 'react';
 

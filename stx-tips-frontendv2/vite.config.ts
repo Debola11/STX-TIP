@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed commented-out code
+// @v2: release pass-1: updated changelog entries
 import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"

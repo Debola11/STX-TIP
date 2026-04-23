@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: cleaned up console.log statements
+// @v2: release pass-2: finalized README documentation
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';

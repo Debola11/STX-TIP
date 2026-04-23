@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed unused imports
+// @v2: release pass-2: bumped version for release
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';

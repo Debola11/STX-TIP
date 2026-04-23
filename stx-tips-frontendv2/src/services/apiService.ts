@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed commented-out code
+// @v2: release pass-2: updated changelog entries
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 

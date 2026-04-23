@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: extracted duplicate logic
+// @v2: release pass-2: updated build configuration
 import * as React from "react"
 
 import { cn } from "@/lib/utils"

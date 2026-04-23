@@ -1,1 +1,1 @@
-// @v2: cleanup pass-2: extracted duplicate logic
+// @v2: release pass-2: updated build configuration

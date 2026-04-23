@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: improved file organization
+// @v2: release pass-2: finalized type definitions
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"

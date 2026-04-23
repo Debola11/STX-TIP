@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused imports
+// @v2: release pass-1: bumped version for release
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
