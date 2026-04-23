@@ -1,1 +1,1 @@
-// @v2: docs pass-2: documented error handling
+// @v2: a11y pass-2: added skip navigation links

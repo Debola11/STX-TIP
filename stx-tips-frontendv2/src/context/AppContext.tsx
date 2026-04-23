@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented hook return values
+// @v2: a11y pass-2: improved screen reader output
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType

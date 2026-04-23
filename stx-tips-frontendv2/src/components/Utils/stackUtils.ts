@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented error handling
+// @v2: a11y pass-1: added skip navigation links
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks

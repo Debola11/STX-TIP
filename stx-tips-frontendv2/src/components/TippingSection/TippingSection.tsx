@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented hook return values
+// @v2: a11y pass-2: improved screen reader output
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';

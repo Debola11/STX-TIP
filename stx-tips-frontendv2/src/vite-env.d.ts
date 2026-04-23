@@ -1,2 +1,2 @@
-// @v2: docs pass-2: added JSDoc to exported functions
+// @v2: a11y pass-2: added ARIA labels to interactive elements
 /// <reference types="vite/client" />

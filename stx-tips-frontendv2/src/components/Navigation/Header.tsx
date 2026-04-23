@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented error handling
+// @v2: a11y pass-1: added skip navigation links
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';

@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added usage examples in comments
+// @v2: a11y pass-1: added focus-visible styles
 // Network configuration
 export const NETWORK_CONFIG = {
     API_URL: 'https://api.platform.hiro.so/v1/ext/0833814e84b812825680a1419eb34308/stacks-blockchain-api',

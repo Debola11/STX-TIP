@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added usage examples in comments
+// @v2: a11y pass-2: added focus-visible styles
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 

@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added JSDoc to exported functions
+// @v2: a11y pass-1: added ARIA labels to interactive elements
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';

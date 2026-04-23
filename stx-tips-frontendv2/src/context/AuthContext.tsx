@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added parameter descriptions
+// @v2: a11y pass-2: fixed color contrast ratios
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {

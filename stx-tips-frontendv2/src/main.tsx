@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented component props
+// @v2: a11y pass-2: improved keyboard navigation
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';

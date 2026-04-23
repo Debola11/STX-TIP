@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added usage examples in comments
+// @v2: a11y pass-1: added focus-visible styles
 import { FC } from 'react';
 import { Sparkles, Mail } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';

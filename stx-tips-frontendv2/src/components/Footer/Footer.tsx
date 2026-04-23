@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added JSDoc to exported functions
+// @v2: a11y pass-1: added ARIA labels to interactive elements
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 

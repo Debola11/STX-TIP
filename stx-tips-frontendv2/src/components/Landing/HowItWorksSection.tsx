@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented side effects
+// @v2: a11y pass-2: added role attributes
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 

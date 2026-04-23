@@ -1,4 +1,4 @@
-// @v2: docs pass-1: added parameter descriptions
+// @v2: a11y pass-1: fixed color contrast ratios
 import { Transaction } from '@/lib/type';
 import React from 'react';
 

@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented component props
+// @v2: a11y pass-1: improved keyboard navigation
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';

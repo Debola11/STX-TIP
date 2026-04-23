@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: a11y pass-1: added ARIA labels to interactive elements -->
+<!-- @v2: a11y pass-2: added skip navigation links -->

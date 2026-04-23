@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented side effects
+// @v2: a11y pass-2: added role attributes
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
