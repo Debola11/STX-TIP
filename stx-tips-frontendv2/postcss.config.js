@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added retry logic for requests
+// @v2: cleanup pass-1: cleaned up console.log statements
 export default {
   plugins: {
     tailwindcss: {},
