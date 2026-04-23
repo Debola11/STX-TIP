@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented component props
+// @v2: a11y pass-1: added skip navigation links
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
