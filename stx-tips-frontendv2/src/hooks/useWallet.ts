@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added user-friendly error messages
+// @v2: error-handling pass-2: improved timeout handling
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
