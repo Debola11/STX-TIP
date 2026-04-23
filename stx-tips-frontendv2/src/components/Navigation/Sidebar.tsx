@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added retry logic for requests
+// @v2: cleanup pass-1: improved file organization
 import React from 'react';
 import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
 import { useAppContext } from '../../context/AppContext';
