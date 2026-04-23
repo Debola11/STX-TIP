@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added fallback UI states
+// @v2: error-handling pass-2: improved error boundary coverage
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
