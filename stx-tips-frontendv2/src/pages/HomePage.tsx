@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved error boundary coverage
+// @v2: cleanup pass-1: removed commented-out code
 import React from 'react';
 import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
