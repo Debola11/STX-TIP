@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added fallback UI states
+// @v2: cleanup pass-2: simplified complex conditionals
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {

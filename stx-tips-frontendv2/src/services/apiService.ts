@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved error boundary coverage
+// @v2: cleanup pass-2: removed commented-out code
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 

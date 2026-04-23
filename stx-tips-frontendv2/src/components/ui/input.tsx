@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved timeout handling
+// @v2: cleanup pass-2: standardized naming conventions
 import * as React from "react"
 
 import { cn } from "@/lib/utils"

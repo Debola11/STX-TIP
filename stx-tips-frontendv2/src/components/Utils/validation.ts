@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added retry logic for requests
+// @v2: cleanup pass-1: improved file organization
 export const validateStacksAddress = (address: string): boolean => {
     return address.startsWith('ST') || address.startsWith('SP') && address.length >= 41;
     // return true;

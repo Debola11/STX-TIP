@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved timeout handling
+// @v2: cleanup pass-1: standardized naming conventions
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';

@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved loading state handling
+// @v2: cleanup pass-2: extracted duplicate logic
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';

@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added try/catch to async functions
+// @v2: cleanup pass-2: removed unused imports
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';

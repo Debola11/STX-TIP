@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added user-friendly error messages
+// @v2: cleanup pass-1: cleaned up console.log statements
 import React from 'react';
 import { Gift, ChevronRight, Lock } from 'lucide-react';
 

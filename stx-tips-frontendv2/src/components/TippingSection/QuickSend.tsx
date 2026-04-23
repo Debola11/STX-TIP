@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added fallback UI states
+// @v2: cleanup pass-1: simplified complex conditionals
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';

@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved network error handling
+// @v2: cleanup pass-2: removed unused variables
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 

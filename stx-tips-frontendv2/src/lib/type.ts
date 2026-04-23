@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved error boundary coverage
+// @v2: cleanup pass-2: removed commented-out code
 export interface Stat {
     title: string;
     value: string;

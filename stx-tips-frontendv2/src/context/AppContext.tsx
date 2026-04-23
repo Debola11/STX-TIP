@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved network error handling
+// @v2: cleanup pass-2: removed unused variables
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType

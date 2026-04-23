@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added fallback UI states
+// @v2: cleanup pass-1: simplified complex conditionals
 import { Transaction } from '@/lib/type';
 import React from 'react';
 

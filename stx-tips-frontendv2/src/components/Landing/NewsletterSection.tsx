@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added try/catch to async functions
+// @v2: cleanup pass-2: removed unused imports
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';

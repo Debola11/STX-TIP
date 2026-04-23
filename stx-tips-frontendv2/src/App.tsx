@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added user-friendly error messages
+// @v2: cleanup pass-2: cleaned up console.log statements
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';

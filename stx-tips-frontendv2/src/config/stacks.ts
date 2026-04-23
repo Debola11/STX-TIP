@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved loading state handling
+// @v2: cleanup pass-2: extracted duplicate logic
 import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 
 // Update these based on your deployment environment

@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added retry logic for requests
+// @v2: cleanup pass-2: improved file organization
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';

@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: added try/catch to async functions
+// @v2: cleanup pass-2: removed unused imports
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {

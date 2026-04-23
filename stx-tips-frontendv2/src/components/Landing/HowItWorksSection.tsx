@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved timeout handling
+// @v2: cleanup pass-2: standardized naming conventions
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 

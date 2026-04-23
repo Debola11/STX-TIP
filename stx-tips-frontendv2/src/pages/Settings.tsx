@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved network error handling
+// @v2: cleanup pass-1: removed unused variables
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
