@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated network configuration
+// @v2: error-handling pass-1: added try/catch to async functions
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
