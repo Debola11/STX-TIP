@@ -1,4 +1,4 @@
-// @v2: release pass-1: bumped version for release
+// @v2: release pass-2: cleaned up dev artifacts
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"
