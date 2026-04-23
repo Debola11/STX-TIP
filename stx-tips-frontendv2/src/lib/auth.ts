@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised timeout values
+// @v2: constants pass-2: updated pagination defaults
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
