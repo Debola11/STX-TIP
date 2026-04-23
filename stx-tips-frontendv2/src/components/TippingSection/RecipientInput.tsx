@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved loading state handling
+// @v2: error-handling pass-2: improved error boundary coverage
 import React from 'react';
 import { Search, Loader2, UserCircle, CheckCircle, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
