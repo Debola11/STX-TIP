@@ -1,4 +1,4 @@
-// @v2: error-handling pass-2: improved network error handling
+// @v2: cleanup pass-1: standardized naming conventions
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { motion } from 'framer-motion';
