@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved keyboard navigation
+// @v2: constants pass-1: revised retry logic constants
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
