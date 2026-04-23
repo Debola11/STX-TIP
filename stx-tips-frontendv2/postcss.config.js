@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: improved file organization
+// @v2: release pass-1: finalized README documentation
 export default {
   plugins: {
     tailwindcss: {},
