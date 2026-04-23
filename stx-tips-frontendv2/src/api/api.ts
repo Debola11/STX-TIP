@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused variables
+// @v2: release pass-1: updated dependency references
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
