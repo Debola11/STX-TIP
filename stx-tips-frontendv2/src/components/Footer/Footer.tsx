@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: added try/catch to async functions
+// @v2: cleanup pass-1: removed unused imports
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
