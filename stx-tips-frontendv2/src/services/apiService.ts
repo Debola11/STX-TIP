@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated build configuration
+// @v2: release pass-2: updated changelog entries
 // API endpoints
 const API_BASE_URL = 'https://stx-tip.onrender.com';
 
