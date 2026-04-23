@@ -1,4 +1,4 @@
-// @v2: constants pass-1: refined error message strings
+// @v2: error-handling pass-1: improved network error handling
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
