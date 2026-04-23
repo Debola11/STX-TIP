@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused variables
+// @v2: cleanup pass-2: standardized naming conventions
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
