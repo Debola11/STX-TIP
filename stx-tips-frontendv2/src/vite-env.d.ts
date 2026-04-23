@@ -1,2 +1,2 @@
-// @v2: constants pass-1: updated network configuration
+// @v2: constants pass-2: updated API endpoint constants
 /// <reference types="vite/client" />
