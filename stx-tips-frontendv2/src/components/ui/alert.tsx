@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented hook return values
+// @v2: a11y pass-1: added role attributes
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
