@@ -1,4 +1,4 @@
-// @v2: release pass-1: finalized README documentation
+// @v2: release pass-2: prepared release notes
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
