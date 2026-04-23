@@ -1,2 +1,2 @@
-// @v2: a11y pass-2: added ARIA labels to interactive elements
+// @v2: constants pass-1: updated network configuration
 /// <reference types="vite/client" />
