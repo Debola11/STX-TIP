@@ -1,4 +1,4 @@
-// @v2: docs pass-1: documented side effects
+// @v2: a11y pass-1: added role attributes
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';
