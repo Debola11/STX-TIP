@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added skip navigation links
+// @v2: a11y pass-2: improved keyboard navigation
 export interface Stat {
     title: string;
     value: string;
