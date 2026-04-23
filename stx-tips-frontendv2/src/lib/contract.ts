@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: added role attributes
+// @v2: constants pass-1: refined error message strings
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
