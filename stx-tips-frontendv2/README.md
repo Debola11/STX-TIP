@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: constants pass-2: revised retry logic constants -->
+<!-- @v2: error-handling pass-1: added try/catch to async functions -->
