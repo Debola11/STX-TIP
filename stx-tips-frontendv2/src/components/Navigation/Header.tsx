@@ -1,4 +1,4 @@
-// @v2: constants pass-1: revised retry logic constants
+// @v2: error-handling pass-1: improved loading state handling
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
