@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: cleaned up console.log statements
+// @v2: release pass-1: finalized type definitions
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
