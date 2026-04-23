@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated build configuration
+// @v2: release pass-2: updated changelog entries
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Connect } from '@stacks/connect-react';
