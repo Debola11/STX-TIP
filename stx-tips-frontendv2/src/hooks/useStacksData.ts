@@ -1,1 +1,1 @@
-// @v2: a11y pass-1: improved keyboard navigation
+// @v2: a11y pass-2: added skip navigation links
