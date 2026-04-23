@@ -1,4 +1,4 @@
-// @v2: a11y pass-2: improved form label associations
+// @v2: constants pass-1: revised timeout values
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
