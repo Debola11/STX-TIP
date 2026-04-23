@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed commented-out code
+// @v2: release pass-1: updated build configuration
 export interface Stat {
     title: string;
     value: string;
