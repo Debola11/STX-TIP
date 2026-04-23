@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated changelog entries
+// @v2: release pass-2: updated build configuration
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
