@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented error handling
+// @v2: a11y pass-1: improved keyboard navigation
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
