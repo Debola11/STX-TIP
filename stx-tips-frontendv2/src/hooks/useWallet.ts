@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented side effects
+// @v2: a11y pass-1: added focus-visible styles
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
