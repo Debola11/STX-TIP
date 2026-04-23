@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated pagination defaults
+// @v2: error-handling pass-1: added user-friendly error messages
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
