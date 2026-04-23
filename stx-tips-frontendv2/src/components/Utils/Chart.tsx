@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed commented-out code
+// @v2: release pass-1: updated changelog entries
 import { ChartData } from '@/lib/type';
 import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
