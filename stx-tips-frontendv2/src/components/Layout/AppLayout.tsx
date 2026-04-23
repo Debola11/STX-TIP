@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: added role attributes
+// @v2: constants pass-1: revised cache TTL values
 import React from 'react';
 import { useAppContext } from '../../context/AppContext';
 import { Sidebar } from '../Navigation/Sidebar';
