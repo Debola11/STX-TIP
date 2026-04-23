@@ -1,4 +1,4 @@
-// @v2: a11y pass-1: improved keyboard navigation
+// @v2: a11y pass-2: improved form label associations
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
