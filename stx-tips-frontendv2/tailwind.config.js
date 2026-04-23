@@ -1,4 +1,4 @@
-// @v2: constants pass-1: refined error message strings
+// @v2: constants pass-2: revised cache TTL values
 /** @type {import('tailwindcss').Config} */
 export default {
     darkMode: ["class"],
