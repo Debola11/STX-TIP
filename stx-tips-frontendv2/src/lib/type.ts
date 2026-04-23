@@ -1,4 +1,4 @@
-// @v2: release pass-1: updated build configuration
+// @v2: release pass-2: updated changelog entries
 export interface Stat {
     title: string;
     value: string;
