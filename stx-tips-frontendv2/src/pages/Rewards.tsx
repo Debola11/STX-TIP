@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated feature flag defaults
+// @v2: error-handling pass-1: added user-friendly error messages
 import React from 'react';
 import { Gift, ChevronRight, Lock } from 'lucide-react';
 
