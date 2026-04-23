@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented component props
+// @v2: a11y pass-1: added skip navigation links
 export interface Stat {
     title: string;
     value: string;
