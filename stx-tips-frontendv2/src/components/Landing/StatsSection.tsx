@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: removed commented-out code
+// @v2: release pass-1: cleaned up dev artifacts
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
