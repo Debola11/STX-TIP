@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: cleanup pass-1: removed unused imports -->
+<!-- @v2: cleanup pass-2: extracted duplicate logic -->
