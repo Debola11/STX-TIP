@@ -1,4 +1,4 @@
-// @v2: cleanup pass-2: extracted duplicate logic
+// @v2: release pass-1: updated changelog entries
 import { useState } from 'react';
 import { ChevronDown, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
