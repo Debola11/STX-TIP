@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: release pass-1: bumped version for release -->
+<!-- @v2: release pass-2: updated build configuration -->
