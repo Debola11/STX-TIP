@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added JSDoc to exported functions
+// @v2: a11y pass-2: added ARIA labels to interactive elements
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
