@@ -1,4 +1,4 @@
-// @v2: error-handling pass-1: improved loading state handling
+// @v2: cleanup pass-1: extracted duplicate logic
 import React, { useContext, useEffect, useState } from 'react';
 import { Bell, Menu, Home, Layout, LogOutIcon, WalletIcon } from 'lucide-react';
 import { useAppContext } from '@/context/AppContext';
