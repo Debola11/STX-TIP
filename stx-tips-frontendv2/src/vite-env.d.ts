@@ -1,2 +1,2 @@
-// @v2: cleanup pass-1: simplified complex conditionals
+// @v2: cleanup pass-2: removed unused imports
 /// <reference types="vite/client" />
