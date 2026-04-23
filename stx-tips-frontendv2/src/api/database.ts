@@ -1,4 +1,4 @@
-// @v2: constants pass-1: updated network configuration
+// @v2: constants pass-2: updated API endpoint constants
 import { UserWalletData } from "@/lib/type";
 
 // const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.yourbackend.com';
