@@ -1,4 +1,4 @@
-// @v2: constants pass-2: updated network configuration
+// @v2: error-handling pass-1: added try/catch to async functions
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
