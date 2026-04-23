@@ -1,4 +1,4 @@
-// @v2: cleanup pass-1: removed unused imports
+// @v2: cleanup pass-2: simplified complex conditionals
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
