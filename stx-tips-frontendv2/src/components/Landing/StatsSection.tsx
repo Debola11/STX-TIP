@@ -1,4 +1,3 @@
-// @v2: style: improve stats display
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
