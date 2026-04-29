@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: docs: add project overview -->
+<!-- @v2: docs: add setup instructions -->
