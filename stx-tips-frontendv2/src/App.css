@@ -1,4 +1,4 @@
-/* @v2: perf pass-2: reduced unnecessary re-renders */
+/* @v2: perf pass-1: reduced component tree depth */
 #root {
   max-width: 1280px;
   margin: 0 auto;
