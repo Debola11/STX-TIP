@@ -1,4 +1,3 @@
-// @v2: docs: document contract helpers
 import { openContractCall } from '@stacks/connect';
 // import { StacksTestnet } from '@stacks/network';
 import { 
