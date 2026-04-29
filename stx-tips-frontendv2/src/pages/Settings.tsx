@@ -1,3 +1,4 @@
+// @v2: style: update Settings styles
 import React, { useState } from 'react';
 import { Bell, Shield, Wallet, Globe } from 'lucide-react';
 
