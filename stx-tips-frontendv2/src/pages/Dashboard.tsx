@@ -1,4 +1,3 @@
-// @v2: style: improve Dashboard layout
 import
   {
     Wallet,
