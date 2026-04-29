@@ -1,4 +1,3 @@
-// @v2: chore: update network config
 import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 
 // Update these based on your deployment environment
