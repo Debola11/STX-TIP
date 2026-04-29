@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added stricter null checks
+// @v2: type-safety pass-1: improved type inference
 import * as React from "react"
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
 
