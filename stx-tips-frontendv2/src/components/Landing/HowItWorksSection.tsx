@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: added missing type exports
+// @v2: type-safety pass-1: refined union type definitions
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
