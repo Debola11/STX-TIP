@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: cleaned up redundant class names
+// @v2: ui-polish pass-1: improved flex and grid layouts
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
