@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: refined union type definitions
+// @v2: type-safety pass-1: added missing type exports
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 
