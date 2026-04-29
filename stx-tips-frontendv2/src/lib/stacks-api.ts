@@ -1,4 +1,4 @@
-// @v2: perf pass-2: added React.memo for expensive renders
+// @v2: perf pass-1: lazy loaded heavy components
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
