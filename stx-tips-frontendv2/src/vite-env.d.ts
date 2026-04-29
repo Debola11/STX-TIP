@@ -1,2 +1,2 @@
-// @v2: perf pass-2: added React.memo for expensive renders
+// @v2: perf pass-1: lazy loaded heavy components
 /// <reference types="vite/client" />
