@@ -1,3 +1,4 @@
+// @v2: refactor: improve type exports
 export interface Stat {
     title: string;
     value: string;
