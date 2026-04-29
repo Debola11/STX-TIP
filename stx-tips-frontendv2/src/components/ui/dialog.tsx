@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved useMemo usage
+// @v2: perf pass-2: improved data fetching patterns
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
