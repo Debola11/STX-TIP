@@ -1,4 +1,4 @@
-// @v2: perf pass-2: improved data fetching patterns
+// @v2: perf pass-1: improved useMemo usage
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
