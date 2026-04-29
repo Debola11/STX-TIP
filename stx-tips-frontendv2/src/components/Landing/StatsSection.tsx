@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: standardized spacing scale
+// @v2: ui-polish pass-2: refined responsive breakpoints
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
