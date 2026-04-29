@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: type-safety pass-1: added stricter null checks
 import { useContext, useEffect, useState } from 'react';
 import { ArrowRight, Sparkles, Users, Shield, Zap } from 'lucide-react';
 import { toast } from 'react-hot-toast';
