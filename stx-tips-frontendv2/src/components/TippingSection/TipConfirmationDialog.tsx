@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: cleaned up redundant class names
+// @v2: ui-polish pass-2: improved flex and grid layouts
 // import React from 'react';
 // import {
 //   AlertDialog,
