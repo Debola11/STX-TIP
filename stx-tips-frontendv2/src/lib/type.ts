@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: refined responsive breakpoints
+// @v2: ui-polish pass-1: optimized mobile-first styles
 export interface Stat {
     title: string;
     value: string;
