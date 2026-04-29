@@ -1,4 +1,3 @@
-// @v2: docs: document context API
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
