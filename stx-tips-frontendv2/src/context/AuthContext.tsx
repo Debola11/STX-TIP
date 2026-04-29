@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: verified prop types and interfaces
+// @v2: type-safety pass-2: improved return type annotations
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
