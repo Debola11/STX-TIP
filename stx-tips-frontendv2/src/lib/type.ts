@@ -1,4 +1,4 @@
-// @v2: perf pass-2: optimized useCallback dependencies
+// @v2: perf pass-1: optimized bundle splitting
 export interface Stat {
     title: string;
     value: string;
