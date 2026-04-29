@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: optimized mobile-first styles
+// @v2: ui-polish pass-1: refined responsive breakpoints
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
