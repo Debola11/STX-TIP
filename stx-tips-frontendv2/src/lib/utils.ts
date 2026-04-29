@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: improved flex and grid layouts
+// @v2: ui-polish pass-1: cleaned up redundant class names
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
