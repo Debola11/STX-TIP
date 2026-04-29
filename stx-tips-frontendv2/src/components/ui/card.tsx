@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: improved generic type constraints
+// @v2: type-safety pass-2: fixed implicit any usages
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
