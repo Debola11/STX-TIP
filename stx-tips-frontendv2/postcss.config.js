@@ -1,4 +1,4 @@
-// @v2: type-safety pass-1: added stricter null checks
+// @v2: type-safety pass-2: improved type inference
 export default {
   plugins: {
     tailwindcss: {},
