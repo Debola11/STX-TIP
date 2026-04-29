@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-1: improved flex and grid layouts
+// @v2: ui-polish pass-2: improved dark mode compatibility
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
 // import { APP_CONFIG } from '@/lib/constants';
