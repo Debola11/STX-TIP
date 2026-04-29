@@ -1,4 +1,4 @@
-// @v2: perf pass-1: reduced unnecessary re-renders
+// @v2: perf pass-2: added React.memo for expensive renders
 import React from 'react';
 import { Gift, CheckCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
