@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved generic type constraints
+// @v2: type-safety pass-1: improved return type annotations
 import { motion } from 'framer-motion';
 import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 
