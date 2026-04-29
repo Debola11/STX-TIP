@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: type-safety pass-2: fixed implicit any usages -->
+<!-- @v2: type-safety pass-1: verified prop types and interfaces -->
