@@ -1,1 +1,1 @@
-// @v2: type-safety pass-2: fixed implicit any usages
+// @v2: type-safety pass-1: improved generic type constraints
