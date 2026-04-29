@@ -1,4 +1,4 @@
-// @v2: perf pass-2: improved useMemo usage
+// @v2: perf pass-1: improved data fetching patterns
 import React from 'react';
 import { AppProvider } from './context/AppContext';
 import { AppLayout } from './components/Layout/AppLayout';
