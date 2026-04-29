@@ -1,4 +1,4 @@
-// @v2: perf pass-1: improved data fetching patterns
+// @v2: perf pass-2: improved useMemo usage
 // import React from 'react';
 // import {
 //   AlertDialog,
