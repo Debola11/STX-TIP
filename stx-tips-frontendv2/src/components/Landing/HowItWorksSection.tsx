@@ -1,4 +1,4 @@
-// @v2: perf pass-2: reduced component tree depth
+// @v2: perf pass-1: reduced unnecessary re-renders
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
