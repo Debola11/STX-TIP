@@ -1,4 +1,4 @@
-// @v2: perf pass-2: lazy loaded heavy components
+// @v2: perf pass-1: added React.memo for expensive renders
 export const containerVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
