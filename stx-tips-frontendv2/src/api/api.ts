@@ -1,4 +1,3 @@
-// @v2: docs: document API client
 import { NETWORK_CONFIG } from "@/lib/constants";
 
 export const fetchUserBalance = async (userAddress: string) => {
