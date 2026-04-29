@@ -1,4 +1,3 @@
-// @v2: style: update footer styles
 // import React from 'react';
 // import { ExternalLink, Github } from 'lucide-react';
 
