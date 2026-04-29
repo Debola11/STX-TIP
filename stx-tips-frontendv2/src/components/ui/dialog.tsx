@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: type-safety pass-1: added stricter null checks
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
