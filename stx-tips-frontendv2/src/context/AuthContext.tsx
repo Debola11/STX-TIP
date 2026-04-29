@@ -1,4 +1,3 @@
-// @v2: docs: document auth flow
 // import { createContext, useEffect, useReducer } from "react";
 
 // const initialState = {
