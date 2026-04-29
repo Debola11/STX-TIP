@@ -1,4 +1,4 @@
-// @v2: type-safety pass-2: improved type inference
+// @v2: type-safety pass-1: improved generic type constraints
 import { AppConfig, UserSession, showConnect } from "@stacks/connect";
 
 export const appConfig = new AppConfig(["store_write", "publish_data"]);
