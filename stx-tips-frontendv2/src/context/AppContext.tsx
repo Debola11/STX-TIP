@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: updated color token references
+// @v2: ui-polish pass-1: improved dark mode compatibility
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
