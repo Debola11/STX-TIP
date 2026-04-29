@@ -1,4 +1,4 @@
-// @v2: ui-polish pass-2: reviewed padding and margin values
+// @v2: ui-polish pass-1: standardized spacing scale
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
