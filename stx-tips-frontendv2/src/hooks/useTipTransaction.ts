@@ -1,4 +1,3 @@
-// @v2: docs: document transaction hook
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
 import { AnchorMode, PostConditionMode } from '@stacks/transactions';
