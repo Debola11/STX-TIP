@@ -1,1 +1,1 @@
-// @v2: ui-polish pass-1: refined responsive breakpoints
+// @v2: ui-polish pass-2: optimized mobile-first styles
