@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: performance pass-1: added response caching headers
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
