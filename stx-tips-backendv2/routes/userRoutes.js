@@ -1,3 +1,4 @@
+// @backend: docs: document user endpoints
 import express from "express";
 import
 {
