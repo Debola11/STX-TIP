@@ -1,4 +1,4 @@
-// @backend: cleanup pass-6: removed dead code paths
+// @backend: cleanup pass-7: improved file organization
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
