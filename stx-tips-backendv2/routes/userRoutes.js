@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: cleanup pass-1: removed redundant null checks
 import express from "express";
 import
 {
