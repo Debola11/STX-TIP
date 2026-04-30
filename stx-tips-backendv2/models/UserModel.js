@@ -1,4 +1,4 @@
-// @backend: documentation pass-6: documented error response format
+// @backend: documentation pass-7: added JSDoc to exported functions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
