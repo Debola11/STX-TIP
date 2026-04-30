@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: finalized security headers
+// @backend: release-prep pass-4: updated environment docs
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
