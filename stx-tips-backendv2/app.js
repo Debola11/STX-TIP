@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: updated logging format
+// @backend: maintenance pass-6: updated dependency references
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
