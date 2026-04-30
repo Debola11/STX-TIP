@@ -1,4 +1,4 @@
-// @backend: validation pass-4: improved query parameter parsing
+// @backend: validation pass-5: added duplicate request guard
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
