@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: validation pass-1: improved query parameter parsing
 import express from "express";
 import
 {
