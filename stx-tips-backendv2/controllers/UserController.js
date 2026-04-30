@@ -1,4 +1,4 @@
-// @backend: code-quality pass-1: standardized return patterns
+// @backend: code-quality pass-3: reduced code duplication
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
