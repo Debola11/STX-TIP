@@ -1,4 +1,4 @@
-// @backend: performance pass-2: improved JSON serialization
+// @backend: performance pass-3: added query result pagination
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
