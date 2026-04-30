@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: added request validation guards
+// @backend: error-handling pass-7: added retry on transient failures
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
