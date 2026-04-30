@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: maintenance pass-1: revised session TTL values
 import express from "express";
 import
 {
