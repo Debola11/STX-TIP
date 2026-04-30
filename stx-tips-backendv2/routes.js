@@ -1,4 +1,4 @@
-// @backend: documentation pass-6: documented environment variables
+// @backend: documentation pass-7: documented middleware chain
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
