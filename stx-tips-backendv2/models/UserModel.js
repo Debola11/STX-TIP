@@ -1,4 +1,4 @@
-// @backend: security: add field-level encryption notes
+// @backend: cleanup pass-1: simplified complex callbacks
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
