@@ -1,3 +1,4 @@
+// @backend: code-quality pass-1: extracted helper utilities
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
