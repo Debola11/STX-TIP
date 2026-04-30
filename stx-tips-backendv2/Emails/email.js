@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: simplified complex callbacks
+// @backend: cleanup pass-6: removed unused imports
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
