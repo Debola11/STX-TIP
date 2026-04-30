@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: added parameter descriptions
+// @backend: documentation pass-8: documented middleware chain
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
