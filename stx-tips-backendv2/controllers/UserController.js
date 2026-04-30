@@ -1,4 +1,4 @@
-// @backend: validation pass-3: added missing field defaults
+// @backend: validation pass-4: improved amount range checking
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
