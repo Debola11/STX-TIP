@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: revised session TTL values
+// @backend: maintenance pass-3: revised timeout constants
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
