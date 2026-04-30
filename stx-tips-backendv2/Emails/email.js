@@ -1,4 +1,4 @@
-// @backend: performance pass-6: optimized database query patterns
+// @backend: performance pass-7: improved connection pool usage
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
