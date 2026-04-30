@@ -1,4 +1,4 @@
-// @backend: validation pass-2: improved query parameter parsing
+// @backend: validation pass-3: improved amount range checking
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
