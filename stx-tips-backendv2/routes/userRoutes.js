@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: consistency pass-1: improved comment formatting
 import express from "express";
 import
 {
