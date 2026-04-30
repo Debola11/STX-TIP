@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: consistency pass-1: standardized import ordering
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
