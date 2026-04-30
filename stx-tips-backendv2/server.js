@@ -1,4 +1,4 @@
-// @backend: performance pass-5: reduced middleware overhead
+// @backend: performance pass-6: added query result pagination
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
