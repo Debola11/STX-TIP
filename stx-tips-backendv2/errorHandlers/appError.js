@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: performance pass-1: improved JSON serialization
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
