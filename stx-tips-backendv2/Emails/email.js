@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: reduced code duplication
+// @backend: code-quality pass-3: simplified conditional logic
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
