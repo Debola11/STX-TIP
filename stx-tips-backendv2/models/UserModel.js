@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: standardized import ordering
+// @backend: consistency pass-6: standardized log message format
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
