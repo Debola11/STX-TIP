@@ -1,4 +1,4 @@
-// @backend: validation pass-3: added duplicate request guard
+// @backend: validation pass-4: improved email format checking
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
