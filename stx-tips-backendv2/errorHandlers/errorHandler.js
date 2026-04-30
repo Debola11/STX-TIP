@@ -1,4 +1,4 @@
-// @backend: fix: handle duplicate key errors
+// @backend: perf: reduce error serialization overhead
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
