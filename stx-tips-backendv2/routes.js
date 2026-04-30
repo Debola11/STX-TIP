@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: documented API response shape
+// @backend: documentation pass-4: added parameter descriptions
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
