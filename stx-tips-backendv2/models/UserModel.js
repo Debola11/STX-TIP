@@ -1,4 +1,4 @@
-// @backend: validation pass-3: improved field type coercion
+// @backend: validation pass-4: added address format validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
