@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: improved module boundaries
+// @backend: code-quality pass-7: improved error propagation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
