@@ -1,4 +1,4 @@
-// @backend: perf: add lean query support
+// @backend: style: consistent field naming
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
