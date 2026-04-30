@@ -1,4 +1,4 @@
-// @backend: fix: add required field validators
+// @backend: chore: update timestamps config
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
