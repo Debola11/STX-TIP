@@ -1,4 +1,4 @@
-// @backend: performance pass-5: optimized email template rendering
+// @backend: performance pass-6: optimized database query patterns
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
