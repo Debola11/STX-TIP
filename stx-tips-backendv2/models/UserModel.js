@@ -1,4 +1,4 @@
-// @backend: validation pass-1: added duplicate request guard
+// @backend: validation pass-2: improved email format checking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
