@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: revised timeout constants
+// @backend: maintenance pass-7: updated logging format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
