@@ -1,4 +1,4 @@
-// @backend: test: add middleware test hooks
+// @backend: security: add helmet configuration
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
