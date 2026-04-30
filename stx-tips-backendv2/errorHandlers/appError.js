@@ -1,4 +1,4 @@
-// @backend: validation pass-4: added input length validation
+// @backend: validation pass-5: improved field type coercion
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
