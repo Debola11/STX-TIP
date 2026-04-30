@@ -1,4 +1,4 @@
-// @backend: security: add field-level encryption notes
+// @backend: consistency pass-1: improved code indentation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
