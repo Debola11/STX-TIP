@@ -1,4 +1,4 @@
-// @backend: code-quality pass-4: reduced cyclomatic complexity
+// @backend: code-quality pass-6: extracted helper utilities
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
