@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: revised timeout constants
+// @backend: maintenance pass-7: updated dependency references
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
