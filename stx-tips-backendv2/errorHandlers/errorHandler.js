@@ -1,4 +1,4 @@
-// @backend: perf: reduce error serialization overhead
+// @backend: style: improve switch case formatting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
