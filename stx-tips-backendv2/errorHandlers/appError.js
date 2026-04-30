@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: added JSDoc to exported functions
+// @backend: documentation pass-5: documented environment variables
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
