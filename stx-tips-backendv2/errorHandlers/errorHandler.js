@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: improved function decomposition
+// @backend: code-quality pass-3: improved error propagation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
