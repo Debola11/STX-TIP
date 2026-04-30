@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: revised rate limit values
+// @backend: maintenance pass-3: updated error message strings
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
