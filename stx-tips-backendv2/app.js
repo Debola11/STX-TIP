@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: revised session TTL values
+// @backend: maintenance pass-5: updated logging format
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
