@@ -1,4 +1,4 @@
-// @backend: test: add handler test scenarios
+// @backend: security: sanitize error stack in prod
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
