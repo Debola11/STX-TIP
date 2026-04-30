@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: added try/catch to async handlers
+// @backend: error-handling pass-7: fixed unhandled promise rejections
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
