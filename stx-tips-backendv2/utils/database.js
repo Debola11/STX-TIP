@@ -1,4 +1,4 @@
-// @backend: cleanup pass-3: cleaned up debug statements
+// @backend: cleanup pass-4: improved file organization
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
