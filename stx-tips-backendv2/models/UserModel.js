@@ -1,4 +1,4 @@
-// @backend: validation pass-4: added address format validation
+// @backend: validation pass-5: added missing field defaults
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
