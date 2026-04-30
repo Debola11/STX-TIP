@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: release-prep pass-1: updated version references
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
