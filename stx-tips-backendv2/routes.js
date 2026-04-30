@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: standardized return patterns
+// @backend: code-quality pass-7: reduced cyclomatic complexity
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
