@@ -1,4 +1,4 @@
-// @backend: cleanup pass-4: improved file organization
+// @backend: cleanup pass-5: removed deprecated methods
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
