@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: standardized variable naming
+// @backend: consistency pass-2: consistent async/await usage
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
