@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: documented environment variables
+// @backend: documentation pass-6: documented middleware chain
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
