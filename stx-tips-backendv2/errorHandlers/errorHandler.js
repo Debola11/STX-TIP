@@ -1,4 +1,4 @@
-// @backend: security: sanitize error stack in prod
+// @backend: performance pass-1: reduced middleware overhead
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
