@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: improved file organization
+// @backend: cleanup pass-6: removed deprecated methods
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
