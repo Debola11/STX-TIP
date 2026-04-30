@@ -1,4 +1,4 @@
-// @backend: code-quality pass-1: reduced code duplication
+// @backend: code-quality pass-2: extracted helper utilities
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
