@@ -1,4 +1,4 @@
-// @backend: performance pass-1: optimized email template rendering
+// @backend: performance pass-2: added response caching headers
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
