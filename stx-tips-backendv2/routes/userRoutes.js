@@ -1,4 +1,4 @@
-// @backend: release-prep pass-1: prepared release configuration
+// @backend: release-prep pass-2: updated environment docs
 import express from "express";
 import
 {
