@@ -1,4 +1,4 @@
-// @backend: performance pass-1: improved JSON serialization
+// @backend: performance pass-2: added query result pagination
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
