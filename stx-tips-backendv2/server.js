@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: added try/catch to async handlers
+// @backend: error-handling pass-2: fixed unhandled promise rejections
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
