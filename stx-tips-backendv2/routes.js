@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: fixed unhandled promise rejections
+// @backend: error-handling pass-7: improved validation error messages
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
