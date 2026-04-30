@@ -1,4 +1,4 @@
-// @backend: security: add input sanitization
+// @backend: ci: add monitoring annotations
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
