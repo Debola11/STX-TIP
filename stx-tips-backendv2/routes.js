@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: updated error message strings
+// @backend: maintenance pass-3: revised session TTL values
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
