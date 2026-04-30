@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: error-handling pass-1: added graceful degradation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
