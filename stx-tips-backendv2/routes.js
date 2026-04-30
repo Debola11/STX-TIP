@@ -1,4 +1,4 @@
-// @backend: validation pass-2: added address format validation
+// @backend: validation pass-3: improved query parameter parsing
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
