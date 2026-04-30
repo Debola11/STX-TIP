@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: performance pass-1: reduced memory allocations
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
