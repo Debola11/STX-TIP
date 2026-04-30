@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: added usage examples in comments
+// @backend: documentation pass-5: added module-level docs
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
