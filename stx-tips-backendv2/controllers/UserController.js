@@ -1,4 +1,4 @@
-// @backend: docs: document controller methods
+// @backend: refactor: extract validation logic
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
