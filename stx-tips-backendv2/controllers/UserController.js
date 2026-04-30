@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: maintenance pass-1: revised rate limit values
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
