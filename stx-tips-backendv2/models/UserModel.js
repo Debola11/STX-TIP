@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: consistent error object shape
+// @backend: consistency pass-5: standardized import ordering
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
