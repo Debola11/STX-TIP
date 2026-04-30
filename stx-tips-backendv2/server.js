@@ -1,4 +1,4 @@
-// @backend: code-quality pass-3: extracted helper utilities
+// @backend: code-quality pass-4: reduced code duplication
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
