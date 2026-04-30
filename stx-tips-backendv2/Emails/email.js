@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: improved validation error messages
+// @backend: error-handling pass-2: improved error status codes
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
