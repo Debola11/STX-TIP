@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: added try/catch to async handlers
+// @backend: error-handling pass-3: added retry on transient failures
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
