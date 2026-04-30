@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: release-prep pass-2: updated deployment notes
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
