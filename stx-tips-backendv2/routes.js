@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: prepared release configuration
+// @backend: release-prep pass-4: finalized API response format
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
