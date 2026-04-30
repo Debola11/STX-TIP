@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: added parameter descriptions
+// @backend: documentation pass-2: documented middleware chain
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
