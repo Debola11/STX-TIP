@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: cleaned up dev artifacts
+// @backend: release-prep pass-4: finalized security headers
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
