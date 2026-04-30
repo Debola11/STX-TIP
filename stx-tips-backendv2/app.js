@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: updated CORS allowed origins
+// @backend: maintenance pass-4: revised session TTL values
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
