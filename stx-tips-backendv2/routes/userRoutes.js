@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: revised timeout constants
+// @backend: maintenance pass-3: updated dependency references
 import express from "express";
 import
 {
