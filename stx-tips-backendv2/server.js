@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: added usage examples in comments
+// @backend: documentation pass-4: added module-level docs
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
