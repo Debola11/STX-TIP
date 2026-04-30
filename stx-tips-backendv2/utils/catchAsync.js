@@ -1,4 +1,4 @@
-// @backend: code-quality pass-3: reduced cyclomatic complexity
+// @backend: code-quality pass-4: standardized return patterns
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
