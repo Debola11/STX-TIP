@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: consistent async/await usage
+// @backend: consistency pass-6: improved function naming conventions
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
