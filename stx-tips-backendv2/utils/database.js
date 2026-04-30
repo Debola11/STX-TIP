@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: cleanup pass-2: extracted magic numbers to constants
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
