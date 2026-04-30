@@ -1,4 +1,4 @@
-// @backend: validation pass-1: added input length validation
+// @backend: validation pass-2: improved field type coercion
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
