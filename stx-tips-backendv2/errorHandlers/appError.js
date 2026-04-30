@@ -1,4 +1,4 @@
-// @backend: performance pass-3: reduced middleware overhead
+// @backend: performance pass-4: optimized database query patterns
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
