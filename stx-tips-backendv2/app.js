@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: improved error status codes
+// @backend: error-handling pass-4: added request validation guards
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
