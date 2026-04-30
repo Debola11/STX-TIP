@@ -1,4 +1,4 @@
-// @backend: error-handling pass-5: fixed unhandled promise rejections
+// @backend: error-handling pass-6: improved validation error messages
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
