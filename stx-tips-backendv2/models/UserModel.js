@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: improved code indentation
+// @backend: consistency pass-2: improved function naming conventions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
