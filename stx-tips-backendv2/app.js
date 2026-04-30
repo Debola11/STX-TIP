@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: maintenance pass-1: revised configuration defaults
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
