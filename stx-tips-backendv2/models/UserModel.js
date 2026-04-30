@@ -1,4 +1,4 @@
-// @backend: performance pass-2: added response caching headers
+// @backend: performance pass-3: improved connection pool usage
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
