@@ -1,4 +1,4 @@
-// @backend: release-prep pass-4: prepared release configuration
+// @backend: release-prep pass-5: finalized API response format
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
