@@ -1,4 +1,4 @@
-// @backend: cleanup pass-4: improved file organization
+// @backend: cleanup pass-5: removed deprecated methods
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
