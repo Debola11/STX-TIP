@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: documented error response format
+// @backend: documentation pass-3: added JSDoc to exported functions
 import express from "express";
 import
 {
