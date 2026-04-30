@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: added module-level docs
+// @backend: documentation pass-6: documented error response format
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
