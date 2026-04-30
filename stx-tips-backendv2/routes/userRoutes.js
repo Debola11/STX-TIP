@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: improved error status codes
+// @backend: error-handling pass-7: added graceful degradation
 import express from "express";
 import
 {
