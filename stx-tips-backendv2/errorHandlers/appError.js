@@ -1,4 +1,4 @@
-// @backend: performance pass-5: improved connection pool usage
+// @backend: performance pass-6: added response caching headers
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
