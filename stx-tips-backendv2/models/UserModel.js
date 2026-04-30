@@ -1,4 +1,4 @@
-// @backend: performance pass-5: reduced memory allocations
+// @backend: performance pass-6: reduced middleware overhead
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
