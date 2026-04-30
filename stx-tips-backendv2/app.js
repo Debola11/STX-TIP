@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: documentation pass-1: documented middleware chain
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
