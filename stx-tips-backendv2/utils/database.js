@@ -1,4 +1,4 @@
-// @backend: validation pass-3: added address format validation
+// @backend: validation pass-4: added missing field defaults
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
