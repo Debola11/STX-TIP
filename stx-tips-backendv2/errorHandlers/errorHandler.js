@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: documented middleware chain
+// @backend: documentation pass-6: added usage examples in comments
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
