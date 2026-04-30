@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: revised timeout constants
+// @backend: maintenance pass-6: revised session TTL values
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
