@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: updated CORS allowed origins
+// @backend: maintenance pass-5: revised timeout constants
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
