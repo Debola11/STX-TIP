@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: consistency pass-2: consistent async/await usage
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
