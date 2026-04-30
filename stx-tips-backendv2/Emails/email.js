@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: documented middleware chain
+// @backend: documentation pass-2: added module-level docs
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
