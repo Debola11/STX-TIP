@@ -1,4 +1,4 @@
-// @backend: error-handling pass-5: added try/catch to async handlers
+// @backend: error-handling pass-6: fixed unhandled promise rejections
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
