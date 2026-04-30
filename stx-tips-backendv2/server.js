@@ -1,4 +1,4 @@
-// @backend: error-handling pass-3: added graceful degradation
+// @backend: error-handling pass-4: improved error status codes
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
