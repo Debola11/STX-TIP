@@ -1,4 +1,4 @@
-// @backend: code-quality pass-4: reduced code duplication
+// @backend: code-quality pass-5: simplified conditional logic
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
