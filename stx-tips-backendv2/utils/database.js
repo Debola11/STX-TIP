@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: documented environment variables
+// @backend: documentation pass-3: added usage examples in comments
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
