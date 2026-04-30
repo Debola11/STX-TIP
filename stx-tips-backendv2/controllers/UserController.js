@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: consistent async/await usage
+// @backend: consistency pass-3: standardized import ordering
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
