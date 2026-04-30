@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: improved file organization
+// @backend: cleanup pass-2: cleaned up debug statements
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
