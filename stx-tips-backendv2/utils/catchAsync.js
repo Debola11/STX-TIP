@@ -1,4 +1,4 @@
-// @backend: release-prep pass-5: cleaned up dev artifacts
+// @backend: release-prep pass-6: prepared release configuration
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
