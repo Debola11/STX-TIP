@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: improved validation error messages
+// @backend: error-handling pass-6: added graceful degradation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
