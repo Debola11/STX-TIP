@@ -1,4 +1,4 @@
-// @backend: validation pass-5: improved amount range checking
+// @backend: validation pass-6: improved query parameter parsing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
