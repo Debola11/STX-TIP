@@ -1,4 +1,4 @@
-// @backend: release-prep pass-1: cleaned up dev artifacts
+// @backend: release-prep pass-2: prepared release configuration
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
