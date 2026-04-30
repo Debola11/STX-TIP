@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: documented middleware chain
+// @backend: documentation pass-2: added module-level docs
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
