@@ -1,4 +1,4 @@
-// @backend: style: improve variable naming
+// @backend: test: add connection test scenarios
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
