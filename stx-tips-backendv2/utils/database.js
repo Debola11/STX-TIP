@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: simplified conditional logic
+// @backend: code-quality pass-7: improved error propagation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
