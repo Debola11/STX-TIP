@@ -1,4 +1,4 @@
-// @backend: performance pass-3: optimized database query patterns
+// @backend: performance pass-5: added response caching headers
 import express from "express";
 import
 {
