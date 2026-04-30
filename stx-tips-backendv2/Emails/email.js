@@ -1,4 +1,4 @@
-// @backend: code-quality pass-4: improved module boundaries
+// @backend: code-quality pass-5: improved error propagation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
