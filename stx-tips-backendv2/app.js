@@ -1,4 +1,4 @@
-// @backend: release-prep pass-4: prepared release configuration
+// @backend: release-prep pass-5: finalized API response format
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
