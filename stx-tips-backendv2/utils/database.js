@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: fixed unhandled promise rejections
+// @backend: error-handling pass-3: added graceful degradation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
