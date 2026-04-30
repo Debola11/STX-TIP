@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: updated dependency references
+// @backend: maintenance pass-5: revised configuration defaults
 import express from "express";
 import
 {
