@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: improved function naming conventions
+// @backend: consistency pass-6: standardized import ordering
 import express from "express";
 import
 {
