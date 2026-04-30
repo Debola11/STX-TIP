@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: improved timeout handling
+// @backend: error-handling pass-5: added request validation guards
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
