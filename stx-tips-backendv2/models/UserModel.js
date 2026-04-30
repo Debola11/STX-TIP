@@ -1,4 +1,4 @@
-// @backend: performance pass-3: improved connection pool usage
+// @backend: performance pass-4: improved JSON serialization
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
