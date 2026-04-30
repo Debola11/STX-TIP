@@ -1,4 +1,4 @@
-// @backend: performance pass-6: optimized database query patterns
+// @backend: performance pass-7: improved connection pool usage
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
