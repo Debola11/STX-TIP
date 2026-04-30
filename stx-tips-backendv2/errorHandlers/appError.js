@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: reduced cyclomatic complexity
+// @backend: code-quality pass-7: reduced code duplication
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
