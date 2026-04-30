@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: standardized import ordering
+// @backend: consistency pass-4: improved comment formatting
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
