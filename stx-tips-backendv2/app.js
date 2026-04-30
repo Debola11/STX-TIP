@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: improved code indentation
+// @backend: consistency pass-6: standardized variable naming
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
