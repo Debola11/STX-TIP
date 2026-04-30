@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: added module-level docs
+// @backend: documentation pass-4: documented API response shape
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
