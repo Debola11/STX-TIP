@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: updated dependency references
+// @backend: maintenance pass-3: updated logging format
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
