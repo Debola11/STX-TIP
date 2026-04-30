@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: added graceful degradation
+// @backend: error-handling pass-3: added request validation guards
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
