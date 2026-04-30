@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: performance pass-1: added response caching headers
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
