@@ -1,4 +1,4 @@
-// @backend: release-prep pass-5: updated version references
+// @backend: release-prep pass-6: finalized security headers
 import express from "express";
 import
 {
