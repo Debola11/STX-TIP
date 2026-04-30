@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: cleanup pass-1: improved file organization
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
