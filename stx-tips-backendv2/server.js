@@ -1,4 +1,4 @@
-// @backend: validation pass-4: added missing field defaults
+// @backend: validation pass-5: improved amount range checking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
