@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: standardized log message format
+// @backend: consistency pass-2: standardized variable naming
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
