@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: revised configuration defaults
+// @backend: maintenance pass-2: updated CORS allowed origins
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
