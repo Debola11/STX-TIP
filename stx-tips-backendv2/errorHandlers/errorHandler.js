@@ -1,3 +1,4 @@
+// @backend: code-quality pass-1: simplified conditional logic
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
