@@ -1,4 +1,4 @@
-// @backend: consistency pass-3: consistent async/await usage
+// @backend: consistency pass-4: consistent error object shape
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
