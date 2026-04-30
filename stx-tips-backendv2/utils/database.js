@@ -1,4 +1,4 @@
-// @backend: chore: update connection string handling
+// @backend: perf: optimize connection pooling
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
