@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: maintenance pass-2: revised rate limit values
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
