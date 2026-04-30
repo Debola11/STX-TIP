@@ -1,4 +1,4 @@
-// @backend: style: standardize middleware naming
+// @backend: test: add middleware test hooks
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
