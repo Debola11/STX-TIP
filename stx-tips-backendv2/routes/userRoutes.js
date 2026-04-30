@@ -1,4 +1,4 @@
-// @backend: performance pass-5: added response caching headers
+// @backend: performance pass-6: reduced memory allocations
 import express from "express";
 import
 {
