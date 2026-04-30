@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: extracted helper utilities
+// @backend: code-quality pass-3: improved module boundaries
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
