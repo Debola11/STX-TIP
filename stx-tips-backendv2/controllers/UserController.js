@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: documented error response format
+// @backend: documentation pass-5: documented API response shape
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
