@@ -1,4 +1,4 @@
-// @backend: validation pass-1: improved email format checking
+// @backend: validation pass-2: added missing field defaults
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
