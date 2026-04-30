@@ -1,4 +1,4 @@
-// @backend: chore: update port configuration
+// @backend: perf: optimize request parsing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
