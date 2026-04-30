@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: improved module boundaries
+// @backend: code-quality pass-7: simplified conditional logic
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
