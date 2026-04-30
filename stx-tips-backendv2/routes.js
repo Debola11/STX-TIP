@@ -1,4 +1,4 @@
-// @backend: performance pass-1: reduced memory allocations
+// @backend: performance pass-2: improved JSON serialization
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
