@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: updated error message strings
+// @backend: maintenance pass-7: revised session TTL values
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
