@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: documented error response format
+// @backend: documentation pass-7: added parameter descriptions
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
