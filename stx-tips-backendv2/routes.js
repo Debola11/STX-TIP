@@ -1,4 +1,4 @@
-// @backend: validation pass-1: added missing field defaults
+// @backend: validation pass-2: added address format validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
