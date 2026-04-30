@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: cleanup pass-1: cleaned up debug statements
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
