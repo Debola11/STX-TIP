@@ -1,4 +1,4 @@
-// @backend: refactor: add error code mapping
+// @backend: style: consistent error formatting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
