@@ -1,4 +1,4 @@
-// @backend: validation pass-1: improved query parameter parsing
+// @backend: validation pass-2: improved amount range checking
 import express from "express";
 import
 {
