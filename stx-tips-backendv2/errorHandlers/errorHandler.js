@@ -1,4 +1,4 @@
-// @backend: validation pass-1: improved amount range checking
+// @backend: validation pass-2: added input length validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
