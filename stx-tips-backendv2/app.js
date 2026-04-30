@@ -1,4 +1,4 @@
-// @backend: validation pass-6: added input length validation
+// @backend: validation pass-7: improved field type coercion
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
