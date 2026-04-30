@@ -1,4 +1,4 @@
-// @backend: chore: update timestamps config
+// @backend: perf: add lean query support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
