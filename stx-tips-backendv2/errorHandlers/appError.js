@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: validation pass-1: added address format validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
