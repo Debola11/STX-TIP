@@ -1,4 +1,4 @@
-// @backend: ci: add health check endpoint notes
+// @backend: consistency pass-1: standardized variable naming
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
