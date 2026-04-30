@@ -1,4 +1,4 @@
-// @backend: perf: cache compiled templates
+// @backend: style: improve function signatures
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
