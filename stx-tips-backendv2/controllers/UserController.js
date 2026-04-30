@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: removed redundant null checks
+// @backend: cleanup pass-6: simplified complex callbacks
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
