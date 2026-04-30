@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: updated environment docs
+// @backend: release-prep pass-4: prepared release configuration
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
