@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: cleanup pass-1: removed dead code paths
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
