@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: consistency pass-1: improved function naming conventions
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
