@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: standardized import ordering
+// @backend: consistency pass-5: standardized log message format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
