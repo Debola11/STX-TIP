@@ -1,4 +1,4 @@
-// @backend: fix: handle SMTP connection errors
+// @backend: chore: update email transport config
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
