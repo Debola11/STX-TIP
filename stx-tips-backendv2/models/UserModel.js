@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: improved function naming conventions
+// @backend: consistency pass-3: consistent async/await usage
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
