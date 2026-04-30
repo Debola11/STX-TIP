@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: updated logging format
+// @backend: maintenance pass-5: updated dependency references
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
