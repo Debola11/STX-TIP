@@ -1,4 +1,4 @@
-// @backend: validation pass-2: added missing field defaults
+// @backend: validation pass-4: improved query parameter parsing
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
