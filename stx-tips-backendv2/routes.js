@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: validation pass-1: added missing field defaults
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
