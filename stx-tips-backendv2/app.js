@@ -1,4 +1,4 @@
-// @backend: validation pass-1: improved email format checking
+// @backend: validation pass-2: added missing field defaults
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
