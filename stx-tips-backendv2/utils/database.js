@@ -1,4 +1,4 @@
-// @backend: perf: optimize connection pooling
+// @backend: style: improve variable naming
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
