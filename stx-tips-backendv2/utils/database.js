@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: validation pass-2: improved field type coercion
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
