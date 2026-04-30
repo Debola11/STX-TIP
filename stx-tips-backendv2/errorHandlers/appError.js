@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: added request validation guards
+// @backend: error-handling pass-3: improved timeout handling
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
