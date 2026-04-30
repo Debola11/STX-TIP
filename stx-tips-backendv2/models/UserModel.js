@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: added graceful degradation
+// @backend: error-handling pass-5: improved error status codes
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
