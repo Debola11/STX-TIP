@@ -1,3 +1,4 @@
+// @backend: code-quality pass-2: standardized return patterns
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
