@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: updated logging format
+// @backend: maintenance pass-6: updated dependency references
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
