@@ -1,4 +1,4 @@
-// @backend: validation pass-4: improved email format checking
+// @backend: validation pass-6: added address format validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
