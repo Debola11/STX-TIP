@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: documented middleware chain
+// @backend: documentation pass-6: added module-level docs
 import express from "express";
 import
 {
