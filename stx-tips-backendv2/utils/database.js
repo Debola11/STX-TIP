@@ -1,4 +1,4 @@
-// @backend: test: add connection test scenarios
+// @backend: security: add connection encryption
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
