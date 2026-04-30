@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: cleanup pass-1: removed dead code paths
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
