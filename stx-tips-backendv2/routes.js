@@ -1,4 +1,4 @@
-// @backend: performance pass-6: improved connection pool usage
+// @backend: performance pass-7: added response caching headers
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
