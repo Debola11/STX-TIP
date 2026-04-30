@@ -1,4 +1,4 @@
-// @backend: performance pass-2: reduced memory allocations
+// @backend: performance pass-3: reduced middleware overhead
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
