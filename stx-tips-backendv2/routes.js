@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: maintenance pass-1: updated CORS allowed origins
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
