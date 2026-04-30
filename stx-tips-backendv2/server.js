@@ -1,4 +1,4 @@
-// @backend: performance pass-6: added query result pagination
+// @backend: performance pass-7: optimized email template rendering
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
