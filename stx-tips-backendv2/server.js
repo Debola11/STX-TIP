@@ -1,4 +1,4 @@
-// @backend: release-prep pass-6: prepared release configuration
+// @backend: release-prep pass-7: finalized API response format
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
