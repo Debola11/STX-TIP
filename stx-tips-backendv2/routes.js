@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: improved code indentation
+// @backend: consistency pass-5: standardized variable naming
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
