@@ -1,4 +1,4 @@
-// @backend: refactor: improve template rendering
+// @backend: fix: handle SMTP connection errors
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
