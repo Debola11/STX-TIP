@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: added JSDoc to exported functions
+// @backend: documentation pass-5: documented middleware chain
 import express from "express";
 import
 {
