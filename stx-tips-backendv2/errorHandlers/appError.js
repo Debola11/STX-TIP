@@ -1,4 +1,4 @@
-// @backend: error-handling pass-3: improved timeout handling
+// @backend: error-handling pass-4: added try/catch to async handlers
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
