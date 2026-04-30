@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: updated dependency references
+// @backend: maintenance pass-7: revised rate limit values
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
