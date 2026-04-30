@@ -1,4 +1,4 @@
-// @backend: validation pass-6: improved amount range checking
+// @backend: validation pass-7: added input length validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
