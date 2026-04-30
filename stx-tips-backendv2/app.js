@@ -1,4 +1,4 @@
-// @backend: perf: add compression middleware
+// @backend: style: standardize middleware naming
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
