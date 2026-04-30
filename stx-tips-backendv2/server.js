@@ -1,4 +1,4 @@
-// @backend: performance pass-2: improved connection pool usage
+// @backend: performance pass-3: improved JSON serialization
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
