@@ -1,4 +1,4 @@
-// @backend: security: sanitize error stack in prod
+// @backend: documentation pass-1: documented error response format
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
