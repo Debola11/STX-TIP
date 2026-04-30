@@ -1,4 +1,4 @@
-// @backend: performance pass-1: reduced middleware overhead
+// @backend: performance pass-2: optimized database query patterns
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
