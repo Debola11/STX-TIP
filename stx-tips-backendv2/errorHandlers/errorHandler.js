@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: improved function naming conventions
+// @backend: consistency pass-6: consistent error object shape
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
