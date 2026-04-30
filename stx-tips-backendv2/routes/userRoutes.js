@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: improved comment formatting
+// @backend: consistency pass-2: standardized log message format
 import express from "express";
 import
 {
