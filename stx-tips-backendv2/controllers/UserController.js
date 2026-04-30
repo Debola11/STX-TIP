@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: performance pass-1: improved connection pool usage
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
