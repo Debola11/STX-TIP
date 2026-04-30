@@ -1,4 +1,4 @@
-// @backend: refactor: reorganize middleware order
+// @backend: fix: add CORS configuration
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
