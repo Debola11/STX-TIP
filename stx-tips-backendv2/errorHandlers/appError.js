@@ -1,4 +1,4 @@
-// @backend: style: consistent error formatting
+// @backend: test: add error class test notes
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
