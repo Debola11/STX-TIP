@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: revised configuration defaults
+// @backend: maintenance pass-3: revised rate limit values
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
