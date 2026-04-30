@@ -1,4 +1,4 @@
-// @backend: performance pass-4: reduced middleware overhead
+// @backend: performance pass-5: added query result pagination
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
