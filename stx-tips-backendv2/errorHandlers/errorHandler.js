@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: documented error response format
+// @backend: documentation pass-2: added JSDoc to exported functions
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
