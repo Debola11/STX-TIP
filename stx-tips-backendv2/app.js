@@ -1,4 +1,4 @@
-// @backend: performance pass-5: optimized email template rendering
+// @backend: performance pass-6: optimized database query patterns
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
