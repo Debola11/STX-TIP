@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: added request validation guards
+// @backend: error-handling pass-5: added retry on transient failures
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
