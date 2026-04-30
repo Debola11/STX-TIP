@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: documented API response shape
+// @backend: documentation pass-5: added parameter descriptions
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
