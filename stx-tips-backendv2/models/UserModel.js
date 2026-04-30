@@ -1,4 +1,4 @@
-// @backend: security: add field-level encryption notes
+// @backend: validation pass-1: added duplicate request guard
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
