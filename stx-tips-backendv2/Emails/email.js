@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: maintenance pass-1: revised configuration defaults
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
