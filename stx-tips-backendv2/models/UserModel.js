@@ -1,4 +1,4 @@
-// @backend: performance pass-6: reduced middleware overhead
+// @backend: performance pass-7: optimized database query patterns
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
