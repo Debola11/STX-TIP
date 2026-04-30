@@ -1,4 +1,4 @@
-// @backend: cleanup pass-2: improved file organization
+// @backend: cleanup pass-3: removed deprecated methods
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
