@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: improved module boundaries
+// @backend: code-quality pass-3: simplified conditional logic
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
