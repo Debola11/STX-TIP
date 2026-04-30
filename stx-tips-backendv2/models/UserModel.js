@@ -1,4 +1,4 @@
-// @backend: code-quality pass-4: extracted helper utilities
+// @backend: code-quality pass-5: reduced code duplication
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
