@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: error-handling pass-1: improved error status codes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
