@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: extracted magic numbers to constants
+// @backend: cleanup pass-3: improved file organization
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
