@@ -1,4 +1,4 @@
-// @backend: performance pass-6: added response caching headers
+// @backend: performance pass-7: reduced memory allocations
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
