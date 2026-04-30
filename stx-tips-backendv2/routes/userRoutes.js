@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: documented API response shape
+// @backend: documentation pass-2: documented error response format
 import express from "express";
 import
 {
