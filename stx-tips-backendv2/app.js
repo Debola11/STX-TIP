@@ -1,4 +1,4 @@
-// @backend: cleanup pass-2: improved file organization
+// @backend: cleanup pass-4: removed redundant null checks
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
