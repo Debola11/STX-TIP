@@ -1,4 +1,4 @@
-// @backend: release-prep pass-5: updated environment docs
+// @backend: release-prep pass-7: finalized API response format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
