@@ -1,4 +1,4 @@
-// @backend: release-prep pass-6: updated deployment notes
+// @backend: release-prep pass-7: updated version references
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
