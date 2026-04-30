@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: improved timeout handling
+// @backend: error-handling pass-2: added try/catch to async handlers
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
