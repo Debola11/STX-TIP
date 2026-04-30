@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: release-prep pass-1: updated version references
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
