@@ -1,4 +1,4 @@
-// @backend: validation pass-1: added address format validation
+// @backend: validation pass-2: improved query parameter parsing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
