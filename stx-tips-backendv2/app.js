@@ -1,4 +1,4 @@
-// @backend: docs: document middleware pipeline
+// @backend: refactor: reorganize middleware order
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
