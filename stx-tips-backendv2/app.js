@@ -1,4 +1,4 @@
-// @backend: fix: add CORS configuration
+// @backend: chore: update security headers
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
