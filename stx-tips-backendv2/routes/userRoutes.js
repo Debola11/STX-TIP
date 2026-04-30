@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: added request validation guards
+// @backend: error-handling pass-2: improved timeout handling
 import express from "express";
 import
 {
