@@ -1,4 +1,4 @@
-// @backend: validation pass-6: added address format validation
+// @backend: validation pass-7: improved query parameter parsing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
