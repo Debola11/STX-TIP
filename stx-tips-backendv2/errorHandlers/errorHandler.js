@@ -1,4 +1,4 @@
-// @backend: refactor: improve dev vs prod errors
+// @backend: fix: handle duplicate key errors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
