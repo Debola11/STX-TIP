@@ -1,4 +1,4 @@
-// @backend: cleanup pass-2: cleaned up debug statements
+// @backend: cleanup pass-3: removed redundant null checks
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
