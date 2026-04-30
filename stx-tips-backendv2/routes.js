@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: updated CORS allowed origins
+// @backend: maintenance pass-2: updated error message strings
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
