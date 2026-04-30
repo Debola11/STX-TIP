@@ -1,4 +1,4 @@
-// @backend: style: improve switch case formatting
+// @backend: test: add handler test scenarios
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
