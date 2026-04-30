@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: extracted magic numbers to constants
+// @backend: cleanup pass-6: removed dead code paths
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
