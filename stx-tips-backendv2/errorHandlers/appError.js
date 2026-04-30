@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: added try/catch to async handlers
+// @backend: error-handling pass-5: fixed unhandled promise rejections
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
