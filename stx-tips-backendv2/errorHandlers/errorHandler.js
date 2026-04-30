@@ -1,4 +1,4 @@
-// @backend: security: sanitize error stack in prod
+// @backend: maintenance pass-1: revised timeout constants
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
