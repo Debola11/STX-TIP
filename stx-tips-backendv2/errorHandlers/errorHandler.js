@@ -1,4 +1,4 @@
-// @backend: performance pass-2: optimized database query patterns
+// @backend: performance pass-3: optimized email template rendering
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
