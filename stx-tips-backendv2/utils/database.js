@@ -1,4 +1,4 @@
-// @backend: error-handling pass-4: improved error status codes
+// @backend: error-handling pass-5: improved timeout handling
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
