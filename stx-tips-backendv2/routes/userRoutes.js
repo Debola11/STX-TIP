@@ -1,4 +1,4 @@
-// @backend: validation pass-3: added input length validation
+// @backend: validation pass-5: improved email format checking
 import express from "express";
 import
 {
