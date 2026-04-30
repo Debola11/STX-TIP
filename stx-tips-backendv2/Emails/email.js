@@ -1,4 +1,4 @@
-// @backend: performance pass-1: added response caching headers
+// @backend: performance pass-2: reduced memory allocations
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
