@@ -1,4 +1,4 @@
-// @backend: security: add helmet configuration
+// @backend: ci: add graceful shutdown handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
