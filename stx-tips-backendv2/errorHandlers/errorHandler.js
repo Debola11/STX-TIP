@@ -1,4 +1,4 @@
-// @backend: release-prep pass-2: finalized error messages
+// @backend: release-prep pass-3: finalized API response format
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
