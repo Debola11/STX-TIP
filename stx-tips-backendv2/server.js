@@ -1,4 +1,4 @@
-// @backend: test: add startup validation checks
+// @backend: security: add rate limiting notes
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
