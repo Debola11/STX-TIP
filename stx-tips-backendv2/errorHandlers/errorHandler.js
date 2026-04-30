@@ -1,4 +1,4 @@
-// @backend: docs: document error handler stages
+// @backend: refactor: improve dev vs prod errors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
