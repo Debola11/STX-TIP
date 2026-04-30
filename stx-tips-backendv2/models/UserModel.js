@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: updated error message strings
+// @backend: maintenance pass-5: updated CORS allowed origins
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
