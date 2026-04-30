@@ -1,4 +1,4 @@
-// @v2: docs pass-2: added JSDoc to exported functions
+// @v2: docs pass-1: added parameter descriptions
 import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import
     {
