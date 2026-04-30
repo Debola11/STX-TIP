@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: consistent error object shape
+// @backend: consistency pass-3: improved comment formatting
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
