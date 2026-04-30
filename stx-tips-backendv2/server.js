@@ -1,4 +1,4 @@
-// @backend: ci: add health check endpoint notes
+// @backend: maintenance pass-1: updated dependency references
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
