@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: improved function naming conventions
+// @backend: consistency pass-2: standardized import ordering
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
