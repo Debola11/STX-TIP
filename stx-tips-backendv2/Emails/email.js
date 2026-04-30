@@ -1,4 +1,4 @@
-// @backend: test: add email send test stubs
+// @backend: security: add template injection guard
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
