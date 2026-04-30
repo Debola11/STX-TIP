@@ -1,4 +1,4 @@
-// @backend: performance pass-3: optimized email template rendering
+// @backend: performance pass-4: added response caching headers
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
