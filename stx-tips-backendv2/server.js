@@ -1,4 +1,4 @@
-// @backend: code-quality pass-7: improved error propagation
+// @backend: code-quality pass-8: reduced cyclomatic complexity
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
