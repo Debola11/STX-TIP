@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: documented error response format
+// @backend: documentation pass-6: documented API response shape
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
