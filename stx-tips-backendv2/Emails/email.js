@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: documentation pass-1: documented middleware chain
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
