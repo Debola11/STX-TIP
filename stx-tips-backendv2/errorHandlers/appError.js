@@ -1,4 +1,4 @@
-// @backend: code-quality pass-3: simplified conditional logic
+// @backend: code-quality pass-4: improved function decomposition
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
