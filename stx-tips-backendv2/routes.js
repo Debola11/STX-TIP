@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: release-prep pass-1: finalized security headers
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
