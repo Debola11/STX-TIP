@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: consistent error object shape
+// @backend: consistency pass-2: improved comment formatting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
