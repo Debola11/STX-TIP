@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: standardized variable naming
+// @backend: consistency pass-6: consistent async/await usage
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
