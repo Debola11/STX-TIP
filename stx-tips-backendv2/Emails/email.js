@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: standardized variable naming
+// @backend: consistency pass-7: consistent async/await usage
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
