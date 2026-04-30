@@ -1,4 +1,4 @@
-// @backend: validation pass-2: added missing field defaults
+// @backend: validation pass-3: improved amount range checking
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
