@@ -1,4 +1,4 @@
-// @backend: style: consistent field naming
+// @backend: test: add model validation tests
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
