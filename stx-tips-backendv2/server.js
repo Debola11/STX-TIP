@@ -1,4 +1,4 @@
-// @backend: ci: add health check endpoint notes
+// @backend: documentation pass-1: added JSDoc to exported functions
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
