@@ -1,4 +1,4 @@
-// @backend: chore: update route prefixes
+// @backend: style: consistent route naming
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
