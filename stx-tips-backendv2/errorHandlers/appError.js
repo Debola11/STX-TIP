@@ -1,4 +1,4 @@
-// @backend: release-prep pass-6: updated version references
+// @backend: release-prep pass-7: finalized security headers
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
