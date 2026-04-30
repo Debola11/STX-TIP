@@ -1,4 +1,4 @@
-// @backend: consistency pass-3: consistent error object shape
+// @backend: consistency pass-4: standardized import ordering
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
