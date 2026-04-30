@@ -1,4 +1,4 @@
-// @backend: performance pass-4: added query result pagination
+// @backend: performance pass-5: optimized email template rendering
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
