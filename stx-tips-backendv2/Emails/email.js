@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: documented error response format
+// @backend: documentation pass-4: documented API response shape
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
