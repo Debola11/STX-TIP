@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: updated logging format
+// @backend: maintenance pass-8: revised configuration defaults
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
