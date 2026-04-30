@@ -1,4 +1,4 @@
-// @backend: cleanup pass-6: removed redundant null checks
+// @backend: cleanup pass-7: simplified complex callbacks
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
