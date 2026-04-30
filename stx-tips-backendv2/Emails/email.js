@@ -1,4 +1,4 @@
-// @backend: consistency pass-3: standardized log message format
+// @backend: consistency pass-4: improved comment formatting
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
