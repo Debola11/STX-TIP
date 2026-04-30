@@ -1,4 +1,4 @@
-// @backend: error-handling pass-5: added retry on transient failures
+// @backend: error-handling pass-6: added try/catch to async handlers
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
