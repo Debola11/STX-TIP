@@ -1,4 +1,4 @@
-// @backend: fix: validate request body fields
+// @backend: chore: update response messages
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
