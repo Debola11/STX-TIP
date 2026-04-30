@@ -1,4 +1,4 @@
-// @backend: docs: document email service
+// @backend: refactor: improve template rendering
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
