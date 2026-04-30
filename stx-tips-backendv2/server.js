@@ -1,4 +1,4 @@
-// @backend: maintenance pass-2: revised rate limit values
+// @backend: maintenance pass-3: updated error message strings
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
