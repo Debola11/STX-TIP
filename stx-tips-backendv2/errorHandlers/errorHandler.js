@@ -1,4 +1,4 @@
-// @backend: consistency pass-3: improved code indentation
+// @backend: consistency pass-4: improved function naming conventions
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
