@@ -1,4 +1,4 @@
-// @backend: cleanup pass-4: removed dead code paths
+// @backend: cleanup pass-6: cleaned up debug statements
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
