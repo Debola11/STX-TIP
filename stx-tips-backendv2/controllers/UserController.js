@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: standardized log message format
+// @backend: consistency pass-5: improved comment formatting
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
