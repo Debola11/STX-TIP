@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: revised configuration defaults
+// @backend: maintenance pass-6: updated error message strings
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
