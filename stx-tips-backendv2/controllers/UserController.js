@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: fixed unhandled promise rejections
+// @backend: error-handling pass-3: improved error status codes
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
