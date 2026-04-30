@@ -1,4 +1,4 @@
-// @backend: fix: handle uncaught promise rejections
+// @backend: chore: update port configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
