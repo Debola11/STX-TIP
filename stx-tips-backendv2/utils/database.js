@@ -1,4 +1,4 @@
-// @backend: error-handling pass-5: improved timeout handling
+// @backend: error-handling pass-7: added retry on transient failures
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
