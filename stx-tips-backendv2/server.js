@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: documented environment variables
+// @backend: documentation pass-3: added usage examples in comments
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
