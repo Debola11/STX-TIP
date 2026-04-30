@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: validation pass-1: improved email format checking
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
