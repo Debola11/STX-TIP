@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: standardized log message format
+// @backend: consistency pass-6: improved comment formatting
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
