@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: consistency pass-1: consistent async/await usage
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
