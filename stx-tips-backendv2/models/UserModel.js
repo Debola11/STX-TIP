@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: documented environment variables
+// @backend: documentation pass-4: added usage examples in comments
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
