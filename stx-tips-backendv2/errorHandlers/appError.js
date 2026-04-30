@@ -1,4 +1,4 @@
-// @backend: release-prep pass-5: updated deployment notes
+// @backend: release-prep pass-6: updated version references
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
