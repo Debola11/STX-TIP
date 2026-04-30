@@ -1,4 +1,4 @@
-// @backend: cleanup pass-6: extracted magic numbers to constants
+// @backend: cleanup pass-7: removed dead code paths
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
