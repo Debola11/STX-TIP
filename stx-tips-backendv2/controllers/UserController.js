@@ -1,4 +1,4 @@
-// @backend: refactor: extract validation logic
+// @backend: fix: validate request body fields
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
