@@ -1,4 +1,4 @@
-// @backend: style: improve function signatures
+// @backend: test: add email send test stubs
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
