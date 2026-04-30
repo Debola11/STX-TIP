@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: updated CORS allowed origins
+// @backend: maintenance pass-6: revised timeout constants
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
