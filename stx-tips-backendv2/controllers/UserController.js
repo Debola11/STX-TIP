@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: release-prep pass-1: updated deployment notes
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
