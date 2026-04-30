@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: error-handling pass-2: fixed unhandled promise rejections
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
