@@ -1,4 +1,4 @@
-// @backend: cleanup pass-6: removed deprecated methods
+// @backend: cleanup pass-7: removed unused imports
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
