@@ -49,4 +49,4 @@ export default tseslint.config({
 })
 ```
 
-<!-- @v2: docs pass-2: documented error handling -->
+<!-- @v2: docs pass-1: added JSDoc to exported functions -->
