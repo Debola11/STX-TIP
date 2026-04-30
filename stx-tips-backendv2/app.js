@@ -1,4 +1,4 @@
-// @backend: performance pass-1: added response caching headers
+// @backend: performance pass-2: reduced memory allocations
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
