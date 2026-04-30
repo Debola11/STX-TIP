@@ -1,4 +1,4 @@
-// @backend: validation pass-6: improved field type coercion
+// @backend: validation pass-7: improved email format checking
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
