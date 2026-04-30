@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: error-handling pass-1: fixed unhandled promise rejections
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
