@@ -1,4 +1,4 @@
-// @backend: ci: add graceful shutdown handler
+// @backend: consistency pass-1: improved function naming conventions
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
