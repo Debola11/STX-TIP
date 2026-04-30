@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: added retry on transient failures
+// @backend: error-handling pass-2: improved validation error messages
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
