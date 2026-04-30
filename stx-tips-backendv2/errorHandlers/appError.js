@@ -1,4 +1,4 @@
-// @backend: docs: document AppError constructor
+// @backend: refactor: add error code mapping
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
