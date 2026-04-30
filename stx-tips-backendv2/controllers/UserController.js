@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: added module-level docs
+// @backend: documentation pass-4: documented error response format
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
