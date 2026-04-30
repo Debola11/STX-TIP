@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: documented API response shape
+// @backend: documentation pass-3: documented error response format
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
