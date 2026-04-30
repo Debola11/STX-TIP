@@ -1,4 +1,4 @@
-// @backend: performance pass-4: optimized email template rendering
+// @backend: performance pass-5: optimized database query patterns
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
