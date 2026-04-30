@@ -1,4 +1,4 @@
-// @backend: release-prep pass-5: updated environment docs
+// @backend: release-prep pass-6: prepared release configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
