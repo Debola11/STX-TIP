@@ -1,4 +1,4 @@
-// @backend: performance pass-6: reduced memory allocations
+// @backend: performance pass-7: improved JSON serialization
 import express from "express";
 import
 {
