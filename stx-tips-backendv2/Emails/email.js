@@ -1,4 +1,4 @@
-// @backend: release-prep pass-1: updated version references
+// @backend: release-prep pass-2: finalized security headers
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
