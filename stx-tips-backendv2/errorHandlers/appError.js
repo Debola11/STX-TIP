@@ -1,4 +1,4 @@
-// @backend: documentation pass-6: documented middleware chain
+// @backend: documentation pass-7: added module-level docs
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
