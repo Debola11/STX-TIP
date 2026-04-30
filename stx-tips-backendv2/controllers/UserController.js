@@ -1,4 +1,4 @@
-// @backend: code-quality pass-4: simplified conditional logic
+// @backend: code-quality pass-5: improved module boundaries
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
