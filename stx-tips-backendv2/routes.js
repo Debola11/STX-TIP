@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: improved error status codes
+// @backend: error-handling pass-2: added graceful degradation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
