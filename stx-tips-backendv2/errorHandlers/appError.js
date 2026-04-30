@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: improved function naming conventions
+// @backend: consistency pass-7: standardized import ordering
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
