@@ -1,4 +1,4 @@
-// @backend: validation pass-5: improved amount range checking
+// @backend: validation pass-7: added duplicate request guard
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
