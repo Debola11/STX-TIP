@@ -1,4 +1,4 @@
-// @backend: chore: update middleware chain
+// @backend: style: consistent handler naming
 import express from "express";
 import
 {
