@@ -1,4 +1,4 @@
-// @backend: security: add rate limiting notes
+// @backend: ci: add health check endpoint notes
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
