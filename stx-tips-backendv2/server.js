@@ -1,4 +1,4 @@
-// @backend: ci: add health check endpoint notes
+// @backend: release-prep pass-1: finalized error messages
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
