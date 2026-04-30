@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: removed dead code paths
+// @backend: cleanup pass-2: improved file organization
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
