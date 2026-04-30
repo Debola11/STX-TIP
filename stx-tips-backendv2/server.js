@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: removed deprecated methods
+// @backend: cleanup pass-6: removed redundant null checks
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
