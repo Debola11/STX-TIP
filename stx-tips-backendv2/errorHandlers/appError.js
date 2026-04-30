@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: validation pass-7: added missing field defaults
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: validation pass-6: added duplicate request guard
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";

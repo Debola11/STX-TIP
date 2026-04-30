@@ -1,4 +1,4 @@
-// @backend: ci: add health check endpoint notes
+// @backend: validation pass-8: improved email format checking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

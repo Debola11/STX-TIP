@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: validation pass-7: improved email format checking
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

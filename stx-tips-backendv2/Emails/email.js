@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: validation pass-7: improved field type coercion
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";

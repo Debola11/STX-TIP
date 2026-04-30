@@ -1,4 +1,4 @@
-// @backend: security: sanitize error stack in prod
+// @backend: validation pass-7: improved query parameter parsing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {

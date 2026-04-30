@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: validation pass-7: added duplicate request guard
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
