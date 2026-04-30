@@ -1,4 +1,4 @@
-// @backend: refactor: group related routes
+// @backend: chore: update route prefixes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
