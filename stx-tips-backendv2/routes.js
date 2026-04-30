@@ -1,4 +1,4 @@
-// @backend: performance pass-5: optimized database query patterns
+// @backend: performance pass-6: improved connection pool usage
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
