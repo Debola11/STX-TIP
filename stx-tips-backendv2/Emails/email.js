@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: improved error status codes
+// @backend: error-handling pass-3: improved timeout handling
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
