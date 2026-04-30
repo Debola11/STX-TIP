@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: revised session TTL values
+// @backend: maintenance pass-4: updated logging format
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
