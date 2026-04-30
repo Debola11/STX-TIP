@@ -1,4 +1,4 @@
-// @backend: security: add auth middleware references
+// @backend: documentation pass-1: added module-level docs
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
