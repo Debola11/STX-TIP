@@ -1,4 +1,4 @@
-// @backend: performance pass-2: improved connection pool usage
+// @backend: performance pass-3: improved JSON serialization
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
