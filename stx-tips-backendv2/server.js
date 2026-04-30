@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: consistent async/await usage
+// @backend: consistency pass-3: consistent error object shape
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
