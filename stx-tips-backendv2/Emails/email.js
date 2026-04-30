@@ -1,4 +1,4 @@
-// @backend: release-prep pass-6: finalized error messages
+// @backend: release-prep pass-7: updated deployment notes
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
