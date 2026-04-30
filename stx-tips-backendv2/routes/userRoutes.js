@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: reduced cyclomatic complexity
+// @backend: code-quality pass-6: reduced code duplication
 import express from "express";
 import
 {
