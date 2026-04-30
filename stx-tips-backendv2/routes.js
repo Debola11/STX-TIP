@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: added module-level docs
+// @backend: documentation pass-2: added usage examples in comments
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
