@@ -1,4 +1,4 @@
-// @backend: cleanup pass-3: removed redundant null checks
+// @backend: cleanup pass-4: simplified complex callbacks
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
