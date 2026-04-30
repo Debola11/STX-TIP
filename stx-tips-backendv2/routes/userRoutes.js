@@ -1,4 +1,4 @@
-// @backend: refactor: add route param validation
+// @backend: chore: update middleware chain
 import express from "express";
 import
 {
