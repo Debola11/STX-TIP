@@ -1,4 +1,4 @@
-// @backend: documentation pass-1: documented environment variables
+// @backend: documentation pass-3: added module-level docs
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
