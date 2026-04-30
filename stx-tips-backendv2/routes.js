@@ -1,4 +1,4 @@
-// @backend: release-prep pass-4: finalized API response format
+// @backend: release-prep pass-5: finalized error messages
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
