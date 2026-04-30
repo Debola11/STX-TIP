@@ -1,4 +1,4 @@
-// @backend: error-handling pass-2: improved validation error messages
+// @backend: error-handling pass-3: fixed unhandled promise rejections
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
