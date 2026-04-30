@@ -1,4 +1,4 @@
-// @backend: validation pass-1: improved field type coercion
+// @backend: validation pass-3: added missing field defaults
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
