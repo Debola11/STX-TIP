@@ -1,4 +1,4 @@
-// @backend: docs: document route mappings
+// @backend: refactor: group related routes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
