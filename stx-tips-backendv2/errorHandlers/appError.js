@@ -1,4 +1,4 @@
-// @backend: validation pass-3: improved amount range checking
+// @backend: validation pass-4: added input length validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
