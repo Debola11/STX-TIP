@@ -1,4 +1,4 @@
-// @backend: style: consistent route naming
+// @backend: test: add route integration notes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
