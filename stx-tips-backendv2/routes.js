@@ -1,4 +1,4 @@
-// @backend: documentation pass-5: added JSDoc to exported functions
+// @backend: documentation pass-6: documented environment variables
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
