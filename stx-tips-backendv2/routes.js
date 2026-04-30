@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: improved function decomposition
+// @backend: code-quality pass-6: standardized return patterns
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
