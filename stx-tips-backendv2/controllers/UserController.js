@@ -1,4 +1,4 @@
-// @backend: validation pass-4: improved amount range checking
+// @backend: validation pass-5: improved query parameter parsing
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
