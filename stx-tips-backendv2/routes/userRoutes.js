@@ -1,4 +1,4 @@
-// @backend: validation pass-5: improved email format checking
+// @backend: validation pass-6: added missing field defaults
 import express from "express";
 import
 {
