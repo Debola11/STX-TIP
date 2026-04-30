@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: removed deprecated methods
+// @backend: cleanup pass-2: removed unused imports
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
