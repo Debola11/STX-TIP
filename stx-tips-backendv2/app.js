@@ -1,4 +1,4 @@
-// @backend: documentation pass-6: added JSDoc to exported functions
+// @backend: documentation pass-7: documented environment variables
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
