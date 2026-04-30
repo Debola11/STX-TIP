@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: revised configuration defaults
+// @backend: maintenance pass-2: updated CORS allowed origins
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
