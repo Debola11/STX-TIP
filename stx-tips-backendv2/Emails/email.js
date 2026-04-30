@@ -1,4 +1,4 @@
-// @backend: code-quality pass-1: reduced cyclomatic complexity
+// @backend: code-quality pass-2: reduced code duplication
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
