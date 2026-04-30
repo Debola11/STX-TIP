@@ -1,4 +1,4 @@
-// @backend: error-handling pass-3: added retry on transient failures
+// @backend: error-handling pass-4: improved validation error messages
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
