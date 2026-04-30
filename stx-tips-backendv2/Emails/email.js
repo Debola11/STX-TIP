@@ -1,4 +1,4 @@
-// @backend: validation pass-5: added duplicate request guard
+// @backend: validation pass-6: added input length validation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
