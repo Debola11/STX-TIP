@@ -1,4 +1,4 @@
-// @backend: fix: handle connection timeout
+// @backend: chore: update connection string handling
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
