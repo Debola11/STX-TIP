@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: revised timeout constants
+// @backend: maintenance pass-5: revised session TTL values
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
