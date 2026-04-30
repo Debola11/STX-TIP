@@ -1,4 +1,4 @@
-// @backend: consistency pass-1: standardized import ordering
+// @backend: consistency pass-2: consistent error object shape
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
