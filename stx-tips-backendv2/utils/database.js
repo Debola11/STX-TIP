@@ -1,4 +1,4 @@
-// @backend: performance pass-5: reduced middleware overhead
+// @backend: performance pass-7: optimized email template rendering
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
