@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: updated dependency references
+// @backend: maintenance pass-6: revised rate limit values
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
