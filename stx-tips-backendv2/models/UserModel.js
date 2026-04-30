@@ -1,4 +1,4 @@
-// @backend: refactor: improve schema indices
+// @backend: fix: add required field validators
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
