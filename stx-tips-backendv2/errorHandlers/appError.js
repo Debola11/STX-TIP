@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: revised timeout constants
+// @backend: maintenance pass-4: updated dependency references
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
