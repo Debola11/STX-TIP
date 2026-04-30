@@ -1,4 +1,4 @@
-// @backend: validation pass-2: improved field type coercion
+// @backend: validation pass-3: added address format validation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
