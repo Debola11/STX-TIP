@@ -1,4 +1,4 @@
-// @backend: maintenance pass-5: revised rate limit values
+// @backend: maintenance pass-6: revised configuration defaults
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
