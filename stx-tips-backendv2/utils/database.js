@@ -1,4 +1,4 @@
-// @backend: cleanup pass-2: extracted magic numbers to constants
+// @backend: cleanup pass-3: cleaned up debug statements
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
