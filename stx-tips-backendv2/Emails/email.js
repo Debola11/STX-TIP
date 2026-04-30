@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: revised timeout constants
+// @backend: maintenance pass-4: revised session TTL values
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
