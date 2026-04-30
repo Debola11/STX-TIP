@@ -1,4 +1,4 @@
-// @backend: security: add field-level encryption notes
+// @backend: documentation pass-1: added parameter descriptions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
