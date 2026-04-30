@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: improved function decomposition
+// @backend: code-quality pass-7: standardized return patterns
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
