@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: revised rate limit values
+// @backend: maintenance pass-3: updated CORS allowed origins
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
