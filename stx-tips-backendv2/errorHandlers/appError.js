@@ -1,4 +1,4 @@
-// @backend: validation pass-6: improved email format checking
+// @backend: validation pass-7: added missing field defaults
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
