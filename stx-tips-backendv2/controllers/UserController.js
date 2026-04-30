@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: documentation pass-1: documented environment variables
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
