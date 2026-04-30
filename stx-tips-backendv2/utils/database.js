@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: standardized log message format
+// @backend: consistency pass-7: improved code indentation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
