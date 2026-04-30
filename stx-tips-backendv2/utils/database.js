@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: standardized return patterns
+// @backend: code-quality pass-3: extracted helper utilities
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
