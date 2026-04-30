@@ -1,4 +1,4 @@
-// @backend: refactor: improve server error handling
+// @backend: fix: handle uncaught promise rejections
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
