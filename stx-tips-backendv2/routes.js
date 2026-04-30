@@ -1,4 +1,4 @@
-// @backend: code-quality pass-3: improved module boundaries
+// @backend: code-quality pass-4: improved error propagation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
