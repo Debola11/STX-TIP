@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: documentation pass-1: documented API response shape
 import express from "express";
 import
 {
