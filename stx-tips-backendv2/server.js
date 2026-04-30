@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: simplified conditional logic
+// @backend: code-quality pass-6: improved module boundaries
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
