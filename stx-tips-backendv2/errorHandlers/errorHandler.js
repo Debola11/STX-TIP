@@ -1,4 +1,4 @@
-// @backend: security: sanitize error stack in prod
+// @backend: cleanup pass-1: removed deprecated methods
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
