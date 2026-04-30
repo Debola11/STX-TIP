@@ -1,4 +1,4 @@
-// @backend: validation pass-6: improved query parameter parsing
+// @backend: validation pass-7: added duplicate request guard
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
