@@ -1,4 +1,4 @@
-// @backend: documentation pass-4: added module-level docs
+// @backend: documentation pass-5: documented error response format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
