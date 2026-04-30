@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: improved module boundaries
+// @backend: code-quality pass-6: improved error propagation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
