@@ -1,3 +1,4 @@
+// @backend: docs: document DB connection logic
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
