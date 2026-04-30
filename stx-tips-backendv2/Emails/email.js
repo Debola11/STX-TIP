@@ -1,4 +1,4 @@
-// @backend: documentation pass-2: added module-level docs
+// @backend: documentation pass-3: documented error response format
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
