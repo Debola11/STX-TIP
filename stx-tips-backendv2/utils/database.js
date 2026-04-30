@@ -1,4 +1,4 @@
-// @backend: security: add connection encryption
+// @backend: documentation pass-2: documented environment variables
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
