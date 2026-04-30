@@ -1,4 +1,4 @@
-// @backend: chore: update response messages
+// @backend: perf: optimize database queries
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
