@@ -1,4 +1,4 @@
-// @backend: cleanup pass-3: extracted magic numbers to constants
+// @backend: cleanup pass-4: cleaned up debug statements
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
