@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: reduced code duplication
+// @backend: code-quality pass-7: extracted helper utilities
 import express from "express";
 import
 {
