@@ -1,4 +1,4 @@
-// @backend: perf: optimize request parsing
+// @backend: style: improve log formatting
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
