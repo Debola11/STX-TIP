@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: updated deployment notes
+// @backend: release-prep pass-4: cleaned up dev artifacts
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
