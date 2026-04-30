@@ -1,4 +1,4 @@
-// @backend: security: add field-level encryption notes
+// @backend: performance pass-1: optimized email template rendering
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
