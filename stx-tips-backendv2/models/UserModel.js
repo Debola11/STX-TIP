@@ -1,4 +1,4 @@
-// @backend: code-quality pass-1: improved error propagation
+// @backend: code-quality pass-2: reduced cyclomatic complexity
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
