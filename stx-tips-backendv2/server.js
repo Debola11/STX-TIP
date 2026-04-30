@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: revised session TTL values
+// @backend: maintenance pass-7: updated logging format
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
