@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: removed dead code paths
+// @backend: cleanup pass-2: improved file organization
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
