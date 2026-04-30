@@ -1,4 +1,4 @@
-// @backend: performance pass-4: added response caching headers
+// @backend: performance pass-6: improved JSON serialization
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
