@@ -1,4 +1,4 @@
-// @backend: documentation pass-3: added usage examples in comments
+// @backend: documentation pass-4: added module-level docs
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
