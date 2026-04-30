@@ -1,4 +1,4 @@
-// @backend: test: add error class test notes
+// @backend: consistency pass-1: consistent error object shape
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
