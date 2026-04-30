@@ -1,4 +1,4 @@
-// @backend: error-handling pass-5: improved validation error messages
+// @backend: error-handling pass-6: improved error status codes
 import express from "express";
 import
 {
