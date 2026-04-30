@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: revised timeout constants
+// @backend: maintenance pass-2: updated dependency references
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
