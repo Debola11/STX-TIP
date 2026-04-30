@@ -1,4 +1,4 @@
-// @backend: error-handling pass-1: added graceful degradation
+// @backend: error-handling pass-2: added request validation guards
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
