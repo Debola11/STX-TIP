@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: revised configuration defaults
+// @backend: maintenance pass-4: revised rate limit values
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
