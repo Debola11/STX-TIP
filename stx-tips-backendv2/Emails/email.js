@@ -1,4 +1,4 @@
-// @backend: consistency pass-4: improved comment formatting
+// @backend: consistency pass-5: improved code indentation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
