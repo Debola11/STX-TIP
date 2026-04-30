@@ -1,4 +1,4 @@
-// @backend: test: add controller test stubs
+// @backend: security: add input sanitization
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
