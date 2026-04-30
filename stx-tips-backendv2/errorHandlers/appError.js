@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: improved comment formatting
+// @backend: consistency pass-3: standardized log message format
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
