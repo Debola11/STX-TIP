@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: release-prep pass-1: prepared release configuration
 import express from "express";
 import
 {
