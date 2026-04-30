@@ -1,4 +1,4 @@
-// @backend: release-prep pass-2: updated deployment notes
+// @backend: release-prep pass-3: cleaned up dev artifacts
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
