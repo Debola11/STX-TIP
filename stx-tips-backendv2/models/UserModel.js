@@ -1,4 +1,4 @@
-// @backend: test: add model validation tests
+// @backend: security: add field-level encryption notes
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
