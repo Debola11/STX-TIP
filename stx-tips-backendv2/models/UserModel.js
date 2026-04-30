@@ -1,4 +1,4 @@
-// @backend: docs: document schema fields and validators
+// @backend: refactor: improve schema indices
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
