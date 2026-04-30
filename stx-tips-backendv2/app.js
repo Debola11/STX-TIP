@@ -1,4 +1,4 @@
-// @backend: performance pass-2: reduced memory allocations
+// @backend: performance pass-4: added query result pagination
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
