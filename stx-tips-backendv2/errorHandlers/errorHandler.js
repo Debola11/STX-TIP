@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: consistent error object shape
+// @backend: consistency pass-7: improved comment formatting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
