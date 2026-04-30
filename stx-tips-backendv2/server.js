@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: updated dependency references
+// @backend: maintenance pass-2: revised rate limit values
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
