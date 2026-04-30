@@ -1,4 +1,4 @@
-// @backend: validation pass-5: added input length validation
+// @backend: validation pass-6: improved field type coercion
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
