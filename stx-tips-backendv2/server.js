@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: simplified complex callbacks
+// @backend: cleanup pass-8: removed dead code paths
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
