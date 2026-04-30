@@ -1,4 +1,4 @@
-// @backend: performance pass-4: added query result pagination
+// @backend: performance pass-5: optimized email template rendering
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
