@@ -1,4 +1,4 @@
-// @backend: cleanup pass-5: removed dead code paths
+// @backend: cleanup pass-6: improved file organization
 import express from "express";
 import
 {
