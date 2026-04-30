@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: revised session TTL values
+// @backend: maintenance pass-2: revised timeout constants
 import express from "express";
 import
 {
