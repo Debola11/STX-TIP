@@ -1,4 +1,4 @@
-// @backend: docs: document DB connection logic
+// @backend: refactor: add connection retry logic
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
