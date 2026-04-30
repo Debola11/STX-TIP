@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: revised rate limit values
+// @backend: maintenance pass-7: revised configuration defaults
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
