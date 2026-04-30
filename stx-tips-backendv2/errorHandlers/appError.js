@@ -1,4 +1,4 @@
-// @backend: maintenance pass-4: updated dependency references
+// @backend: maintenance pass-5: revised rate limit values
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
