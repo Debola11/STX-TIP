@@ -1,4 +1,4 @@
-// @backend: code-quality pass-1: extracted helper utilities
+// @backend: code-quality pass-2: improved module boundaries
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
