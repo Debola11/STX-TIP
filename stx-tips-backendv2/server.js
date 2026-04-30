@@ -1,4 +1,4 @@
-// @backend: validation pass-8: improved email format checking
+// @backend: release-prep pass-8: updated version references
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

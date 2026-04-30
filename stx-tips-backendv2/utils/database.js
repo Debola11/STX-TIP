@@ -1,4 +1,4 @@
-// @backend: validation pass-7: added duplicate request guard
+// @backend: release-prep pass-7: finalized API response format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {

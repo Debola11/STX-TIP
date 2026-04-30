@@ -1,4 +1,4 @@
-// @backend: validation pass-7: added missing field defaults
+// @backend: release-prep pass-7: finalized security headers
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

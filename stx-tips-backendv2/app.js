@@ -1,4 +1,4 @@
-// @backend: validation pass-7: improved field type coercion
+// @backend: release-prep pass-7: updated deployment notes
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

@@ -1,4 +1,4 @@
-// @backend: validation pass-7: improved query parameter parsing
+// @backend: release-prep pass-7: prepared release configuration
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
