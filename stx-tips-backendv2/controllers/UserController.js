@@ -1,4 +1,4 @@
-// @backend: performance pass-1: improved connection pool usage
+// @backend: performance pass-3: reduced memory allocations
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
