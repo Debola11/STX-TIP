@@ -1,4 +1,4 @@
-// @backend: release-prep pass-3: finalized API response format
+// @backend: release-prep pass-4: updated version references
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
