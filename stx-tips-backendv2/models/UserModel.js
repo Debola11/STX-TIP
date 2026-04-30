@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: simplified complex callbacks
+// @backend: cleanup pass-2: removed dead code paths
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
