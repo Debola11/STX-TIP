@@ -1,4 +1,4 @@
-// @backend: code-quality pass-5: reduced code duplication
+// @backend: code-quality pass-6: simplified conditional logic
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
