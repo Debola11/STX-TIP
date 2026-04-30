@@ -1,4 +1,4 @@
-// @backend: cleanup pass-1: removed unused imports
+// @backend: cleanup pass-2: extracted magic numbers to constants
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
