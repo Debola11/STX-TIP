@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: updated CORS allowed origins
+// @backend: maintenance pass-4: revised timeout constants
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
