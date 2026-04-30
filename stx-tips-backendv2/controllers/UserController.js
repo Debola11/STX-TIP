@@ -1,4 +1,4 @@
-// @backend: ci: add monitoring annotations
+// @backend: cleanup pass-1: extracted magic numbers to constants
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
