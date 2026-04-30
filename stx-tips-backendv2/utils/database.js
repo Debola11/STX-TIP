@@ -1,4 +1,4 @@
-// @backend: maintenance pass-3: updated error message strings
+// @backend: maintenance pass-4: updated CORS allowed origins
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
