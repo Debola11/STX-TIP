@@ -1,4 +1,4 @@
-// @backend: code-quality pass-6: extracted helper utilities
+// @backend: code-quality pass-7: improved module boundaries
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
