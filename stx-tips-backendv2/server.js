@@ -1,4 +1,4 @@
-// @backend: style: improve log formatting
+// @backend: test: add startup validation checks
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
