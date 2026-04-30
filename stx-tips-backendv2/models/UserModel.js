@@ -1,4 +1,4 @@
-// @backend: error-handling pass-3: fixed unhandled promise rejections
+// @backend: error-handling pass-4: added graceful degradation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
