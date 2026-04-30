@@ -1,4 +1,4 @@
-// @backend: validation pass-7: added duplicate request guard
+// @backend: validation pass-8: improved email format checking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
