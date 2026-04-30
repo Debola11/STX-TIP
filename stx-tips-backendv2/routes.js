@@ -1,4 +1,4 @@
-// @backend: release-prep pass-2: cleaned up dev artifacts
+// @backend: release-prep pass-3: prepared release configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
