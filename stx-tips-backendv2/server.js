@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: improved code indentation
+// @backend: consistency pass-8: improved function naming conventions
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
