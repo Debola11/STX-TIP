@@ -1,4 +1,4 @@
-// @backend: security: add template injection guard
+// @backend: validation pass-1: improved email format checking
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
