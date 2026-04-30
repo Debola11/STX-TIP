@@ -1,3 +1,4 @@
+// @backend: code-quality pass-1: improved function decomposition
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
