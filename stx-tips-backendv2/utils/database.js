@@ -1,4 +1,4 @@
-// @backend: release-prep pass-4: finalized security headers
+// @backend: release-prep pass-5: updated environment docs
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
