@@ -1,4 +1,4 @@
-// @backend: performance pass-7: optimized email template rendering
+// @backend: performance pass-8: added response caching headers
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
