@@ -1,4 +1,4 @@
-// @backend: code-quality pass-3: standardized return patterns
+// @backend: code-quality pass-4: extracted helper utilities
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
