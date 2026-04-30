@@ -1,4 +1,4 @@
-// @backend: maintenance pass-1: updated logging format
+// @backend: maintenance pass-2: revised configuration defaults
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
