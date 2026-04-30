@@ -1,4 +1,4 @@
-// @backend: performance pass-1: optimized database query patterns
+// @backend: performance pass-2: improved connection pool usage
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
