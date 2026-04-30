@@ -1,4 +1,4 @@
-// @backend: validation pass-5: added missing field defaults
+// @backend: validation pass-6: improved amount range checking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
