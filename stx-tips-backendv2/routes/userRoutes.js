@@ -1,4 +1,4 @@
-// @backend: security: add permission checks
+// @backend: error-handling pass-1: added request validation guards
 import express from "express";
 import
 {
