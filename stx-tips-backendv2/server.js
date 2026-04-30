@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: improved comment formatting
+// @backend: consistency pass-7: improved code indentation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
