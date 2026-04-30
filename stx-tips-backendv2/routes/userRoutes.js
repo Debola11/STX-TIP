@@ -1,4 +1,4 @@
-// @backend: consistency pass-2: standardized log message format
+// @backend: consistency pass-3: standardized variable naming
 import express from "express";
 import
 {
