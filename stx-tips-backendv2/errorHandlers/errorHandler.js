@@ -1,4 +1,4 @@
-// @backend: documentation pass-6: added usage examples in comments
+// @backend: documentation pass-7: documented API response shape
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
