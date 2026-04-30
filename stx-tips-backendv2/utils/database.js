@@ -1,4 +1,4 @@
-// @backend: performance pass-4: reduced memory allocations
+// @backend: performance pass-5: reduced middleware overhead
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
