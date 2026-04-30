@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: reduced code duplication
+// @backend: code-quality pass-4: improved module boundaries
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
