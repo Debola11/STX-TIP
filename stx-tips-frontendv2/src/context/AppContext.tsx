@@ -1,4 +1,4 @@
-// @v2: docs pass-2: documented hook return values
+// @v2: docs pass-1: documented side effects
 import React, { createContext, useContext, useState } from 'react';
 
 interface AppContextType
