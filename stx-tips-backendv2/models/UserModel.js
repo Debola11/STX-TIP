@@ -1,4 +1,4 @@
-// @backend: code-quality pass-2: reduced cyclomatic complexity
+// @backend: code-quality pass-3: standardized return patterns
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
