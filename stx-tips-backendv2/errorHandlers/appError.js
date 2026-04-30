@@ -1,4 +1,4 @@
-// @backend: cleanup pass-2: removed redundant null checks
+// @backend: cleanup pass-3: removed deprecated methods
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
