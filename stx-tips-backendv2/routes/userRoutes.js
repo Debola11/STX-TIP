@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: standardized import ordering
+// @backend: consistency pass-7: consistent error object shape
 import express from "express";
 import
 {
