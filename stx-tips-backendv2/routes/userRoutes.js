@@ -1,4 +1,4 @@
-// @backend: test: add endpoint test references
+// @backend: security: add permission checks
 import express from "express";
 import
 {
