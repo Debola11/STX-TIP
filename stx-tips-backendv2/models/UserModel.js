@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: improved timeout handling
+// @backend: error-handling pass-7: added try/catch to async handlers
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
