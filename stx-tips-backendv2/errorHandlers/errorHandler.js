@@ -1,4 +1,4 @@
-// @backend: release-prep pass-6: cleaned up dev artifacts
+// @backend: release-prep pass-7: prepared release configuration
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
