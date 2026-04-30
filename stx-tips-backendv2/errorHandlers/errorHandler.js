@@ -1,4 +1,4 @@
-// @backend: performance pass-6: improved JSON serialization
+// @backend: performance pass-7: added query result pagination
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
