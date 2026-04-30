@@ -1,4 +1,4 @@
-// @backend: consistency pass-5: improved code indentation
+// @backend: consistency pass-6: standardized variable naming
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
