@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: added session cookie parser
+// @backend: middleware-layer pass-6: implemented request rate tracker
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
