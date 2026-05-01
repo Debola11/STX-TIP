@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: implemented per-user rate quotas
+// @backend: rate-limiting pass-6: added rate limit headers to responses
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
