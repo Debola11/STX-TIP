@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: implemented automatic reconnection
+// @backend: error-recovery pass-5: implemented error recovery middleware
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
