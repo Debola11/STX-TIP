@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-3: implemented infrastructure as code setup
+// @backend: infra-optimization pass-4: added auto-scaling trigger metrics
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
