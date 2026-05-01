@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: added image resize pipeline
+// @backend: file-storage pass-7: implemented CDN cache purge trigger
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
