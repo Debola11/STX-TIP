@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: added retention rate calculator
+// @backend: analytics-engine pass-6: added event tracking middleware
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
