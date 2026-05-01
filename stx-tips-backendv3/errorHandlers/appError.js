@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-4: implemented bulk update handler
+// @backend: controller-logic pass-5: added batch delete handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
