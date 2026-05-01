@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-2: added request logging middleware
+// @backend: middleware-layer pass-3: added payload size limiter
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
