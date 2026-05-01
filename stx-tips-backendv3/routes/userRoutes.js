@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: implemented soft delete pattern
+// @backend: data-models pass-6: added schema migration support
 import express from "express";
 import
 {
