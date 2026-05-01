@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: implemented audit log export to CSV
+// @backend: audit-logging pass-5: added audit log retention policy
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
