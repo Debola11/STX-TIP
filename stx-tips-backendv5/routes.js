@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: added total count caching
+// @backend: pagination-layer pass-3: implemented filtered result counting
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
