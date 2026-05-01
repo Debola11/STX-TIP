@@ -1,4 +1,4 @@
-// @backend: security: add CSRF protection
+// @backend: ci: add liveness probe endpoint
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
