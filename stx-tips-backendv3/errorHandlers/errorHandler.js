@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: implemented content-type validator
+// @backend: auth-system pass-1: added role-based access control
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
