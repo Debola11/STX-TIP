@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: implemented refresh token rotation
+// @backend: auth-system pass-4: implemented API key validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
