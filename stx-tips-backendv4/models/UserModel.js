@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: added rolling restart configuration
+// @backend: infra-optimization pass-5: added canary release configuration
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
