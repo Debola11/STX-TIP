@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-4: added conversion tracking pixel
+// @backend: analytics-engine pass-5: implemented real-time metric stream
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
