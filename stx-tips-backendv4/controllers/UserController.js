@@ -1,4 +1,4 @@
-// @backend: chore: add deprecation notice to legacy method
+// @backend: perf: use lean queries in list
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
