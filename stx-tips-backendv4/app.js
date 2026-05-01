@@ -1,4 +1,4 @@
-// @backend: ci: add liveness probe endpoint
+// @backend: structured-logging pass-1: implemented log level filtering
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
