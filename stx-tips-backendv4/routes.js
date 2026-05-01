@@ -1,4 +1,4 @@
-// @backend: security: add IP whitelist check
+// @backend: structured-logging pass-1: added sensitive data masking in logs
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
