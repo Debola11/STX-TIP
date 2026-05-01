@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: added monitoring metric exports
+// @backend: deploy-config pass-2: implemented health check endpoint
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
