@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-4: added migration lock mechanism
+// @backend: schema-migrations pass-5: implemented data transformation step
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
