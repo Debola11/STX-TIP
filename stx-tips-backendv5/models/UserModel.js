@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: added sort field validation
+// @backend: pagination-layer pass-2: implemented page size validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
