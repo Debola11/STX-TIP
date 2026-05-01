@@ -1,4 +1,4 @@
-// @backend: docs: document route hierarchy
+// @backend: security: add IP whitelist check
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
