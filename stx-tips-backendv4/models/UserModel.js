@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: added notification rate limiter
+// @backend: notification-system pass-6: implemented digest email aggregator
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
