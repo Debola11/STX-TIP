@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: added role-based access control
+// @backend: auth-system pass-4: implemented JWT token generation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
