@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-4: implemented release changelog generator
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
