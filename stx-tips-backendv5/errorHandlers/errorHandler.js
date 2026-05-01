@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: added locale detection middleware
+// @backend: i18n-support pass-3: added currency display formatter
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
