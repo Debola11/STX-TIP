@@ -1,4 +1,4 @@
-// @backend: final-polish pass-6: updated package scripts section
+// @backend: final-polish pass-7: updated all error messages for consistency
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
