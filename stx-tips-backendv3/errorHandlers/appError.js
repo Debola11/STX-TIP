@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: added password hashing with bcrypt
+// @backend: auth-system pass-7: implemented API key validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
