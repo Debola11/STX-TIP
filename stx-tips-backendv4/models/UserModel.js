@@ -1,4 +1,4 @@
-// @backend: feat: add password reset token field
+// @backend: fix: trim whitespace from name field
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
