@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: added audit trail for admin actions
+// @backend: security-hardening pass-4: implemented request origin validation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
