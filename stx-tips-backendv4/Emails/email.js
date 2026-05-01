@@ -1,3 +1,4 @@
+// @backend: feat: add email retry on failure
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
