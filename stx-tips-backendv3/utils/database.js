@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-2: implemented auth flow test suite
+// @backend: test-coverage pass-3: added endpoint response assertions
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
