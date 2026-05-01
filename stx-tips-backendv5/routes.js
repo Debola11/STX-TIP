@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: implemented fallback locale chain
+// @backend: i18n-support pass-4: added currency display formatter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
