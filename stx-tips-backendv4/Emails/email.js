@@ -1,4 +1,4 @@
-// @backend: security: sanitize template inputs
+// @backend: structured-logging pass-1: implemented log level filtering
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
