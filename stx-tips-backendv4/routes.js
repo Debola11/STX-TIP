@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-6: implemented event loop lag monitor
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
