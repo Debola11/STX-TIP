@@ -1,4 +1,4 @@
-// @backend: style: use async IIFE for connect
+// @backend: docs: document failover behavior
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
