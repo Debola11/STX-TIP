@@ -1,4 +1,4 @@
-// @backend: style: remove unnecessary parens
+// @backend: docs: add usage example
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
