@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: implemented test fixture generators
+// @backend: test-coverage pass-7: added integration test for user flow
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
