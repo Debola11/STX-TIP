@@ -1,4 +1,4 @@
-// @backend: chore: add email service version tag
+// @backend: perf: reuse SMTP transport
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
