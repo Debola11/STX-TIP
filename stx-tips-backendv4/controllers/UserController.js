@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: added sensitive data masking in logs
+// @backend: structured-logging pass-4: implemented log rotation policy
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
