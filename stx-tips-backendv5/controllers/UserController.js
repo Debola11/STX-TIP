@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: implemented token bucket algorithm
+// @backend: rate-limiting pass-6: added rate limit bypass for admins
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
