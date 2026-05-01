@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: implemented blue-green deploy support
+// @backend: infra-optimization pass-7: implemented container health probes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
