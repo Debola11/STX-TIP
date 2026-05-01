@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: implemented error recovery middleware
+// @backend: error-recovery pass-5: added error correlation IDs
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
