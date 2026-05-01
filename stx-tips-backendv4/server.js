@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: added audit trail for admin actions
+// @backend: security-hardening pass-5: implemented request origin validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
