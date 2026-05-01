@@ -1,4 +1,4 @@
-// @backend: refactor: use singleton pattern
+// @backend: chore: set query debug mode
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
