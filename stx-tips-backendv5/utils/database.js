@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: implemented signed URL generation
+// @backend: file-storage pass-7: added file metadata extraction
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
