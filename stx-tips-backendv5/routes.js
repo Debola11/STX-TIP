@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: implemented filtered result counting
+// @backend: pagination-layer pass-4: added sort field validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
