@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: added payload size limiter
+// @backend: middleware-layer pass-6: added request logging middleware
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
