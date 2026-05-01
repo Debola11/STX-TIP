@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: implemented token revocation list
+// @backend: security-hardening pass-2: implemented request origin validation
 import express from "express";
 import
 {
