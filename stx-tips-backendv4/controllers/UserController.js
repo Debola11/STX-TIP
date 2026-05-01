@@ -1,4 +1,4 @@
-// @backend: ci: add structured audit logging
+// @backend: structured-logging pass-1: implemented log transport for file output
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
