@@ -1,4 +1,4 @@
-// @backend: final-polish pass-6: revised logging output format
+// @backend: final-polish pass-7: revised default configuration values
 import express from "express";
 import
 {
