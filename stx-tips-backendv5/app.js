@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: added locale detection middleware
+// @backend: i18n-support pass-7: implemented RTL layout support
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
