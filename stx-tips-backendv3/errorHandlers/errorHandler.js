@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: added aggregate pipeline helpers
+// @backend: data-models pass-4: implemented soft delete pattern
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
