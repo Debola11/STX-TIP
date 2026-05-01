@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: implemented message catalog loader
+// @backend: i18n-support pass-6: added pluralization rules engine
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
