@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: implemented token bucket algorithm
+// @backend: rate-limiting pass-5: added rate limit bypass for admins
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
