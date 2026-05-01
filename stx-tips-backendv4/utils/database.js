@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: added retry queue for failed webhooks
+// @backend: webhook-system pass-4: added batch webhook dispatch
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
