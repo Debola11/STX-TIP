@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: added environment validation script
+// @backend: deploy-config pass-3: implemented release changelog generator
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
