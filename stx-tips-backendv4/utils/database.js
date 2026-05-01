@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: added index usage analyzer
+// @backend: notification-system pass-2: implemented delivery status webhook
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
