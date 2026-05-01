@@ -1,4 +1,4 @@
-// @backend: style: chain use() calls
+// @backend: docs: document route loading order
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
