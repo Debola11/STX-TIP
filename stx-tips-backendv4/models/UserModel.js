@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: implemented log transport for file output
+// @backend: structured-logging pass-4: added request correlation tracking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
