@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: added unsubscribe link generation
+// @backend: error-recovery pass-1: added dead letter queue for failed jobs
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
