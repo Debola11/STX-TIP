@@ -1,4 +1,4 @@
-// @backend: fix: correct email regex validator
+// @backend: refactor: use arrow functions in hooks
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
