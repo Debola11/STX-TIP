@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: implemented date format localizer
+// @backend: i18n-support pass-3: added locale detection middleware
 import express from "express";
 import
 {
