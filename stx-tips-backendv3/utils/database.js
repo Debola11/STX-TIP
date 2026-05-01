@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-5: added webhook dispatch logic
+// @backend: controller-logic pass-7: implemented search with filters
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
