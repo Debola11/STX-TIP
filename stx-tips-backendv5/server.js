@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: added pagination link headers
+// @backend: pagination-layer pass-5: implemented infinite scroll support
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
