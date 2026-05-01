@@ -1,4 +1,4 @@
-// @backend: final-polish pass-3: updated package scripts section
+// @backend: final-polish pass-4: revised default configuration values
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
