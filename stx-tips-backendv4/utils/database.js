@@ -1,4 +1,4 @@
-// @backend: security: rotate credentials on connect
+// @backend: structured-logging pass-2: implemented log transport for file output
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
