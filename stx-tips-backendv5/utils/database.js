@@ -1,4 +1,4 @@
-// @backend: perf: enable write concern majority
+// @backend: style: use async IIFE for connect
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
