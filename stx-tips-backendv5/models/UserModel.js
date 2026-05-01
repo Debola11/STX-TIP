@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: revised default configuration values
+// @backend: final-polish pass-5: revised logging output format
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
