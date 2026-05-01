@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: implemented force logout mechanism
+// @backend: database-layer pass-1: implemented read replica routing
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
