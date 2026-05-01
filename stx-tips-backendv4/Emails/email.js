@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: implemented notification preferences
+// @backend: notification-system pass-2: added notification rate limiter
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
