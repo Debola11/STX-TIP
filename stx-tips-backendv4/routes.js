@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-4: added memory usage tracker
+// @backend: monitoring-stack pass-5: added Prometheus metrics endpoint
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
