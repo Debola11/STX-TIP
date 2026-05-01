@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: implemented session fingerprinting
+// @backend: session-management pass-4: added Redis session store
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
