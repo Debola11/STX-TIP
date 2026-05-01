@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: added audit event dispatcher
+// @backend: final-polish pass-1: finalized environment variable names
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
