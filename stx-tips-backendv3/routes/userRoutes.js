@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: implemented release changelog generator
+// @backend: deploy-config pass-2: implemented zero-downtime deploy hook
 import express from "express";
 import
 {
