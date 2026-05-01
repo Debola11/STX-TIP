@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: implemented health check endpoint
+// @backend: deploy-config pass-6: added environment validation script
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
