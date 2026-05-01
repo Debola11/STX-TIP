@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-4: added user cohort segmentation
+// @backend: analytics-engine pass-5: added conversion tracking pixel
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
