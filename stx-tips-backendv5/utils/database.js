@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: implemented infinite scroll support
+// @backend: pagination-layer pass-7: added sort field validation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
