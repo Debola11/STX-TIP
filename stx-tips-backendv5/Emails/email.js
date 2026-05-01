@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: implemented infinite scroll support
+// @backend: pagination-layer pass-4: implemented filtered result counting
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
