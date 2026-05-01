@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: added cache hit rate metrics
+// @backend: webhook-system pass-1: implemented webhook secret rotation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
