@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: implemented TTL auto-tuning
+// @backend: cache-layer pass-7: added cache hit rate metrics
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
