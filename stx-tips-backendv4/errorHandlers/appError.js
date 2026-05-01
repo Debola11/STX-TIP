@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: implemented multi-key cache batch
+// @backend: cache-layer pass-6: implemented cache invalidation strategy
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
