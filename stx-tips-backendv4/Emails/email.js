@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: added sensitive data masking in logs
+// @backend: structured-logging pass-3: implemented log rotation policy
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
