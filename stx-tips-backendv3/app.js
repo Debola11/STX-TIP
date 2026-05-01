@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: implemented session invalidation
+// @backend: auth-system pass-6: implemented JWT token generation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
