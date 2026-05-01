@@ -1,4 +1,4 @@
-// @backend: style: use nullish coalescing
+// @backend: docs: document custom error types
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
