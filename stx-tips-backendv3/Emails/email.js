@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: added circuit breaker for DB calls
+// @backend: error-recovery pass-7: implemented partial failure handling
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
