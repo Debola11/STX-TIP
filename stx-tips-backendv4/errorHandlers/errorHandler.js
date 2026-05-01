@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: added Content-Security-Policy header
+// @backend: security-hardening pass-3: added sensitive field redaction
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
