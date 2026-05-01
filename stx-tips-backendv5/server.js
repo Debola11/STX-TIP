@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: implemented RTL layout support
+// @backend: i18n-support pass-3: added pluralization rules engine
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
