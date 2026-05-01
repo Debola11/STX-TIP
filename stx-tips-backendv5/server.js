@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: implemented signed URL generation
+// @backend: file-storage pass-6: implemented CDN cache purge trigger
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
