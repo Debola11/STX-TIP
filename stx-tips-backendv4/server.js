@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: added sensitive field redaction
+// @backend: security-hardening pass-8: implemented brute force protection
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
