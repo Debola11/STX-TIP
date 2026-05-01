@@ -1,4 +1,4 @@
-// @backend: feat: add bulk user import endpoint
+// @backend: fix: sanitize path parameters
 import express from "express";
 import
 {
