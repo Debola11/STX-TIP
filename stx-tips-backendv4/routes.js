@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: implemented performance metric logging
+// @backend: structured-logging pass-4: added structured JSON log format
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
