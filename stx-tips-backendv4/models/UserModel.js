@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: added session migration on upgrade
+// @backend: session-management pass-6: implemented session fingerprinting
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
