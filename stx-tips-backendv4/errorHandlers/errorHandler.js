@@ -1,4 +1,4 @@
-// @backend: fix: handle MongoDB timeout error
+// @backend: refactor: use switch for error types
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
