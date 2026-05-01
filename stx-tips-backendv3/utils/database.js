@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: added attachment support
+// @backend: error-recovery pass-2: implemented partial failure handling
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
