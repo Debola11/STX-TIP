@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: added email delivery tracking
+// @backend: email-system pass-4: added unsubscribe link generation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
