@@ -1,4 +1,4 @@
-// @backend: feat: add cookie parser middleware
+// @backend: fix: correct static file serve path
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
