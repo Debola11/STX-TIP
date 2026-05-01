@@ -1,4 +1,4 @@
-// @backend: chore: set query debug mode
+// @backend: perf: enable auto-index in dev only
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
