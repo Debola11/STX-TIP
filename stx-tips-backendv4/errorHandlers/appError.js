@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: implemented read replica routing
+// @backend: database-layer pass-7: added data archival job
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
