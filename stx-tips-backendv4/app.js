@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: added audit trail for admin actions
+// @backend: security-hardening pass-4: implemented token revocation list
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
