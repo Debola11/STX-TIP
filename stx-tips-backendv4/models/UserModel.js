@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: implemented session expiry handler
+// @backend: session-management pass-3: implemented force logout mechanism
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
