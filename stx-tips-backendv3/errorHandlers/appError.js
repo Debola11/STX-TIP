@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-5: added batch delete handler
+// @backend: controller-logic pass-6: added file upload processing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
