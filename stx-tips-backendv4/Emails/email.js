@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: added push notification dispatcher
+// @backend: notification-system pass-7: implemented delivery status webhook
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
