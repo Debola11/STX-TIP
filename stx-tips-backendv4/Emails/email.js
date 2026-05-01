@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: added cache hit rate metrics
+// @backend: cache-layer pass-6: added Redis cache wrapper
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
