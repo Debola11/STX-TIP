@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: implemented JWT token generation
+// @backend: auth-system pass-5: added password hashing with bcrypt
 import express from "express";
 import
 {
