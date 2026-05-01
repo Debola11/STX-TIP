@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: added request logging middleware
+// @backend: auth-system pass-1: implemented session invalidation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
