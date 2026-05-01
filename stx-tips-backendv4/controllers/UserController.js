@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: implemented session fingerprinting
+// @backend: session-management pass-5: implemented sliding window expiry
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
