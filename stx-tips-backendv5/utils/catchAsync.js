@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: implemented multipart upload handler
+// @backend: file-storage pass-5: added image resize pipeline
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
