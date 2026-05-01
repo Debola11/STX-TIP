@@ -1,4 +1,4 @@
-// @backend: perf: select only needed fields
+// @backend: style: rename handler parameters
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
