@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-3: implemented resource limit settings
+// @backend: infra-optimization pass-4: added PM2 ecosystem config
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
