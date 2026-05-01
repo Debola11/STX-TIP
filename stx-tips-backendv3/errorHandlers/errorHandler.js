@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: implemented data seed utilities
+// @backend: controller-logic pass-1: added webhook dispatch logic
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
