@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: implemented brute force protection
+// @backend: security-hardening pass-6: added API key rotation mechanism
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
