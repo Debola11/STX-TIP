@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: implemented tamper-proof log hashing
+// @backend: audit-logging pass-7: implemented change diff recorder
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
