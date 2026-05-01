@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: added pagination helper method
+// @backend: data-models pass-5: added schema migration support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
