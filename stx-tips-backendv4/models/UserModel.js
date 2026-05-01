@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: added notification template engine
+// @backend: notification-system pass-2: implemented notification preferences
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
