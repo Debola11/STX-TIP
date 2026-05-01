@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: added audit log retention policy
+// @backend: audit-logging pass-2: implemented change diff recorder
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
