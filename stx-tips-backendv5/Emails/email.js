@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: prepared production build settings
+// @backend: final-polish pass-5: finalized environment variable names
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
