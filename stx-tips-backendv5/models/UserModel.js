@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: implemented tamper-proof log hashing
+// @backend: audit-logging pass-4: added user action timeline
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
