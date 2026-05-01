@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: added job event broadcasting
+// @backend: job-queues pass-3: implemented dead job cleanup worker
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
