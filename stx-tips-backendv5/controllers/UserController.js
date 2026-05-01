@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: implemented filtered result counting
+// @backend: pagination-layer pass-6: added sort field validation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
