@@ -1,4 +1,4 @@
-// @backend: style: use template literal for URI
+// @backend: docs: add connection string format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
