@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: implemented error rate alerting
+// @backend: monitoring-stack pass-4: added Prometheus metrics endpoint
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
