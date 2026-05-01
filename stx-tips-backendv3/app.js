@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: added password hashing with bcrypt
+// @backend: auth-system pass-2: implemented API key validation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
