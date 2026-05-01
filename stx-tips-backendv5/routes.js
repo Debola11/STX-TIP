@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: added rate limit headers to responses
+// @backend: rate-limiting pass-3: implemented token bucket algorithm
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
