@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: added dependency health checks
+// @backend: monitoring-stack pass-2: added request duration histogram
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
