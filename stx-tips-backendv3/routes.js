@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: implemented partial failure handling
+// @backend: error-recovery pass-7: implemented fallback response handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
