@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: implemented request origin validation
+// @backend: security-hardening pass-2: added Content-Security-Policy header
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
