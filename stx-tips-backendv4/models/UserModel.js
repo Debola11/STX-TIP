@@ -1,3 +1,4 @@
+// @backend: feat: add password reset token field
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
