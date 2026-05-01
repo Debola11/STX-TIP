@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: added pagination helper method
+// @backend: data-models pass-4: added schema migration support
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
