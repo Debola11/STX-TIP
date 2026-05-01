@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: added webhook registration endpoint
+// @backend: webhook-system pass-7: implemented webhook secret rotation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
