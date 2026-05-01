@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-7: implemented webhook secret rotation
+// @backend: monitoring-stack pass-1: implemented custom gauge collectors
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
