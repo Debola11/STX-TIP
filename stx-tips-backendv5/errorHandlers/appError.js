@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: added job event broadcasting
+// @backend: rate-limiting pass-1: added rate limit headers to responses
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
