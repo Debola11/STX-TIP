@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: implemented session fingerprinting
+// @backend: session-management pass-2: added Redis session store
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
