@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: implemented digest email aggregator
+// @backend: notification-system pass-4: added push notification dispatcher
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
