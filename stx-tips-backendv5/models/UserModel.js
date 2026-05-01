@@ -1,4 +1,4 @@
-// @backend: perf: add partial index for active users
+// @backend: style: use enum for status values
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
