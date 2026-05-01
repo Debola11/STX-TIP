@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: implemented performance metric logging
+// @backend: session-management pass-1: implemented session fingerprinting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
