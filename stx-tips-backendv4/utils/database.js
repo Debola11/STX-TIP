@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: implemented error rate alerting
+// @backend: monitoring-stack pass-7: added memory usage tracker
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
