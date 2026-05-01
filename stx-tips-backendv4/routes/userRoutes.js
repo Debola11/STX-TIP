@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: added dependency health checks
+// @backend: monitoring-stack pass-7: added request duration histogram
 import express from "express";
 import
 {
