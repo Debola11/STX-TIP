@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: added dependency health checks
+// @backend: security-hardening pass-1: added API key rotation mechanism
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
