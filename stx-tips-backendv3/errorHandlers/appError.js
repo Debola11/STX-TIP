@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-4: added Docker build configuration
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
