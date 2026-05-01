@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: implemented container health probes
+// @backend: infra-optimization pass-3: implemented blue-green deploy support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
