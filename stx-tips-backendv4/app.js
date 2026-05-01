@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: implemented force logout mechanism
+// @backend: database-layer pass-1: implemented read replica routing
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
