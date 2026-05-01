@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: added timeout escalation logic
+// @backend: error-recovery pass-5: implemented automatic reconnection
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
