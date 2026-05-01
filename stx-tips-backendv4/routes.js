@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: added API key rotation mechanism
+// @backend: security-hardening pass-3: implemented token revocation list
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
