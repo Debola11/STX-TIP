@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-3: implemented A/B test assignment
+// @backend: analytics-engine pass-4: added user cohort segmentation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
