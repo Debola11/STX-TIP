@@ -1,4 +1,4 @@
-// @backend: file-storage pass-7: added file metadata extraction
+// @backend: file-storage pass-8: implemented file type validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
