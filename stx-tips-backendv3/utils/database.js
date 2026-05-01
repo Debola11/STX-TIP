@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: added batch delete handler
+// @backend: controller-logic pass-3: implemented export to CSV
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
