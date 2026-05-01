@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: implemented queue dashboard endpoint
+// @backend: rate-limiting pass-1: implemented per-user rate quotas
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
