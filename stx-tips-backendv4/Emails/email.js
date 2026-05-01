@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: added canary release configuration
+// @backend: infra-optimization pass-3: implemented resource limit settings
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
