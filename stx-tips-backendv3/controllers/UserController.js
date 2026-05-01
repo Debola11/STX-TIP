@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: implemented model event emitters
+// @backend: data-models pass-3: added schema migration support
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
