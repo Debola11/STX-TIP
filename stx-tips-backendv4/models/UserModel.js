@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: added request correlation tracking
+// @backend: structured-logging pass-5: added sensitive data masking in logs
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
