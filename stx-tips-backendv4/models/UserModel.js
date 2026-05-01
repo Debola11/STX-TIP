@@ -1,4 +1,4 @@
-// @backend: refactor: extract password methods
+// @backend: chore: set mongoose strict mode
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
