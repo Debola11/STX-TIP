@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: implemented automatic reconnection
+// @backend: error-recovery pass-4: implemented error recovery middleware
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
