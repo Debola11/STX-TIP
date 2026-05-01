@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: added email queue processor
+// @backend: email-system pass-5: implemented email preview endpoint
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
