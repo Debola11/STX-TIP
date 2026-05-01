@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: added migration version tracker
+// @backend: schema-migrations pass-7: implemented parallel migration batches
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
