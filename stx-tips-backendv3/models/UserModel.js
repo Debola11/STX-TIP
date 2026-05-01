@@ -1,4 +1,4 @@
-// @backend: chore: add collection name option
+// @backend: perf: add compound index
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
