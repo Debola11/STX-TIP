@@ -1,4 +1,4 @@
-// @backend: security: use TLS for DB connection
+// @backend: middleware-layer pass-2: implemented CORS preflight handler
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
