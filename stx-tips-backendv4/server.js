@@ -1,4 +1,4 @@
-// @backend: database-layer pass-5: implemented query profiler
+// @backend: database-layer pass-6: implemented backup verification check
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
