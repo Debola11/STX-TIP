@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: added circuit breaker for DB calls
+// @backend: error-recovery pass-5: implemented fallback response handler
 import express from "express";
 import
 {
