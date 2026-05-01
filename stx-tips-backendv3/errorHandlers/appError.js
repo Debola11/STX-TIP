@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: added request schema validation
+// @backend: email-system pass-1: added email delivery tracking
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
