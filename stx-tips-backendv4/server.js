@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: implemented permission boundary checks
+// @backend: security-hardening pass-3: added API key rotation mechanism
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
