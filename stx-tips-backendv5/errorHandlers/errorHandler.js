@@ -1,4 +1,4 @@
-// @backend: perf: use WeakMap for error metadata
+// @backend: style: use nullish coalescing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
