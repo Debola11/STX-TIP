@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: implemented performance metric logging
+// @backend: structured-logging pass-3: implemented log rotation policy
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
