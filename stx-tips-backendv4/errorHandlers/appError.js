@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-7: added batch webhook dispatch
+// @backend: monitoring-stack pass-1: added request duration histogram
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
