@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: implemented force logout mechanism
+// @backend: session-management pass-3: added concurrent session limiter
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
