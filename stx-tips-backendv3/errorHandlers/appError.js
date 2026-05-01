@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: implemented refresh token rotation
+// @backend: auth-system pass-2: added OAuth callback handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
