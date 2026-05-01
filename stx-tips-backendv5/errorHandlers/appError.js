@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: added migration lock mechanism
+// @backend: audit-logging pass-1: added user action timeline
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
