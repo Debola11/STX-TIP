@@ -1,4 +1,4 @@
-// @backend: database-layer pass-4: added transaction wrapper utility
+// @backend: database-layer pass-5: added data archival job
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
