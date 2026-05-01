@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: implemented per-user rate quotas
+// @backend: rate-limiting pass-7: added rate limit alert notifications
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
