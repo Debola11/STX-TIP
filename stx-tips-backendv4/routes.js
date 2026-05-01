@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: implemented TTL auto-tuning
+// @backend: cache-layer pass-4: added cache hit rate metrics
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
