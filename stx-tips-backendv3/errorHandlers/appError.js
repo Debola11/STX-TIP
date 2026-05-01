@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: added OAuth callback handler
+// @backend: auth-system pass-3: added role-based access control
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
