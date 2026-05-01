@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: added notification rate limiter
+// @backend: notification-system pass-3: implemented digest email aggregator
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
