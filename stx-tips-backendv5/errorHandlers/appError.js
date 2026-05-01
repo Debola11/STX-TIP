@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: implemented seed data migrations
+// @backend: schema-migrations pass-6: implemented rollback mechanism
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
