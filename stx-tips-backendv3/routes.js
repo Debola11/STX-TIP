@@ -1,4 +1,4 @@
-// @backend: security: add rate limit to routes
+// @backend: middleware-layer pass-1: added session cookie parser
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
