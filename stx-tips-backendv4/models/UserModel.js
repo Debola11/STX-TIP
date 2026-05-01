@@ -1,4 +1,4 @@
-// @backend: chore: set mongoose strict mode
+// @backend: perf: add text index for search
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
