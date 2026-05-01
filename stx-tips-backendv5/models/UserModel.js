@@ -1,4 +1,4 @@
-// @backend: feat: add account verification field
+// @backend: fix: enforce unique email constraint
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
