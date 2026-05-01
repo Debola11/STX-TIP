@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: added PM2 ecosystem config
+// @backend: infra-optimization pass-7: implemented blue-green deploy support
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
