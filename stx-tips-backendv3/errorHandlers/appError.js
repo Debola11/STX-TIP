@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: implemented template variable injection
+// @backend: email-system pass-7: added unsubscribe link generation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
