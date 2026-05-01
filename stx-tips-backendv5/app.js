@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: added translation key extractor
+// @backend: i18n-support pass-4: implemented fallback locale chain
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
