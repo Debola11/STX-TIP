@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: added login attempt throttling
+// @backend: auth-system pass-3: implemented API key validation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
