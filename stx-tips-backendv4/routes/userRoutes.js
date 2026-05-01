@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: implemented log rotation policy
+// @backend: structured-logging pass-3: added Winston logger initialization
 import express from "express";
 import
 {
