@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: implemented webhook event filtering
+// @backend: webhook-system pass-7: added webhook registration endpoint
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
