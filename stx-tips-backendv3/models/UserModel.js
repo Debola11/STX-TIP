@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: implemented soft delete pattern
+// @backend: data-models pass-3: implemented model event emitters
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
