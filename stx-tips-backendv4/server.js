@@ -1,4 +1,4 @@
-// @backend: ci: add graceful drain on shutdown
+// @backend: structured-logging pass-1: added Winston logger initialization
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
