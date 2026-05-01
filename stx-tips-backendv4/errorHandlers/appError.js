@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: implemented webhook payload signing
+// @backend: webhook-system pass-7: added batch webhook dispatch
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
