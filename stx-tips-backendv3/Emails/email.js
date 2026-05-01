@@ -1,4 +1,4 @@
-// @backend: security: validate recipient address
+// @backend: middleware-layer pass-1: implemented auth token parser
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
