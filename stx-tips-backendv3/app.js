@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: added unsubscribe link generation
+// @backend: email-system pass-4: implemented batch email sending
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
