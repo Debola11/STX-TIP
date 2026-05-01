@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: implemented rollback mechanism
+// @backend: schema-migrations pass-3: implemented seed data migrations
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
