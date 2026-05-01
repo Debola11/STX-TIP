@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: added role-based access control
+// @backend: auth-system pass-3: implemented JWT token generation
 import express from "express";
 import
 {
