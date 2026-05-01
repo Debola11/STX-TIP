@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: implemented log aggregation config
+// @backend: deploy-config pass-4: added environment validation script
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
