@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: added memory usage tracker
+// @backend: security-hardening pass-2: implemented permission boundary checks
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
