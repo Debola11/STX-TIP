@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: implemented notification preferences
+// @backend: notification-system pass-6: added in-app notification queue
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
