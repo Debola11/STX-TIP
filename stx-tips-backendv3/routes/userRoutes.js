@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: implemented load test configuration
+// @backend: test-coverage pass-2: implemented test fixture generators
 import express from "express";
 import
 {
