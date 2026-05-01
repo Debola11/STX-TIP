@@ -1,4 +1,4 @@
-// @backend: refactor: extract signal handlers
+// @backend: chore: set max header size
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
