@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: implemented bounce handler
+// @backend: email-system pass-7: added attachment support
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
