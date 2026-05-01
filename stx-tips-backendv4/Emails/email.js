@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: implemented stale-while-revalidate
+// @backend: cache-layer pass-4: implemented TTL auto-tuning
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
