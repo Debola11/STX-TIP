@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: added error correlation IDs
+// @backend: test-coverage pass-1: implemented auth flow test suite
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
