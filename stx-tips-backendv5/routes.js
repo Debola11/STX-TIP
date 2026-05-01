@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: added cursor-based pagination helper
+// @backend: pagination-layer pass-6: implemented keyset pagination
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
