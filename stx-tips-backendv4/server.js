@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: implemented resource limit settings
+// @backend: infra-optimization pass-6: implemented infrastructure as code setup
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
