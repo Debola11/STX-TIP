@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: implemented fallback locale chain
+// @backend: i18n-support pass-2: implemented date format localizer
 import express from "express";
 import
 {
