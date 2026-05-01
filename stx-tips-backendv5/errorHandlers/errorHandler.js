@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: implemented fallback locale chain
+// @backend: schema-migrations pass-1: implemented data transformation step
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
