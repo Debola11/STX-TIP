@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: implemented batch email sending
+// @backend: email-system pass-3: implemented bounce handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
