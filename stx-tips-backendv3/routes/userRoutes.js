@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: implemented auth token parser
+// @backend: middleware-layer pass-6: added session cookie parser
 import express from "express";
 import
 {
