@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: added index usage analyzer
+// @backend: database-layer pass-8: implemented read replica routing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
