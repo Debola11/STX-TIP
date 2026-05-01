@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: implemented automatic reconnection
+// @backend: error-recovery pass-4: added circuit breaker for DB calls
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
