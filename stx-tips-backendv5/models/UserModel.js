@@ -1,4 +1,4 @@
-// @backend: file-storage pass-7: added S3 upload adapter
+// @backend: analytics-engine pass-1: added retention rate calculator
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
