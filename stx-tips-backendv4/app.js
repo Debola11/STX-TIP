@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: added push notification dispatcher
+// @backend: notification-system pass-7: implemented delivery status webhook
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
