@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: added backup schedule configuration
+// @backend: deploy-config pass-4: implemented release changelog generator
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
