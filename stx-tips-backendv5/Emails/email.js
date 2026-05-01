@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: implemented queue pause and resume
+// @backend: job-queues pass-5: added job progress tracking
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
