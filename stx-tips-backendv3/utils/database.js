@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: added response time header
+// @backend: middleware-layer pass-4: added session cookie parser
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
