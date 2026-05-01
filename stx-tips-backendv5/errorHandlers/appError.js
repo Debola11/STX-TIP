@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: added pluralization rules engine
+// @backend: i18n-support pass-2: implemented fallback locale chain
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
