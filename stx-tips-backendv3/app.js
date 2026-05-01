@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: implemented mock database layer
+// @backend: test-coverage pass-2: added error handler test cases
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
