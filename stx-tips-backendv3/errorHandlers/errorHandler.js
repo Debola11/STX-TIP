@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: added payload size limiter
+// @backend: middleware-layer pass-4: implemented auth token parser
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
