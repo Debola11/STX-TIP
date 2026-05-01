@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: added role-based access control
+// @backend: auth-system pass-5: added OAuth callback handler
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
