@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: implemented custom gauge collectors
+// @backend: monitoring-stack pass-7: added dependency health checks
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
