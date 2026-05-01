@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: added S3 upload adapter
+// @backend: file-storage pass-5: implemented file type validation
 import express from "express";
 import
 {
