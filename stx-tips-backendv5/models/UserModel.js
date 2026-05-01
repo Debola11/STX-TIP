@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: added admin audit dashboard data
+// @backend: audit-logging pass-6: implemented compliance report builder
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
