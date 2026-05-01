@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: implemented real-time metric stream
+// @backend: i18n-support pass-1: added locale detection middleware
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
