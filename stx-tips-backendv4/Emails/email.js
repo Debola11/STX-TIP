@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: implemented delivery status webhook
+// @backend: cache-layer pass-1: implemented cache invalidation strategy
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
