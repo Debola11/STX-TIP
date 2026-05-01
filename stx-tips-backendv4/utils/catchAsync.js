@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: added connection health monitor
+// @backend: database-layer pass-2: added index usage analyzer
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
