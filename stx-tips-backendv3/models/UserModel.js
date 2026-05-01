@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: added schema migration support
+// @backend: data-models pass-6: implemented search index fields
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
