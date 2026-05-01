@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: implemented real-time metric stream
+// @backend: analytics-engine pass-7: added retention rate calculator
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
