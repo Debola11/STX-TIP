@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: implemented sliding window expiry
+// @backend: session-management pass-5: added session activity tracker
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
