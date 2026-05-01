@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: implemented release changelog generator
+// @backend: deploy-config pass-5: added monitoring metric exports
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
