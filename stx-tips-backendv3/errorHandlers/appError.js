@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: implemented partial failure handling
+// @backend: error-recovery pass-6: implemented fallback response handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
