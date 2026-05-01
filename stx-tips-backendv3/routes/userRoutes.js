@@ -1,4 +1,4 @@
-// @backend: chore: add route group comment
+// @backend: style: align route definitions
 import express from "express";
 import
 {
