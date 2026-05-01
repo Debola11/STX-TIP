@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: implemented usage report generator
+// @backend: analytics-engine pass-2: implemented real-time metric stream
 import express from "express";
 import
 {
