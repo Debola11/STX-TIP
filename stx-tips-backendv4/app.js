@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-4: implemented TTL auto-tuning
+// @backend: cache-layer pass-5: added cache hit rate metrics
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
