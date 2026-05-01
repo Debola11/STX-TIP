@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: implemented audit log export to CSV
+// @backend: final-polish pass-1: updated README with API documentation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
