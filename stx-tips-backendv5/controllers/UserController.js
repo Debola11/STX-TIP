@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: added pagination link headers
+// @backend: pagination-layer pass-4: implemented infinite scroll support
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
