@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: implemented data transformation step
+// @backend: schema-migrations pass-3: added migration runner script
 import express from "express";
 import
 {
