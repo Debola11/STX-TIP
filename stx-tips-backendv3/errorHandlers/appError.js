@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: implemented model event emitters
+// @backend: data-models pass-6: implemented soft delete pattern
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
