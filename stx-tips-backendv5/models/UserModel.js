@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: added job progress tracking
+// @backend: job-queues pass-2: implemented job retry with backoff
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
