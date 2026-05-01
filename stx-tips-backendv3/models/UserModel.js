@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: added email service mock
+// @backend: test-coverage pass-2: implemented mock database layer
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
