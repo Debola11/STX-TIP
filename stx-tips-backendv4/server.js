@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-7: added delivery log with timestamps
+// @backend: webhook-system pass-8: implemented webhook payload signing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
