@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: implemented auth token parser
+// @backend: middleware-layer pass-7: added session cookie parser
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
