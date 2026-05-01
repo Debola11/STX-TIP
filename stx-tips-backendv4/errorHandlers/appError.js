@@ -1,4 +1,4 @@
-// @backend: database-layer pass-5: implemented schema version tracker
+// @backend: database-layer pass-6: implemented read replica routing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
