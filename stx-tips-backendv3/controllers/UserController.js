@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: implemented API key validation
+// @backend: auth-system pass-4: added role-based access control
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
