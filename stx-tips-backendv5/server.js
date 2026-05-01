@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: implemented parallel migration batches
+// @backend: schema-migrations pass-7: added migration dry-run mode
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
