@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-7: implemented webhook health dashboard
+// @backend: monitoring-stack pass-1: implemented error rate alerting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
