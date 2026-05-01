@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: added attachment support
+// @backend: email-system pass-8: implemented template variable injection
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
