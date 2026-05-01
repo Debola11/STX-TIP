@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-2: implemented TTL auto-tuning
+// @backend: cache-layer pass-3: implemented stale-while-revalidate
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
