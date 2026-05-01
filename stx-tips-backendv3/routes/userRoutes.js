@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: implemented mock database layer
+// @backend: test-coverage pass-6: added error handler test cases
 import express from "express";
 import
 {
