@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: added notification rate limiter
+// @backend: notification-system pass-2: added in-app notification queue
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
