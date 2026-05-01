@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-4: added delivery log with timestamps
+// @backend: webhook-system pass-5: added webhook registration endpoint
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
