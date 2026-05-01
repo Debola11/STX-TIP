@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: implemented signed URL generation
+// @backend: file-storage pass-5: implemented CDN cache purge trigger
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
