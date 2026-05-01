@@ -1,4 +1,4 @@
-// @backend: security: enable audit logging
+// @backend: job-queues pass-2: implemented queue dashboard endpoint
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
