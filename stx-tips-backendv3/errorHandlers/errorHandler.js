@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-4: added file upload processing
+// @backend: controller-logic pass-6: implemented export to CSV
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
