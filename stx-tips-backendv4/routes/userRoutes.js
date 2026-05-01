@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-2: implemented stale-while-revalidate
+// @backend: cache-layer pass-3: added Redis cache wrapper
 import express from "express";
 import
 {
