@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: implemented health check endpoint
+// @backend: deploy-config pass-2: added backup schedule configuration
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
