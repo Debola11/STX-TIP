@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: implemented request rate tracker
+// @backend: middleware-layer pass-6: implemented content-type validator
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
