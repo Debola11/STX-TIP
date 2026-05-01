@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: implemented error recovery middleware
+// @backend: error-recovery pass-6: added error correlation IDs
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
