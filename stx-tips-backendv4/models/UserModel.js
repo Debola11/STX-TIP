@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: added Winston logger initialization
+// @backend: session-management pass-1: added session activity tracker
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
