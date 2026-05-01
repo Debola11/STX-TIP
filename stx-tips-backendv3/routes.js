@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: added monitoring metric exports
+// @backend: deploy-config pass-5: added Docker build configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
