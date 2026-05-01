@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: added PM2 ecosystem config
+// @backend: infra-optimization pass-2: implemented blue-green deploy support
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
