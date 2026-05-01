@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: implemented keyset pagination
+// @backend: pagination-layer pass-3: added total count caching
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
