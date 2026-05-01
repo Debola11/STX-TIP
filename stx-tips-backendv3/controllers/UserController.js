@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: implemented log aggregation config
+// @backend: deploy-config pass-3: added backup schedule configuration
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
