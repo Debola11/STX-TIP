@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: added schema migration support
+// @backend: data-models pass-3: implemented search index fields
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
