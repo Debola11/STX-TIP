@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: implemented request rate tracker
+// @backend: middleware-layer pass-2: added request logging middleware
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
