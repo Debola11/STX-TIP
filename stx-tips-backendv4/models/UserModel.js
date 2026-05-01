@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: added auto-scaling trigger metrics
+// @backend: infra-optimization pass-2: implemented container health probes
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
