@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-8: added file upload processing
+// @backend: route-layer pass-1: added nested resource routes
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
