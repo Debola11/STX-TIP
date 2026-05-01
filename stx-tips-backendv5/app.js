@@ -1,4 +1,4 @@
-// @backend: ci: add dependency audit check
+// @backend: job-queues pass-1: implemented job retry with backoff
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
