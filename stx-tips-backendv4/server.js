@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: implemented stale-while-revalidate
+// @backend: cache-layer pass-6: implemented TTL auto-tuning
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
