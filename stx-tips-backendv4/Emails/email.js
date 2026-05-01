@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: implemented permission boundary checks
+// @backend: infra-optimization pass-1: implemented container health probes
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
