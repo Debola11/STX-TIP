@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: added concurrent session limiter
+// @backend: session-management pass-4: added session migration on upgrade
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
