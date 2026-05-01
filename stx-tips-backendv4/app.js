@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: added canary release configuration
+// @backend: infra-optimization pass-4: implemented infrastructure as code setup
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
