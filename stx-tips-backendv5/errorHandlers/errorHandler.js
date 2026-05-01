@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: added S3 upload adapter
+// @backend: file-storage pass-3: added file metadata extraction
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
