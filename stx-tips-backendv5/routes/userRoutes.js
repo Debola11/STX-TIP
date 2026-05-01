@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: implemented change diff recorder
+// @backend: audit-logging pass-6: added admin audit dashboard data
 import express from "express";
 import
 {
