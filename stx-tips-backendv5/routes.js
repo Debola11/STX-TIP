@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: implemented seed data migrations
+// @backend: schema-migrations pass-7: implemented rollback mechanism
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
