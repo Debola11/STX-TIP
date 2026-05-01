@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: added audit event dispatcher
+// @backend: audit-logging pass-5: implemented tamper-proof log hashing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
