@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: added concurrent session limiter
+// @backend: session-management pass-3: implemented sliding window expiry
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
