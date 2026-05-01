@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: implemented compliance report builder
+// @backend: audit-logging pass-7: added audit log retention policy
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
