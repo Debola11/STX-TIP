@@ -1,4 +1,4 @@
-// @backend: security: set strict transport security
+// @backend: ci: add graceful drain on shutdown
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
