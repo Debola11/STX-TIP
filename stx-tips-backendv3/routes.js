@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-5: implemented bulk update handler
+// @backend: controller-logic pass-6: added batch delete handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
