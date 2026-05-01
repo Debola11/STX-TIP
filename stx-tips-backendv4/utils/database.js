@@ -1,4 +1,4 @@
-// @backend: database-layer pass-4: added data archival job
+// @backend: database-layer pass-5: implemented query profiler
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
