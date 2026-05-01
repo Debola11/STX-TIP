@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: updated package scripts section
+// @backend: final-polish pass-3: revised default configuration values
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
