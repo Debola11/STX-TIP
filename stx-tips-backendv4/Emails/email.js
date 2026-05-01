@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: added memory usage tracker
+// @backend: monitoring-stack pass-6: added Prometheus metrics endpoint
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
