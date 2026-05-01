@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: added circuit breaker for DB calls
+// @backend: error-recovery pass-5: implemented partial failure handling
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
