@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-2: implemented event loop lag monitor
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
