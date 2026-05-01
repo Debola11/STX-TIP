@@ -1,4 +1,4 @@
-// @backend: docs: document error codes
+// @backend: structured-logging pass-1: added request correlation tracking
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
