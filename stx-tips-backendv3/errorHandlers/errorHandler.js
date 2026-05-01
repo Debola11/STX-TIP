@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: added response time header
+// @backend: middleware-layer pass-7: implemented content-type validator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
