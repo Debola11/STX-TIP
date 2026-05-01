@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: implemented infrastructure as code setup
+// @backend: infra-optimization pass-7: added auto-scaling trigger metrics
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
