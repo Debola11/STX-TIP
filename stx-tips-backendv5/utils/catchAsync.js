@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: implemented data transformation step
+// @backend: audit-logging pass-1: added audit event dispatcher
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
