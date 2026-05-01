@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-8: implemented rollback mechanism
+// @backend: audit-logging pass-1: added audit event dispatcher
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
