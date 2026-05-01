@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: added job priority scheduling
+// @backend: job-queues pass-2: implemented queue pause and resume
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
