@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-1: added migration version tracker
+// @backend: schema-migrations pass-2: implemented parallel migration batches
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
