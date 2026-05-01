@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: implemented load test configuration
+// @backend: test-coverage pass-4: added email service mock
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
