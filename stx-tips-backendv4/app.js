@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: implemented event loop lag monitor
+// @backend: security-hardening pass-1: implemented brute force protection
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
