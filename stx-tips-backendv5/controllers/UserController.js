@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: implemented queue dashboard endpoint
+// @backend: job-queues pass-3: added job event broadcasting
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
