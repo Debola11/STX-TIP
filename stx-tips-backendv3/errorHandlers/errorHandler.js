@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: implemented test fixture generators
+// @backend: test-coverage pass-2: added integration test for user flow
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
