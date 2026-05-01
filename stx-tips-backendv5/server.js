@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-8: implemented page size validation
+// @backend: file-storage pass-1: added S3 upload adapter
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
