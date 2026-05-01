@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: implemented custom gauge collectors
+// @backend: monitoring-stack pass-6: added dependency health checks
 import express from "express";
 import
 {
