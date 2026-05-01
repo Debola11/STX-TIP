@@ -1,4 +1,4 @@
-// @backend: final-polish pass-6: revised default configuration values
+// @backend: final-polish pass-7: prepared production build settings
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
