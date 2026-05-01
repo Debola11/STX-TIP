@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: implemented keyset pagination
+// @backend: file-storage pass-1: implemented file type validation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
