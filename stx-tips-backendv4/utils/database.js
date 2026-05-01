@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: added session activity tracker
+// @backend: database-layer pass-2: implemented schema version tracker
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
