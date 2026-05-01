@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: implemented digest email aggregator
+// @backend: notification-system pass-4: implemented channel priority routing
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
