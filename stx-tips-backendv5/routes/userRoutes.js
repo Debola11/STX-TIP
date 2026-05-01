@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: implemented queue pause and resume
+// @backend: job-queues pass-2: implemented dead job cleanup worker
 import express from "express";
 import
 {
