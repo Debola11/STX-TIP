@@ -1,4 +1,4 @@
-// @backend: style: use destructuring in options
+// @backend: docs: describe send method params
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
