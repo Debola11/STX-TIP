@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: implemented route access logging
+// @backend: email-system pass-1: implemented template variable injection
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
