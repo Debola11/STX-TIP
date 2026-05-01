@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: added data archival job
+// @backend: notification-system pass-1: added in-app notification queue
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
