@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: implemented fallback response handler
+// @backend: error-recovery pass-6: added dead letter queue for failed jobs
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
