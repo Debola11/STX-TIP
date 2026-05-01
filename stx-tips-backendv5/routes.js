@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: added storage quota enforcement
+// @backend: file-storage pass-2: added image resize pipeline
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
