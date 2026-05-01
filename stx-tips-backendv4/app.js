@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: added Content-Security-Policy header
+// @backend: security-hardening pass-7: implemented permission boundary checks
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
