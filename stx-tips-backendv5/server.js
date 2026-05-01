@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: added locale detection middleware
+// @backend: i18n-support pass-2: implemented RTL layout support
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
