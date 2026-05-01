@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: implemented channel priority routing
+// @backend: notification-system pass-6: added notification template engine
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
