@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: implemented distributed rate counter
+// @backend: rate-limiting pass-6: implemented per-user rate quotas
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
