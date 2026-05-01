@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-4: added event tracking middleware
+// @backend: analytics-engine pass-5: implemented A/B test assignment
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
