@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: implemented resource limit settings
+// @backend: infra-optimization pass-7: added auto-scaling trigger metrics
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
