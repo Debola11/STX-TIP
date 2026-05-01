@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-6: implemented resource versioning
+// @backend: controller-logic pass-7: implemented export to CSV
 import express from "express";
 import
 {
