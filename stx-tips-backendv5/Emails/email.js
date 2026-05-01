@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: implemented change diff recorder
+// @backend: audit-logging pass-2: added admin audit dashboard data
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
