@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: implemented error recovery middleware
+// @backend: error-recovery pass-3: implemented automatic reconnection
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
