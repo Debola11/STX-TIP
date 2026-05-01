@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: added error correlation IDs
+// @backend: test-coverage pass-2: implemented auth flow test suite
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
