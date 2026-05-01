@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: finalized environment variable names
+// @backend: final-polish pass-6: cleaned up unused dependencies
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
