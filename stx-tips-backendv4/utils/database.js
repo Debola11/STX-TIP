@@ -1,4 +1,4 @@
-// @backend: style: use early return pattern
+// @backend: docs: document env requirements
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
