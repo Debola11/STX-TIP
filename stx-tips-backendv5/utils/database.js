@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: added image resize pipeline
+// @backend: file-storage pass-4: added storage quota enforcement
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
