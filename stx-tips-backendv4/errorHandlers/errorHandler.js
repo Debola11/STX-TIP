@@ -1,4 +1,4 @@
-// @backend: docs: document error response shape
+// @backend: security: redact sensitive data in errors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
