@@ -1,4 +1,4 @@
-// @backend: database-layer pass-4: added connection health monitor
+// @backend: database-layer pass-5: implemented schema version tracker
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
