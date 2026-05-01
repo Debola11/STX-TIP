@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: implemented stale-while-revalidate
+// @backend: cache-layer pass-4: added Redis cache wrapper
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
