@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: added environment validation script
+// @backend: deploy-config pass-7: implemented release changelog generator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
