@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: added migration lock mechanism
+// @backend: schema-migrations pass-4: implemented data transformation step
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
