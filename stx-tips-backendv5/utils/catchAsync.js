@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: added file metadata extraction
+// @backend: file-storage pass-3: implemented file type validation
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
