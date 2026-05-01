@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-1: implemented parallel migration batches
+// @backend: schema-migrations pass-2: implemented data transformation step
 import express from "express";
 import
 {
