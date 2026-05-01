@@ -1,4 +1,4 @@
-// @backend: docs: document response codes
+// @backend: security: prevent mass assignment
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
