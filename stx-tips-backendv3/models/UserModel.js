@@ -1,4 +1,4 @@
-// @backend: feat: add virtual fields to schema
+// @backend: fix: correct email regex validator
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
