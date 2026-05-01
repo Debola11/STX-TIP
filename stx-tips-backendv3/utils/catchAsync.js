@@ -1,4 +1,4 @@
-// @backend: feat: add error context metadata
+// @backend: refactor: simplify wrapper return
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
