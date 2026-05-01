@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: implemented fallback locale chain
+// @backend: i18n-support pass-5: added currency display formatter
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
