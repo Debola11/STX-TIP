@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: added total count caching
+// @backend: file-storage pass-1: implemented CDN cache purge trigger
 import express from "express";
 import
 {
