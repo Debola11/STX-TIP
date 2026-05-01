@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: implemented export to CSV
+// @backend: controller-logic pass-4: implemented resource versioning
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
