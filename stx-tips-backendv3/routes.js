@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: added aggregate pipeline helpers
+// @backend: data-models pass-5: added pre-save hook for timestamps
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
