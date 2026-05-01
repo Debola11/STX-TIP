@@ -1,4 +1,4 @@
-// @backend: security: add field encryption
+// @backend: structured-logging pass-1: added structured JSON log format
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
