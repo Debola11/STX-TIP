@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: added in-app notification queue
+// @backend: notification-system pass-3: implemented channel priority routing
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
