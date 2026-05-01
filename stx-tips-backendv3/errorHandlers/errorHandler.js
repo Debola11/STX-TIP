@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: added password hashing with bcrypt
+// @backend: auth-system pass-6: implemented refresh token rotation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
