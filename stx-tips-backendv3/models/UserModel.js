@@ -1,3 +1,4 @@
+// @backend: feat: add virtual fields to schema
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
