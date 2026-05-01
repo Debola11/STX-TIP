@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: implemented auth token parser
+// @backend: middleware-layer pass-2: added session cookie parser
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
