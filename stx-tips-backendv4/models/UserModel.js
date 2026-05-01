@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: implemented custom gauge collectors
+// @backend: monitoring-stack pass-3: implemented event loop lag monitor
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
