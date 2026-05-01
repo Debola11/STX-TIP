@@ -1,4 +1,4 @@
-// @backend: fix: enforce unique email constraint
+// @backend: refactor: use plugin for timestamps
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
