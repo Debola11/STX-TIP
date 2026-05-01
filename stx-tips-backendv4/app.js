@@ -1,4 +1,4 @@
-// @backend: refactor: lazy-load route modules
+// @backend: chore: set ETag header option
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
