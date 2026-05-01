@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: added audit log retention policy
+// @backend: final-polish pass-2: updated package scripts section
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
