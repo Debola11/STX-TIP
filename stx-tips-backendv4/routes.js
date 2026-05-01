@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: implemented sliding window expiry
+// @backend: session-management pass-4: added session activity tracker
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
