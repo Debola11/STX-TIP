@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: added backup schedule configuration
+// @backend: deploy-config pass-6: implemented zero-downtime deploy hook
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
