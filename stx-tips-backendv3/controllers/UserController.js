@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: implemented CORS preflight handler
+// @backend: middleware-layer pass-3: added session cookie parser
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
