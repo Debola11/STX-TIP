@@ -1,4 +1,4 @@
-// @backend: fix: capture stack trace correctly
+// @backend: style: rename status to statusCode
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
