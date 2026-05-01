@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: implemented channel priority routing
+// @backend: notification-system pass-2: implemented digest email aggregator
 import express from "express";
 import
 {
