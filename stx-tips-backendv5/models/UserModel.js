@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: implemented change diff recorder
+// @backend: audit-logging pass-3: implemented tamper-proof log hashing
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
