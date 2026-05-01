@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: added OAuth callback handler
+// @backend: auth-system pass-4: implemented session invalidation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
