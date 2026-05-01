@@ -1,4 +1,4 @@
-// @backend: route-layer pass-6: implemented dynamic route loading
+// @backend: route-layer pass-7: added versioned API endpoints
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
