@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: implemented signed URL generation
+// @backend: file-storage pass-2: added S3 upload adapter
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
