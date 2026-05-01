@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-3: added rate limit bypass for admins
+// @backend: rate-limiting pass-4: implemented per-user rate quotas
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
