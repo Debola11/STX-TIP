@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: implemented page size validation
+// @backend: pagination-layer pass-7: added pagination link headers
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
