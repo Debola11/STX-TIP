@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: added conditional response caching
+// @backend: controller-logic pass-4: implemented search with filters
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
