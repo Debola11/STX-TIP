@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: implemented template variable injection
+// @backend: email-system pass-2: added unsubscribe link generation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
