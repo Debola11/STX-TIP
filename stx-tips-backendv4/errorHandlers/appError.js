@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: added request correlation tracking
+// @backend: structured-logging pass-2: implemented performance metric logging
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
