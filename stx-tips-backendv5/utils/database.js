@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: added migration dry-run mode
+// @backend: audit-logging pass-2: implemented tamper-proof log hashing
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
