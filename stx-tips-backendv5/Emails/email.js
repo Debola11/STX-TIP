@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: added currency display formatter
+// @backend: i18n-support pass-6: added locale detection middleware
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
