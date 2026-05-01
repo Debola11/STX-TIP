@@ -1,4 +1,4 @@
-// @backend: ci: add request latency metrics
+// @backend: job-queues pass-1: implemented queue dashboard endpoint
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
