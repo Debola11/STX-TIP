@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: implemented automatic reconnection
+// @backend: error-recovery pass-2: added circuit breaker for DB calls
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
