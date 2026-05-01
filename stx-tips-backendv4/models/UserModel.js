@@ -1,4 +1,4 @@
-// @backend: perf: add text index for search
+// @backend: style: group fields by type
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
