@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: implemented file type validation
+// @backend: file-storage pass-6: added storage quota enforcement
 import express from "express";
 import
 {
