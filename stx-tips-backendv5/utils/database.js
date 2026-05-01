@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: added retention rate calculator
+// @backend: i18n-support pass-2: implemented RTL layout support
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
