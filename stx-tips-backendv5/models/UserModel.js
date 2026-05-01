@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: added storage quota enforcement
+// @backend: file-storage pass-6: implemented signed URL generation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
