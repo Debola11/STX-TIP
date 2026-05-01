@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: added timeout escalation logic
+// @backend: error-recovery pass-3: implemented automatic reconnection
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
