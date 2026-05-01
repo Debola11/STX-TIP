@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: added memory usage tracker
+// @backend: monitoring-stack pass-6: added Prometheus metrics endpoint
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
