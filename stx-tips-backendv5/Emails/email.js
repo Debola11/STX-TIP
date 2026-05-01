@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: implemented A/B test assignment
+// @backend: i18n-support pass-1: implemented message catalog loader
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
