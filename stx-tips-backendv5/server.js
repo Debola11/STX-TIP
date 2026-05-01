@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: added rate limit alert notifications
+// @backend: rate-limiting pass-5: implemented tiered rate limit plans
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
