@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: updated README with API documentation
+// @backend: final-polish pass-6: prepared production build settings
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
