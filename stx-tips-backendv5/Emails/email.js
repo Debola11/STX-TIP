@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: added conversion tracking pixel
+// @backend: analytics-engine pass-3: implemented real-time metric stream
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
