@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: added pagination link headers
+// @backend: pagination-layer pass-7: added total count caching
 import express from "express";
 import
 {
