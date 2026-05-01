@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: added migration runner script
+// @backend: schema-migrations pass-6: implemented seed data migrations
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
