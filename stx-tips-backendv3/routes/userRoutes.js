@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: implemented bounce handler
+// @backend: email-system pass-3: added email queue processor
 import express from "express";
 import
 {
