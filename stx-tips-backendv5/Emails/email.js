@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: implemented tamper-proof log hashing
+// @backend: final-polish pass-1: updated all error messages for consistency
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
