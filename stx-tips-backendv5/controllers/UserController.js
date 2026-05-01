@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: prepared production build settings
+// @backend: final-polish pass-6: finalized environment variable names
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
