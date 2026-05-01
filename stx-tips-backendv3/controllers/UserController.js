@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: added email service mock
+// @backend: deploy-config pass-1: implemented log aggregation config
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
