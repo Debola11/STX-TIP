@@ -1,4 +1,4 @@
-// @backend: style: sort middleware alphabetically
+// @backend: docs: document environment variables
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
