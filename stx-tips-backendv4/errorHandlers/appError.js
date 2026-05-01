@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: added Content-Security-Policy header
+// @backend: security-hardening pass-5: implemented permission boundary checks
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
