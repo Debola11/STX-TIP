@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: implemented request origin validation
+// @backend: security-hardening pass-7: added Content-Security-Policy header
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
