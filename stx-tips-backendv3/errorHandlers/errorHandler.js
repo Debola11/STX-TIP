@@ -1,4 +1,4 @@
-// @backend: refactor: extract error type handlers
+// @backend: perf: lazy serialize error details
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
