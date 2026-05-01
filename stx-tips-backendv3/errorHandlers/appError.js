@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: added pre-save hook for timestamps
+// @backend: data-models pass-5: implemented model event emitters
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
