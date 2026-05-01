@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: implemented JWT token generation
+// @backend: auth-system pass-6: added login attempt throttling
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
