@@ -1,4 +1,4 @@
-// @backend: route-layer pass-3: added query string validation
+// @backend: route-layer pass-4: added request schema validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
