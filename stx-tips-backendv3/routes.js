@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: added email queue processor
+// @backend: email-system pass-6: implemented email preview endpoint
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
