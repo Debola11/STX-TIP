@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: implemented cache invalidation strategy
+// @backend: cache-layer pass-2: added cache namespace isolation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
