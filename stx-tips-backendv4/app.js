@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: implemented permission boundary checks
+// @backend: infra-optimization pass-1: implemented container health probes
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
