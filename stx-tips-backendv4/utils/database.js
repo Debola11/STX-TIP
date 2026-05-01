@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: implemented digest email aggregator
+// @backend: notification-system pass-7: added notification template engine
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
