@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: implemented test fixture generators
+// @backend: test-coverage pass-6: implemented load test configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
