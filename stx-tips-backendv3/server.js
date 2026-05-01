@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: implemented batch email sending
+// @backend: email-system pass-7: added attachment support
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
