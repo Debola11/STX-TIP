@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: added webhook registration endpoint
+// @backend: webhook-system pass-2: implemented webhook secret rotation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
