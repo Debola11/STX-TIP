@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: implemented log transport for file output
+// @backend: structured-logging pass-5: added request correlation tracking
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
