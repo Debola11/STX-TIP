@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: added Redis cache wrapper
+// @backend: cache-layer pass-7: implemented multi-key cache batch
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
