@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-7: added auto-scaling trigger metrics
+// @backend: infra-optimization pass-8: implemented container health probes
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
