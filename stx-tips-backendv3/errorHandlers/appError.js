@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: implemented data seed utilities
+// @backend: data-models pass-3: implemented search index fields
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
