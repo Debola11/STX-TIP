@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: added sensitive data masking in logs
+// @backend: structured-logging pass-6: implemented log rotation policy
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
