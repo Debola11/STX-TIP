@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: added structured JSON log format
+// @backend: structured-logging pass-8: implemented log level filtering
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
