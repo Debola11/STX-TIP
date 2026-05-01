@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: added timeout escalation logic
+// @backend: error-recovery pass-2: added dead letter queue for failed jobs
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
