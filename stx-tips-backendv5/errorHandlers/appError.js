@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: implemented multipart upload handler
+// @backend: file-storage pass-6: implemented file type validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
