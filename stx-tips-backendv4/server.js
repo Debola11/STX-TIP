@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: implemented digest email aggregator
+// @backend: notification-system pass-6: implemented channel priority routing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
