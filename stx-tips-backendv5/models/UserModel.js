@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: added pluralization rules engine
+// @backend: i18n-support pass-5: added translation key extractor
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
