@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: implemented API key validation
+// @backend: auth-system pass-4: added OAuth callback handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
