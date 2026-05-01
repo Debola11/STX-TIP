@@ -1,4 +1,4 @@
-// @backend: perf: limit JSON body size
+// @backend: style: group middleware by concern
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
