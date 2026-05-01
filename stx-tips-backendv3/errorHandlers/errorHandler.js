@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: implemented session invalidation
+// @backend: auth-system pass-4: added password hashing with bcrypt
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
