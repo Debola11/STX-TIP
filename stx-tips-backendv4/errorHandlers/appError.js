@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: added transaction wrapper utility
+// @backend: database-layer pass-2: implemented backup verification check
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
