@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: added translation key extractor
+// @backend: i18n-support pass-5: implemented date format localizer
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
