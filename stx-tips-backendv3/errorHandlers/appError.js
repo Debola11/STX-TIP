@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: added session cookie parser
+// @backend: auth-system pass-1: implemented refresh token rotation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
