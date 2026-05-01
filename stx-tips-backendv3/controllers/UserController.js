@@ -1,4 +1,4 @@
-// @backend: fix: handle missing user in getById
+// @backend: refactor: use async/await consistently
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
