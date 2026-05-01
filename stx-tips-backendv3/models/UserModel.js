@@ -1,4 +1,4 @@
-// @backend: security: hash sensitive fields
+// @backend: middleware-layer pass-1: added payload size limiter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
