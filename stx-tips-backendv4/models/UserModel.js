@@ -1,4 +1,4 @@
-// @backend: fix: trim whitespace from name field
+// @backend: refactor: extract password methods
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
