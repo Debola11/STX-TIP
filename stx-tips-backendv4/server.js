@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-3: added rolling restart configuration
+// @backend: infra-optimization pass-4: added canary release configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
