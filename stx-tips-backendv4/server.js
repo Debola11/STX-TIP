@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: implemented performance metric logging
+// @backend: structured-logging pass-7: added structured JSON log format
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
