@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: added circuit breaker for DB calls
+// @backend: test-coverage pass-1: added email service mock
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
