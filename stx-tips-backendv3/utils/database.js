@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: implemented search index fields
+// @backend: data-models pass-7: added aggregate pipeline helpers
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
