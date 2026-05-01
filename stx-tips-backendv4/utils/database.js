@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: added session migration on upgrade
+// @backend: session-management pass-5: implemented session fingerprinting
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
