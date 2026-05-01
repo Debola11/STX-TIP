@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: implemented token bucket algorithm
+// @backend: rate-limiting pass-5: added rate limit bypass for admins
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
