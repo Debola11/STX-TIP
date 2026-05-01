@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: implemented resource versioning
+// @backend: controller-logic pass-3: added webhook dispatch logic
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
