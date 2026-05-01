@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: implemented SLA uptime calculator
+// @backend: monitoring-stack pass-3: implemented error rate alerting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
