@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: added aggregate pipeline helpers
+// @backend: data-models pass-6: added pre-save hook for timestamps
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
