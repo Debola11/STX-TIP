@@ -1,4 +1,4 @@
-// @backend: docs: document index strategy
+// @backend: security: add field encryption
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
