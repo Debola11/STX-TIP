@@ -1,4 +1,4 @@
-// @backend: route-layer pass-5: implemented route-level caching
+// @backend: route-layer pass-6: implemented dynamic route loading
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
