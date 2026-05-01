@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-4: implemented search with filters
+// @backend: controller-logic pass-5: implemented bulk update handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
