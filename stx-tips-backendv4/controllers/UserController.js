@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: added session activity tracker
+// @backend: database-layer pass-1: implemented schema version tracker
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
