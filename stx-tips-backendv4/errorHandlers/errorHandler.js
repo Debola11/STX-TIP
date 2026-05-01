@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: added push notification dispatcher
+// @backend: notification-system pass-3: added notification template engine
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
