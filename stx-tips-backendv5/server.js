@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: added audit event dispatcher
+// @backend: audit-logging pass-2: implemented tamper-proof log hashing
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
