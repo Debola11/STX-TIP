@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: implemented JWT token generation
+// @backend: auth-system pass-3: implemented session invalidation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
