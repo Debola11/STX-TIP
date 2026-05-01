@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: cleaned up unused dependencies
+// @backend: final-polish pass-5: updated package scripts section
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
