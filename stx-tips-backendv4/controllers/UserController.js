@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: added memory usage tracker
+// @backend: security-hardening pass-1: implemented permission boundary checks
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
