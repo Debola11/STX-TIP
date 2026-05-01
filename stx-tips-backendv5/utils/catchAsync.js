@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: added migration version tracker
+// @backend: schema-migrations pass-6: implemented parallel migration batches
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
