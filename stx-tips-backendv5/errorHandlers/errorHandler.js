@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: implemented filtered result counting
+// @backend: file-storage pass-1: implemented signed URL generation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
