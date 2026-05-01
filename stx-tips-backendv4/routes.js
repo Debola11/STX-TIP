@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: implemented schema version tracker
+// @backend: database-layer pass-7: implemented read replica routing
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
