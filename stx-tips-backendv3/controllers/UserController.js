@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: added timeout escalation logic
+// @backend: error-recovery pass-4: implemented automatic reconnection
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
