@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: implemented bounce handler
+// @backend: email-system pass-5: implemented batch email sending
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
