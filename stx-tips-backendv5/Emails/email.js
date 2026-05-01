@@ -1,4 +1,4 @@
-// @backend: fix: handle invalid recipient format
+// @backend: refactor: use strategy for providers
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
