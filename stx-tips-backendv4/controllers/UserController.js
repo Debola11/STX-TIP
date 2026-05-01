@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: implemented permission boundary checks
+// @backend: security-hardening pass-3: added audit trail for admin actions
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
