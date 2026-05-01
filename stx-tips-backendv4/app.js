@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: added Redis session store
+// @backend: session-management pass-7: implemented force logout mechanism
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
