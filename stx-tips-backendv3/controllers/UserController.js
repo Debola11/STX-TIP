@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: added schema migration support
+// @backend: data-models pass-4: implemented search index fields
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
