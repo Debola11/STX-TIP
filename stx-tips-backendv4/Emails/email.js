@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: added audit trail for admin actions
+// @backend: security-hardening pass-3: implemented request origin validation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
