@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: added currency display formatter
+// @backend: i18n-support pass-8: implemented message catalog loader
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
