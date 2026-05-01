@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: implemented multipart upload handler
+// @backend: file-storage pass-7: implemented file type validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
