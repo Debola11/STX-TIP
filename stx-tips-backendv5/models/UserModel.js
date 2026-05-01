@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: implemented multipart upload handler
+// @backend: file-storage pass-4: added image resize pipeline
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
