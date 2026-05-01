@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-4: added retry queue for failed webhooks
+// @backend: webhook-system pass-5: added batch webhook dispatch
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
