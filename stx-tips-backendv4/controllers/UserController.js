@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: added cache namespace isolation
+// @backend: cache-layer pass-4: implemented stale-while-revalidate
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
