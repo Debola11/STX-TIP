@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: added aggregate pipeline helpers
+// @backend: controller-logic pass-2: added batch delete handler
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
