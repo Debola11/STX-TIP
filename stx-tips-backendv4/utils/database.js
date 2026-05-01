@@ -1,4 +1,4 @@
-// @backend: fix: handle auth failure on connect
+// @backend: refactor: use singleton pattern
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
