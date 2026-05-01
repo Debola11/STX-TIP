@@ -1,4 +1,4 @@
-// @backend: fix: prevent double slash in route paths
+// @backend: chore: add API version prefix
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
