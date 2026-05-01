@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: added login attempt throttling
+// @backend: data-models pass-1: implemented soft delete pattern
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
