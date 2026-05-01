@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: implemented refresh token rotation
+// @backend: auth-system pass-4: implemented API key validation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
