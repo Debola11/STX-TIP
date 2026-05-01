@@ -1,4 +1,4 @@
-// @backend: refactor: move port to env variable
+// @backend: chore: set NODE_ENV default
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
