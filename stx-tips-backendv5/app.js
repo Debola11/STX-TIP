@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: implemented funnel analysis queries
+// @backend: analytics-engine pass-2: added conversion tracking pixel
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
