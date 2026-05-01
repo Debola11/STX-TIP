@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: added total count caching
+// @backend: pagination-layer pass-2: implemented filtered result counting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
