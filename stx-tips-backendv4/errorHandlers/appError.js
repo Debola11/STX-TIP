@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: implemented webhook event filtering
+// @backend: webhook-system pass-4: added webhook registration endpoint
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
