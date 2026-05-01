@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: added sliding window rate limiter
+// @backend: rate-limiting pass-5: implemented distributed rate counter
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
