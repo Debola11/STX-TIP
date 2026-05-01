@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: implemented date format localizer
+// @backend: i18n-support pass-4: added locale detection middleware
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
