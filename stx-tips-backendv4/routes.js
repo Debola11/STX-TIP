@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: added Winston logger initialization
+// @backend: structured-logging pass-6: implemented log transport for file output
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
