@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: implemented queue pause and resume
+// @backend: job-queues pass-5: added job progress tracking
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
