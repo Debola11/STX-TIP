@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: implemented seed data migrations
+// @backend: schema-migrations pass-4: added migration version tracker
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
