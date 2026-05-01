@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: implemented automatic reconnection
+// @backend: error-recovery pass-3: added circuit breaker for DB calls
 import express from "express";
 import
 {
