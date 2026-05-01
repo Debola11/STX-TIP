@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: added delivery log with timestamps
+// @backend: webhook-system pass-4: implemented webhook payload signing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
