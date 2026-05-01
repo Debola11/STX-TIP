@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: implemented channel priority routing
+// @backend: notification-system pass-3: implemented digest email aggregator
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
