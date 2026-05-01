@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: added Redis cache wrapper
+// @backend: cache-layer pass-2: implemented multi-key cache batch
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
