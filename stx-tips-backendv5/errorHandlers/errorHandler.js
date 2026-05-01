@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: implemented dead job cleanup worker
+// @backend: job-queues pass-2: added Bull queue for background jobs
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
