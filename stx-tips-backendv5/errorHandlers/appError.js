@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: added rate limit headers to responses
+// @backend: rate-limiting pass-2: implemented token bucket algorithm
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
