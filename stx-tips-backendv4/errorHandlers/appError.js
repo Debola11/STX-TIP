@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: implemented webhook secret rotation
+// @backend: webhook-system pass-6: implemented webhook payload signing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
