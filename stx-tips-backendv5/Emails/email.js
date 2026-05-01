@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: added audit event dispatcher
+// @backend: audit-logging pass-7: implemented tamper-proof log hashing
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
