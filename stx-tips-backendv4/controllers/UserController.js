@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: implemented request origin validation
+// @backend: security-hardening pass-5: implemented token revocation list
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
