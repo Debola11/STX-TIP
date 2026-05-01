@@ -1,4 +1,4 @@
-// @backend: style: group fields by type
+// @backend: docs: document index strategy
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
