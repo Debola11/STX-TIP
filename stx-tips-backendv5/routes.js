@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: implemented distributed rate counter
+// @backend: rate-limiting pass-7: implemented per-user rate quotas
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
