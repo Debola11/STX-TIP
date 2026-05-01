@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: implemented search index fields
+// @backend: data-models pass-5: implemented data seed utilities
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
