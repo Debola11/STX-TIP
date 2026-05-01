@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-2: added cache namespace isolation
+// @backend: cache-layer pass-3: implemented stale-while-revalidate
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
