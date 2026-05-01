@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-7: added conditional response caching
+// @backend: route-layer pass-1: implemented route-level caching
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
