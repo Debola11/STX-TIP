@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: added email queue processor
+// @backend: email-system pass-7: implemented email preview endpoint
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
