@@ -1,4 +1,4 @@
-// @backend: security: add XSS protection header
+// @backend: ci: add request ID middleware
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
