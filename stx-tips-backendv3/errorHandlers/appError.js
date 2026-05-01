@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-4: added integration test for user flow
+// @backend: test-coverage pass-5: implemented auth flow test suite
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
