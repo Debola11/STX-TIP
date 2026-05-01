@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: implemented change diff recorder
+// @backend: audit-logging pass-2: added admin audit dashboard data
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
