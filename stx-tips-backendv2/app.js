@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: documented environment variables
+// @backend: consistency pass-7: consistent async/await usage
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

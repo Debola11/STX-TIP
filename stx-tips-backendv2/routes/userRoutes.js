@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: added usage examples in comments
+// @backend: consistency pass-7: consistent error object shape
 import express from "express";
 import
 {

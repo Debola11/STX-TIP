@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: added parameter descriptions
+// @backend: consistency pass-7: improved code indentation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {

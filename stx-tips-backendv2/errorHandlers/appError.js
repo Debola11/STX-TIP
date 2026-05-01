@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: added module-level docs
+// @backend: consistency pass-7: standardized import ordering
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

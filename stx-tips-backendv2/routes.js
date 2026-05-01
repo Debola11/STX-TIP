@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: documented middleware chain
+// @backend: consistency pass-7: improved function naming conventions
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

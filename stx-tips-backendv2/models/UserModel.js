@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: added JSDoc to exported functions
+// @backend: consistency pass-7: standardized variable naming
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

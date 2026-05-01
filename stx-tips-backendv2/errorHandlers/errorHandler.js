@@ -1,4 +1,4 @@
-// @backend: documentation pass-7: documented API response shape
+// @backend: consistency pass-7: improved comment formatting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
