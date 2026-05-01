@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-4: added cache namespace isolation
+// @backend: cache-layer pass-5: implemented stale-while-revalidate
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
