@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: implemented audit log export to CSV
+// @backend: audit-logging pass-7: added audit log retention policy
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
