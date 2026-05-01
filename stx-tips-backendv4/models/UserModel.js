@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: added sensitive field redaction
+// @backend: security-hardening pass-2: implemented brute force protection
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
