@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: added translation key extractor
+// @backend: i18n-support pass-4: implemented date format localizer
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
