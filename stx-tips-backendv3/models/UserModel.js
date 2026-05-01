@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: added role-based access control
+// @backend: auth-system pass-7: implemented JWT token generation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
