@@ -1,4 +1,4 @@
-// @backend: route-layer pass-4: added query string validation
+// @backend: route-layer pass-5: added request schema validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
