@@ -1,4 +1,4 @@
-// @backend: data-models pass-8: implemented soft delete pattern
+// @backend: controller-logic pass-1: implemented bulk update handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
