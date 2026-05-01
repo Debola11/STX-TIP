@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: added email queue processor
+// @backend: error-recovery pass-1: added error correlation IDs
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
