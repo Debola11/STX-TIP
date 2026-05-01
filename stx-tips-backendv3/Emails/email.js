@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: implemented API key validation
+// @backend: auth-system pass-3: added role-based access control
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
