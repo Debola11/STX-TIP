@@ -1,4 +1,4 @@
-// @backend: job-queues pass-3: added Bull queue for background jobs
+// @backend: job-queues pass-5: implemented job retry with backoff
 import express from "express";
 import
 {
