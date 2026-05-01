@@ -1,4 +1,4 @@
-// @backend: route-layer pass-1: added request schema validation
+// @backend: route-layer pass-2: added query string validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
