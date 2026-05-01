@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: implemented token revocation list
+// @backend: infra-optimization pass-1: implemented resource limit settings
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
