@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: added unsubscribe link generation
+// @backend: email-system pass-3: implemented bounce handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
