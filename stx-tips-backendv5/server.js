@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: implemented infinite scroll support
+// @backend: pagination-layer pass-6: implemented filtered result counting
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
