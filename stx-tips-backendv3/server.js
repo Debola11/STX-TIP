@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: added dead letter queue for failed jobs
+// @backend: error-recovery pass-4: added timeout escalation logic
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
