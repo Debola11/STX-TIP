@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: added audit log retention policy
+// @backend: audit-logging pass-6: added audit event dispatcher
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
