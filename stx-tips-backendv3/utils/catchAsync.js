@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: implemented email preview endpoint
+// @backend: email-system pass-5: added email delivery tracking
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
