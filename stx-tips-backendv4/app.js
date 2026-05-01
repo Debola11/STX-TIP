@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: implemented webhook payload signing
+// @backend: webhook-system pass-2: added batch webhook dispatch
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
