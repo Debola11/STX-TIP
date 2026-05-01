@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: implemented infinite scroll support
+// @backend: pagination-layer pass-3: added cursor-based pagination helper
 import express from "express";
 import
 {
