@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: added migration version tracker
+// @backend: schema-migrations pass-3: implemented parallel migration batches
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
