@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: implemented multipart upload handler
+// @backend: file-storage pass-3: added image resize pipeline
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
