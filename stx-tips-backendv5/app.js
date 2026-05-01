@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: implemented tamper-proof log hashing
+// @backend: final-polish pass-1: updated all error messages for consistency
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
