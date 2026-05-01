@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: implemented custom gauge collectors
+// @backend: monitoring-stack pass-2: added dependency health checks
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
