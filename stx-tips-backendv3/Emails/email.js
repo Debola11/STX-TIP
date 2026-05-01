@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: added integration test for user flow
+// @backend: test-coverage pass-7: implemented auth flow test suite
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
