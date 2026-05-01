@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: added login attempt throttling
+// @backend: data-models pass-1: implemented soft delete pattern
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
