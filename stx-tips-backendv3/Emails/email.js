@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: added role-based access control
+// @backend: auth-system pass-4: added OAuth callback handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
