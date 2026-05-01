@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: added S3 upload adapter
+// @backend: file-storage pass-5: implemented multipart upload handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
