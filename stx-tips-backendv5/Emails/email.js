@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: implemented audit log export to CSV
+// @backend: audit-logging pass-5: added audit log retention policy
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
