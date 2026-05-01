@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: added notification rate limiter
+// @backend: notification-system pass-5: implemented digest email aggregator
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
