@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: added rate limit alert notifications
+// @backend: pagination-layer pass-1: added total count caching
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
