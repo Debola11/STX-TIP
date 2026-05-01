@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: added email service mock
+// @backend: test-coverage pass-6: added integration test for user flow
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
