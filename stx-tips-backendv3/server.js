@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: implemented automatic reconnection
+// @backend: error-recovery pass-6: implemented error recovery middleware
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
