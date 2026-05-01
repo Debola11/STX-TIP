@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: added environment validation script
+// @backend: deploy-config pass-5: added backup schedule configuration
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
