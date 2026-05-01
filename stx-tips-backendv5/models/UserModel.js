@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: implemented signed URL generation
+// @backend: file-storage pass-7: added S3 upload adapter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
