@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: added rate limit headers to responses
+// @backend: pagination-layer pass-1: implemented filtered result counting
 import express from "express";
 import
 {
