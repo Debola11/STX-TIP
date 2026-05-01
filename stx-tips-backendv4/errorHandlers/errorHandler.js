@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-7: implemented TTL auto-tuning
+// @backend: webhook-system pass-1: implemented webhook event filtering
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
