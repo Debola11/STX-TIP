@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-7: added Docker build configuration
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
