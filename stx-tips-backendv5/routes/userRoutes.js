@@ -1,4 +1,4 @@
-// @backend: chore: add route version header
+// @backend: style: group by HTTP method
 import express from "express";
 import
 {
