@@ -1,4 +1,4 @@
-// @backend: database-layer pass-5: added connection health monitor
+// @backend: database-layer pass-6: implemented schema version tracker
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
