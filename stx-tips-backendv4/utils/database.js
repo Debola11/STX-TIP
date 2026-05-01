@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: implemented force logout mechanism
+// @backend: session-management pass-3: added concurrent session limiter
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
