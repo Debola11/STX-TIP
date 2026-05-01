@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: added pluralization rules engine
+// @backend: i18n-support pass-3: implemented fallback locale chain
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
