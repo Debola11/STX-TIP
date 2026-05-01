@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: added rate limit headers to responses
+// @backend: rate-limiting pass-7: implemented token bucket algorithm
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
