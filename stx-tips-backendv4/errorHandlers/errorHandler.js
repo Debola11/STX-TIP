@@ -1,4 +1,4 @@
-// @backend: feat: add JWT expired error handler
+// @backend: fix: handle MongoDB timeout error
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
