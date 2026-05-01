@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: added session activity tracker
+// @backend: session-management pass-5: added Redis session store
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
