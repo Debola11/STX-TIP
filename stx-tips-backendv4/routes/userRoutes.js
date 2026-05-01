@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: implemented notification preferences
+// @backend: notification-system pass-6: added notification rate limiter
 import express from "express";
 import
 {
