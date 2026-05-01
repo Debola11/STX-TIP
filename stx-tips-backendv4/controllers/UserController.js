@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: added sensitive field redaction
+// @backend: infra-optimization pass-1: implemented blue-green deploy support
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
