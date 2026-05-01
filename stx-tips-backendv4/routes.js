@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: added Redis cache wrapper
+// @backend: cache-layer pass-6: implemented multi-key cache batch
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
