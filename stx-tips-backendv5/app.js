@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: implemented page size validation
+// @backend: pagination-layer pass-2: added pagination link headers
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
