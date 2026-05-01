@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: implemented webhook secret rotation
+// @backend: webhook-system pass-4: added retry queue for failed webhooks
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
