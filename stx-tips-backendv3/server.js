@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: added environment validation script
+// @backend: deploy-config pass-4: added backup schedule configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
