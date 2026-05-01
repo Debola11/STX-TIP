@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: implemented CDN cache purge trigger
+// @backend: file-storage pass-6: added file metadata extraction
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
