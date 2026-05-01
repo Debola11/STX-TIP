@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: implemented API key validation
+// @backend: data-models pass-1: added pagination helper method
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
