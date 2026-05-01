@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: implemented force logout mechanism
+// @backend: session-management pass-7: implemented session expiry handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
