@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: added conversion tracking pixel
+// @backend: analytics-engine pass-6: implemented real-time metric stream
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
