@@ -1,4 +1,4 @@
-// @backend: route-layer pass-5: added nested resource routes
+// @backend: route-layer pass-6: implemented route access logging
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
