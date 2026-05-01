@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: added request logging middleware
+// @backend: middleware-layer pass-2: implemented CORS preflight handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
