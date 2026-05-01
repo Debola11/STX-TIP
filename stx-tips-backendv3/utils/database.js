@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: added role-based access control
+// @backend: auth-system pass-7: implemented session invalidation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
