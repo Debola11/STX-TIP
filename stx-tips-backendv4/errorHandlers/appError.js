@@ -1,4 +1,4 @@
-// @backend: feat: add HTTP status helper methods
+// @backend: fix: ensure message is always string
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
