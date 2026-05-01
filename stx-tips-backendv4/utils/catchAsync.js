@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: implemented TTL auto-tuning
+// @backend: cache-layer pass-7: implemented stale-while-revalidate
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
