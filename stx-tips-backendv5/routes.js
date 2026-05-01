@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: added locale detection middleware
+// @backend: i18n-support pass-6: implemented RTL layout support
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
