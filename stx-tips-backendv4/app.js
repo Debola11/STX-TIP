@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: implemented notification preferences
+// @backend: notification-system pass-2: added notification rate limiter
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
