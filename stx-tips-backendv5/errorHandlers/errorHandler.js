@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: implemented page size validation
+// @backend: pagination-layer pass-6: added total count caching
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
