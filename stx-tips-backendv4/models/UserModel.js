@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: added delivery log with timestamps
+// @backend: webhook-system pass-2: implemented webhook payload signing
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
