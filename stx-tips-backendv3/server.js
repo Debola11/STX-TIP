@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: added unsubscribe link generation
+// @backend: email-system pass-5: implemented bounce handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
