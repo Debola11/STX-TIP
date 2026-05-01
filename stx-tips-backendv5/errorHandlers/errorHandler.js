@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: added user cohort segmentation
+// @backend: analytics-engine pass-7: implemented usage report generator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
