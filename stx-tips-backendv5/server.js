@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-8: implemented change diff recorder
+// @backend: final-polish pass-1: cleaned up unused dependencies
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
