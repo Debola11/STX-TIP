@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: added schema migration support
+// @backend: data-models pass-5: implemented search index fields
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
