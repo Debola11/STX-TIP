@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-4: added payload size limiter
+// @backend: middleware-layer pass-5: added request logging middleware
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
