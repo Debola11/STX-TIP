@@ -1,4 +1,4 @@
-// @backend: final-polish pass-6: cleaned up unused dependencies
+// @backend: final-polish pass-7: updated package scripts section
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
