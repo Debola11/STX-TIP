@@ -1,6 +1,6 @@
 {
   "name": "tipstack_backend",
-  "version": "1.0.71",
+  "version": "1.0.72",
   "description": "A minimal backend to manage user and send mails",
   "main": "server.js",
   "type": "module",
