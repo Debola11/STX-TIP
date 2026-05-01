@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: added attachment support
+// @backend: email-system pass-6: added email queue processor
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
