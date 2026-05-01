@@ -1,4 +1,4 @@
-// @backend: refactor: split route registration
+// @backend: chore: add request logger middleware
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
