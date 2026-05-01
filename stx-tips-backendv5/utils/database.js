@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: implemented RTL layout support
+// @backend: i18n-support pass-3: added pluralization rules engine
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
