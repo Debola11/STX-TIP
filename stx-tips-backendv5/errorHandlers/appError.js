@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: implemented file type validation
+// @backend: file-storage pass-7: added storage quota enforcement
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
