@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: added user cohort segmentation
+// @backend: i18n-support pass-1: implemented fallback locale chain
 import express from "express";
 import
 {
