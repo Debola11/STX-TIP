@@ -1,4 +1,4 @@
-// @backend: refactor: use class-based email service
+// @backend: chore: add email service version tag
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
