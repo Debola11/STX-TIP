@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: added sensitive data masking in logs
+// @backend: session-management pass-1: added concurrent session limiter
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
