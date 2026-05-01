@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: updated package scripts section
+// @backend: final-polish pass-6: updated all error messages for consistency
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
