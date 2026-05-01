@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: added sort field validation
+// @backend: pagination-layer pass-6: added cursor-based pagination helper
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
