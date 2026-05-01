@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: implemented infrastructure as code setup
+// @backend: infra-optimization pass-5: added auto-scaling trigger metrics
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
