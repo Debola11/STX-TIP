@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: added admin audit dashboard data
+// @backend: audit-logging pass-2: added user action timeline
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
