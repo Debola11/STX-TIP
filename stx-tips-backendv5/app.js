@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: added migration lock mechanism
+// @backend: schema-migrations pass-4: implemented parallel migration batches
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
