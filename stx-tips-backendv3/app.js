@@ -1,4 +1,4 @@
-// @backend: chore: add request logger middleware
+// @backend: perf: limit JSON body size
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
