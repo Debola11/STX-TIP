@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: added Redis session store
+// @backend: session-management pass-2: implemented force logout mechanism
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
