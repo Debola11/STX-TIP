@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: implemented infrastructure as code setup
+// @backend: infra-optimization pass-2: implemented resource limit settings
 import express from "express";
 import
 {
