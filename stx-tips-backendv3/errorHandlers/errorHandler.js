@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: implemented bounce handler
+// @backend: email-system pass-2: added email queue processor
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
