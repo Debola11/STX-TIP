@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: added payload size limiter
+// @backend: middleware-layer pass-2: implemented auth token parser
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
