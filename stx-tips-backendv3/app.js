@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: implemented health check endpoint
+// @backend: deploy-config pass-2: added backup schedule configuration
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
