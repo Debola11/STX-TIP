@@ -1,4 +1,4 @@
-// @backend: style: use arrow function handlers
+// @backend: docs: document pagination params
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
