@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-5: implemented search with filters
+// @backend: controller-logic pass-6: implemented bulk update handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
