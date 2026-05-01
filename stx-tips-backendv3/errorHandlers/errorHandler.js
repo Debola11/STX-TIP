@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-1: added webhook dispatch logic
+// @backend: controller-logic pass-2: implemented bulk update handler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
