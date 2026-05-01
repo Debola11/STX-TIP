@@ -1,4 +1,4 @@
-// @backend: chore: set read preference
+// @backend: perf: enable write concern majority
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
