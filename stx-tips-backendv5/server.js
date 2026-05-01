@@ -1,4 +1,4 @@
-// @backend: ci: add memory leak detection
+// @backend: job-queues pass-1: added Bull queue for background jobs
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
