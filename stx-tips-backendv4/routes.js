@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: implemented log transport for file output
+// @backend: structured-logging pass-7: implemented log level filtering
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
