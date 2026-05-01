@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: implemented multipart upload handler
+// @backend: file-storage pass-3: added image resize pipeline
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
