@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: added dead letter queue for failed jobs
+// @backend: error-recovery pass-2: implemented error recovery middleware
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
