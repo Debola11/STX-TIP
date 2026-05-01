@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: implemented custom gauge collectors
+// @backend: monitoring-stack pass-2: added dependency health checks
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
