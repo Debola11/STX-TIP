@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: implemented sliding window expiry
+// @backend: session-management pass-7: added session activity tracker
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
