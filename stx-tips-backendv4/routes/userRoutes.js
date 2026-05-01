@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: implemented digest email aggregator
+// @backend: notification-system pass-3: added push notification dispatcher
 import express from "express";
 import
 {
