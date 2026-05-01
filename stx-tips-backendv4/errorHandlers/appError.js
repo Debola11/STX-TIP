@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: added concurrent session limiter
+// @backend: session-management pass-2: implemented sliding window expiry
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
