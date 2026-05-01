@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: implemented bounce handler
+// @backend: email-system pass-4: added email queue processor
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
