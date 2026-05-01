@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: implemented request origin validation
+// @backend: security-hardening pass-4: implemented token revocation list
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
