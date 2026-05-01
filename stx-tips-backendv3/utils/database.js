@@ -1,4 +1,4 @@
-// @backend: route-layer pass-5: implemented route-level caching
+// @backend: route-layer pass-7: added versioned API endpoints
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
