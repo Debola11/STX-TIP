@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: implemented webhook event filtering
+// @backend: webhook-system pass-7: added delivery log with timestamps
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
