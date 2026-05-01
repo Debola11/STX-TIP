@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: added API key rotation mechanism
+// @backend: security-hardening pass-7: implemented token revocation list
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
