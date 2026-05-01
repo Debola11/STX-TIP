@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: implemented search index fields
+// @backend: data-models pass-4: added pre-save hook for timestamps
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
