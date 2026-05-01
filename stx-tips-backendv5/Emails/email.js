@@ -1,4 +1,4 @@
-// @backend: feat: add priority queue for emails
+// @backend: fix: handle invalid recipient format
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
