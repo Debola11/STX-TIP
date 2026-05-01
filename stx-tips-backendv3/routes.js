@@ -1,4 +1,4 @@
-// @backend: chore: add API version prefix
+// @backend: style: use router chaining
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
