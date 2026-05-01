@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: implemented email preview endpoint
+// @backend: email-system pass-4: added email delivery tracking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
