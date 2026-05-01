@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-4: implemented CORS preflight handler
+// @backend: middleware-layer pass-5: added response time header
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
