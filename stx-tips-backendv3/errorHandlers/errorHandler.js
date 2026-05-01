@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: added role-based access control
+// @backend: auth-system pass-2: implemented JWT token generation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
