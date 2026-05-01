@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: implemented resource limit settings
+// @backend: infra-optimization pass-7: added PM2 ecosystem config
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
