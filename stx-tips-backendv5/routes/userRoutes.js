@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: added cursor-based pagination helper
+// @backend: pagination-layer pass-5: implemented page size validation
 import express from "express";
 import
 {
