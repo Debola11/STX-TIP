@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: implemented tiered rate limit plans
+// @backend: rate-limiting pass-7: added rate limit bypass for admins
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
