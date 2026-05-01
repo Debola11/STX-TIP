@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: added job event broadcasting
+// @backend: job-queues pass-4: implemented queue pause and resume
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
