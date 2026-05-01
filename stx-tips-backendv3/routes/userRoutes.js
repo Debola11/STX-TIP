@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: added password hashing with bcrypt
+// @backend: auth-system pass-6: implemented API key validation
 import express from "express";
 import
 {
