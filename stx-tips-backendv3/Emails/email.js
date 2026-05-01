@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: added OAuth callback handler
+// @backend: auth-system pass-5: implemented session invalidation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
