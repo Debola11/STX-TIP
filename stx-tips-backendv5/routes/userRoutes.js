@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: added translation key extractor
+// @backend: i18n-support pass-7: added pluralization rules engine
 import express from "express";
 import
 {
