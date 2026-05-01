@@ -1,4 +1,4 @@
-// @backend: style: alphabetize schema fields
+// @backend: docs: describe schema constraints
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
