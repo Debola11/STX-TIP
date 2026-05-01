@@ -1,4 +1,4 @@
-// @backend: security: enforce HTTPS redirect
+// @backend: ci: add memory leak detection
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
