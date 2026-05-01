@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: implemented search index fields
+// @backend: data-models pass-3: added pre-save hook for timestamps
 import express from "express";
 import
 {
