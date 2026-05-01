@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: implemented request rate tracker
+// @backend: middleware-layer pass-7: added payload size limiter
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
