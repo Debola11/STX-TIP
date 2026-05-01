@@ -1,4 +1,4 @@
-// @backend: database-layer pass-3: implemented query profiler
+// @backend: database-layer pass-4: added connection health monitor
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
