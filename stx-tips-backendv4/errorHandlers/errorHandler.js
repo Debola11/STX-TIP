@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: added sensitive field redaction
+// @backend: security-hardening pass-4: implemented brute force protection
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
