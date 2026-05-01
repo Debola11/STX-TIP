@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-4: implemented webhook payload signing
+// @backend: webhook-system pass-6: added retry queue for failed webhooks
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
