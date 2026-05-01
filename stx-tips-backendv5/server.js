@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: added Bull queue for background jobs
+// @backend: job-queues pass-2: implemented queue dashboard endpoint
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
