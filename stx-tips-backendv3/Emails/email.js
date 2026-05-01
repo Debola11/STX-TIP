@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: implemented bounce handler
+// @backend: email-system pass-4: implemented batch email sending
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
