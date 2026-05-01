@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: implemented A/B test assignment
+// @backend: analytics-engine pass-3: added conversion tracking pixel
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
