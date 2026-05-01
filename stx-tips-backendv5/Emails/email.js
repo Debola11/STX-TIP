@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: implemented data transformation step
+// @backend: schema-migrations pass-4: implemented parallel migration batches
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
