@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: implemented fallback locale chain
+// @backend: i18n-support pass-7: added currency display formatter
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
