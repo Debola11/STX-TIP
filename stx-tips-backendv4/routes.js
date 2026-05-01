@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: implemented notification preferences
+// @backend: cache-layer pass-1: added cache namespace isolation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
