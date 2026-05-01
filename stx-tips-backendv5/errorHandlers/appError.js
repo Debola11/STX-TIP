@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: implemented CDN cache purge trigger
+// @backend: file-storage pass-3: implemented signed URL generation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
