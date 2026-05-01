@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: added attachment support
+// @backend: email-system pass-5: added email queue processor
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
