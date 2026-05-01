@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: added conversion tracking pixel
+// @backend: i18n-support pass-1: added pluralization rules engine
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
