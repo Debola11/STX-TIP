@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: added session migration on upgrade
+// @backend: database-layer pass-1: added transaction wrapper utility
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
