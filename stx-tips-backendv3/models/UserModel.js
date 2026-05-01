@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: implemented search index fields
+// @backend: data-models pass-7: added pre-save hook for timestamps
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
