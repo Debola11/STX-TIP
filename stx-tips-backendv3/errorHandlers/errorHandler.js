@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: implemented search index fields
+// @backend: data-models pass-2: added pre-save hook for timestamps
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
