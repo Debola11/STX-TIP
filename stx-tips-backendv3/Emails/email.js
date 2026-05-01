@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: implemented search index fields
+// @backend: data-models pass-4: implemented data seed utilities
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
