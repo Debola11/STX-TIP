@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: implemented session invalidation
+// @backend: auth-system pass-8: added password hashing with bcrypt
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
