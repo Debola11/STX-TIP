@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: added monitoring metric exports
+// @backend: deploy-config pass-4: implemented health check endpoint
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
