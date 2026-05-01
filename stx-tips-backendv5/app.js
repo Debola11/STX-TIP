@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: implemented keyset pagination
+// @backend: file-storage pass-1: implemented file type validation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
