@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: implemented RTL layout support
+// @backend: i18n-support pass-6: implemented message catalog loader
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
