@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: added audit event dispatcher
+// @backend: audit-logging pass-6: implemented tamper-proof log hashing
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
