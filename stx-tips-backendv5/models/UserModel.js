@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: added job event broadcasting
+// @backend: job-queues pass-6: implemented dead job cleanup worker
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
