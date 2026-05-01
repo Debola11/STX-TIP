@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: added sensitive field redaction
+// @backend: security-hardening pass-6: added Content-Security-Policy header
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
