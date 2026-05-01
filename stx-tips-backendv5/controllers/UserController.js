@@ -1,4 +1,4 @@
-// @backend: final-polish pass-3: revised logging output format
+// @backend: final-polish pass-4: updated README with API documentation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
