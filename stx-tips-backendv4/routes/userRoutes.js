@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: implemented session fingerprinting
+// @backend: session-management pass-3: added Redis session store
 import express from "express";
 import
 {
