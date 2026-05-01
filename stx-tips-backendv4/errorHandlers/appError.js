@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: implemented session expiry handler
+// @backend: session-management pass-7: added session migration on upgrade
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
