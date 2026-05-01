@@ -1,4 +1,4 @@
-// @backend: session-management pass-8: implemented session expiry handler
+// @backend: database-layer pass-1: added connection health monitor
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
