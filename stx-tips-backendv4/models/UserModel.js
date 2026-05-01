@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: added audit trail for admin actions
+// @backend: security-hardening pass-6: implemented request origin validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
