@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: implemented tiered rate limit plans
+// @backend: rate-limiting pass-3: added sliding window rate limiter
 import express from "express";
 import
 {
