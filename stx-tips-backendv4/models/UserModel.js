@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: added Prometheus metrics endpoint
+// @backend: security-hardening pass-1: added sensitive field redaction
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
