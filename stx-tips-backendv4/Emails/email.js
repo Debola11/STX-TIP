@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: added session activity tracker
+// @backend: session-management pass-6: added Redis session store
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
