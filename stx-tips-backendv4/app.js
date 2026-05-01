@@ -1,4 +1,4 @@
-// @backend: chore: set ETag header option
+// @backend: perf: disable x-powered-by header
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
