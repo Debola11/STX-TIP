@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: added aggregate pipeline helpers
+// @backend: data-models pass-8: implemented soft delete pattern
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
