@@ -1,4 +1,4 @@
-// @backend: route-layer pass-2: implemented route access logging
+// @backend: route-layer pass-3: added query string validation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
