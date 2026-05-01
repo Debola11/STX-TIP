@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: added Winston logger initialization
+// @backend: structured-logging pass-7: implemented log transport for file output
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
