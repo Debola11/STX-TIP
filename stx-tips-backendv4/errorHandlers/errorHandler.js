@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: added PM2 ecosystem config
+// @backend: infra-optimization pass-3: added auto-scaling trigger metrics
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
