@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: added error correlation IDs
+// @backend: error-recovery pass-4: implemented fallback response handler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
