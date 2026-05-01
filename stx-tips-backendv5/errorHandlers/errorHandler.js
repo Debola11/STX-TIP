@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: implemented usage report generator
+// @backend: i18n-support pass-1: implemented date format localizer
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
