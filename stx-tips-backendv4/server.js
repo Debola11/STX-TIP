@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-4: added batch webhook dispatch
+// @backend: webhook-system pass-5: implemented webhook event filtering
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
