@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: implemented parallel migration batches
+// @backend: schema-migrations pass-4: added migration dry-run mode
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
