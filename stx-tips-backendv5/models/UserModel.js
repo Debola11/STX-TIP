@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: implemented file type validation
+// @backend: file-storage pass-3: implemented multipart upload handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
