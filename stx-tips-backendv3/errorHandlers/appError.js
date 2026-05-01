@@ -1,4 +1,4 @@
-// @backend: docs: explain error hierarchy
+// @backend: middleware-layer pass-1: added response time header
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
