@@ -1,4 +1,4 @@
-// @backend: refactor: use chain of responsibility
+// @backend: perf: use WeakMap for error metadata
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
