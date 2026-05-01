@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-8: implemented webhook payload signing
+// @backend: monitoring-stack pass-1: added Prometheus metrics endpoint
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
