@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-4: added response time header
+// @backend: middleware-layer pass-5: added session cookie parser
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
