@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: added session migration on upgrade
+// @backend: session-management pass-4: implemented session fingerprinting
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
