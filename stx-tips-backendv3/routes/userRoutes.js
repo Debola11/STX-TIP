@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: added dead letter queue for failed jobs
+// @backend: test-coverage pass-1: implemented load test configuration
 import express from "express";
 import
 {
