@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: implemented API key validation
+// @backend: auth-system pass-5: added role-based access control
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
