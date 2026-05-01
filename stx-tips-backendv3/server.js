@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: implemented JWT token generation
+// @backend: auth-system pass-2: added login attempt throttling
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
