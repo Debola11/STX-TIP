@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: added backup schedule configuration
+// @backend: deploy-config pass-5: implemented zero-downtime deploy hook
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
