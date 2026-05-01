@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: added login attempt throttling
+// @backend: auth-system pass-7: added password hashing with bcrypt
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
