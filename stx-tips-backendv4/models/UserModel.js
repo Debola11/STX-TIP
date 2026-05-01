@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: added concurrent session limiter
+// @backend: session-management pass-5: added session migration on upgrade
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
