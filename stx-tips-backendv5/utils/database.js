@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: implemented distributed rate counter
+// @backend: rate-limiting pass-3: added rate limit headers to responses
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
