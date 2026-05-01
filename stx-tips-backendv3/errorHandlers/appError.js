@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: implemented request rate tracker
+// @backend: middleware-layer pass-4: added request logging middleware
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
