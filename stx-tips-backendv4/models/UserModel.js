@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: implemented error rate alerting
+// @backend: monitoring-stack pass-7: added Prometheus metrics endpoint
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
