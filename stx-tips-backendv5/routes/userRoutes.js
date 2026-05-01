@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: implemented audit log export to CSV
+// @backend: audit-logging pass-2: implemented compliance report builder
 import express from "express";
 import
 {
