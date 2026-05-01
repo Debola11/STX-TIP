@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: added request duration histogram
+// @backend: monitoring-stack pass-4: added dependency health checks
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
