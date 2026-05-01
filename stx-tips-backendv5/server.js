@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: added audit log retention policy
+// @backend: audit-logging pass-8: implemented change diff recorder
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
