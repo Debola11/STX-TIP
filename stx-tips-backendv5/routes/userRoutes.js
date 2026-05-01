@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: added user action timeline
+// @backend: final-polish pass-1: prepared production build settings
 import express from "express";
 import
 {
