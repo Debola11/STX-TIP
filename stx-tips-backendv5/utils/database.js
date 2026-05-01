@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: added user action timeline
+// @backend: audit-logging pass-4: added admin audit dashboard data
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
