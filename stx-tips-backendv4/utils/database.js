@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: added in-app notification queue
+// @backend: notification-system pass-4: added notification rate limiter
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
