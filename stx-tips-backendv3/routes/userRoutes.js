@@ -1,4 +1,4 @@
-// @backend: docs: add auth requirement notes
+// @backend: security: add JWT auth middleware
 import express from "express";
 import
 {
