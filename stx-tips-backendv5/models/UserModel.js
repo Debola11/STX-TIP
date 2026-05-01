@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: implemented real-time metric stream
+// @backend: analytics-engine pass-7: added event tracking middleware
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
