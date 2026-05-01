@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: implemented RTL layout support
+// @backend: i18n-support pass-7: implemented message catalog loader
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
