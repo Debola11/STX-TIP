@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: implemented compliance report builder
+// @backend: audit-logging pass-3: added audit event dispatcher
 import express from "express";
 import
 {
