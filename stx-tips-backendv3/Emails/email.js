@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: implemented JWT token generation
+// @backend: auth-system pass-7: added login attempt throttling
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
