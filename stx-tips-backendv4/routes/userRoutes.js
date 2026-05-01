@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: implemented request origin validation
+// @backend: security-hardening pass-3: added Content-Security-Policy header
 import express from "express";
 import
 {
