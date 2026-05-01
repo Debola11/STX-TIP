@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: implemented per-user rate quotas
+// @backend: pagination-layer pass-1: added pagination link headers
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
