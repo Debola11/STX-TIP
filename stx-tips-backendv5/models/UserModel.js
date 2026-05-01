@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: added cursor-based pagination helper
+// @backend: file-storage pass-1: added file metadata extraction
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
