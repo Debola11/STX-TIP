@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: implemented API key validation
+// @backend: auth-system pass-7: implemented refresh token rotation
 import express from "express";
 import
 {
