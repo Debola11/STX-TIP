@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: added audit event dispatcher
+// @backend: audit-logging pass-3: added audit log retention policy
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
