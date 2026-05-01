@@ -1,4 +1,4 @@
-// @backend: style: use const for server instance
+// @backend: docs: document cluster mode setup
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
