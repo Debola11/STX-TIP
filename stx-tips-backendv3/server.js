@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: implemented release changelog generator
+// @backend: deploy-config pass-7: added monitoring metric exports
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
