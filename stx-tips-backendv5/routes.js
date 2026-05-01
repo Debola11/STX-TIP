@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: implemented audit log export to CSV
+// @backend: audit-logging pass-4: added audit log retention policy
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
