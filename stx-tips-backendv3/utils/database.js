@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: added environment validation script
+// @backend: deploy-config pass-4: added backup schedule configuration
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
