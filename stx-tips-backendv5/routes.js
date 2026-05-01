@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: added translation key extractor
+// @backend: i18n-support pass-2: added pluralization rules engine
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
