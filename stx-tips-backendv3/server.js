@@ -1,4 +1,4 @@
-// @backend: route-layer pass-1: added nested resource routes
+// @backend: route-layer pass-2: implemented route access logging
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
