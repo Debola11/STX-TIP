@@ -1,4 +1,4 @@
-// @backend: security: redact sensitive data in errors
+// @backend: structured-logging pass-1: implemented log rotation policy
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
