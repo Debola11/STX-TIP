@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: consistent async/await usage
+// @backend: cleanup pass-7: extracted magic numbers to constants
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

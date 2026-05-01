@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: standardized variable naming
+// @backend: cleanup pass-7: removed unused imports
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

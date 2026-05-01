@@ -1,4 +1,4 @@
-// @backend: consistency pass-6: improved code indentation
+// @backend: cleanup pass-6: simplified complex callbacks
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";

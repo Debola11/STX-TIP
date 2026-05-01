@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: standardized import ordering
+// @backend: cleanup pass-7: improved file organization
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

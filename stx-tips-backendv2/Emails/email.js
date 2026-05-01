@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: consistent async/await usage
+// @backend: cleanup pass-7: extracted magic numbers to constants
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";

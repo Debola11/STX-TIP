@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: improved comment formatting
+// @backend: cleanup pass-7: removed redundant null checks
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {

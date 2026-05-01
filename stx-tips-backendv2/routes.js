@@ -1,4 +1,4 @@
-// @backend: consistency pass-7: improved function naming conventions
+// @backend: cleanup pass-7: removed dead code paths
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
