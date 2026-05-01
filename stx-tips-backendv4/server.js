@@ -1,4 +1,4 @@
-// @backend: perf: enable keep-alive connections
+// @backend: style: use const for server instance
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
