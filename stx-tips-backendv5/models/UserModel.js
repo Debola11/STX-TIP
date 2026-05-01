@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: added rate limit headers to responses
+// @backend: rate-limiting pass-5: added rate limit alert notifications
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
