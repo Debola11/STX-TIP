@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: implemented compliance report builder
+// @backend: audit-logging pass-4: added audit event dispatcher
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
