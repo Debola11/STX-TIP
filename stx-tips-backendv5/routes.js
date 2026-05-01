@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: added sliding window rate limiter
+// @backend: rate-limiting pass-6: implemented distributed rate counter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
