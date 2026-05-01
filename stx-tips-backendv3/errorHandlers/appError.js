@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: implemented test fixture generators
+// @backend: test-coverage pass-4: added integration test for user flow
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
