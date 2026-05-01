@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: added PM2 ecosystem config
+// @backend: infra-optimization pass-6: implemented blue-green deploy support
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
