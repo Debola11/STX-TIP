@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: added rate limit bypass for admins
+// @backend: pagination-layer pass-2: implemented keyset pagination
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
