@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: updated README with API documentation
+// @backend: final-polish pass-2: cleaned up unused dependencies
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
