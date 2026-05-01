@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: added schema migration support
+// @backend: data-models pass-2: added pagination helper method
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
