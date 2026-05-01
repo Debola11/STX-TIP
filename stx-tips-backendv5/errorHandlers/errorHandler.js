@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: implemented real-time metric stream
+// @backend: analytics-engine pass-2: added event tracking middleware
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
