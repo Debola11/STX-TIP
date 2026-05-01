@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: implemented event loop lag monitor
+// @backend: monitoring-stack pass-6: implemented custom gauge collectors
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
