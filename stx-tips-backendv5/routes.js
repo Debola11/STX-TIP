@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: implemented rollback mechanism
+// @backend: audit-logging pass-1: added admin audit dashboard data
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
