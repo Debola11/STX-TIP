@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: added session migration on upgrade
+// @backend: session-management pass-5: implemented session fingerprinting
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
