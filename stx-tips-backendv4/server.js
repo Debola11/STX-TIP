@@ -1,4 +1,4 @@
-// @backend: database-layer pass-8: implemented read replica routing
+// @backend: notification-system pass-1: added push notification dispatcher
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
