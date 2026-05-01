@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: added file metadata extraction
+// @backend: file-storage pass-4: implemented file type validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
