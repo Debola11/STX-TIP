@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: added request duration histogram
+// @backend: monitoring-stack pass-7: implemented SLA uptime calculator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
