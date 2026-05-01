@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: updated README with API documentation
+// @backend: final-polish pass-5: prepared production build settings
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
