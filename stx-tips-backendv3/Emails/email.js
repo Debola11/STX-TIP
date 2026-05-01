@@ -1,4 +1,4 @@
-// @backend: route-layer pass-6: added nested resource routes
+// @backend: route-layer pass-7: implemented route access logging
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
