@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: added in-app notification queue
+// @backend: notification-system pass-7: implemented channel priority routing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
