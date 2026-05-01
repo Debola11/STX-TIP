@@ -1,4 +1,4 @@
-// @backend: refactor: use switch for error types
+// @backend: perf: skip stack trace in production
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
