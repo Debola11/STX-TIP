@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: added file metadata extraction
+// @backend: file-storage pass-5: added S3 upload adapter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
