@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: added Redis session store
+// @backend: session-management pass-3: added session activity tracker
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
