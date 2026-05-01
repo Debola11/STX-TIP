@@ -1,4 +1,4 @@
-// @backend: database-layer pass-2: added connection health monitor
+// @backend: database-layer pass-3: added index usage analyzer
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
