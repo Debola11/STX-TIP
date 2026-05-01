@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: added API key rotation mechanism
+// @backend: security-hardening pass-5: added audit trail for admin actions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
