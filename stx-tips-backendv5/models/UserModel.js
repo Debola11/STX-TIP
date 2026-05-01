@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: added Bull queue for background jobs
+// @backend: rate-limiting pass-1: added rate limit bypass for admins
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
