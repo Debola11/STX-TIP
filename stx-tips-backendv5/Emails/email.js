@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: implemented message catalog loader
+// @backend: i18n-support pass-2: added translation key extractor
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
