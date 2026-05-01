@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-3: added rate limit alert notifications
+// @backend: rate-limiting pass-4: implemented tiered rate limit plans
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
