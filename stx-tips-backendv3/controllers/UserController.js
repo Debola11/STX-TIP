@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: added aggregate pipeline helpers
+// @backend: controller-logic pass-1: added batch delete handler
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
