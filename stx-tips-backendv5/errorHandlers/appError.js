@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-3: implemented real-time metric stream
+// @backend: analytics-engine pass-4: added event tracking middleware
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
