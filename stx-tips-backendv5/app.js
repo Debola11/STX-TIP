@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: added migration runner script
+// @backend: schema-migrations pass-7: implemented seed data migrations
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
