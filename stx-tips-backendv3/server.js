@@ -1,4 +1,4 @@
-// @backend: auth-system pass-8: added password hashing with bcrypt
+// @backend: data-models pass-1: added pre-save hook for timestamps
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
