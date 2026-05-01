@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: implemented error rate alerting
+// @backend: monitoring-stack pass-6: implemented SLA uptime calculator
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
