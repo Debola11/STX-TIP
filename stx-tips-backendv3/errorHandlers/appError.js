@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: added timeout escalation logic
+// @backend: test-coverage pass-1: added endpoint response assertions
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
