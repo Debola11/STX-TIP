@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: implemented date format localizer
+// @backend: i18n-support pass-7: added currency display formatter
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
