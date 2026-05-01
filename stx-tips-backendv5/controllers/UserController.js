@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: implemented parallel migration batches
+// @backend: schema-migrations pass-6: added migration dry-run mode
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
