@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: added pagination helper method
+// @backend: data-models pass-2: implemented data seed utilities
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
