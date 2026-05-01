@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: implemented schema version tracker
+// @backend: database-layer pass-3: added data archival job
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
