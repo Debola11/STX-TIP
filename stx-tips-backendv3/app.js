@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-2: added session cookie parser
+// @backend: middleware-layer pass-4: implemented content-type validator
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
