@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: added file metadata extraction
+// @backend: file-storage pass-2: implemented file type validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
