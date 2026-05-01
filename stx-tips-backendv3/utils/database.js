@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: added payload size limiter
+// @backend: auth-system pass-2: added login attempt throttling
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
