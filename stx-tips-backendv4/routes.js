@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: implemented event loop lag monitor
+// @backend: monitoring-stack pass-7: implemented custom gauge collectors
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
