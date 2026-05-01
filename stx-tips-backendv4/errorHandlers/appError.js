@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: implemented infrastructure as code setup
+// @backend: infra-optimization pass-3: implemented resource limit settings
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
