@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: implemented data transformation step
+// @backend: schema-migrations pass-7: added migration dry-run mode
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
