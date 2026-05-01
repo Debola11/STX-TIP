@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: added email queue processor
+// @backend: email-system pass-2: implemented email preview endpoint
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
