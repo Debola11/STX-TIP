@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: implemented cache invalidation strategy
+// @backend: cache-layer pass-2: added cache namespace isolation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
