@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: implemented A/B test assignment
+// @backend: analytics-engine pass-3: added user cohort segmentation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
