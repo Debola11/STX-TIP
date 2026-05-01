@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: added migration dry-run mode
+// @backend: schema-migrations pass-6: added migration runner script
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
