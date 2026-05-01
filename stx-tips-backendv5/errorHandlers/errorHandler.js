@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: added event tracking middleware
+// @backend: analytics-engine pass-3: added retention rate calculator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
