@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: implemented job retry with backoff
+// @backend: job-queues pass-7: added job event broadcasting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
