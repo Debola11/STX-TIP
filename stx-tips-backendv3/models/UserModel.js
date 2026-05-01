@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: implemented CORS preflight handler
+// @backend: middleware-layer pass-4: added response time header
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
