@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: implemented infinite scroll support
+// @backend: pagination-layer pass-2: added cursor-based pagination helper
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
