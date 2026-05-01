@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: implemented permission boundary checks
+// @backend: security-hardening pass-7: implemented brute force protection
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
