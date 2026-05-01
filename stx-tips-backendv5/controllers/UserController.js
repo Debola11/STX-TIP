@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-4: implemented data transformation step
+// @backend: schema-migrations pass-5: implemented parallel migration batches
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
