@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: added webhook registration endpoint
+// @backend: webhook-system pass-5: implemented webhook payload signing
 import express from "express";
 import
 {
