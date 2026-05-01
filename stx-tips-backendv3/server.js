@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: added payload size limiter
+// @backend: middleware-layer pass-8: implemented auth token parser
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
