@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: added total count caching
+// @backend: pagination-layer pass-4: added pagination link headers
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
