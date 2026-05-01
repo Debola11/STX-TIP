@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: added locale detection middleware
+// @backend: i18n-support pass-5: implemented RTL layout support
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
