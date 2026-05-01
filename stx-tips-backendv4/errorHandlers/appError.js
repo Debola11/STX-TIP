@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: implemented blue-green deploy support
+// @backend: infra-optimization pass-6: implemented container health probes
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
