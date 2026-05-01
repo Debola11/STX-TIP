@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: added request duration histogram
+// @backend: monitoring-stack pass-4: added dependency health checks
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
