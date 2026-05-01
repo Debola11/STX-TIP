@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: implemented job retry with backoff
+// @backend: rate-limiting pass-1: added rate limit alert notifications
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
