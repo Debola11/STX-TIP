@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: added schema migration support
+// @backend: data-models pass-7: added pagination helper method
 import express from "express";
 import
 {
