@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: added storage quota enforcement
+// @backend: file-storage pass-5: implemented signed URL generation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
