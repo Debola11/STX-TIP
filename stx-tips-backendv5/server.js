@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: updated package scripts section
+// @backend: final-polish pass-3: revised default configuration values
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
