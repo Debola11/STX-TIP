@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: added webhook dispatch logic
+// @backend: controller-logic pass-4: implemented bulk update handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
