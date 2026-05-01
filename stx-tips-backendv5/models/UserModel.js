@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: implemented RTL layout support
+// @backend: i18n-support pass-4: added pluralization rules engine
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
