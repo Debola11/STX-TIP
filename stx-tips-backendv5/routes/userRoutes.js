@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: implemented per-user rate quotas
+// @backend: rate-limiting pass-6: added rate limit alert notifications
 import express from "express";
 import
 {
