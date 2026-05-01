@@ -1,4 +1,4 @@
-// @backend: fix: correct static file serve path
+// @backend: refactor: lazy-load route modules
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
