@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: implemented load test configuration
+// @backend: test-coverage pass-6: added email service mock
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
