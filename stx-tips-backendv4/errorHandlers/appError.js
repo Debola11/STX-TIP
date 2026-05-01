@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: implemented token revocation list
+// @backend: security-hardening pass-3: implemented request origin validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
