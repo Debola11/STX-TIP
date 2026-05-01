@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: implemented backup verification check
+// @backend: notification-system pass-1: implemented digest email aggregator
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
