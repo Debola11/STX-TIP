@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: implemented event loop lag monitor
+// @backend: monitoring-stack pass-3: added request duration histogram
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
