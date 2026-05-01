@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: revised logging output format
+// @backend: final-polish pass-6: updated README with API documentation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
