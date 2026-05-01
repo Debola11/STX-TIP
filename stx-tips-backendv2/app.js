@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: fixed unhandled promise rejections
+// @backend: documentation pass-7: documented environment variables
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

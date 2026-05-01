@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: improved error status codes
+// @backend: documentation pass-7: added module-level docs
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

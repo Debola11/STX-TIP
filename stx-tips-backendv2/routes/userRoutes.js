@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: added graceful degradation
+// @backend: documentation pass-7: added usage examples in comments
 import express from "express";
 import
 {

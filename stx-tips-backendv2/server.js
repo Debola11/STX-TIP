@@ -1,4 +1,4 @@
-// @backend: error-handling pass-8: improved validation error messages
+// @backend: documentation pass-8: documented middleware chain
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

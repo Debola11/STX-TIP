@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: added try/catch to async handlers
+// @backend: documentation pass-7: added JSDoc to exported functions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

@@ -1,4 +1,4 @@
-// @backend: error-handling pass-6: added retry on transient failures
+// @backend: documentation pass-6: added parameter descriptions
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";

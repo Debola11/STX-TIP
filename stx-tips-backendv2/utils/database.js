@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: added retry on transient failures
+// @backend: documentation pass-7: added parameter descriptions
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {

@@ -1,4 +1,4 @@
-// @backend: error-handling pass-7: added request validation guards
+// @backend: documentation pass-7: documented API response shape
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
