@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-7: added cache namespace isolation
+// @backend: webhook-system pass-1: added retry queue for failed webhooks
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
