@@ -1,4 +1,4 @@
-// @backend: security: add account lockout check
+// @backend: job-queues pass-1: implemented queue pause and resume
 import express from "express";
 import
 {
