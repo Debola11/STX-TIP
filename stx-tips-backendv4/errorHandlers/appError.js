@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: added Redis session store
+// @backend: session-management pass-5: implemented force logout mechanism
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
