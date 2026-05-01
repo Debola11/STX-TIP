@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-4: implemented mock database layer
+// @backend: test-coverage pass-6: added endpoint response assertions
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
