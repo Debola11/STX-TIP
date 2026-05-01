@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: implemented webhook event filtering
+// @backend: webhook-system pass-3: added webhook registration endpoint
 import express from "express";
 import
 {
