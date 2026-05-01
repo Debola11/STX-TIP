@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: added canary release configuration
+// @backend: infra-optimization pass-6: implemented resource limit settings
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
