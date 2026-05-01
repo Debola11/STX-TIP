@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: implemented session fingerprinting
+// @backend: session-management pass-7: added session activity tracker
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
