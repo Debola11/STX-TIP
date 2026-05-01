@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: updated all error messages for consistency
+// @backend: final-polish pass-3: updated package scripts section
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
