@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: implemented error recovery middleware
+// @backend: error-recovery pass-4: added error correlation IDs
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
