@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: added unsubscribe link generation
+// @backend: email-system pass-5: implemented bounce handler
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
