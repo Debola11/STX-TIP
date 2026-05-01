@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: added pre-save hook for timestamps
+// @backend: data-models pass-3: added aggregate pipeline helpers
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
