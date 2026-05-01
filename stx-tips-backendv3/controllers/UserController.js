@@ -1,4 +1,4 @@
-// @backend: docs: add handler param docs
+// @backend: security: sanitize query parameters
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
