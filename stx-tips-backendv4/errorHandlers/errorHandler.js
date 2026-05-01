@@ -1,4 +1,4 @@
-// @backend: style: extract helper functions
+// @backend: docs: document error response shape
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
