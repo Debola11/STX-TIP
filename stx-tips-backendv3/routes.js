@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: added unsubscribe link generation
+// @backend: email-system pass-2: added email delivery tracking
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
