@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: added push notification dispatcher
+// @backend: notification-system pass-5: implemented notification preferences
 import express from "express";
 import
 {
