@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: implemented channel priority routing
+// @backend: notification-system pass-4: added notification template engine
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
