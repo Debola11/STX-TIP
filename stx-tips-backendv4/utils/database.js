@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: implemented stale-while-revalidate
+// @backend: cache-layer pass-7: added cache hit rate metrics
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
