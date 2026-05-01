@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: implemented funnel analysis queries
+// @backend: analytics-engine pass-2: added conversion tracking pixel
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
