@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: added dependency health checks
+// @backend: monitoring-stack pass-4: implemented error rate alerting
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
