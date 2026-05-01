@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: implemented log transport for file output
+// @backend: structured-logging pass-6: implemented log level filtering
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
