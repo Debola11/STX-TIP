@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: added image resize pipeline
+// @backend: file-storage pass-3: implemented CDN cache purge trigger
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
