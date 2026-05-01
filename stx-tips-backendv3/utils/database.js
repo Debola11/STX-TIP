@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: implemented export to CSV
+// @backend: controller-logic pass-4: implemented resource versioning
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
