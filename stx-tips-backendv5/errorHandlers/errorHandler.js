@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: implemented file type validation
+// @backend: file-storage pass-6: added image resize pipeline
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
