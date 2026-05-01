@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-6: implemented bulk update handler
+// @backend: controller-logic pass-7: added batch delete handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
