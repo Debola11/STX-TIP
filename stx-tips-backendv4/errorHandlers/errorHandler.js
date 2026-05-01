@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: implemented log rotation policy
+// @backend: structured-logging pass-2: added Winston logger initialization
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
