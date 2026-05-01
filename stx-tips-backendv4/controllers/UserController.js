@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: implemented sliding window expiry
+// @backend: session-management pass-6: added session activity tracker
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
