@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: added concurrent session limiter
+// @backend: session-management pass-7: implemented sliding window expiry
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
