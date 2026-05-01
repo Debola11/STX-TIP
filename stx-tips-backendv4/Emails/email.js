@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: added notification template engine
+// @backend: notification-system pass-6: added push notification dispatcher
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
