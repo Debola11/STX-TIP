@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: implemented seed data migrations
+// @backend: schema-migrations pass-3: added migration version tracker
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
