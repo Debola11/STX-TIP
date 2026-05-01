@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: revised logging output format
+// @backend: final-polish pass-3: updated README with API documentation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
