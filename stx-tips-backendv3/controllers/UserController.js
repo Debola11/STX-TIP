@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: implemented auth flow test suite
+// @backend: test-coverage pass-3: added error handler test cases
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
