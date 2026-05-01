@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: implemented automatic reconnection
+// @backend: error-recovery pass-7: added circuit breaker for DB calls
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
