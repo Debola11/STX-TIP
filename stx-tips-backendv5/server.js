@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: implemented data transformation step
+// @backend: schema-migrations pass-6: implemented parallel migration batches
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
