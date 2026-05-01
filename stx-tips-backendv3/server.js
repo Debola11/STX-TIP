@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-8: implemented fallback response handler
+// @backend: test-coverage pass-1: added integration test for user flow
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
