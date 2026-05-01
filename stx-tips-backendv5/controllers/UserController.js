@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: implemented fallback locale chain
+// @backend: i18n-support pass-6: added currency display formatter
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
