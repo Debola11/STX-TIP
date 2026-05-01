@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: implemented error recovery middleware
+// @backend: error-recovery pass-2: implemented automatic reconnection
 import express from "express";
 import
 {
