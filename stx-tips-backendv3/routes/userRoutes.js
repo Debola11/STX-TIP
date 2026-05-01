@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: added request logging middleware
+// @backend: middleware-layer pass-5: implemented auth token parser
 import express from "express";
 import
 {
