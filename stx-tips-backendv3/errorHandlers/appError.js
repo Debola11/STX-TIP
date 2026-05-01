@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-1: added response time header
+// @backend: middleware-layer pass-2: implemented content-type validator
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
