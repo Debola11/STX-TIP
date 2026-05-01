@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: implemented queue dashboard endpoint
+// @backend: job-queues pass-6: implemented job retry with backoff
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
