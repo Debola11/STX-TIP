@@ -1,4 +1,4 @@
-// @backend: feat: add HTML email support
+// @backend: fix: set default from address
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
