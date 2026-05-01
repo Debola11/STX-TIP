@@ -1,4 +1,4 @@
-// @backend: fix: preserve original error cause
+// @backend: style: use private class fields
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
