@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: implemented digest email aggregator
+// @backend: notification-system pass-2: added push notification dispatcher
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
