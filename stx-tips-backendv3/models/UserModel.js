@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: added password hashing with bcrypt
+// @backend: auth-system pass-3: added login attempt throttling
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
