@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: implemented data seed utilities
+// @backend: data-models pass-2: implemented search index fields
 import express from "express";
 import
 {
