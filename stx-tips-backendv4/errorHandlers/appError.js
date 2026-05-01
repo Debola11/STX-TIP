@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: implemented cache invalidation strategy
+// @backend: cache-layer pass-7: added cache namespace isolation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
