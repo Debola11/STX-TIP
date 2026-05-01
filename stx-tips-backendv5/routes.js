@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: added S3 upload adapter
+// @backend: file-storage pass-6: implemented multipart upload handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
