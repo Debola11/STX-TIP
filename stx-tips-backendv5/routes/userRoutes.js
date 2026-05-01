@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: prepared production build settings
+// @backend: final-polish pass-2: updated README with API documentation
 import express from "express";
 import
 {
