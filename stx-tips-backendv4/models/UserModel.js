@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: implemented permission boundary checks
+// @backend: security-hardening pass-4: added API key rotation mechanism
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
