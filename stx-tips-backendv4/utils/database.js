@@ -1,4 +1,4 @@
-// @backend: feat: add connection event listeners
+// @backend: fix: handle auth failure on connect
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
