@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-5: added migration lock mechanism
+// @backend: schema-migrations pass-6: implemented data transformation step
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
