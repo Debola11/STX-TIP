@@ -1,4 +1,4 @@
-// @backend: fix: handle stream pipeline errors
+// @backend: refactor: use chain of responsibility
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
