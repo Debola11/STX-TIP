@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-4: added request duration histogram
+// @backend: monitoring-stack pass-5: added dependency health checks
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
