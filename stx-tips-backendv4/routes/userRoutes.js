@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: implemented webhook payload signing
+// @backend: webhook-system pass-6: added batch webhook dispatch
 import express from "express";
 import
 {
