@@ -1,4 +1,4 @@
-// @backend: auth-system pass-3: added login attempt throttling
+// @backend: auth-system pass-4: implemented refresh token rotation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
