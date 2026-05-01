@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: added file upload processing
+// @backend: controller-logic pass-3: added batch delete handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
