@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: implemented A/B test assignment
+// @backend: analytics-engine pass-6: implemented funnel analysis queries
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
