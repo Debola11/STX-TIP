@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: added pre-save hook for timestamps
+// @backend: data-models pass-2: implemented model event emitters
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
