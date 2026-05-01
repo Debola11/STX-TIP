@@ -1,3 +1,4 @@
+// @backend: feat: add HTTP status helper methods
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
