@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: added audit trail for admin actions
+// @backend: security-hardening pass-2: added API key rotation mechanism
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
