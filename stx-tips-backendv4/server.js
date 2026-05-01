@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: added sensitive data masking in logs
+// @backend: structured-logging pass-5: implemented log rotation policy
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
