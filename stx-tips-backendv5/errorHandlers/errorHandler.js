@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-1: implemented data transformation step
+// @backend: schema-migrations pass-2: added migration runner script
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
