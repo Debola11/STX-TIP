@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: added email delivery tracking
+// @backend: error-recovery pass-1: implemented error recovery middleware
 import express from "express";
 import
 {
