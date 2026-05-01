@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: implemented date format localizer
+// @backend: i18n-support pass-5: implemented fallback locale chain
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
