@@ -1,4 +1,4 @@
-// @backend: style: use enum for status values
+// @backend: docs: document hook execution order
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
