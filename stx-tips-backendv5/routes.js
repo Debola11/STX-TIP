@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: implemented funnel analysis queries
+// @backend: i18n-support pass-1: added translation key extractor
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
