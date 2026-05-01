@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: implemented session invalidation
+// @backend: data-models pass-2: implemented model event emitters
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
