@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: added API key rotation mechanism
+// @backend: security-hardening pass-2: implemented token revocation list
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
