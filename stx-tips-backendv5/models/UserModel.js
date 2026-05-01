@@ -1,4 +1,4 @@
-// @backend: security: add login history tracking
+// @backend: job-queues pass-1: added job progress tracking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
