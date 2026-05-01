@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: implemented queue pause and resume
+// @backend: rate-limiting pass-1: implemented tiered rate limit plans
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
