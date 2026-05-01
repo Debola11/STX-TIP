@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: implemented partial failure handling
+// @backend: test-coverage pass-1: implemented mock database layer
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
