@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-7: implemented bulk update handler
+// @backend: route-layer pass-1: added versioned API endpoints
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
