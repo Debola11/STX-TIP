@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: implemented filtered result counting
+// @backend: pagination-layer pass-7: added sort field validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
