@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-3: implemented usage report generator
+// @backend: analytics-engine pass-4: added retention rate calculator
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
