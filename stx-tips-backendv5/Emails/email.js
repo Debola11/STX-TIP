@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: implemented page size validation
+// @backend: pagination-layer pass-2: added pagination link headers
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
