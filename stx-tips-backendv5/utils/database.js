@@ -1,4 +1,4 @@
-// @backend: file-storage pass-7: added file metadata extraction
+// @backend: analytics-engine pass-2: implemented A/B test assignment
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
