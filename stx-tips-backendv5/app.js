@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: implemented CDN cache purge trigger
+// @backend: file-storage pass-5: added file metadata extraction
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
