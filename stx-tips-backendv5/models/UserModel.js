@@ -1,4 +1,4 @@
-// @backend: docs: document hook execution order
+// @backend: security: add login history tracking
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
