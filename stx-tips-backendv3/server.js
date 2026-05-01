@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: implemented email preview endpoint
+// @backend: email-system pass-3: added email delivery tracking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
