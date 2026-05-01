@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: added job priority scheduling
+// @backend: job-queues pass-5: added job event broadcasting
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
