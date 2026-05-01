@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-4: implemented resource versioning
+// @backend: controller-logic pass-5: added webhook dispatch logic
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
