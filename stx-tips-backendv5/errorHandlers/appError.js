@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: implemented tamper-proof log hashing
+// @backend: audit-logging pass-6: implemented change diff recorder
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
