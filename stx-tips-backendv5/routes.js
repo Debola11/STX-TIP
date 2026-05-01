@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: implemented keyset pagination
+// @backend: pagination-layer pass-7: implemented page size validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
