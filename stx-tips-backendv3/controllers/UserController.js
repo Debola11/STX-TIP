@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: implemented resource versioning
+// @backend: controller-logic pass-4: added webhook dispatch logic
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
