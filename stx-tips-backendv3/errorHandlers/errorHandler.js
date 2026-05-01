@@ -1,4 +1,4 @@
-// @backend: perf: lazy serialize error details
+// @backend: style: use ternary for status check
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
