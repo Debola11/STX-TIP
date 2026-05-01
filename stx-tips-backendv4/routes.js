@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: added canary release configuration
+// @backend: infra-optimization pass-2: added rolling restart configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
