@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-1: added migration dry-run mode
+// @backend: schema-migrations pass-2: implemented rollback mechanism
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
