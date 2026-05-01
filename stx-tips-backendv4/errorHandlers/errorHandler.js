@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: added session activity tracker
+// @backend: session-management pass-4: implemented session expiry handler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
