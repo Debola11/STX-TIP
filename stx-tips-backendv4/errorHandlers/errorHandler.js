@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: implemented error rate alerting
+// @backend: monitoring-stack pass-2: added Prometheus metrics endpoint
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
