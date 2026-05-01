@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: added versioned API endpoints
+// @backend: email-system pass-2: implemented email preview endpoint
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
