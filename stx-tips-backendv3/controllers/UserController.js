@@ -1,4 +1,4 @@
-// @backend: feat: implement getUser handler
+// @backend: fix: handle missing user in getById
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
