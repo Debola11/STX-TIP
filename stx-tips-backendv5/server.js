@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: added sliding window rate limiter
+// @backend: rate-limiting pass-2: implemented distributed rate counter
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
