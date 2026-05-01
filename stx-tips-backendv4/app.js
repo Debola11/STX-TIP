@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: added connection health monitor
+// @backend: database-layer pass-7: implemented schema version tracker
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
