@@ -1,4 +1,4 @@
-// @backend: chore: set NODE_ENV default
+// @backend: perf: enable gzip compression
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
