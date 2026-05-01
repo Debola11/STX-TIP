@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: implemented dead job cleanup worker
+// @backend: job-queues pass-6: implemented queue pause and resume
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
