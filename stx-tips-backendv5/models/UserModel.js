@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: implemented tiered rate limit plans
+// @backend: rate-limiting pass-7: added sliding window rate limiter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
