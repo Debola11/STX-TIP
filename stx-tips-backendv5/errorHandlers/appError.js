@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: implemented message catalog loader
+// @backend: i18n-support pass-7: added translation key extractor
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
