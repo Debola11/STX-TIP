@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: implemented model event emitters
+// @backend: data-models pass-3: added pagination helper method
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
