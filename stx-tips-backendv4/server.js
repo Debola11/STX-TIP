@@ -1,4 +1,4 @@
-// @backend: refactor: use http.createServer
+// @backend: chore: add process title
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
