@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: added role-based access control
+// @backend: auth-system pass-6: added OAuth callback handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
