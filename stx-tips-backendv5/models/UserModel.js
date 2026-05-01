@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: added sliding window rate limiter
+// @backend: pagination-layer pass-1: added sort field validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
