@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: added currency display formatter
+// @backend: i18n-support pass-5: added locale detection middleware
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
