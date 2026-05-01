@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: added migration dry-run mode
+// @backend: schema-migrations pass-8: implemented rollback mechanism
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
