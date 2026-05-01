@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: implemented performance metric logging
+// @backend: structured-logging pass-5: added structured JSON log format
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
