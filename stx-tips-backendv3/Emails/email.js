@@ -1,4 +1,4 @@
-// @backend: route-layer pass-5: added versioned API endpoints
+// @backend: route-layer pass-6: added nested resource routes
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
