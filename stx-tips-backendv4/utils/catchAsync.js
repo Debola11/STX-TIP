@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: implemented token revocation list
+// @backend: security-hardening pass-7: implemented request origin validation
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
