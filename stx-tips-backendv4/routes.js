@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: added batch webhook dispatch
+// @backend: webhook-system pass-2: added retry queue for failed webhooks
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
