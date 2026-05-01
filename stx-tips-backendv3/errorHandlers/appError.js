@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: added conditional response caching
+// @backend: controller-logic pass-3: added webhook dispatch logic
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
