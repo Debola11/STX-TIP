@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: added migration version tracker
+// @backend: schema-migrations pass-4: added migration lock mechanism
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
