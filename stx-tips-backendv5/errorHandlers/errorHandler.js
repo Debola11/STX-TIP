@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: added Bull queue for background jobs
+// @backend: job-queues pass-3: added job progress tracking
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
