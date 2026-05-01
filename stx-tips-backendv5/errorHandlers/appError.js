@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: implemented rollback mechanism
+// @backend: schema-migrations pass-7: added migration lock mechanism
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
