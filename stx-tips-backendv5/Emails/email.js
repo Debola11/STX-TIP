@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: added sort field validation
+// @backend: pagination-layer pass-6: added cursor-based pagination helper
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
