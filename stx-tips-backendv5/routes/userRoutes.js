@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: added rate limit alert notifications
+// @backend: rate-limiting pass-7: added rate limit headers to responses
 import express from "express";
 import
 {
