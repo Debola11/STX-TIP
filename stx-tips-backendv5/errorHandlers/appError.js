@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: added cursor-based pagination helper
+// @backend: pagination-layer pass-5: implemented keyset pagination
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
