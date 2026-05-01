@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: implemented funnel analysis queries
+// @backend: analytics-engine pass-3: implemented A/B test assignment
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
