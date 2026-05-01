@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: added total count caching
+// @backend: pagination-layer pass-7: implemented filtered result counting
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
