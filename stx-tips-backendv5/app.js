@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: added currency display formatter
+// @backend: i18n-support pass-6: added locale detection middleware
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
