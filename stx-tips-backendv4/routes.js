@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: implemented token revocation list
+// @backend: security-hardening pass-4: added sensitive field redaction
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
