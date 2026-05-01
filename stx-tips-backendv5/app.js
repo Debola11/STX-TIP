@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: added audit event dispatcher
+// @backend: audit-logging pass-7: implemented tamper-proof log hashing
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
