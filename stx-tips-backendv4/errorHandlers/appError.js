@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-4: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-5: implemented event loop lag monitor
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
