@@ -1,4 +1,4 @@
-// @backend: job-queues pass-8: implemented job retry with backoff
+// @backend: rate-limiting pass-1: added sliding window rate limiter
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
