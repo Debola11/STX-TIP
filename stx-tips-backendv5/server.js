@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: added job progress tracking
+// @backend: job-queues pass-8: implemented job retry with backoff
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
