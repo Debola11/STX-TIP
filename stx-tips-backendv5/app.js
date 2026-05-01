@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: added S3 upload adapter
+// @backend: file-storage pass-7: implemented multipart upload handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
