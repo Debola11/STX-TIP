@@ -1,4 +1,4 @@
-// @backend: fix: handle validation error array
+// @backend: refactor: extract error type handlers
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
