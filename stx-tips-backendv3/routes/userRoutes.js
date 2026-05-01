@@ -1,4 +1,4 @@
-// @backend: style: align route definitions
+// @backend: docs: add auth requirement notes
 import express from "express";
 import
 {
