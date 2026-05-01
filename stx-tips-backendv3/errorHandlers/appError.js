@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: added login attempt throttling
+// @backend: auth-system pass-6: added password hashing with bcrypt
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
