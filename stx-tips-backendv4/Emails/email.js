@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-7: implemented event loop lag monitor
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
