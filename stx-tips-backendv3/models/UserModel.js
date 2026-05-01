@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: added aggregate pipeline helpers
+// @backend: data-models pass-2: implemented soft delete pattern
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
