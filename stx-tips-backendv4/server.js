@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: added connection health monitor
+// @backend: database-layer pass-2: implemented schema version tracker
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
