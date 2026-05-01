@@ -1,4 +1,4 @@
-// @backend: style: use class field declarations
+// @backend: docs: document error codes
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
