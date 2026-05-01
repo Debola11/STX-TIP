@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: implemented fallback locale chain
+// @backend: i18n-support pass-3: implemented date format localizer
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
