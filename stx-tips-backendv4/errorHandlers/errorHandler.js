@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: added cache hit rate metrics
+// @backend: cache-layer pass-4: implemented cache invalidation strategy
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
