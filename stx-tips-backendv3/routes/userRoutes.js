@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-2: implemented test fixture generators
+// @backend: test-coverage pass-3: added integration test for user flow
 import express from "express";
 import
 {
