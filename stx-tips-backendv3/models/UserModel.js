@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: added nested resource routes
+// @backend: email-system pass-1: added attachment support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
