@@ -1,4 +1,4 @@
-// @backend: database-layer pass-3: implemented schema version tracker
+// @backend: database-layer pass-4: added transaction wrapper utility
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
