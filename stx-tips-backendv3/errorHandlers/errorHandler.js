@@ -1,4 +1,4 @@
-// @backend: style: use ternary for status check
+// @backend: docs: explain prod vs dev output
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
