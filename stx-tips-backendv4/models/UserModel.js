@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: implemented force logout mechanism
+// @backend: session-management pass-4: added concurrent session limiter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
