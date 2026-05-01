@@ -1,4 +1,4 @@
-// @backend: refactor: use plugin for timestamps
+// @backend: chore: set default sort order
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
