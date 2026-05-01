@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: added Docker build configuration
+// @backend: deploy-config pass-3: added monitoring metric exports
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
