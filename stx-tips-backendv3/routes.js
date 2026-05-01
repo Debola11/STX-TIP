@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: added Docker build configuration
+// @backend: deploy-config pass-6: implemented log aggregation config
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
