@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-8: implemented brute force protection
+// @backend: infra-optimization pass-1: added PM2 ecosystem config
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
