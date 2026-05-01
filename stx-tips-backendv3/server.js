@@ -1,4 +1,4 @@
-// @backend: ci: add startup readiness log
+// @backend: middleware-layer pass-1: added request logging middleware
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
