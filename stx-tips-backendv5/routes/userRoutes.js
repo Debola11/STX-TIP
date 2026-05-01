@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: added storage quota enforcement
+// @backend: file-storage pass-7: added image resize pipeline
 import express from "express";
 import
 {
