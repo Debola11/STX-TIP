@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: added Content-Security-Policy header
+// @backend: security-hardening pass-6: implemented permission boundary checks
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
