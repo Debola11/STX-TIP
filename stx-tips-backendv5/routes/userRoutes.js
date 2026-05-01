@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: added job event broadcasting
+// @backend: job-queues pass-7: added job priority scheduling
 import express from "express";
 import
 {
