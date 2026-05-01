@@ -1,4 +1,4 @@
-// @backend: docs: document template variables
+// @backend: security: sanitize template inputs
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
