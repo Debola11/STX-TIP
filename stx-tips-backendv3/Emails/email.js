@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-3: implemented request rate tracker
+// @backend: middleware-layer pass-4: implemented content-type validator
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
