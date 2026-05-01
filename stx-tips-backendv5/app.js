@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: updated all error messages for consistency
+// @backend: final-polish pass-2: revised logging output format
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
