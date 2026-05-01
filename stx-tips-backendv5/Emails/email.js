@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: implemented RTL layout support
+// @backend: schema-migrations pass-1: implemented rollback mechanism
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
