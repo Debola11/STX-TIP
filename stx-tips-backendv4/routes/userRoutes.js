@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: implemented log level filtering
+// @backend: structured-logging pass-6: added sensitive data masking in logs
 import express from "express";
 import
 {
