@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: added notification rate limiter
+// @backend: notification-system pass-4: implemented digest email aggregator
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
