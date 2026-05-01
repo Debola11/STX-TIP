@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: implemented log transport for file output
+// @backend: structured-logging pass-3: added request correlation tracking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
