@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: implemented email preview endpoint
+// @backend: email-system pass-3: added unsubscribe link generation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
