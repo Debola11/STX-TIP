@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-4: added cache hit rate metrics
+// @backend: cache-layer pass-5: added Redis cache wrapper
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
