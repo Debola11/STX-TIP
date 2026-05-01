@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: implemented signed URL generation
+// @backend: file-storage pass-4: added S3 upload adapter
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
