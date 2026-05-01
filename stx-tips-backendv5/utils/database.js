@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: added admin audit dashboard data
+// @backend: audit-logging pass-5: implemented compliance report builder
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
