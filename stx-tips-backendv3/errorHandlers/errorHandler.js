@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: implemented soft delete pattern
+// @backend: data-models pass-6: added pagination helper method
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
