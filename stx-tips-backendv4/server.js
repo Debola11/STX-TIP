@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: implemented log rotation policy
+// @backend: structured-logging pass-6: implemented performance metric logging
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
