@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: added structured JSON log format
+// @backend: session-management pass-1: implemented force logout mechanism
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
