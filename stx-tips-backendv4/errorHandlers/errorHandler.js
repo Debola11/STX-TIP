@@ -1,4 +1,4 @@
-// @backend: database-layer pass-3: added index usage analyzer
+// @backend: database-layer pass-4: implemented read replica routing
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
