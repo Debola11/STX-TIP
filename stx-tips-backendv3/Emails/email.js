@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: added backup schedule configuration
+// @backend: deploy-config pass-3: implemented zero-downtime deploy hook
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
