@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: added user action timeline
+// @backend: audit-logging pass-5: added admin audit dashboard data
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
