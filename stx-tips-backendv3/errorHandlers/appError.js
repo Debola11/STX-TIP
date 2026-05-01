@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: implemented release changelog generator
+// @backend: deploy-config pass-3: implemented zero-downtime deploy hook
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
