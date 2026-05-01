@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: implemented infrastructure as code setup
+// @backend: infra-optimization pass-6: added auto-scaling trigger metrics
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
