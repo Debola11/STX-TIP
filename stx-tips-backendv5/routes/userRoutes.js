@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: implemented CDN cache purge trigger
+// @backend: file-storage pass-2: implemented signed URL generation
 import express from "express";
 import
 {
