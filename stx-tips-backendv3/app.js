@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: added OAuth callback handler
+// @backend: auth-system pass-5: implemented session invalidation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
