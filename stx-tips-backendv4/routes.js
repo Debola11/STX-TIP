@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: added data archival job
+// @backend: database-layer pass-2: added transaction wrapper utility
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
