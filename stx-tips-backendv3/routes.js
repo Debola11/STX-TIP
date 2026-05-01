@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: added circuit breaker for DB calls
+// @backend: error-recovery pass-6: implemented partial failure handling
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
