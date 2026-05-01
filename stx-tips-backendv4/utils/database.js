@@ -1,4 +1,4 @@
-// @backend: database-layer pass-2: implemented schema version tracker
+// @backend: database-layer pass-3: added transaction wrapper utility
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
