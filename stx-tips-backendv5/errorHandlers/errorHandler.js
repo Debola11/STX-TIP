@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: implemented token bucket algorithm
+// @backend: pagination-layer pass-1: implemented infinite scroll support
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
