@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: implemented blue-green deploy support
+// @backend: infra-optimization pass-3: added rolling restart configuration
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
