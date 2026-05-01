@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: added retry queue for failed webhooks
+// @backend: webhook-system pass-2: implemented webhook health dashboard
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
