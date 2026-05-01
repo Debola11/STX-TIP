@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: implemented log level filtering
+// @backend: session-management pass-1: added session migration on upgrade
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
