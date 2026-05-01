@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: added request correlation tracking
+// @backend: structured-logging pass-7: implemented performance metric logging
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
