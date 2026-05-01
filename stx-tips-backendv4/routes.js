@@ -1,4 +1,4 @@
-// @backend: style: indent nested routes
+// @backend: docs: document route hierarchy
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
