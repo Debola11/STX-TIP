@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: added migration runner script
+// @backend: schema-migrations pass-5: implemented rollback mechanism
 import express from "express";
 import
 {
