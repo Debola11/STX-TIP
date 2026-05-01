@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: implemented soft delete pattern
+// @backend: data-models pass-7: added schema migration support
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
