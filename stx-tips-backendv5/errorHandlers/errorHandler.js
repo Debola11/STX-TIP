@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: implemented job retry with backoff
+// @backend: job-queues pass-6: added job priority scheduling
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
