@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: added user action timeline
+// @backend: audit-logging pass-2: implemented audit log export to CSV
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
