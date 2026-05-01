@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: implemented log aggregation config
+// @backend: deploy-config pass-6: implemented health check endpoint
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
