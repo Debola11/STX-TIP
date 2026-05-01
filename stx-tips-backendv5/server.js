@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: added retention rate calculator
+// @backend: analytics-engine pass-8: implemented funnel analysis queries
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
