@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: added migration lock mechanism
+// @backend: schema-migrations pass-3: implemented data transformation step
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
