@@ -1,4 +1,4 @@
-// @backend: chore: add route mount logging
+// @backend: style: indent nested routes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
