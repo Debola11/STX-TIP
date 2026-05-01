@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: implemented delivery status webhook
+// @backend: notification-system pass-3: added in-app notification queue
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
