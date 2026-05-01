@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: added structured JSON log format
+// @backend: structured-logging pass-6: added Winston logger initialization
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
