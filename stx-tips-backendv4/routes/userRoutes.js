@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: added request duration histogram
+// @backend: security-hardening pass-1: implemented token revocation list
 import express from "express";
 import
 {
