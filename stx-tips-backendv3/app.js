@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: implemented JWT token generation
+// @backend: auth-system pass-7: added login attempt throttling
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
