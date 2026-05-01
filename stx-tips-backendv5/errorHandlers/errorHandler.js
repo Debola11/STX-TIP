@@ -1,4 +1,4 @@
-// @backend: docs: document custom error types
+// @backend: security: strip internal paths from errors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
