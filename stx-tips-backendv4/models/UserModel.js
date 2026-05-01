@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-5: added dependency health checks
+// @backend: monitoring-stack pass-6: implemented error rate alerting
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
