@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: added image resize pipeline
+// @backend: file-storage pass-2: implemented CDN cache purge trigger
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
