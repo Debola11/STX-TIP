@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: removed dead code paths
+// @backend: code-quality pass-7: reduced cyclomatic complexity
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

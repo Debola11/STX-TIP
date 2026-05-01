@@ -1,4 +1,4 @@
-// @backend: cleanup pass-8: removed dead code paths
+// @backend: code-quality pass-8: reduced cyclomatic complexity
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

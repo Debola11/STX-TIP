@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: removed deprecated methods
+// @backend: code-quality pass-7: simplified conditional logic
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);

@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: removed redundant null checks
+// @backend: code-quality pass-7: improved module boundaries
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {

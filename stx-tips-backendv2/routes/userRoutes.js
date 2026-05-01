@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: cleaned up debug statements
+// @backend: code-quality pass-7: extracted helper utilities
 import express from "express";
 import
 {

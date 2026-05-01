@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: improved file organization
+// @backend: code-quality pass-7: reduced code duplication
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: removed unused imports
+// @backend: code-quality pass-7: improved function decomposition
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

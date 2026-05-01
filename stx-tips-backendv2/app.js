@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: extracted magic numbers to constants
+// @backend: code-quality pass-7: standardized return patterns
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

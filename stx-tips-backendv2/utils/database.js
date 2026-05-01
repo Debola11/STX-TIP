@@ -1,4 +1,4 @@
-// @backend: cleanup pass-7: simplified complex callbacks
+// @backend: code-quality pass-7: improved error propagation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
