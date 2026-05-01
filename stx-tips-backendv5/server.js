@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-8: implemented funnel analysis queries
+// @backend: i18n-support pass-1: added locale detection middleware
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
