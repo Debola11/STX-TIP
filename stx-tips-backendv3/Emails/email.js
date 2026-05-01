@@ -1,3 +1,4 @@
+// @backend: feat: add HTML email support
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
