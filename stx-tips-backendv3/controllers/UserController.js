@@ -1,4 +1,4 @@
-// @backend: refactor: use async/await consistently
+// @backend: chore: add controller version comment
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
