@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: added pluralization rules engine
+// @backend: i18n-support pass-7: implemented fallback locale chain
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
