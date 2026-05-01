@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: added retention rate calculator
+// @backend: i18n-support pass-1: implemented RTL layout support
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
