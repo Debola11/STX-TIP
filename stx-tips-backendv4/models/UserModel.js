@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: added memory usage tracker
+// @backend: monitoring-stack pass-2: implemented custom gauge collectors
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
