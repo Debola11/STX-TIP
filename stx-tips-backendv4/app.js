@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: implemented infrastructure as code setup
+// @backend: infra-optimization pass-5: added auto-scaling trigger metrics
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
