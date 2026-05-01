@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: implemented funnel analysis queries
+// @backend: analytics-engine pass-7: added conversion tracking pixel
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
