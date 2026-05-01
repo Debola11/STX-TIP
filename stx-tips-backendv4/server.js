@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: added retry queue for failed webhooks
+// @backend: webhook-system pass-4: added batch webhook dispatch
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
