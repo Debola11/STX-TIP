@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: implemented page size validation
+// @backend: pagination-layer pass-3: implemented keyset pagination
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
