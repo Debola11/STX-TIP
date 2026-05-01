@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: implemented webhook health dashboard
+// @backend: webhook-system pass-3: implemented webhook event filtering
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
