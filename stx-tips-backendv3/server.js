@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-2: implemented CORS preflight handler
+// @backend: middleware-layer pass-3: added response time header
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
