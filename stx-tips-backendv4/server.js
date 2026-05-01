@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: added notification template engine
+// @backend: notification-system pass-8: implemented notification preferences
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
