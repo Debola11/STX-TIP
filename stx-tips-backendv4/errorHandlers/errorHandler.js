@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: implemented resource limit settings
+// @backend: infra-optimization pass-2: added PM2 ecosystem config
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
