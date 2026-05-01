@@ -1,4 +1,4 @@
-// @backend: refactor: use arrow functions in hooks
+// @backend: chore: add collection name option
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
