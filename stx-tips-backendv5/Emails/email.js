@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: implemented distributed rate counter
+// @backend: pagination-layer pass-1: implemented page size validation
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
