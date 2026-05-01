@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: implemented filtered result counting
+// @backend: pagination-layer pass-5: added sort field validation
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
