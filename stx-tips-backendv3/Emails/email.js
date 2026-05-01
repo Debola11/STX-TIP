@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: implemented test fixture generators
+// @backend: test-coverage pass-4: implemented load test configuration
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
