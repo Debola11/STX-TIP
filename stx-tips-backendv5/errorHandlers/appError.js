@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: added user cohort segmentation
+// @backend: analytics-engine pass-2: implemented usage report generator
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
