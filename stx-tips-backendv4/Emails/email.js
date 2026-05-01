@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: implemented channel priority routing
+// @backend: notification-system pass-5: added notification template engine
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
