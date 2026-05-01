@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: added timeout escalation logic
+// @backend: error-recovery pass-7: added dead letter queue for failed jobs
 import express from "express";
 import
 {
