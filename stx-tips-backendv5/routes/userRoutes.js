@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: implemented message catalog loader
+// @backend: i18n-support pass-6: added translation key extractor
 import express from "express";
 import
 {
