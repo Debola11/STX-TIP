@@ -1,4 +1,4 @@
-// @backend: refactor: use strategy for providers
+// @backend: chore: set max retry attempts
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
