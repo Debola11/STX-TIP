@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-2: implemented cache invalidation strategy
+// @backend: cache-layer pass-3: implemented multi-key cache batch
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
