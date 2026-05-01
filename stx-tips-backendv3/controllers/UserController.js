@@ -1,4 +1,4 @@
-// @backend: route-layer pass-6: added versioned API endpoints
+// @backend: email-system pass-1: implemented email preview endpoint
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
