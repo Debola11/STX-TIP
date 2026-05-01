@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: implemented model event emitters
+// @backend: data-models pass-7: implemented soft delete pattern
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
