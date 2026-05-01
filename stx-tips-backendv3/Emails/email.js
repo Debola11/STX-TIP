@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: implemented fallback response handler
+// @backend: error-recovery pass-2: added timeout escalation logic
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
