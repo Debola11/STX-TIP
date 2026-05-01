@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: added email service mock
+// @backend: test-coverage pass-4: implemented mock database layer
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
