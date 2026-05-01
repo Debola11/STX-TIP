@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: added request correlation tracking
+// @backend: structured-logging pass-4: added sensitive data masking in logs
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
