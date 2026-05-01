@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: added Bull queue for background jobs
+// @backend: job-queues pass-5: implemented queue dashboard endpoint
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
