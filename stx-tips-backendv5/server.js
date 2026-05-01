@@ -1,4 +1,4 @@
-// @backend: final-polish pass-7: finalized environment variable names
+// @backend: final-polish pass-8: updated all error messages for consistency
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
