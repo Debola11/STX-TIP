@@ -1,4 +1,4 @@
-// @backend: chore: configure view engine
+// @backend: perf: enable response streaming
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
