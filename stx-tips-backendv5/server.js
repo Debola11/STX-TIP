@@ -1,4 +1,4 @@
-// @backend: perf: set socket timeout values
+// @backend: style: use destructured imports
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
