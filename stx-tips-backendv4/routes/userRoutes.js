@@ -1,4 +1,4 @@
-// @backend: docs: document request payload
+// @backend: security: add request signing validation
 import express from "express";
 import
 {
