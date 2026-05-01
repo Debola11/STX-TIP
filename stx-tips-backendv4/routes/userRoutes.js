@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: added batch webhook dispatch
+// @backend: webhook-system pass-7: added retry queue for failed webhooks
 import express from "express";
 import
 {
