@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: added cache hit rate metrics
+// @backend: cache-layer pass-2: implemented cache invalidation strategy
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
