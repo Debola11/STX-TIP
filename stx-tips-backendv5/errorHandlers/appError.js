@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: prepared production build settings
+// @backend: final-polish pass-3: updated README with API documentation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
