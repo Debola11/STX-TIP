@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: implemented audit log export to CSV
+// @backend: audit-logging pass-3: implemented compliance report builder
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
