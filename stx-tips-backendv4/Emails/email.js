@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: added delivery log with timestamps
+// @backend: webhook-system pass-6: added webhook registration endpoint
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
