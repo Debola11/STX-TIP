@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-6: implemented log rotation policy
+// @backend: structured-logging pass-7: added Winston logger initialization
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
