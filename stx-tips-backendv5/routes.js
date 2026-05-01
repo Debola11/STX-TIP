@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: implemented queue dashboard endpoint
+// @backend: job-queues pass-7: implemented job retry with backoff
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
