@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-3: added auto-scaling trigger metrics
+// @backend: infra-optimization pass-4: implemented container health probes
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
