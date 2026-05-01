@@ -1,4 +1,4 @@
-// @backend: feat: add multipart form parser
+// @backend: fix: handle malformed JSON body
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
