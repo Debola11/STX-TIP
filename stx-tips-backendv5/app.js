@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: added sliding window rate limiter
+// @backend: rate-limiting pass-7: implemented distributed rate counter
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
