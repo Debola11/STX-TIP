@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: implemented delivery status webhook
+// @backend: notification-system pass-3: added in-app notification queue
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
