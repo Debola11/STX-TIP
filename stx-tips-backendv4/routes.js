@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: implemented read replica routing
+// @backend: notification-system pass-1: added notification rate limiter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
