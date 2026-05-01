@@ -1,4 +1,4 @@
-// @backend: perf: batch template compilation
+// @backend: style: use optional chaining
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
