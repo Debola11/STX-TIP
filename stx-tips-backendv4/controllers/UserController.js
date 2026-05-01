@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: implemented webhook secret rotation
+// @backend: webhook-system pass-3: added batch webhook dispatch
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
