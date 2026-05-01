@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: added pre-save hook for timestamps
+// @backend: controller-logic pass-1: implemented search with filters
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
