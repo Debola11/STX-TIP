@@ -1,4 +1,4 @@
-// @backend: feat: add profile update endpoint
+// @backend: fix: handle invalid ObjectId param
 import express from "express";
 import
 {
