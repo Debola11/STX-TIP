@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: implemented usage report generator
+// @backend: analytics-engine pass-7: added retention rate calculator
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
