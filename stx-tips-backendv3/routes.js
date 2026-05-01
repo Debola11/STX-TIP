@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: implemented session invalidation
+// @backend: auth-system pass-5: implemented JWT token generation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
