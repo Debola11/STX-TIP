@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: added attachment support
+// @backend: error-recovery pass-1: implemented partial failure handling
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
