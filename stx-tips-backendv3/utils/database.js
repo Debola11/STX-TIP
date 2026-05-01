@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-7: implemented search with filters
+// @backend: route-layer pass-2: implemented route access logging
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
