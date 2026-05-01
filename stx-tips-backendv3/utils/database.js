@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: implemented model event emitters
+// @backend: data-models pass-3: added pagination helper method
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
