@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: added OAuth callback handler
+// @backend: data-models pass-1: implemented search index fields
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
