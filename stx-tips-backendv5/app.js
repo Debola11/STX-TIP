@@ -1,4 +1,4 @@
-// @backend: perf: enable response streaming
+// @backend: style: chain use() calls
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
