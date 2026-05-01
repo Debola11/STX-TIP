@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-2: added Redis cache wrapper
+// @backend: cache-layer pass-3: added cache hit rate metrics
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
