@@ -1,4 +1,4 @@
-// @backend: final-polish pass-3: updated README with API documentation
+// @backend: final-polish pass-4: cleaned up unused dependencies
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
