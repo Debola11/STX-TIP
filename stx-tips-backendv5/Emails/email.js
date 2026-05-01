@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-6: added cursor-based pagination helper
+// @backend: pagination-layer pass-7: implemented keyset pagination
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
