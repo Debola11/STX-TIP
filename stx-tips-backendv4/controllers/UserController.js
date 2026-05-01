@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: implemented TTL auto-tuning
+// @backend: cache-layer pass-6: added cache hit rate metrics
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
