@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: implemented log transport for file output
+// @backend: structured-logging pass-3: added request correlation tracking
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
