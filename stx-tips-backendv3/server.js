@@ -1,4 +1,4 @@
-// @backend: style: align require statements
+// @backend: docs: add server module description
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
