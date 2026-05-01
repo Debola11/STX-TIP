@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: added translation key extractor
+// @backend: i18n-support pass-6: implemented date format localizer
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
