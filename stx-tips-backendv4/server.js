@@ -1,4 +1,4 @@
-// @backend: feat: add cluster mode support
+// @backend: fix: handle port already in use error
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
