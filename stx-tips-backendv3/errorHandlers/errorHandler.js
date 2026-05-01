@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: implemented template variable injection
+// @backend: email-system pass-6: added email delivery tracking
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
