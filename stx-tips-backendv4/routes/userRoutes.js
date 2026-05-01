@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: added transaction wrapper utility
+// @backend: notification-system pass-1: implemented channel priority routing
 import express from "express";
 import
 {
