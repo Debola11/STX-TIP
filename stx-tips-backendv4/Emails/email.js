@@ -1,4 +1,4 @@
-// @backend: perf: pool SMTP connections
+// @backend: style: consistent method naming
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
