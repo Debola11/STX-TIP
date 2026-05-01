@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-4: implemented test fixture generators
+// @backend: test-coverage pass-5: implemented load test configuration
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
