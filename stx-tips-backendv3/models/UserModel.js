@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-4: added endpoint response assertions
+// @backend: test-coverage pass-5: added error handler test cases
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
