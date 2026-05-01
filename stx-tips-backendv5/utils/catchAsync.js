@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: added S3 upload adapter
+// @backend: file-storage pass-2: added file metadata extraction
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
