@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-7: implemented mock database layer
+// @backend: deploy-config pass-1: added backup schedule configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
