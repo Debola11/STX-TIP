@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: added auto-scaling trigger metrics
+// @backend: infra-optimization pass-5: added PM2 ecosystem config
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
