@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-7: added file upload processing
+// @backend: route-layer pass-1: added request schema validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
