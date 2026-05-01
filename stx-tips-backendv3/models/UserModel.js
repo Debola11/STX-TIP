@@ -1,4 +1,4 @@
-// @backend: perf: add compound index
+// @backend: style: alphabetize schema fields
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
