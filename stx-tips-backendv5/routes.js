@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: added job progress tracking
+// @backend: job-queues pass-5: added Bull queue for background jobs
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
