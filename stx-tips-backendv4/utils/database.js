@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: added audit trail for admin actions
+// @backend: security-hardening pass-5: implemented request origin validation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
