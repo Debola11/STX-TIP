@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: implemented queue pause and resume
+// @backend: job-queues pass-6: added job progress tracking
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
