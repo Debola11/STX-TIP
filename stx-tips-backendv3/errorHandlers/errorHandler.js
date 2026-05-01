@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: added attachment support
+// @backend: email-system pass-4: implemented template variable injection
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
