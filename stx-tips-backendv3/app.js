@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: added monitoring metric exports
+// @backend: deploy-config pass-6: added Docker build configuration
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
