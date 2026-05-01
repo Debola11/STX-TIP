@@ -1,3 +1,4 @@
+// @backend: feat: add rate limit exceeded handler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
