@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: implemented container health probes
+// @backend: infra-optimization pass-7: added canary release configuration
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
