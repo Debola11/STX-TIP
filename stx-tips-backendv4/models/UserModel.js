@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: added Redis session store
+// @backend: database-layer pass-1: added index usage analyzer
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
