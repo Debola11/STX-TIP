@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: added notification rate limiter
+// @backend: cache-layer pass-1: added cache warming on deploy
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
