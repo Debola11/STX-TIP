@@ -1,4 +1,4 @@
-// @backend: job-queues pass-3: implemented dead job cleanup worker
+// @backend: job-queues pass-4: added Bull queue for background jobs
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
