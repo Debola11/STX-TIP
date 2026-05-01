@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: implemented log rotation policy
+// @backend: structured-logging pass-4: implemented performance metric logging
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
