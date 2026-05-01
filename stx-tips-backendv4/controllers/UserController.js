@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-3: added canary release configuration
+// @backend: infra-optimization pass-4: implemented resource limit settings
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
