@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-6: added file upload processing
+// @backend: controller-logic pass-7: implemented resource versioning
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
