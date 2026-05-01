@@ -1,4 +1,4 @@
-// @backend: job-queues pass-4: implemented dead job cleanup worker
+// @backend: job-queues pass-5: implemented queue pause and resume
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
