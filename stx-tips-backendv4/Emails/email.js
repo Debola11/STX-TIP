@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: implemented token revocation list
+// @backend: security-hardening pass-5: added sensitive field redaction
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
