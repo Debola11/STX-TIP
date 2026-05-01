@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: added password hashing with bcrypt
+// @backend: data-models pass-1: added schema migration support
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
