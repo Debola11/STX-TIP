@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-1: added integration test for user flow
+// @backend: test-coverage pass-2: implemented auth flow test suite
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
