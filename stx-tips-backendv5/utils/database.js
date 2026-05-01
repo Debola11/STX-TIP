@@ -1,4 +1,4 @@
-// @backend: feat: add slow query logger
+// @backend: fix: handle replica set failover
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
