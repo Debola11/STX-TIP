@@ -1,4 +1,4 @@
-// @backend: data-models pass-1: implemented soft delete pattern
+// @backend: data-models pass-2: added schema migration support
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
