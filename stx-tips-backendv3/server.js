@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: added endpoint response assertions
+// @backend: test-coverage pass-4: added error handler test cases
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
