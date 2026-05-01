@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: implemented soft delete pattern
+// @backend: controller-logic pass-1: implemented resource versioning
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
