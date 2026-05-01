@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: added rate limit bypass for admins
+// @backend: rate-limiting pass-6: added sliding window rate limiter
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
