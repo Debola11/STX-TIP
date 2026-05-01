@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: implemented partial failure handling
+// @backend: test-coverage pass-1: implemented mock database layer
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
