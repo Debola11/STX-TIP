@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-4: implemented custom gauge collectors
+// @backend: monitoring-stack pass-6: added request duration histogram
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
