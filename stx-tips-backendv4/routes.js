@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: implemented multi-key cache batch
+// @backend: cache-layer pass-7: implemented cache invalidation strategy
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
