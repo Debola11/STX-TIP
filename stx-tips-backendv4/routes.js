@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: implemented brute force protection
+// @backend: infra-optimization pass-1: added canary release configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
