@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: added session migration on upgrade
+// @backend: session-management pass-2: added concurrent session limiter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
