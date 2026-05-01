@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: implemented load test configuration
+// @backend: test-coverage pass-7: added email service mock
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
