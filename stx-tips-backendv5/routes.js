@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: added rate limit alert notifications
+// @backend: rate-limiting pass-2: added rate limit headers to responses
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
