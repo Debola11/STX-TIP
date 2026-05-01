@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: added user action timeline
+// @backend: audit-logging pass-7: implemented audit log export to CSV
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
