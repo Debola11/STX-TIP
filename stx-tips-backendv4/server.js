@@ -1,4 +1,4 @@
-// @backend: chore: add process title
+// @backend: perf: enable keep-alive connections
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
