@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-3: added retention rate calculator
+// @backend: analytics-engine pass-4: implemented funnel analysis queries
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
