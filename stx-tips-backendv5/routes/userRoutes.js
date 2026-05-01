@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: implemented dead job cleanup worker
+// @backend: job-queues pass-3: added Bull queue for background jobs
 import express from "express";
 import
 {
