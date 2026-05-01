@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: implemented queue pause and resume
+// @backend: job-queues pass-7: added job progress tracking
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
