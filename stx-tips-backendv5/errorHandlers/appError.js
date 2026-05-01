@@ -1,4 +1,4 @@
-// @backend: docs: document subclass usage
+// @backend: job-queues pass-1: added job priority scheduling
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
