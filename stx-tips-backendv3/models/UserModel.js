@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-6: added webhook dispatch logic
+// @backend: controller-logic pass-7: implemented bulk update handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
