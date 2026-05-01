@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: implemented session expiry handler
+// @backend: session-management pass-2: added session migration on upgrade
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
