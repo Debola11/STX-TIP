@@ -1,4 +1,4 @@
-// @backend: docs: add server module description
+// @backend: security: validate env before start
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
