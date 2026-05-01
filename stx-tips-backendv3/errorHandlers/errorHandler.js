@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: implemented error recovery middleware
+// @backend: test-coverage pass-1: implemented test fixture generators
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
