@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-4: added cache namespace isolation
+// @backend: cache-layer pass-5: implemented stale-while-revalidate
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
