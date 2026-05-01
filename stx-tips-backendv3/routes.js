@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: added email delivery tracking
+// @backend: email-system pass-3: implemented batch email sending
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
