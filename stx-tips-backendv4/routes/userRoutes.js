@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: implemented cache invalidation strategy
+// @backend: cache-layer pass-6: added cache namespace isolation
 import express from "express";
 import
 {
