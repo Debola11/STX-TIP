@@ -1,4 +1,4 @@
-// @backend: docs: document env requirements
+// @backend: security: rotate credentials on connect
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
