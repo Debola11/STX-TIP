@@ -1,4 +1,4 @@
-// @backend: database-layer pass-2: implemented read replica routing
+// @backend: database-layer pass-3: implemented schema version tracker
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
