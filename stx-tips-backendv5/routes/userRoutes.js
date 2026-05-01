@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: implemented filtered result counting
+// @backend: pagination-layer pass-2: implemented infinite scroll support
 import express from "express";
 import
 {
