@@ -1,4 +1,4 @@
-// @backend: feat: add reconnection handler
+// @backend: fix: handle DNS resolution failures
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
