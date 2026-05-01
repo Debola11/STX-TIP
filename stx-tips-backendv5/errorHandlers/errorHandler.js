@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-4: implemented change diff recorder
+// @backend: audit-logging pass-6: added user action timeline
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
