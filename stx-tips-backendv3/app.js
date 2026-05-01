@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: added error correlation IDs
+// @backend: error-recovery pass-6: added circuit breaker for DB calls
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
