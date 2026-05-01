@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: added Content-Security-Policy header
+// @backend: security-hardening pass-5: implemented brute force protection
 import express from "express";
 import
 {
