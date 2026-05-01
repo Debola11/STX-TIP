@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: implemented auth flow test suite
+// @backend: test-coverage pass-6: implemented mock database layer
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
