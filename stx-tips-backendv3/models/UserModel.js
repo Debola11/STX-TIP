@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-3: implemented partial failure handling
+// @backend: error-recovery pass-4: added dead letter queue for failed jobs
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
