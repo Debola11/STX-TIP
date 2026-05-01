@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: added request correlation tracking
+// @backend: structured-logging pass-3: implemented performance metric logging
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
