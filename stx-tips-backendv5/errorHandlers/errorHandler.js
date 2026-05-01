@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: added audit log retention policy
+// @backend: audit-logging pass-4: implemented change diff recorder
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
