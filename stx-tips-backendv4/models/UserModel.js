@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: added push notification dispatcher
+// @backend: cache-layer pass-1: added cache hit rate metrics
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
