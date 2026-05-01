@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: added retry queue for failed webhooks
+// @backend: webhook-system pass-7: implemented webhook health dashboard
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
