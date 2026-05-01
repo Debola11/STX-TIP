@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: implemented automatic reconnection
+// @backend: error-recovery pass-7: added error correlation IDs
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
