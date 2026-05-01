@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: implemented refresh token rotation
+// @backend: auth-system pass-7: added OAuth callback handler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
