@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-7: added event tracking middleware
+// @backend: i18n-support pass-1: added currency display formatter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
