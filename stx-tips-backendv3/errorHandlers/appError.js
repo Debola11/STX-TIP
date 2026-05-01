@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-1: implemented export to CSV
+// @backend: controller-logic pass-2: added conditional response caching
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
