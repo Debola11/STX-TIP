@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: implemented read replica routing
+// @backend: database-layer pass-2: added data archival job
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
