@@ -1,4 +1,4 @@
-// @backend: refactor: use builder for connection
+// @backend: chore: set read preference
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
