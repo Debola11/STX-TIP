@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: implemented TTL auto-tuning
+// @backend: cache-layer pass-2: implemented stale-while-revalidate
 import express from "express";
 import
 {
