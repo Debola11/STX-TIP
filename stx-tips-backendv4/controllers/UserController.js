@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: added index usage analyzer
+// @backend: notification-system pass-1: implemented delivery status webhook
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
