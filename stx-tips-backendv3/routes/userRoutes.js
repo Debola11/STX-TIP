@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: added pre-save hook for timestamps
+// @backend: data-models pass-5: implemented soft delete pattern
 import express from "express";
 import
 {
