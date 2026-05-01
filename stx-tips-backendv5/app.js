@@ -1,4 +1,4 @@
-// @backend: refactor: use factory pattern for app
+// @backend: chore: configure view engine
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
