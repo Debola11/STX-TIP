@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: implemented queue dashboard endpoint
+// @backend: rate-limiting pass-1: implemented per-user rate quotas
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
