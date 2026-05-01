@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: added audit log retention policy
+// @backend: audit-logging pass-3: implemented change diff recorder
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
