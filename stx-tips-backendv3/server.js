@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-1: implemented bulk update handler
+// @backend: controller-logic pass-2: added batch delete handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
