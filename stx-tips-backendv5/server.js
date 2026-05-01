@@ -1,4 +1,4 @@
-// @backend: chore: set max header size
+// @backend: perf: set socket timeout values
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
