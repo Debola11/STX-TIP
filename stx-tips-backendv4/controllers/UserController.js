@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: implemented token revocation list
+// @backend: security-hardening pass-6: added sensitive field redaction
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
