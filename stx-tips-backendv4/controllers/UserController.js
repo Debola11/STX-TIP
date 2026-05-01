@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: implemented digest email aggregator
+// @backend: notification-system pass-5: implemented channel priority routing
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
