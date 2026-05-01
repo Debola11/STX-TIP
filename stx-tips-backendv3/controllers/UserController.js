@@ -1,4 +1,4 @@
-// @backend: security: sanitize query parameters
+// @backend: ci: add response time logging
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
