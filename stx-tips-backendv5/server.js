@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: implemented distributed rate counter
+// @backend: rate-limiting pass-3: added rate limit headers to responses
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
