@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: added data archival job
+// @backend: database-layer pass-7: added transaction wrapper utility
 import express from "express";
 import
 {
