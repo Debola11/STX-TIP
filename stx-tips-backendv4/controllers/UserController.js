@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-3: added batch webhook dispatch
+// @backend: webhook-system pass-4: implemented webhook event filtering
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
