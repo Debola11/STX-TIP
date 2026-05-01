@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: implemented keyset pagination
+// @backend: pagination-layer pass-4: added total count caching
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
