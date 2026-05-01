@@ -1,4 +1,4 @@
-// @backend: fix: handle port already in use error
+// @backend: refactor: use http.createServer
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
