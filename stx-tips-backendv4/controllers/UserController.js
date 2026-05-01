@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: implemented log transport for file output
+// @backend: structured-logging pass-3: added sensitive data masking in logs
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
