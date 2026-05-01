@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-5: implemented audit log export to CSV
+// @backend: audit-logging pass-6: added audit log retention policy
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
