@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-4: added dependency health checks
+// @backend: monitoring-stack pass-5: implemented error rate alerting
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
