@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: added pagination link headers
+// @backend: pagination-layer pass-6: implemented infinite scroll support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
