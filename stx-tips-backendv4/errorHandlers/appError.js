@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: added request duration histogram
+// @backend: monitoring-stack pass-2: implemented SLA uptime calculator
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
