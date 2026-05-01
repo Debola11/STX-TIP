@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: added webhook registration endpoint
+// @backend: webhook-system pass-6: implemented webhook secret rotation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
