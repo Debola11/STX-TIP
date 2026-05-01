@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-6: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-7: implemented event loop lag monitor
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
