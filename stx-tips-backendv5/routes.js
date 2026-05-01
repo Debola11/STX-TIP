@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: implemented CDN cache purge trigger
+// @backend: file-storage pass-4: added file metadata extraction
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
