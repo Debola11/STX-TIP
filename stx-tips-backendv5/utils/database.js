@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-4: added translation key extractor
+// @backend: i18n-support pass-5: implemented date format localizer
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
