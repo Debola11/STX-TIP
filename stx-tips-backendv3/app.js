@@ -1,4 +1,4 @@
-// @backend: fix: set trust proxy for rate limiter
+// @backend: refactor: split route registration
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
