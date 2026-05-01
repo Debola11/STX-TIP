@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: added backup schedule configuration
+// @backend: deploy-config pass-7: added environment validation script
 import express from "express";
 import
 {
