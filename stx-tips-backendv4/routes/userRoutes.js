@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: implemented session expiry handler
+// @backend: session-management pass-6: added session migration on upgrade
 import express from "express";
 import
 {
