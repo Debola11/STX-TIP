@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: added notification rate limiter
+// @backend: notification-system pass-7: added in-app notification queue
 import express from "express";
 import
 {
