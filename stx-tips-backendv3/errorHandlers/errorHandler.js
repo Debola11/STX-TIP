@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: added pagination helper method
+// @backend: data-models pass-7: implemented data seed utilities
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
