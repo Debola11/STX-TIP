@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: implemented A/B test assignment
+// @backend: analytics-engine pass-7: implemented funnel analysis queries
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
