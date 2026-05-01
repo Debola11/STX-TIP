@@ -1,4 +1,4 @@
-// @backend: final-polish pass-6: updated README with API documentation
+// @backend: final-polish pass-7: cleaned up unused dependencies
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
