@@ -1,4 +1,4 @@
-// @backend: job-queues pass-3: implemented queue dashboard endpoint
+// @backend: job-queues pass-4: added job priority scheduling
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
