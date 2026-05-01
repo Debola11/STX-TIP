@@ -1,4 +1,4 @@
-// @backend: notification-system pass-5: added notification template engine
+// @backend: notification-system pass-6: added push notification dispatcher
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
