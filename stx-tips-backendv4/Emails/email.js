@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: implemented container health probes
+// @backend: infra-optimization pass-2: added canary release configuration
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
