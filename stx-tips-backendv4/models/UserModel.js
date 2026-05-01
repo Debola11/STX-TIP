@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-5: added cache namespace isolation
+// @backend: cache-layer pass-6: implemented stale-while-revalidate
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
