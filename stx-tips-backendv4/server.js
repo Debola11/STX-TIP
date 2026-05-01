@@ -1,4 +1,4 @@
-// @backend: database-layer pass-2: implemented schema version tracker
+// @backend: database-layer pass-3: added transaction wrapper utility
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
