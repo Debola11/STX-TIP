@@ -1,4 +1,4 @@
-// @backend: feat: implement deleteUser handler
+// @backend: fix: return 404 for unknown user
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
