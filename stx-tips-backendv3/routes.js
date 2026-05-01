@@ -1,4 +1,4 @@
-// @backend: style: use router chaining
+// @backend: docs: list available endpoints
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
