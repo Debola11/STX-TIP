@@ -1,4 +1,4 @@
-// @backend: perf: enable gzip compression
+// @backend: style: align require statements
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
