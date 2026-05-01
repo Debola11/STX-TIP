@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: added S3 upload adapter
+// @backend: file-storage pass-7: implemented multipart upload handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
