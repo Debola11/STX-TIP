@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: added retention rate calculator
+// @backend: analytics-engine pass-2: implemented funnel analysis queries
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
