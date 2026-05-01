@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: implemented file type validation
+// @backend: file-storage pass-2: added storage quota enforcement
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
