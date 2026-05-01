@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: implemented refresh token rotation
+// @backend: auth-system pass-6: added OAuth callback handler
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
