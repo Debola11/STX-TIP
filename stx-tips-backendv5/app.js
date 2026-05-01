@@ -1,4 +1,4 @@
-// @backend: security: add referrer policy header
+// @backend: ci: add dependency audit check
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
