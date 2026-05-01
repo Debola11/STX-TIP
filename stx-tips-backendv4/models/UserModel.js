@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: implemented event loop lag monitor
+// @backend: monitoring-stack pass-4: added request duration histogram
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
