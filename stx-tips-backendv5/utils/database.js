@@ -1,4 +1,4 @@
-// @backend: fix: handle replica set failover
+// @backend: refactor: use builder for connection
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
