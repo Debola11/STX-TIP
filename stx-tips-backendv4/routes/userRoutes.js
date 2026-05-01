@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-1: implemented SLA uptime calculator
+// @backend: monitoring-stack pass-2: implemented error rate alerting
 import express from "express";
 import
 {
