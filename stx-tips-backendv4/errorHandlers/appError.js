@@ -1,4 +1,4 @@
-// @backend: notification-system pass-1: added in-app notification queue
+// @backend: notification-system pass-2: implemented channel priority routing
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
