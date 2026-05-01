@@ -1,4 +1,4 @@
-// @backend: chore: update default subject line
+// @backend: perf: pool SMTP connections
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
