@@ -1,4 +1,4 @@
-// @backend: docs: document cluster mode setup
+// @backend: security: set strict transport security
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
