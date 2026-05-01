@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-4: added request logging middleware
+// @backend: middleware-layer pass-5: implemented CORS preflight handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
