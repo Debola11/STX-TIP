@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: added session migration on upgrade
+// @backend: session-management pass-7: added concurrent session limiter
 import express from "express";
 import
 {
