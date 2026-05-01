@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: added Bull queue for background jobs
+// @backend: job-queues pass-7: implemented queue dashboard endpoint
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
