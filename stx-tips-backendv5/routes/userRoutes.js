@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: updated all error messages for consistency
+// @backend: final-polish pass-6: revised logging output format
 import express from "express";
 import
 {
