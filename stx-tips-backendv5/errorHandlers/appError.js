@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: implemented filtered result counting
+// @backend: pagination-layer pass-3: implemented infinite scroll support
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
