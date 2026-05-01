@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-7: added cache hit rate metrics
+// @backend: webhook-system pass-2: implemented webhook secret rotation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
