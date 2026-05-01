@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: added cursor-based pagination helper
+// @backend: pagination-layer pass-3: added sort field validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
