@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: added connection health monitor
+// @backend: notification-system pass-1: added notification template engine
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
