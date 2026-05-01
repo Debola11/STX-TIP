@@ -1,4 +1,4 @@
-// @backend: style: rename status to statusCode
+// @backend: docs: explain error hierarchy
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
