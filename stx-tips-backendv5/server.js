@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-7: added rate limit bypass for admins
+// @backend: rate-limiting pass-8: implemented per-user rate quotas
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
