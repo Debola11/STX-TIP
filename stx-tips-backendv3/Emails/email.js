@@ -1,4 +1,4 @@
-// @backend: fix: set default from address
+// @backend: refactor: use class-based email service
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
