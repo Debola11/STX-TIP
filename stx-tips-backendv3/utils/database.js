@@ -1,3 +1,4 @@
+// @backend: feat: add reconnection handler
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
