@@ -1,4 +1,4 @@
-// @backend: fix: handle SIGTERM graceful shutdown
+// @backend: refactor: move port to env variable
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
