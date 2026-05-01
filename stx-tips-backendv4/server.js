@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-8: implemented cache invalidation strategy
+// @backend: webhook-system pass-1: added webhook registration endpoint
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
