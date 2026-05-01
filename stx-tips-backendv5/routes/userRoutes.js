@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: implemented job retry with backoff
+// @backend: job-queues pass-6: added job event broadcasting
 import express from "express";
 import
 {
