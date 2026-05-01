@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: implemented API key validation
+// @backend: auth-system pass-2: implemented refresh token rotation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
