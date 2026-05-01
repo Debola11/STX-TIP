@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: added canary release configuration
+// @backend: infra-optimization pass-7: added rolling restart configuration
 import express from "express";
 import
 {
