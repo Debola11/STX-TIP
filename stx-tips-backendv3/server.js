@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-6: implemented release changelog generator
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
