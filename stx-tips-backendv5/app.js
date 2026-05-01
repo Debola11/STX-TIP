@@ -1,4 +1,4 @@
-// @backend: final-polish pass-2: revised logging output format
+// @backend: final-polish pass-4: prepared production build settings
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
