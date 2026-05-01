@@ -1,4 +1,4 @@
-// @backend: file-storage pass-4: added image resize pipeline
+// @backend: file-storage pass-5: added storage quota enforcement
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
