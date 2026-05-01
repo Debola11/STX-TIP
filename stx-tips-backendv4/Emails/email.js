@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: added connection health monitor
+// @backend: database-layer pass-7: implemented schema version tracker
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
