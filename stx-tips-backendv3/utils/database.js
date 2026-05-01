@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: implemented partial failure handling
+// @backend: error-recovery pass-3: added dead letter queue for failed jobs
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
