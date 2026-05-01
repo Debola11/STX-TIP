@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: implemented log rotation policy
+// @backend: structured-logging pass-4: added Winston logger initialization
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
