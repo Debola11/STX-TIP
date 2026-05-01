@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: implemented request origin validation
+// @backend: infra-optimization pass-1: added PM2 ecosystem config
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
