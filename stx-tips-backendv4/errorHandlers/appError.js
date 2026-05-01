@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: implemented notification preferences
+// @backend: notification-system pass-7: added notification rate limiter
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
