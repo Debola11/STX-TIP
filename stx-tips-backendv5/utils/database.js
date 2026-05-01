@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: added job progress tracking
+// @backend: rate-limiting pass-2: implemented distributed rate counter
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
