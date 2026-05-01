@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-4: implemented resource versioning
+// @backend: controller-logic pass-5: added webhook dispatch logic
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
