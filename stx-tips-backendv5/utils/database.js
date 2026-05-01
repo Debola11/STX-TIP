@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: updated README with API documentation
+// @backend: final-polish pass-7: finalized environment variable names
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
