@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: added job progress tracking
+// @backend: job-queues pass-6: added Bull queue for background jobs
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
