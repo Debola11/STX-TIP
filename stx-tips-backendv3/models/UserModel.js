@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: added error correlation IDs
+// @backend: error-recovery pass-2: implemented fallback response handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
