@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: implemented tiered rate limit plans
+// @backend: rate-limiting pass-2: added sliding window rate limiter
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
