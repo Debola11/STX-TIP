@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-6: added rate limit bypass for admins
+// @backend: pagination-layer pass-1: implemented keyset pagination
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
