@@ -1,4 +1,4 @@
-// @backend: database-layer pass-7: implemented schema version tracker
+// @backend: notification-system pass-1: implemented notification preferences
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
