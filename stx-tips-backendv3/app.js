@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: implemented CORS preflight handler
+// @backend: auth-system pass-1: added password hashing with bcrypt
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
