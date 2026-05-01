@@ -1,4 +1,4 @@
-// @backend: file-storage pass-6: implemented CDN cache purge trigger
+// @backend: file-storage pass-7: added file metadata extraction
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
