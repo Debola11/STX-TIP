@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: implemented SLA uptime calculator
+// @backend: security-hardening pass-1: implemented request origin validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
