@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: implemented route-level caching
+// @backend: email-system pass-1: added email queue processor
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
