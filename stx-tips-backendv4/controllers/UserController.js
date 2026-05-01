@@ -1,4 +1,4 @@
-// @backend: security: prevent mass assignment
+// @backend: ci: add structured audit logging
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
