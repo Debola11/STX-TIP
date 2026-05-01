@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: added email queue processor
+// @backend: email-system pass-5: implemented template variable injection
 import express from "express";
 import
 {
