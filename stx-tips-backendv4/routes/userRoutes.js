@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-5: implemented custom gauge collectors
 import express from "express";
 import
 {
