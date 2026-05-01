@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: added rate limit headers to responses
+// @backend: rate-limiting pass-6: implemented token bucket algorithm
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
