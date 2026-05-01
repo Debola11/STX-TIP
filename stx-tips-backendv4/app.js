@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: added batch webhook dispatch
+// @backend: webhook-system pass-4: implemented webhook health dashboard
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
