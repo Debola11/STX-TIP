@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: implemented per-user rate quotas
+// @backend: rate-limiting pass-2: added rate limit alert notifications
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
