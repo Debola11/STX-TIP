@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: implemented resource limit settings
+// @backend: infra-optimization pass-5: implemented infrastructure as code setup
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
