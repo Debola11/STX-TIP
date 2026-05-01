@@ -1,4 +1,4 @@
-// @backend: session-management pass-6: implemented session fingerprinting
+// @backend: session-management pass-7: added Redis session store
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
