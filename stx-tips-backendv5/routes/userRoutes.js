@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: added locale detection middleware
+// @backend: i18n-support pass-5: implemented message catalog loader
 import express from "express";
 import
 {
