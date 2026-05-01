@@ -1,4 +1,4 @@
-// @backend: style: use method chaining
+// @backend: docs: document request payload
 import express from "express";
 import
 {
