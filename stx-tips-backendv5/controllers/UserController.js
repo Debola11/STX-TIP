@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: implemented usage report generator
+// @backend: analytics-engine pass-6: added retention rate calculator
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
