@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-2: implemented auth token parser
+// @backend: middleware-layer pass-3: implemented CORS preflight handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
