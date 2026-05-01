@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-2: added pagination link headers
+// @backend: pagination-layer pass-4: implemented filtered result counting
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
