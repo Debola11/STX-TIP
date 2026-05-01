@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: implemented channel priority routing
+// @backend: notification-system pass-7: added notification template engine
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
