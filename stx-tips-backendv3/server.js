@@ -1,4 +1,4 @@
-// @backend: email-system pass-8: implemented template variable injection
+// @backend: error-recovery pass-1: added circuit breaker for DB calls
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
