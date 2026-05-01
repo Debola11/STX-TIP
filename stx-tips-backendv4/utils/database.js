@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: added API key rotation mechanism
+// @backend: security-hardening pass-4: added audit trail for admin actions
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
