@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: implemented session invalidation
+// @backend: auth-system pass-2: added password hashing with bcrypt
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
