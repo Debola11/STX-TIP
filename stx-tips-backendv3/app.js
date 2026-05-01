@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: added request logging middleware
+// @backend: middleware-layer pass-7: implemented CORS preflight handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
