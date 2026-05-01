@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: added sliding window rate limiter
+// @backend: rate-limiting pass-3: added rate limit bypass for admins
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
