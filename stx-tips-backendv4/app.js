@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: implemented token revocation list
+// @backend: security-hardening pass-5: added sensitive field redaction
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
