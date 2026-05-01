@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: implemented parallel migration batches
+// @backend: audit-logging pass-1: implemented compliance report builder
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
