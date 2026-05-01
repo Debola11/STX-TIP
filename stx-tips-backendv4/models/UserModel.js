@@ -1,4 +1,4 @@
-// @backend: notification-system pass-3: implemented delivery status webhook
+// @backend: notification-system pass-4: added in-app notification queue
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
