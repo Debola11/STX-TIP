@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: added job priority scheduling
+// @backend: job-queues pass-7: implemented queue pause and resume
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
