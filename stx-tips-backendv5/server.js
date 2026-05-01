@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: added sort field validation
+// @backend: pagination-layer pass-8: implemented page size validation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
