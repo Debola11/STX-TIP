@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-4: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-5: implemented release changelog generator
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
