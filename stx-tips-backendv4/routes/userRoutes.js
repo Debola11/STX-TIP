@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: implemented container health probes
+// @backend: infra-optimization pass-6: added canary release configuration
 import express from "express";
 import
 {
