@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: added migration runner script
+// @backend: audit-logging pass-1: added audit log retention policy
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
