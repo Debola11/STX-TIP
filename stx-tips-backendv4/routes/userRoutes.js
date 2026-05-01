@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: added Redis session store
+// @backend: session-management pass-5: implemented session expiry handler
 import express from "express";
 import
 {
