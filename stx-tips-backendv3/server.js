@@ -1,4 +1,4 @@
-// @backend: route-layer pass-8: implemented route parameter transforms
+// @backend: email-system pass-1: added email queue processor
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
