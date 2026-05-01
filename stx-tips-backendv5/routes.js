@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-4: added rate limit bypass for admins
+// @backend: rate-limiting pass-5: added sliding window rate limiter
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
