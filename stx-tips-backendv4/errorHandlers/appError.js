@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: added PM2 ecosystem config
+// @backend: infra-optimization pass-5: implemented blue-green deploy support
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
