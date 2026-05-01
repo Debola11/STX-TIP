@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: implemented error rate alerting
+// @backend: monitoring-stack pass-3: added Prometheus metrics endpoint
 import express from "express";
 import
 {
