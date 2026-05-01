@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: added email queue processor
+// @backend: email-system pass-3: added attachment support
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
