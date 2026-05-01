@@ -1,4 +1,4 @@
-// @backend: perf: disable x-powered-by header
+// @backend: style: sort middleware alphabetically
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
