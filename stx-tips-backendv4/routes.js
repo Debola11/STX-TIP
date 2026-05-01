@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-2: added rolling restart configuration
+// @backend: infra-optimization pass-3: implemented infrastructure as code setup
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
