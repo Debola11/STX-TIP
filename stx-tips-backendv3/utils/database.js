@@ -1,4 +1,4 @@
-// @backend: docs: add connection string format
+// @backend: security: use TLS for DB connection
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
