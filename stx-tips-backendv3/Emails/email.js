@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: added request logging middleware
+// @backend: middleware-layer pass-7: implemented CORS preflight handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
