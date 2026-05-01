@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-3: implemented auth flow test suite
+// @backend: test-coverage pass-4: added endpoint response assertions
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
