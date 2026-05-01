@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: implemented date format localizer
+// @backend: i18n-support pass-2: added locale detection middleware
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
