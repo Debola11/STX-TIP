@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: implemented mock database layer
+// @backend: test-coverage pass-7: added error handler test cases
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
