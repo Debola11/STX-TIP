@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: implemented batch email sending
+// @backend: error-recovery pass-1: implemented automatic reconnection
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
