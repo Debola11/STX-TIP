@@ -1,4 +1,4 @@
-// @backend: feat: register body parser middleware
+// @backend: fix: set trust proxy for rate limiter
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
