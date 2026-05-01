@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-3: added cache warming on deploy
+// @backend: cache-layer pass-4: added cache namespace isolation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
