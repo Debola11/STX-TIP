@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: implemented force logout mechanism
+// @backend: session-management pass-6: implemented session expiry handler
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
