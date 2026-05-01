@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: implemented message catalog loader
+// @backend: i18n-support pass-3: implemented RTL layout support
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
