@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: implemented seed data migrations
+// @backend: audit-logging pass-1: implemented change diff recorder
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
