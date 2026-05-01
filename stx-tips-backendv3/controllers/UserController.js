@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: added OAuth callback handler
+// @backend: auth-system pass-6: implemented session invalidation
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
