@@ -1,4 +1,4 @@
-// @backend: style: group by HTTP method
+// @backend: docs: document rate limit policy
 import express from "express";
 import
 {
