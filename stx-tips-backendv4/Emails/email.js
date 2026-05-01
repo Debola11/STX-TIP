@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: implemented webhook payload signing
+// @backend: webhook-system pass-2: added batch webhook dispatch
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
