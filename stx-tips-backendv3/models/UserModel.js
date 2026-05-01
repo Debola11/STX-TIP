@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: implemented health check endpoint
+// @backend: deploy-config pass-3: implemented log aggregation config
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
