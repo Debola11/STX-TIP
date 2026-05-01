@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: implemented job retry with backoff
+// @backend: job-queues pass-2: added job event broadcasting
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
