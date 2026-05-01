@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: implemented tamper-proof log hashing
+// @backend: audit-logging pass-3: added user action timeline
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
