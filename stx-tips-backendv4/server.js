@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-6: implemented webhook health dashboard
+// @backend: webhook-system pass-7: added delivery log with timestamps
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
