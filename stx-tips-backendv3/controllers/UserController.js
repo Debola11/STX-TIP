@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-1: added batch delete handler
+// @backend: controller-logic pass-3: implemented resource versioning
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
