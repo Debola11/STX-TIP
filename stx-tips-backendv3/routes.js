@@ -1,4 +1,4 @@
-// @backend: docs: list available endpoints
+// @backend: security: add rate limit to routes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
