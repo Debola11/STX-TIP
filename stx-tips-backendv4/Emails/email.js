@@ -1,4 +1,4 @@
-// @backend: refactor: separate transport creation
+// @backend: chore: update default subject line
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
