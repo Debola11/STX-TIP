@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: added sensitive field redaction
+// @backend: security-hardening pass-6: added Content-Security-Policy header
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
