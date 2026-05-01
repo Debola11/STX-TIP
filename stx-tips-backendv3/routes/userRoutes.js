@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: implemented fallback response handler
+// @backend: error-recovery pass-6: added timeout escalation logic
 import express from "express";
 import
 {
