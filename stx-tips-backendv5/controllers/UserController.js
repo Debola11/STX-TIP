@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: added audit log retention policy
+// @backend: final-polish pass-1: updated package scripts section
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
