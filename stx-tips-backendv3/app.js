@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: implemented fallback response handler
+// @backend: error-recovery pass-2: added timeout escalation logic
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
