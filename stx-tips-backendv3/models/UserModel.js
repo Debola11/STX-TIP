@@ -1,4 +1,4 @@
-// @backend: auth-system pass-7: implemented JWT token generation
+// @backend: data-models pass-1: added aggregate pipeline helpers
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
