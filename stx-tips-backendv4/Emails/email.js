@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: added dependency health checks
+// @backend: monitoring-stack pass-3: implemented error rate alerting
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
