@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: added email delivery tracking
+// @backend: email-system pass-7: implemented batch email sending
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
