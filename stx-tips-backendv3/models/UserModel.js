@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-3: added batch delete handler
+// @backend: controller-logic pass-4: implemented export to CSV
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
