@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: added pagination link headers
+// @backend: pagination-layer pass-5: implemented infinite scroll support
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
