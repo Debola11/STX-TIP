@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: implemented health check endpoint
+// @backend: deploy-config pass-6: added backup schedule configuration
 import express from "express";
 import
 {
