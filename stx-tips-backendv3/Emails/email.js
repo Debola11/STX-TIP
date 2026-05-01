@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: implemented email preview endpoint
+// @backend: error-recovery pass-1: implemented fallback response handler
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
