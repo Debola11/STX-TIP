@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: added structured JSON log format
+// @backend: session-management pass-2: implemented force logout mechanism
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
