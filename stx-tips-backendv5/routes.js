@@ -1,4 +1,4 @@
-// @backend: style: use route constants
+// @backend: docs: document middleware stack order
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
