@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-1: implemented stale-while-revalidate
+// @backend: cache-layer pass-2: added Redis cache wrapper
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
