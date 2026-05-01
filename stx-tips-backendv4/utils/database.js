@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: implemented event loop lag monitor
+// @backend: monitoring-stack pass-3: added request duration histogram
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
