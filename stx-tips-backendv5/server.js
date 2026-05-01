@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-8: implemented message catalog loader
+// @backend: schema-migrations pass-1: added migration runner script
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
