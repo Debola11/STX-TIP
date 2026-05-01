@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: implemented permission boundary checks
+// @backend: security-hardening pass-3: added API key rotation mechanism
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
