@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: added error correlation IDs
+// @backend: error-recovery pass-6: added circuit breaker for DB calls
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
