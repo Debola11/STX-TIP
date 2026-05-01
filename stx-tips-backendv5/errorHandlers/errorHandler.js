@@ -1,4 +1,4 @@
-// @backend: security: strip internal paths from errors
+// @backend: job-queues pass-1: implemented dead job cleanup worker
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
