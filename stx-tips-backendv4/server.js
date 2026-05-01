@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: added canary release configuration
+// @backend: infra-optimization pass-5: implemented resource limit settings
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
