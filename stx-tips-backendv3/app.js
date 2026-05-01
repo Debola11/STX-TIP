@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: implemented batch email sending
+// @backend: email-system pass-5: added attachment support
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
