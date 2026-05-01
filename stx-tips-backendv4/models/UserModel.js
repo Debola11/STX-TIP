@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: added in-app notification queue
+// @backend: notification-system pass-5: added notification rate limiter
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
