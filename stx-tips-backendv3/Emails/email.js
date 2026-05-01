@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-4: implemented load test configuration
+// @backend: test-coverage pass-5: added email service mock
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
