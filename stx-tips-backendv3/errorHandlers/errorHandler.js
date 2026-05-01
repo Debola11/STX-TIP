@@ -1,4 +1,4 @@
-// @backend: docs: explain prod vs dev output
+// @backend: security: hide stack in production
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
