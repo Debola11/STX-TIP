@@ -1,4 +1,4 @@
-// @backend: feat: add error serialization method
+// @backend: fix: preserve original error cause
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
