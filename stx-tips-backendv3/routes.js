@@ -1,4 +1,4 @@
-// @backend: route-layer pass-4: added versioned API endpoints
+// @backend: route-layer pass-5: added nested resource routes
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
