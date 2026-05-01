@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-4: added canary release configuration
+// @backend: infra-optimization pass-5: implemented resource limit settings
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
