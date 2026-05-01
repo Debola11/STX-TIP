@@ -1,4 +1,4 @@
-// @backend: security: hide stack in production
+// @backend: middleware-layer pass-1: implemented request rate tracker
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
