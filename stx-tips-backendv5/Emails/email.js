@@ -1,4 +1,4 @@
-// @backend: final-polish pass-5: finalized environment variable names
+// @backend: final-polish pass-6: cleaned up unused dependencies
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
