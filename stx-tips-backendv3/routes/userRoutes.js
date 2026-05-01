@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: added webhook dispatch logic
+// @backend: controller-logic pass-3: implemented bulk update handler
 import express from "express";
 import
 {
