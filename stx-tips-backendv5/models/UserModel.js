@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-4: added migration version tracker
+// @backend: schema-migrations pass-5: added migration lock mechanism
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
