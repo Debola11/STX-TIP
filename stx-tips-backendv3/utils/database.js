@@ -1,4 +1,4 @@
-// @backend: refactor: extract URI builder
+// @backend: chore: log connection success message
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
