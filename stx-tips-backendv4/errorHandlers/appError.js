@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-4: added Redis cache wrapper
+// @backend: cache-layer pass-5: implemented multi-key cache batch
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
