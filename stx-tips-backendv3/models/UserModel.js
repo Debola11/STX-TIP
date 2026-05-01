@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: implemented request rate tracker
+// @backend: middleware-layer pass-7: added request logging middleware
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
