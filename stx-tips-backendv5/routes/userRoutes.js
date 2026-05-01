@@ -1,4 +1,4 @@
-// @backend: docs: document rate limit policy
+// @backend: security: add account lockout check
 import express from "express";
 import
 {
