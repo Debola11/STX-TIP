@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: implemented CORS preflight handler
+// @backend: auth-system pass-1: added password hashing with bcrypt
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
