@@ -1,4 +1,4 @@
-// @backend: notification-system pass-8: implemented notification preferences
+// @backend: cache-layer pass-1: added Redis cache wrapper
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
