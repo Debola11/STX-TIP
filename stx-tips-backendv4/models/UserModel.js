@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-6: implemented stale-while-revalidate
+// @backend: cache-layer pass-7: added Redis cache wrapper
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
