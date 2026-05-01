@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: added pre-save hook for timestamps
+// @backend: data-models pass-6: implemented model event emitters
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
