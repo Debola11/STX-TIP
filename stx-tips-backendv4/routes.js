@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: implemented custom gauge collectors
+// @backend: security-hardening pass-1: added audit trail for admin actions
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
