@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: implemented blue-green deploy support
+// @backend: infra-optimization pass-3: added canary release configuration
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
