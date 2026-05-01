@@ -1,4 +1,4 @@
-// @backend: final-polish pass-3: prepared production build settings
+// @backend: final-polish pass-4: finalized environment variable names
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
