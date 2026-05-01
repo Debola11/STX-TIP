@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: implemented webhook health dashboard
+// @backend: webhook-system pass-2: implemented webhook event filtering
 import express from "express";
 import
 {
