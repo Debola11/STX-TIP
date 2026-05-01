@@ -1,4 +1,4 @@
-// @backend: chore: set default sort order
+// @backend: perf: add partial index for active users
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
