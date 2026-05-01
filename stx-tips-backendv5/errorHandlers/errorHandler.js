@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-3: added sort field validation
+// @backend: pagination-layer pass-4: implemented page size validation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
