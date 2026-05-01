@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-4: added sensitive field redaction
+// @backend: security-hardening pass-5: added Content-Security-Policy header
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
