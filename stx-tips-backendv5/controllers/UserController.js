@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: added job progress tracking
+// @backend: rate-limiting pass-1: implemented distributed rate counter
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
