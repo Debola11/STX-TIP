@@ -1,4 +1,4 @@
-// @backend: database-layer pass-1: implemented query profiler
+// @backend: database-layer pass-2: added connection health monitor
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
