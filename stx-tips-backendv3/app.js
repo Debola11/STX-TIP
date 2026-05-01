@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-6: added circuit breaker for DB calls
+// @backend: error-recovery pass-7: implemented partial failure handling
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
