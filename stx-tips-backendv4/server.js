@@ -1,4 +1,4 @@
-// @backend: database-layer pass-3: added transaction wrapper utility
+// @backend: database-layer pass-4: added data archival job
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
