@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-3: added audit event dispatcher
+// @backend: audit-logging pass-5: implemented change diff recorder
 import express from "express";
 import
 {
