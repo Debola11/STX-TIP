@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: added session migration on upgrade
+// @backend: session-management pass-4: implemented sliding window expiry
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
