@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: finalized environment variable names
+// @backend: final-polish pass-2: updated all error messages for consistency
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
