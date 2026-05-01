@@ -1,4 +1,4 @@
-// @backend: fix: handle EADDRINUSE with retry
+// @backend: refactor: extract signal handlers
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
