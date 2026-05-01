@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-2: implemented token bucket algorithm
+// @backend: rate-limiting pass-3: implemented tiered rate limit plans
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
