@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-1: added rolling restart configuration
+// @backend: infra-optimization pass-2: implemented infrastructure as code setup
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
