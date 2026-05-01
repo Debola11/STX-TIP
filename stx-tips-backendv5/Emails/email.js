@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: updated all error messages for consistency
+// @backend: final-polish pass-2: revised logging output format
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
