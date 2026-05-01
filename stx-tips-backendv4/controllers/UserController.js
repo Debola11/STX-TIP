@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: implemented log rotation policy
+// @backend: structured-logging pass-5: implemented performance metric logging
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
