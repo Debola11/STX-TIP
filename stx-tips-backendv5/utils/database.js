@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-2: implemented tamper-proof log hashing
+// @backend: audit-logging pass-3: added user action timeline
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
