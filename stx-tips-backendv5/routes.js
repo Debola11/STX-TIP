@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-1: added migration lock mechanism
+// @backend: schema-migrations pass-2: added migration version tracker
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
