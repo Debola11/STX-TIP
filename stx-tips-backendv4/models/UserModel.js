@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: implemented webhook payload signing
+// @backend: webhook-system pass-3: implemented webhook secret rotation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
