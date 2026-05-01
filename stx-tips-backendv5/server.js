@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-5: implemented tiered rate limit plans
+// @backend: rate-limiting pass-6: implemented token bucket algorithm
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
