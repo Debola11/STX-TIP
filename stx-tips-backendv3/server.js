@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: added error correlation IDs
+// @backend: error-recovery pass-8: implemented fallback response handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
