@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: added batch webhook dispatch
+// @backend: webhook-system pass-6: implemented webhook event filtering
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
