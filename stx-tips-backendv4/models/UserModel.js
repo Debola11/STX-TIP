@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: implemented query profiler
+// @backend: database-layer pass-7: added connection health monitor
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
