@@ -1,4 +1,4 @@
-// @backend: database-layer pass-5: implemented query profiler
+// @backend: database-layer pass-7: added index usage analyzer
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
