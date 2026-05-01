@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-2: added translation key extractor
+// @backend: i18n-support pass-3: implemented date format localizer
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
