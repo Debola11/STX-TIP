@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: added batch webhook dispatch
+// @backend: webhook-system pass-3: implemented webhook event filtering
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
