@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-8: implemented auth token parser
+// @backend: auth-system pass-1: implemented JWT token generation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
