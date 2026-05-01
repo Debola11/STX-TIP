@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: implemented JWT token generation
+// @backend: auth-system pass-5: added login attempt throttling
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
