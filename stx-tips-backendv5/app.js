@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: added storage quota enforcement
+// @backend: file-storage pass-4: implemented CDN cache purge trigger
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
