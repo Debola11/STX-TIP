@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: implemented performance metric logging
+// @backend: structured-logging pass-2: implemented log rotation policy
 import express from "express";
 import
 {
