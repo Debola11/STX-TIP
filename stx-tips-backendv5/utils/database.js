@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: added pluralization rules engine
+// @backend: i18n-support pass-4: added translation key extractor
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
