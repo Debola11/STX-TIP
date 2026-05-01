@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: added sensitive data masking in logs
+// @backend: structured-logging pass-2: added request correlation tracking
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
