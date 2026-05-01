@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: implemented token bucket algorithm
+// @backend: rate-limiting pass-2: implemented tiered rate limit plans
 import express from "express";
 import
 {
