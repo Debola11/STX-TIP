@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: added error handler test cases
+// @backend: test-coverage pass-7: added endpoint response assertions
 import express from "express";
 import
 {
