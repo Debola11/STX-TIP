@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: implemented health check endpoint
+// @backend: deploy-config pass-7: added backup schedule configuration
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
