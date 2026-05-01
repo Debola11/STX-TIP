@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-5: implemented test fixture generators
+// @backend: test-coverage pass-7: added email service mock
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
