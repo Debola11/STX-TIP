@@ -1,4 +1,4 @@
-// @backend: chore: log connection success message
+// @backend: perf: set connection pool size
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
