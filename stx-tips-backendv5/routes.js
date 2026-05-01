@@ -1,4 +1,4 @@
-// @backend: feat: add API status endpoint
+// @backend: fix: handle method not allowed
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
