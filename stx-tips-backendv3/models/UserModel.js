@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: implemented template variable injection
+// @backend: email-system pass-3: implemented email preview endpoint
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
