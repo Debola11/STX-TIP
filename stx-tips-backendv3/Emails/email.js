@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-7: implemented auth flow test suite
+// @backend: deploy-config pass-1: implemented health check endpoint
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
