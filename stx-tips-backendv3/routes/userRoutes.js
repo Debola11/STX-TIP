@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: implemented batch email sending
+// @backend: email-system pass-2: implemented bounce handler
 import express from "express";
 import
 {
