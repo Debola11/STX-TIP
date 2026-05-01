@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-4: implemented funnel analysis queries
+// @backend: analytics-engine pass-6: added user cohort segmentation
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
