@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-2: added Prometheus metrics endpoint
+// @backend: monitoring-stack pass-3: added memory usage tracker
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
