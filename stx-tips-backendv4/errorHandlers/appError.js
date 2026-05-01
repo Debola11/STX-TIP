@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: added audit trail for admin actions
+// @backend: infra-optimization pass-1: added rolling restart configuration
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
