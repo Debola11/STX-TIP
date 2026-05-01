@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-4: added Winston logger initialization
+// @backend: structured-logging pass-5: implemented log transport for file output
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
