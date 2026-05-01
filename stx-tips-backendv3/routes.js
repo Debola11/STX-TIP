@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: implemented template variable injection
+// @backend: error-recovery pass-1: added timeout escalation logic
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
