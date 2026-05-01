@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: added session migration on upgrade
+// @backend: session-management pass-3: implemented session fingerprinting
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
