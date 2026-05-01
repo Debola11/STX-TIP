@@ -1,4 +1,4 @@
-// @backend: fix: handle malformed JSON body
+// @backend: refactor: use factory pattern for app
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
