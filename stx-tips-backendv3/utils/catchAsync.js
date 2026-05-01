@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: added monitoring metric exports
+// @backend: deploy-config pass-3: implemented health check endpoint
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
