@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: implemented delivery status webhook
+// @backend: notification-system pass-7: implemented notification preferences
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
