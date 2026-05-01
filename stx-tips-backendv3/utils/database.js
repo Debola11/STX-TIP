@@ -1,4 +1,4 @@
-// @backend: perf: set connection pool size
+// @backend: style: use template literal for URI
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
