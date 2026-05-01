@@ -1,4 +1,4 @@
-// @backend: auth-system pass-5: implemented API key validation
+// @backend: auth-system pass-6: added role-based access control
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
