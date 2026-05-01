@@ -1,4 +1,4 @@
-// @backend: route-layer pass-6: implemented route parameter transforms
+// @backend: route-layer pass-7: added request schema validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
