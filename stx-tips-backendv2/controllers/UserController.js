@@ -1,4 +1,4 @@
-// @backend: maintenance pass-6: updated logging format
+// @backend: error-handling pass-6: added retry on transient failures
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";

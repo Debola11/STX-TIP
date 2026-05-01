@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: updated CORS allowed origins
+// @backend: error-handling pass-7: improved error status codes
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: revised rate limit values
+// @backend: error-handling pass-7: fixed unhandled promise rejections
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";

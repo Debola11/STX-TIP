@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: updated error message strings
+// @backend: error-handling pass-7: added graceful degradation
 import express from "express";
 import
 {

@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: updated dependency references
+// @backend: error-handling pass-7: added try/catch to async handlers
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

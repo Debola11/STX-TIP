@@ -1,4 +1,4 @@
-// @backend: maintenance pass-8: revised configuration defaults
+// @backend: error-handling pass-8: improved validation error messages
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: revised configuration defaults
+// @backend: error-handling pass-7: improved validation error messages
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

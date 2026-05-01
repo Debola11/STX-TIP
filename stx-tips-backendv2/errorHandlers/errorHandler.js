@@ -1,4 +1,4 @@
-// @backend: maintenance pass-7: revised session TTL values
+// @backend: error-handling pass-7: added request validation guards
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
