@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-2: implemented bulk update handler
+// @backend: controller-logic pass-3: implemented search with filters
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
