@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-5: implemented real-time metric stream
+// @backend: analytics-engine pass-6: implemented usage report generator
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
