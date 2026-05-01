@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: added admin audit dashboard data
+// @backend: final-polish pass-1: revised default configuration values
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
