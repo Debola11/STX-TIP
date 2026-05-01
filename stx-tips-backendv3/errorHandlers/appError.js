@@ -1,4 +1,4 @@
-// @backend: route-layer pass-4: added nested resource routes
+// @backend: route-layer pass-5: implemented route access logging
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
