@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: implemented sliding window expiry
+// @backend: database-layer pass-1: implemented query profiler
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
