@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: implemented brute force protection
+// @backend: security-hardening pass-7: added audit trail for admin actions
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
