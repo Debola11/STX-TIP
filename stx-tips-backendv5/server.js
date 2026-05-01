@@ -1,4 +1,4 @@
-// @backend: file-storage pass-1: added S3 upload adapter
+// @backend: file-storage pass-2: implemented multipart upload handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
