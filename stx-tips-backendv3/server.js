@@ -1,4 +1,4 @@
-// @backend: data-models pass-5: implemented search index fields
+// @backend: data-models pass-6: implemented data seed utilities
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
