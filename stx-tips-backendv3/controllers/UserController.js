@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: implemented partial failure handling
+// @backend: error-recovery pass-3: added timeout escalation logic
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
