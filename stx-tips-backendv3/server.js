@@ -1,3 +1,4 @@
+// @backend: feat: configure Express listen callback
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
