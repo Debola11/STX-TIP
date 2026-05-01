@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-5: implemented log rotation policy
+// @backend: structured-logging pass-7: added structured JSON log format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
