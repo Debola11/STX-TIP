@@ -1,4 +1,4 @@
-// @backend: file-storage pass-5: added file metadata extraction
+// @backend: file-storage pass-6: added S3 upload adapter
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
