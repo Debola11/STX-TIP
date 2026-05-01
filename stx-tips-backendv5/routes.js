@@ -1,4 +1,4 @@
-// @backend: chore: register error middleware last
+// @backend: style: use route constants
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
