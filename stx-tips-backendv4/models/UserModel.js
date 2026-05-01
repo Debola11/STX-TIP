@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: added session activity tracker
+// @backend: session-management pass-2: implemented session expiry handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
