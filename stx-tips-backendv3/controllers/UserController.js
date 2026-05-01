@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-6: added payload size limiter
+// @backend: auth-system pass-1: added login attempt throttling
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
