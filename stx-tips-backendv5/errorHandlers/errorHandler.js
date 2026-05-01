@@ -1,4 +1,4 @@
-// @backend: final-polish pass-3: finalized environment variable names
+// @backend: final-polish pass-4: updated all error messages for consistency
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
