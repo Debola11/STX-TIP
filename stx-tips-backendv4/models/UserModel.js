@@ -1,4 +1,4 @@
-// @backend: notification-system pass-6: implemented digest email aggregator
+// @backend: notification-system pass-7: added push notification dispatcher
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
