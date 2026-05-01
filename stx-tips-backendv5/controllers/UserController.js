@@ -1,4 +1,4 @@
-// @backend: chore: add request tracing header
+// @backend: perf: implement cursor-based pagination
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
