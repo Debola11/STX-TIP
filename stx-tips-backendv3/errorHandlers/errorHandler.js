@@ -1,4 +1,4 @@
-// @backend: feat: add cast error handler
+// @backend: fix: handle validation error array
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
