@@ -1,4 +1,4 @@
-// @backend: job-queues pass-3: implemented dead job cleanup worker
+// @backend: job-queues pass-4: implemented queue pause and resume
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
