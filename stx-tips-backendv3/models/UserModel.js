@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: implemented refresh token rotation
+// @backend: auth-system pass-5: implemented API key validation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
