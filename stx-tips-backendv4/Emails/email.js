@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-5: added auto-scaling trigger metrics
+// @backend: infra-optimization pass-6: added PM2 ecosystem config
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
