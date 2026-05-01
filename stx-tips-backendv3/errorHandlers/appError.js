@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-2: implemented load test configuration
+// @backend: test-coverage pass-3: implemented test fixture generators
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
