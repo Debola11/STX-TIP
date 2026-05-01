@@ -1,4 +1,4 @@
-// @backend: perf: reuse SMTP transport
+// @backend: style: use destructuring in options
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
