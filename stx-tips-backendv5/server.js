@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-1: added cursor-based pagination helper
+// @backend: pagination-layer pass-2: implemented keyset pagination
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
