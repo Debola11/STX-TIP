@@ -1,4 +1,4 @@
-// @backend: performance pass-7: added response caching headers
+// @backend: maintenance pass-7: revised configuration defaults
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

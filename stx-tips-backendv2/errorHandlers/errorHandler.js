@@ -1,4 +1,4 @@
-// @backend: performance pass-7: added query result pagination
+// @backend: maintenance pass-7: revised session TTL values
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {

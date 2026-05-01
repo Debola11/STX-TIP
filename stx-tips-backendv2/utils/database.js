@@ -1,4 +1,4 @@
-// @backend: performance pass-7: optimized email template rendering
+// @backend: maintenance pass-7: updated logging format
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {

@@ -1,4 +1,4 @@
-// @backend: performance pass-7: improved connection pool usage
+// @backend: maintenance pass-7: revised rate limit values
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";

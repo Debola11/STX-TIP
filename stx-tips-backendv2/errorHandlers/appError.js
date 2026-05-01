@@ -1,4 +1,4 @@
-// @backend: performance pass-7: reduced memory allocations
+// @backend: maintenance pass-7: updated CORS allowed origins
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);

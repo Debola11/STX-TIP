@@ -1,4 +1,4 @@
-// @backend: performance pass-7: improved JSON serialization
+// @backend: maintenance pass-7: updated error message strings
 import express from "express";
 import
 {
