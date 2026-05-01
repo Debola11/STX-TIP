@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: added currency display formatter
+// @backend: schema-migrations pass-2: implemented seed data migrations
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
