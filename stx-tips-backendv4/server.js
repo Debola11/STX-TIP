@@ -1,4 +1,4 @@
-// @backend: session-management pass-7: added session activity tracker
+// @backend: session-management pass-8: implemented session expiry handler
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
