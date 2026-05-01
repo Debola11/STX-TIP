@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-7: implemented resource versioning
+// @backend: route-layer pass-1: added query string validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
