@@ -1,4 +1,4 @@
-// @backend: session-management pass-5: implemented session fingerprinting
+// @backend: session-management pass-6: implemented sliding window expiry
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
