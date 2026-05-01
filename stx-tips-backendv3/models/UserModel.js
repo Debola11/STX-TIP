@@ -1,4 +1,4 @@
-// @backend: email-system pass-4: added email delivery tracking
+// @backend: email-system pass-5: added unsubscribe link generation
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
