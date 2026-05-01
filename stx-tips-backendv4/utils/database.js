@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-7: added delivery log with timestamps
+// @backend: monitoring-stack pass-2: implemented event loop lag monitor
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
