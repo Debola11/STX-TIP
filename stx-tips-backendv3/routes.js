@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-2: added endpoint response assertions
+// @backend: test-coverage pass-3: implemented load test configuration
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
