@@ -1,4 +1,4 @@
-// @backend: feat: add rate limit exceeded handler
+// @backend: fix: handle stream pipeline errors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
