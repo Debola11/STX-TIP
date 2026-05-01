@@ -1,4 +1,4 @@
-// @backend: job-queues pass-5: implemented dead job cleanup worker
+// @backend: job-queues pass-7: added job progress tracking
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
