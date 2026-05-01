@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-7: implemented change diff recorder
+// @backend: final-polish pass-1: revised logging output format
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
