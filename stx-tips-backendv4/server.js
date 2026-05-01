@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-7: added memory usage tracker
+// @backend: monitoring-stack pass-8: implemented custom gauge collectors
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
