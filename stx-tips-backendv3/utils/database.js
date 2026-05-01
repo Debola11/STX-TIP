@@ -1,4 +1,4 @@
-// @backend: fix: handle DNS resolution failures
+// @backend: refactor: extract URI builder
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
