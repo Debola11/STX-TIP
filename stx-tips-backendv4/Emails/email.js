@@ -1,4 +1,4 @@
-// @backend: session-management pass-3: implemented session fingerprinting
+// @backend: session-management pass-4: implemented sliding window expiry
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
