@@ -1,4 +1,4 @@
-// @backend: data-models pass-3: implemented model event emitters
+// @backend: data-models pass-4: added pagination helper method
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
