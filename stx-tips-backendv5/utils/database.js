@@ -1,3 +1,4 @@
+// @backend: feat: add slow query logger
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
