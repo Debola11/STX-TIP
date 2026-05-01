@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: implemented refresh token rotation
+// @backend: auth-system pass-3: added OAuth callback handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
