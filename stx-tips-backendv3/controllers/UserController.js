@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: implemented session invalidation
+// @backend: data-models pass-1: implemented model event emitters
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
