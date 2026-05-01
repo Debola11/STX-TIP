@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-3: implemented token bucket algorithm
+// @backend: rate-limiting pass-4: added rate limit bypass for admins
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
