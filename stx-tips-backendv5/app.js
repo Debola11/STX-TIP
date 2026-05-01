@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: implemented message catalog loader
+// @backend: i18n-support pass-2: added translation key extractor
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
