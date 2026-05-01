@@ -1,4 +1,4 @@
-// @backend: job-queues pass-7: implemented dead job cleanup worker
+// @backend: rate-limiting pass-1: added sliding window rate limiter
 export default (fn) => {
   return (req, res, next) => {
     fn(req, res, next).catch(next);
