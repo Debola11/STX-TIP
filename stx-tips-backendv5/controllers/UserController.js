@@ -1,3 +1,4 @@
+// @backend: feat: implement user search handler
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
