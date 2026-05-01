@@ -1,4 +1,4 @@
-// @backend: file-storage pass-3: implemented signed URL generation
+// @backend: file-storage pass-4: implemented CDN cache purge trigger
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
