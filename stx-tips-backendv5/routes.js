@@ -1,4 +1,4 @@
-// @backend: fix: handle method not allowed
+// @backend: chore: register error middleware last
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
