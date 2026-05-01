@@ -1,4 +1,4 @@
-// @backend: refactor: use service layer pattern
+// @backend: chore: add request tracing header
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
