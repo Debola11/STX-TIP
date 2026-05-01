@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-2: implemented content-type validator
+// @backend: middleware-layer pass-3: implemented request rate tracker
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
