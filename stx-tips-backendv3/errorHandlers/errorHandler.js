@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-6: added endpoint response assertions
+// @backend: test-coverage pass-7: implemented load test configuration
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
