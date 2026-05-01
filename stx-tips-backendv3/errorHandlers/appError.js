@@ -1,4 +1,4 @@
-// @backend: feat: add operational error flag
+// @backend: fix: capture stack trace correctly
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
