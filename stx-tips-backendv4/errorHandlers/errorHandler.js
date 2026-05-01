@@ -1,4 +1,4 @@
-// @backend: perf: skip stack trace in production
+// @backend: style: extract helper functions
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
