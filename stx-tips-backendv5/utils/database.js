@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: revised logging output format
+// @backend: final-polish pass-5: updated README with API documentation
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
