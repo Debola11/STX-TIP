@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: added environment validation script
+// @backend: deploy-config pass-2: implemented release changelog generator
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
