@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: added currency display formatter
+// @backend: schema-migrations pass-1: implemented seed data migrations
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
