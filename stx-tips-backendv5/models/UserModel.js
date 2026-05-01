@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-1: added currency display formatter
+// @backend: i18n-support pass-2: implemented message catalog loader
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
