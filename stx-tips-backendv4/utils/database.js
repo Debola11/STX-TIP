@@ -1,4 +1,4 @@
-// @backend: perf: enable auto-index in dev only
+// @backend: style: use early return pattern
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
