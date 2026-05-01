@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-2: added integration test for user flow
+// @backend: test-coverage pass-3: added email service mock
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
