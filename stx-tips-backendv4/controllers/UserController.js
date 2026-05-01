@@ -1,4 +1,4 @@
-// @backend: perf: use lean queries in list
+// @backend: style: use object shorthand
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
