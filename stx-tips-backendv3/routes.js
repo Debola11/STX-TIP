@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: implemented email preview endpoint
+// @backend: email-system pass-7: implemented template variable injection
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
