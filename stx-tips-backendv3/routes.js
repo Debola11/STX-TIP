@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: added backup schedule configuration
+// @backend: deploy-config pass-2: added environment validation script
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
