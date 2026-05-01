@@ -1,4 +1,4 @@
-// @backend: style: use object shorthand
+// @backend: docs: document response codes
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
