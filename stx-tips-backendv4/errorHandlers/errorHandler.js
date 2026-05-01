@@ -1,4 +1,4 @@
-// @backend: session-management pass-4: implemented session expiry handler
+// @backend: session-management pass-6: added concurrent session limiter
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
