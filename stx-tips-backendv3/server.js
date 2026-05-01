@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-6: added conditional response caching
+// @backend: controller-logic pass-7: implemented search with filters
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
