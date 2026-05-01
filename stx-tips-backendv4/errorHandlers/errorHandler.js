@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-2: added Winston logger initialization
+// @backend: structured-logging pass-3: added structured JSON log format
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
