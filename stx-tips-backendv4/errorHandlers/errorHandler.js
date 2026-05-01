@@ -1,4 +1,4 @@
-// @backend: database-layer pass-4: implemented read replica routing
+// @backend: database-layer pass-6: added transaction wrapper utility
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
