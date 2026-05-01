@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: added push notification dispatcher
+// @backend: notification-system pass-5: implemented delivery status webhook
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
