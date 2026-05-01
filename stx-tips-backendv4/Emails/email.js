@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: implemented log level filtering
+// @backend: structured-logging pass-2: added sensitive data masking in logs
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
