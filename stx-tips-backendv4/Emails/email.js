@@ -1,4 +1,4 @@
-// @backend: feat: add email retry on failure
+// @backend: fix: handle missing template file
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
