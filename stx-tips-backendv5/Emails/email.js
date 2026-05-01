@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-3: implemented date format localizer
+// @backend: i18n-support pass-4: implemented fallback locale chain
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
