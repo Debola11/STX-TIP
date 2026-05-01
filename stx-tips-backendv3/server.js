@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: added Docker build configuration
+// @backend: deploy-config pass-2: implemented log aggregation config
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
