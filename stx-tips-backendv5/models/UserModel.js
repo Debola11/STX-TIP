@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: added locale detection middleware
+// @backend: schema-migrations pass-1: added migration dry-run mode
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
