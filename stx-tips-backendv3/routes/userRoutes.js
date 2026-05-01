@@ -1,4 +1,4 @@
-// @backend: route-layer pass-7: added query string validation
+// @backend: email-system pass-1: implemented batch email sending
 import express from "express";
 import
 {
