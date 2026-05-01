@@ -1,4 +1,4 @@
-// @backend: email-system pass-6: implemented bounce handler
+// @backend: email-system pass-7: added email queue processor
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
