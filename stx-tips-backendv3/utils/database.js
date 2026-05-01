@@ -1,4 +1,4 @@
-// @backend: email-system pass-2: implemented email preview endpoint
+// @backend: email-system pass-3: added email delivery tracking
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
