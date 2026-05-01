@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: implemented seed data migrations
+// @backend: schema-migrations pass-3: added migration version tracker
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
