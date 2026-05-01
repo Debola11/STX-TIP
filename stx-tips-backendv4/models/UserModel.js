@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-2: implemented brute force protection
+// @backend: security-hardening pass-3: implemented permission boundary checks
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
