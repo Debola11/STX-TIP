@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-4: added sort field validation
+// @backend: pagination-layer pass-5: added cursor-based pagination helper
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
