@@ -1,4 +1,4 @@
-// @backend: fix: ensure message is always string
+// @backend: style: use class field declarations
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
