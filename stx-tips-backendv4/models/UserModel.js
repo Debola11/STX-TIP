@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: added Content-Security-Policy header
+// @backend: infra-optimization pass-1: added auto-scaling trigger metrics
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
