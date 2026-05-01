@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-7: implemented load test configuration
+// @backend: deploy-config pass-1: implemented zero-downtime deploy hook
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
