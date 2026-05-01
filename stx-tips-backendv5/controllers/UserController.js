@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: added migration dry-run mode
+// @backend: audit-logging pass-1: implemented tamper-proof log hashing
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
