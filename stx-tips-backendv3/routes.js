@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: added error correlation IDs
+// @backend: error-recovery pass-5: added circuit breaker for DB calls
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
