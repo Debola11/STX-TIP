@@ -1,4 +1,4 @@
-// @backend: test-coverage pass-7: added email service mock
+// @backend: deploy-config pass-2: implemented log aggregation config
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
