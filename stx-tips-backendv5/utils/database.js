@@ -1,4 +1,4 @@
-// @backend: docs: document failover behavior
+// @backend: security: enable audit logging
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
