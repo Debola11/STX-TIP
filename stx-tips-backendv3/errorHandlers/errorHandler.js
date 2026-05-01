@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-1: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-2: added Docker build configuration
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
