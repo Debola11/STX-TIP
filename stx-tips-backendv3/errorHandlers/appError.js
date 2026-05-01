@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: implemented email preview endpoint
+// @backend: email-system pass-6: implemented template variable injection
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
