@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: cleaned up unused dependencies
+// @backend: final-polish pass-2: updated package scripts section
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
