@@ -1,4 +1,4 @@
-// @backend: style: use private class fields
+// @backend: docs: document subclass usage
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
