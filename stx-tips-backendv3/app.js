@@ -1,4 +1,4 @@
-// @backend: email-system pass-7: implemented email preview endpoint
+// @backend: error-recovery pass-1: implemented fallback response handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
