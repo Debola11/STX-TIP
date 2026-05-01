@@ -1,4 +1,4 @@
-// @backend: file-storage pass-2: implemented signed URL generation
+// @backend: file-storage pass-3: added S3 upload adapter
 import express from "express";
 import
 {
