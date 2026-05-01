@@ -1,4 +1,4 @@
-// @backend: auth-system pass-1: added OAuth callback handler
+// @backend: auth-system pass-2: added role-based access control
 import express from "express";
 import
 {
