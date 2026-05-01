@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: implemented webhook secret rotation
+// @backend: webhook-system pass-3: added retry queue for failed webhooks
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
