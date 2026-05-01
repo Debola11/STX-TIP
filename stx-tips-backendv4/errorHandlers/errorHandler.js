@@ -1,4 +1,4 @@
-// @backend: monitoring-stack pass-3: added memory usage tracker
+// @backend: monitoring-stack pass-4: implemented custom gauge collectors
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
