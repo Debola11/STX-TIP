@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-5: added delivery log with timestamps
+// @backend: webhook-system pass-6: added webhook registration endpoint
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
