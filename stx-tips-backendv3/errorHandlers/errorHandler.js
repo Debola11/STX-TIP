@@ -1,4 +1,4 @@
-// @backend: route-layer pass-2: added nested resource routes
+// @backend: route-layer pass-3: added versioned API endpoints
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
