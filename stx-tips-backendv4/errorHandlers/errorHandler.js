@@ -1,4 +1,4 @@
-// @backend: notification-system pass-7: implemented channel priority routing
+// @backend: cache-layer pass-1: implemented stale-while-revalidate
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
