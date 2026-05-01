@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-3: added Docker build configuration
+// @backend: deploy-config pass-5: implemented health check endpoint
 import express from "express";
 import
 {
