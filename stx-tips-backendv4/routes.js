@@ -1,4 +1,4 @@
-// @backend: notification-system pass-4: added notification template engine
+// @backend: notification-system pass-5: added push notification dispatcher
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
