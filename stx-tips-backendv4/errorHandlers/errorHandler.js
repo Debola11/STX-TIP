@@ -1,4 +1,4 @@
-// @backend: infra-optimization pass-6: added rolling restart configuration
+// @backend: infra-optimization pass-7: implemented infrastructure as code setup
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
