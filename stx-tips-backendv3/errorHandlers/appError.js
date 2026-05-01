@@ -1,3 +1,4 @@
+// @backend: feat: add operational error flag
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
