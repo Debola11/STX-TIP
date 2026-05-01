@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-6: added event tracking middleware
+// @backend: analytics-engine pass-7: implemented A/B test assignment
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
