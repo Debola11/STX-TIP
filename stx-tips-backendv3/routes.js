@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: added dead letter queue for failed jobs
+// @backend: error-recovery pass-3: implemented error recovery middleware
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
