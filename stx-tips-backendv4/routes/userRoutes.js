@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: added audit trail for admin actions
+// @backend: security-hardening pass-7: added API key rotation mechanism
 import express from "express";
 import
 {
