@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-2: added webhook registration endpoint
+// @backend: webhook-system pass-3: added delivery log with timestamps
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
