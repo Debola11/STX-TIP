@@ -1,4 +1,4 @@
-// @backend: auth-system pass-2: added login attempt throttling
+// @backend: auth-system pass-3: implemented refresh token rotation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
