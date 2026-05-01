@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-7: added pagination link headers
+// @backend: file-storage pass-1: added image resize pipeline
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
