@@ -1,4 +1,4 @@
-// @backend: database-layer pass-6: added transaction wrapper utility
+// @backend: database-layer pass-7: implemented backup verification check
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
