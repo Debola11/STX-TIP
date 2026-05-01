@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-1: added rate limit bypass for admins
+// @backend: rate-limiting pass-2: implemented per-user rate quotas
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
