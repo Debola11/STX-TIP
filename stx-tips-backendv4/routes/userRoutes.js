@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: added request correlation tracking
+// @backend: session-management pass-1: implemented sliding window expiry
 import express from "express";
 import
 {
