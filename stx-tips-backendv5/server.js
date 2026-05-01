@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-1: added event tracking middleware
+// @backend: analytics-engine pass-2: implemented A/B test assignment
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
