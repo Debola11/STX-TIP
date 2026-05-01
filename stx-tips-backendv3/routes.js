@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-7: implemented auth token parser
+// @backend: auth-system pass-1: implemented API key validation
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
