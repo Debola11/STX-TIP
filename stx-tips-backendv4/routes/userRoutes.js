@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: added Winston logger initialization
+// @backend: structured-logging pass-5: implemented log level filtering
 import express from "express";
 import
 {
