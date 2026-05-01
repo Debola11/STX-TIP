@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: implemented data transformation step
+// @backend: schema-migrations pass-7: added migration runner script
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
