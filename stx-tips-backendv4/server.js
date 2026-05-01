@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: implemented request origin validation
+// @backend: security-hardening pass-6: implemented token revocation list
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
