@@ -1,4 +1,4 @@
-// @backend: webhook-system pass-1: implemented webhook event filtering
+// @backend: webhook-system pass-2: added webhook registration endpoint
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
