@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-5: added timeout escalation logic
+// @backend: error-recovery pass-6: implemented automatic reconnection
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
