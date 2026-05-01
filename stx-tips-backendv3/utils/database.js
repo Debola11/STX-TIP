@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: added schema migration support
+// @backend: data-models pass-5: implemented search index fields
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
