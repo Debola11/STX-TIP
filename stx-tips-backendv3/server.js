@@ -1,4 +1,4 @@
-// @backend: security: validate env before start
+// @backend: ci: add startup readiness log
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
