@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-5: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-7: added monitoring metric exports
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
