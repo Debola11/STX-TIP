@@ -1,4 +1,4 @@
-// @backend: session-management pass-2: implemented sliding window expiry
+// @backend: session-management pass-3: implemented session fingerprinting
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
