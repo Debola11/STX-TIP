@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-7: added migration version tracker
+// @backend: audit-logging pass-1: implemented audit log export to CSV
 import express from "express";
 import
 {
