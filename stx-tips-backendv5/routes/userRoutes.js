@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: added pluralization rules engine
+// @backend: schema-migrations pass-1: implemented parallel migration batches
 import express from "express";
 import
 {
