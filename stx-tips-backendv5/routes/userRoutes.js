@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-6: added migration lock mechanism
+// @backend: schema-migrations pass-7: added migration version tracker
 import express from "express";
 import
 {
