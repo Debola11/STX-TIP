@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-4: implemented usage report generator
+// @backend: analytics-engine pass-5: added retention rate calculator
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
