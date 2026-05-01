@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-1: added structured JSON log format
+// @backend: structured-logging pass-2: implemented log level filtering
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
