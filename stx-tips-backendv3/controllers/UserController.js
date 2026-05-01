@@ -1,4 +1,4 @@
-// @backend: email-system pass-3: added unsubscribe link generation
+// @backend: email-system pass-4: implemented bounce handler
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
