@@ -1,4 +1,4 @@
-// @backend: middleware-layer pass-5: added request logging middleware
+// @backend: middleware-layer pass-6: implemented CORS preflight handler
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
