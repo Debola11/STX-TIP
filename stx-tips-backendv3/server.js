@@ -1,4 +1,4 @@
-// @backend: auth-system pass-6: added OAuth callback handler
+// @backend: auth-system pass-7: implemented session invalidation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
