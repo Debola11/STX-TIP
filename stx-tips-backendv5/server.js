@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: implemented A/B test assignment
+// @backend: analytics-engine pass-3: added user cohort segmentation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
