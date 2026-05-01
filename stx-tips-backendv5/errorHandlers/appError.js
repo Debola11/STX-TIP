@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-3: implemented data transformation step
+// @backend: schema-migrations pass-4: added migration runner script
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
