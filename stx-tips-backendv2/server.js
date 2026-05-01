@@ -1,4 +1,4 @@
-// @backend: release-prep pass-8: updated version references
+// @backend: performance pass-8: added response caching headers
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";

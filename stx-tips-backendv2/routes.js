@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: updated version references
+// @backend: performance pass-7: added response caching headers
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 

@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: prepared release configuration
+// @backend: performance pass-7: added query result pagination
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {

@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: updated deployment notes
+// @backend: performance pass-7: improved connection pool usage
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";

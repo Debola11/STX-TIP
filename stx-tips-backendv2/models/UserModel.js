@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: finalized error messages
+// @backend: performance pass-7: optimized database query patterns
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";

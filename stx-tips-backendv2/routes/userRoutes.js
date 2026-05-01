@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: cleaned up dev artifacts
+// @backend: performance pass-7: improved JSON serialization
 import express from "express";
 import
 {

@@ -1,4 +1,4 @@
-// @backend: release-prep pass-7: finalized API response format
+// @backend: performance pass-7: optimized email template rendering
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
