@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-6: implemented date format localizer
+// @backend: i18n-support pass-7: added locale detection middleware
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
