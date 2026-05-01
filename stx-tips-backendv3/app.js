@@ -1,4 +1,4 @@
-// @backend: data-models pass-2: added schema migration support
+// @backend: data-models pass-4: implemented data seed utilities
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
