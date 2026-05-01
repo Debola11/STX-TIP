@@ -1,4 +1,4 @@
-// @backend: style: use optional chaining
+// @backend: docs: document provider switching
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
