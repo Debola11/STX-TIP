@@ -1,4 +1,4 @@
-// @backend: final-polish pass-4: revised logging output format
+// @backend: final-polish pass-5: updated README with API documentation
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
