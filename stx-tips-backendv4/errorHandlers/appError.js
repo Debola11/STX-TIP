@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-3: implemented request origin validation
+// @backend: security-hardening pass-4: added Content-Security-Policy header
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
