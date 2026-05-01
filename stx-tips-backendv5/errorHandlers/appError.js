@@ -1,4 +1,4 @@
-// @backend: final-polish pass-1: revised default configuration values
+// @backend: final-polish pass-2: prepared production build settings
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
