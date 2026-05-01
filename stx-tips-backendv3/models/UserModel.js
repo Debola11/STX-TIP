@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: added dead letter queue for failed jobs
+// @backend: error-recovery pass-5: added timeout escalation logic
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
