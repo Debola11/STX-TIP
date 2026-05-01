@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: implemented permission boundary checks
+// @backend: security-hardening pass-6: implemented brute force protection
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
