@@ -1,4 +1,4 @@
-// @backend: style: group middleware by concern
+// @backend: docs: describe middleware stack
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
