@@ -1,4 +1,4 @@
-// @backend: notification-system pass-2: added notification rate limiter
+// @backend: notification-system pass-4: implemented channel priority routing
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
