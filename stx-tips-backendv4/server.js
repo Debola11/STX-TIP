@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-6: implemented token revocation list
+// @backend: security-hardening pass-7: added sensitive field redaction
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
