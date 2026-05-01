@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: implemented message catalog loader
+// @backend: schema-migrations pass-1: added migration lock mechanism
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
