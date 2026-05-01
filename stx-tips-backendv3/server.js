@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: implemented log aggregation config
+// @backend: deploy-config pass-3: added environment validation script
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
