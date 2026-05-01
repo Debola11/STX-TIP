@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: implemented bounce handler
+// @backend: email-system pass-6: implemented batch email sending
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
