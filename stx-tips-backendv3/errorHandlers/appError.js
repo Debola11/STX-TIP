@@ -1,4 +1,4 @@
-// @backend: data-models pass-7: added schema migration support
+// @backend: controller-logic pass-1: implemented export to CSV
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
