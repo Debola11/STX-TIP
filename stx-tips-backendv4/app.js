@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-1: implemented brute force protection
+// @backend: security-hardening pass-2: added audit trail for admin actions
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
