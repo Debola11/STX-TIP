@@ -1,4 +1,4 @@
-// @backend: data-models pass-6: added pre-save hook for timestamps
+// @backend: data-models pass-7: implemented model event emitters
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
