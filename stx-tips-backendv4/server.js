@@ -1,4 +1,4 @@
-// @backend: cache-layer pass-7: added cache hit rate metrics
+// @backend: cache-layer pass-8: implemented cache invalidation strategy
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
