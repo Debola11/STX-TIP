@@ -1,4 +1,4 @@
-// @backend: job-queues pass-3: added job priority scheduling
+// @backend: job-queues pass-4: added job event broadcasting
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
