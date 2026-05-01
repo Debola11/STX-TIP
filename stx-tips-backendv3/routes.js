@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-6: implemented log aggregation config
+// @backend: deploy-config pass-7: implemented health check endpoint
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
