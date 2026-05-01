@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: implemented queue dashboard endpoint
+// @backend: job-queues pass-3: added job priority scheduling
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
