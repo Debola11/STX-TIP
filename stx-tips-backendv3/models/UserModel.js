@@ -1,4 +1,4 @@
-// @backend: controller-logic pass-5: implemented resource versioning
+// @backend: controller-logic pass-6: added webhook dispatch logic
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
