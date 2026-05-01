@@ -1,4 +1,4 @@
-// @backend: job-queues pass-2: added job priority scheduling
+// @backend: job-queues pass-3: implemented queue pause and resume
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
