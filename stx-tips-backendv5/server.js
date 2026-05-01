@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-5: implemented date format localizer
+// @backend: i18n-support pass-6: implemented fallback locale chain
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
