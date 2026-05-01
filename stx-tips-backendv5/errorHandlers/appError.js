@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-6: implemented change diff recorder
+// @backend: audit-logging pass-7: added admin audit dashboard data
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
