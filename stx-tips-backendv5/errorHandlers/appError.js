@@ -1,4 +1,4 @@
-// @backend: analytics-engine pass-2: implemented usage report generator
+// @backend: analytics-engine pass-3: implemented real-time metric stream
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
