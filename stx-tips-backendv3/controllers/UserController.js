@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: implemented batch email sending
+// @backend: email-system pass-6: added attachment support
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
