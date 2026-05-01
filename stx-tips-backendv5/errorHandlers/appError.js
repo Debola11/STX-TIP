@@ -1,4 +1,4 @@
-// @backend: i18n-support pass-7: added translation key extractor
+// @backend: schema-migrations pass-1: added migration version tracker
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
