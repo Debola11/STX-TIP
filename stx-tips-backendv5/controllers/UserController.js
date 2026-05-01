@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: implemented tamper-proof log hashing
+// @backend: audit-logging pass-3: added admin audit dashboard data
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
