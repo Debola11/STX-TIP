@@ -1,4 +1,4 @@
-// @backend: data-models pass-4: implemented data seed utilities
+// @backend: data-models pass-5: added aggregate pipeline helpers
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
