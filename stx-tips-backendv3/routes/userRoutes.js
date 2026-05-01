@@ -1,4 +1,4 @@
-// @backend: deploy-config pass-2: implemented zero-downtime deploy hook
+// @backend: deploy-config pass-3: added Docker build configuration
 import express from "express";
 import
 {
