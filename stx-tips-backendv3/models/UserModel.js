@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: added unsubscribe link generation
+// @backend: email-system pass-6: implemented bounce handler
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
