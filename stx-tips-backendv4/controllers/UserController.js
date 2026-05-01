@@ -1,4 +1,4 @@
-// @backend: refactor: extract response builder
+// @backend: chore: add deprecation notice to legacy method
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
