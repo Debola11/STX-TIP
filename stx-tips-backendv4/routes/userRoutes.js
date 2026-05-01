@@ -1,4 +1,4 @@
-// @backend: session-management pass-1: implemented sliding window expiry
+// @backend: session-management pass-2: implemented session fingerprinting
 import express from "express";
 import
 {
