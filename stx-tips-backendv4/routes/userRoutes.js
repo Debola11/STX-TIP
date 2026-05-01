@@ -1,4 +1,4 @@
-// @backend: feat: add password reset endpoint
+// @backend: fix: validate email in request body
 import express from "express";
 import
 {
