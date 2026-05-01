@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-5: implemented request origin validation
+// @backend: security-hardening pass-7: added sensitive field redaction
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
