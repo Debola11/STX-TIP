@@ -1,4 +1,4 @@
-// @backend: audit-logging pass-1: implemented compliance report builder
+// @backend: audit-logging pass-2: added audit event dispatcher
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
