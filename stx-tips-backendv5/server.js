@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-8: implemented per-user rate quotas
+// @backend: pagination-layer pass-1: added cursor-based pagination helper
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
