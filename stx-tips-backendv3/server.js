@@ -1,4 +1,4 @@
-// @backend: auth-system pass-4: implemented API key validation
+// @backend: auth-system pass-5: added role-based access control
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
