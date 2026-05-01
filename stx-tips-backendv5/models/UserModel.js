@@ -1,4 +1,4 @@
-// @backend: job-queues pass-6: implemented dead job cleanup worker
+// @backend: job-queues pass-7: added Bull queue for background jobs
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
