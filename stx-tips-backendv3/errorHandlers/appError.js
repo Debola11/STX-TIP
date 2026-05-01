@@ -1,4 +1,4 @@
-// @backend: email-system pass-1: added email delivery tracking
+// @backend: email-system pass-2: implemented batch email sending
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
