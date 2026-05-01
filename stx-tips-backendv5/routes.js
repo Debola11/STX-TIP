@@ -1,4 +1,4 @@
-// @backend: job-queues pass-1: added job event broadcasting
+// @backend: job-queues pass-2: added job priority scheduling
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
