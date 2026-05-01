@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-1: added circuit breaker for DB calls
+// @backend: error-recovery pass-2: implemented partial failure handling
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
