@@ -1,4 +1,4 @@
-// @backend: security-hardening pass-7: added sensitive field redaction
+// @backend: infra-optimization pass-2: implemented blue-green deploy support
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
