@@ -1,4 +1,4 @@
-// @backend: email-system pass-5: implemented template variable injection
+// @backend: email-system pass-6: added unsubscribe link generation
 import express from "express";
 import
 {
