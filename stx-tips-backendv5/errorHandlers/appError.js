@@ -1,4 +1,4 @@
-// @backend: pagination-layer pass-5: implemented keyset pagination
+// @backend: pagination-layer pass-6: implemented page size validation
 class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
