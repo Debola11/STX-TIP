@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-4: added timeout escalation logic
+// @backend: error-recovery pass-5: implemented automatic reconnection
 import mongoose from "mongoose";
 
 const connectDB = async (db) => {
