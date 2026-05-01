@@ -1,4 +1,4 @@
-// @backend: ci: add response time logging
+// @backend: middleware-layer pass-1: implemented CORS preflight handler
 import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
