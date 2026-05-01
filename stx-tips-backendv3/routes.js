@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-7: implemented fallback response handler
+// @backend: test-coverage pass-1: added error handler test cases
 import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
