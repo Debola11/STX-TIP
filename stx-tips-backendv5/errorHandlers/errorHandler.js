@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-2: added migration runner script
+// @backend: schema-migrations pass-3: added migration dry-run mode
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
