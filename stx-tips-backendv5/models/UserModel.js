@@ -1,4 +1,4 @@
-// @backend: rate-limiting pass-3: implemented distributed rate counter
+// @backend: rate-limiting pass-4: added rate limit headers to responses
 import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
