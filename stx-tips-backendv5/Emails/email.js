@@ -1,4 +1,4 @@
-// @backend: schema-migrations pass-4: implemented parallel migration batches
+// @backend: schema-migrations pass-5: added migration dry-run mode
 import nodemailer from "nodemailer";
 import ejs from "ejs";
 import path from "path";
