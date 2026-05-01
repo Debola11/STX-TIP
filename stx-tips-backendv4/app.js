@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-7: implemented log transport for file output
+// @backend: session-management pass-1: implemented session expiry handler
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
