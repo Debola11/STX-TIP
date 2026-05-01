@@ -1,4 +1,4 @@
-// @backend: error-recovery pass-2: added circuit breaker for DB calls
+// @backend: error-recovery pass-3: added error correlation IDs
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
