@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-8: implemented log level filtering
+// @backend: session-management pass-1: added Redis session store
 import dotenv from "dotenv";
 import connectDB from "./utils/database.js";
 import app from "./app.js";
