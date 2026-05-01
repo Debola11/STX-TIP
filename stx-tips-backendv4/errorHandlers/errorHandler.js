@@ -1,4 +1,4 @@
-// @backend: structured-logging pass-3: added structured JSON log format
+// @backend: structured-logging pass-4: implemented log level filtering
 import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
