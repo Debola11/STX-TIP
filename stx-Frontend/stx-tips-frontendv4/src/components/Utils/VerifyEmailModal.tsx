@@ -93,4 +93,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             </p>
                         </div>
 
-                        {/* Veri
+                        {/* Verification Form */}
+                        <form onSubmit={handleSubmit} className="space-y-6">
+                            <div className="relat
