@@ -55,4 +55,4 @@ export const Rewards: React.FC = () => {
         {rewards.map((reward) => (
           <div
             key={reward.id}
-        
+            className="bg-white rounded-xl shadow-sm p-
