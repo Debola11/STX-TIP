@@ -44,4 +44,6 @@ export const FAQSection = () => {
             Got Questions?
           </div>
           <h2 className="text-4xl font-bold text-transparent bg-gradient-to-r from-violet-200 to-purple-200 bg-clip-text mb-4">
-       
+            Frequently Asked Questions
+          </h2>
+          <p className="text-lg text-gray-300/9
