@@ -26,4 +26,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
     const [userInfo, setUserInfo] = useState<UserInfo>({});
     const [searching, setSearching] = useState<boolean>(false);
     const [validationError, setValidationError] = useState<string>('');
-    const [showConfirmDialog, s
+    const [showConfirmDialog, setShowConfirmDialog] = useState<boolean>(false);
+
+    useEffect(() => {
+        if (initialAddress) {
+            fetchUserInfo(initialAd
