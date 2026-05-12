@@ -147,4 +147,11 @@ export const Header = () => {
         }
         else
         {
-          toast.error(result.message
+          toast.error(result.message);
+          setIsLoading(false);
+        }
+  
+        setIsEmailModalOpen(false);
+      } catch (error: any)
+      {
+        console.error('Failed to save user data:', error
