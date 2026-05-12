@@ -47,4 +47,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
           try {
             await notifyTipSent(recipient, amount, data.txId);
             onSuccess();
-          } catch (e
+          } catch (error) {
+            console.error('Backend noti
