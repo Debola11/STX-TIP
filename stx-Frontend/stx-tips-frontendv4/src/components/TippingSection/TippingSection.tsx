@@ -30,4 +30,11 @@ export const TippingSection: React.FC = () =>
 
   const resetForm = () =>
   {
-    setRecip
+    setRecipientInput('');
+    setAmount('');
+    setUserInfo({});
+    setShowConfirmDialog(false);
+    setValidationError('');
+  };
+
+  c
