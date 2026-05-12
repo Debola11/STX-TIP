@@ -19,4 +19,8 @@ import VerifyEmailModal from '../Utils/VerifyEmailModal';
 export const Header = () => {
   const [email, setEmail] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [userData, setUserData] = useState<User
+  const [userData, setUserData] = useState<UserData | null>(null);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [isEmailModalOpen, setIsEmailModalOpen] = useState(false);
+
+  const [isVerifyModa
