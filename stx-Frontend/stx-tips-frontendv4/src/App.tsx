@@ -10,4 +10,4 @@ const App: React.FC = () => {
   );
 };
 
-export
+export defau
