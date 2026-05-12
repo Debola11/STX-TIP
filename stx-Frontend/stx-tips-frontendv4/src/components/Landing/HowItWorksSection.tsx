@@ -67,4 +67,7 @@ export const HowItWorksSection = () => {
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Start supporting your favorite creators in three simple steps
           </p>
-        
+        </motion.div>
+
+        <div className="grid md:grid-cols-3 gap-8">
+       
