@@ -42,4 +42,6 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
           {searching && (
             <motion.div 
               initial={{ opacity: 0 }}
-              a
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+        
