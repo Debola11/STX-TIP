@@ -19,4 +19,4 @@ export default {
   			},
   			popover: {
   				DEFAULT: 'hsl(var(--popover))',
- 
+  				foreground: 'hsl(var(--pop
