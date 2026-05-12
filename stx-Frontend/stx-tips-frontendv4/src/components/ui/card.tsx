@@ -2,4 +2,5 @@ import * as React from "react"
 
 import { cn } from "@/lib/utils"
 
-const Ca
+const Card = React.forwardRef<
+  HTMLDivEleme
