@@ -31,4 +31,4 @@ export async function getUserStats(userAddress: string)
     }
 }
 
-export async function getTipHistory(sender: string, recipient: string, 
+export async function getTipHistory(sender: string, recipient: string, amount: number, fee: number, tokenType: string)
