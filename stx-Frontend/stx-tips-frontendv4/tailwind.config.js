@@ -23,4 +23,4 @@ export default {
   			},
   			primary: {
   				DEFAULT: 'hsl(var(--primary))',
-  				foregr
+  				foreground: 'hsl(var(--primary-foregr
