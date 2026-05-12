@@ -18,4 +18,6 @@
 //             {
 //                 setWalletAddress(data.stacksAddress);
 //                 setWalletConnected(true);
-//   
+//             },
+//             userSession: undefined,
+/
