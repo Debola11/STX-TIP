@@ -6,4 +6,4 @@ interface ChartProps {
   data: ChartData[];
 }
 
-export const Chart: React.FC<Chart
+export const Chart: React.FC<ChartProps> = ({ data }) =
