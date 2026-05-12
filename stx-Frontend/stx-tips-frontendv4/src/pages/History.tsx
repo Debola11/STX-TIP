@@ -19,4 +19,5 @@ export const History: React.FC = () => {
       <h1 className="text-2xl font-bold">Transaction History</h1>
 
       <div className="flex flex-col sm:flex-row gap-4">
-        <div className="relative f
+        <div className="relative flex-1">
+          <Search className="absolute left-3 top-1/2
