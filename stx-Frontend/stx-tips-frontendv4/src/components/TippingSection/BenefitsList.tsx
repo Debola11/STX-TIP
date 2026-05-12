@@ -27,4 +27,4 @@ export const BenefitsList: React.FC = () => {
             className="flex items-start gap-3 text-gray-600"
             variants={itemVariants}
           >
-            <CheckCircle className=
+            <CheckCircle className="h-5 w-5 text-violet-600 
