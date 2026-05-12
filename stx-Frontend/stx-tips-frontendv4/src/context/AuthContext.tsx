@@ -104,4 +104,6 @@ const initialState: AuthState = {
 };
 
 // Create context with type assertion
-export const a
+export const authContext = createContext<AuthContextType>({
+  ...initialState,
+  dispatch
