@@ -49,4 +49,4 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
             onSuccess();
           } catch (error) {
             console.error('Backend notification failed:', error);
-            // Conti
+            // Continue with success even if backend notification f
