@@ -65,4 +65,6 @@ export interface RawTipHistoryEntry {
   timestamp: { value: bigint };
 }
 
-export interface SendTipParam
+export interface SendTipParams {
+  recipient: string;
+ 
