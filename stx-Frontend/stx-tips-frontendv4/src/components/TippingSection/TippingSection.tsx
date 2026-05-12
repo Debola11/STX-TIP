@@ -7,3 +7,7 @@ import { useTipTransaction } from '../../hooks/useTipTransaction';
 import { RecipientInput } from './RecipientInput';
 import { BenefitsList } from './BenefitsList';
 import { TipConfirmationDialog } from './TipConfirmationDialog';
+import { containerVariants, itemVariants } from './animations';
+import { useAppContext } from '@/context/AppContext';
+
+interf
