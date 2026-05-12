@@ -47,4 +47,6 @@ export const NewsletterSection = () => {
         </div>
 
         <motion.form 
-          onSubmit={handleSu
+          onSubmit={handleSubscribe}
+          className="max-w-lg mx-auto relative"
+          initial={{ op
