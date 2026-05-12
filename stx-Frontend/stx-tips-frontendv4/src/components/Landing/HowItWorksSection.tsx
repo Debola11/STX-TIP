@@ -90,4 +90,5 @@ export const HowItWorksSection = () => {
                   <p className="text-gray-600">
                     {step.description}
                   </p>
-                  <div className="absolute bottom-4 ri
+                  <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity">
+             
