@@ -148,4 +148,7 @@ export const Footer: React.FC = () =>
 
           {/* Product Section */}
           <div className="space-y-6">
-     
+            <h3 className="text-lg font-semibold text-white/90">Product</h3>
+            <ul className="space-y-3">
+              {['Features', 'Send Tips', 'FAQ', 'Pricing'].map((item) => (
+       
