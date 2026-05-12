@@ -10,4 +10,12 @@ import { TipConfirmationDialog } from './TipConfirmationDialog';
 import { containerVariants, itemVariants } from './animations';
 import { useAppContext } from '@/context/AppContext';
 
-interf
+interface UserInfo
+{
+  email?: string;
+  walletAddress?: string;
+  found?: boolean;
+  error?: string;
+}
+
+export const TippingSectio
