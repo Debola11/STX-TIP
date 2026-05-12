@@ -1,1 +1,2 @@
-import * as Reac
+import * as React from "react"
+
