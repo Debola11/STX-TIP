@@ -169,4 +169,8 @@ export const Dashboard = () =>
                       </p>
                       <p className="text-xs text-gray-500">
                         <Clock className="h-3 w-3 inline mr-1" />
-           
+                        {tip.timestamp}
+                      </p>
+                    </div>
+                  </div>
+                  <span class
