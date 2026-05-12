@@ -13,3 +13,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
         <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
         <XAxis dataKey="name" stroke="#666" />
         <YAxis stroke="#666" />
+        <Tooltip 
+  
