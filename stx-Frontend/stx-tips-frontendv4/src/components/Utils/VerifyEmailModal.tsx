@@ -55,4 +55,10 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
             else
             { 
                 toast.error(result.message);
-       
+                setIsLoading(false);
+            }
+
+            // Handle successful verification
+        } catch (error: any)
+        {
+            co
