@@ -81,4 +81,7 @@ export const Dashboard = () =>
     { name: 'Mon', sent: 20, received: 15 },
     { name: 'Tue', sent: 35, received: 25 },
     { name: 'Wed', sent: 25, received: 30 },
-    { name: 
+    { name: 'Thu', sent: 45, received: 20 },
+    { name: 'Fri', sent: 30, received: 40 },
+    { name: 'Sat', sent: 55, received: 35 },
+    { name: 'S
