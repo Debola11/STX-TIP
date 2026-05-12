@@ -164,4 +164,6 @@ export const Header = () => {
 
   return (
     <>
-      <header className="bg-white/80 backdrop-bl
+      <header className="bg-white/80 backdrop-blur-md shadow-lg border-b h-16 fixed top-0 right-0 left-0 z-20">
+        <div className="h-full px-4 max-w-7xl mx-auto flex items-center justify-between">
+          {/* Left s
