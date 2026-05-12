@@ -18,4 +18,7 @@ interface UserInfo
   error?: string;
 }
 
-export const TippingSectio
+export const TippingSection: React.FC = () =>
+{
+  const { walletConnected } = useAppContext();
+  const [recipientInput, setRecipientInput] = useState<s
