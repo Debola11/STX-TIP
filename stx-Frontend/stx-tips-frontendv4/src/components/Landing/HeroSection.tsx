@@ -37,4 +37,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   // Keep all the existing useEffect and functions exactly as they were
   useEffect(() => {
     const checkAuth = async () => {
-      if 
+      if (userSession.isSignInPending()) {
+        const userData = await userSession.handlePendingSignIn();
+        setIsAuthenticated(true);
+        setUserData(userData);
+        setWalletAddress(userData?.profil
