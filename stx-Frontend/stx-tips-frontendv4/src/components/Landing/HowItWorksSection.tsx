@@ -77,3 +77,6 @@ export const HowItWorksSection = () => {
                 key={index}
                 variants={itemVariants}
                 whileHover={{ y: -5 }}
+                className="relative group"
+              >
+              
