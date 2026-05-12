@@ -9,4 +9,7 @@ interface Reward {
   unlocked: boolean;
 }
 
-export const Rewards: React.FC = ()
+export const Rewards: React.FC = () => {
+  const rewards: Reward[] = [
+    {
+     
