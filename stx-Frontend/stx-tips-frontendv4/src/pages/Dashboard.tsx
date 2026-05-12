@@ -189,4 +189,8 @@ export const Dashboard = () =>
         <Card>
           <CardHeader>
             <CardTitle>Rewards & Achievements</CardTitle>
-            <CardDescription>Your tippi
+            <CardDescription>Your tipping milestones</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className="space-y-4">
+              <di
