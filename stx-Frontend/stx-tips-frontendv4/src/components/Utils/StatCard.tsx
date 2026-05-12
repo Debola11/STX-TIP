@@ -5,4 +5,4 @@ export const StatCard: React.FC<Stat> = ({ title, value, change, icon }) => (
   <div className="bg-white rounded-xl shadow-sm p-6 hover:shadow-md transition-shadow">
     <div className="flex items-center justify-between mb-4">
       <h3 className="text-gray-500 text-sm font-medium">{title}</h3>
-      {icon && <div className="
+      {icon && <div className="text-violet-6
