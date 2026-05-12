@@ -16,4 +16,4 @@
 //             },
 //             onFinish: (data) =>
 //             {
-/
+//                 setWalletAddress(data.stacksAddress
