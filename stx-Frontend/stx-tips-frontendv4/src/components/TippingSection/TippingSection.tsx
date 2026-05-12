@@ -42,4 +42,11 @@ export const TippingSection: React.FC = () =>
     {
       resetForm();
     },
-    onError: (er
+    onError: (error) =>
+    {
+      setValidationError(error);
+      setShowConfirmDialog(false);
+    }
+  });
+
+  const fetchUserInfo = async 
