@@ -2,4 +2,6 @@
 
 // const initialState = {
 //   user: localStorage.getItem("user") ? JSON.parse(localStorage.getItem("user") as string) : null,
-//   token: localStorage.getItem
+//   token: localStorage.getItem("token"),
+//   activationToken: localStorage.getItem("activationToken"),
+/
