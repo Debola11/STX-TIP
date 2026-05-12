@@ -4,4 +4,6 @@ import { motion } from 'framer-motion';
 import { validateStacksAddress } from '../Utils/validation';
 import { fetchUserWalletInfo } from '../../services/apiService';
 import { useTipTransaction } from '../../hooks/useTipTransaction';
-import { RecipientInput } from './Reci
+import { RecipientInput } from './RecipientInput';
+import { BenefitsList } from './BenefitsList';
+import { TipConfirmationDialog } from './TipConfirmationDialog';
