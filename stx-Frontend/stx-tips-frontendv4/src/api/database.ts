@@ -32,4 +32,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
                 const errorData = await response.json();
                 errorMessage = errorData.message || errorMessage;
             } catch (e)
-          
+            {
+                // If error response is not JSON, 
