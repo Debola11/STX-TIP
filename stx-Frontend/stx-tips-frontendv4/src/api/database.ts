@@ -59,4 +59,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
 export async function submitUserWalletDataWithRetry(
     userData: UserWalletData,
     maxRetries = 3,
-    delayMs 
+    delayMs = 1000
+): Promise<{ success: boolean; userId?: string 
