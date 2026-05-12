@@ -16,4 +16,6 @@
 //             },
 //             onFinish: (data) =>
 //             {
-//                 setWalletAddress(data.stacksAddress
+//                 setWalletAddress(data.stacksAddress);
+//                 setWalletConnected(true);
+//   
