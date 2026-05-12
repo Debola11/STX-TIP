@@ -24,4 +24,5 @@ export const BenefitsList: React.FC = () => {
         {benefits.map((benefit, index) => (
           <motion.li 
             key={index}
-            className="flex items-start gap-
+            className="flex items-start gap-3 text-gray-600"
+        
