@@ -28,4 +28,5 @@ export const Rewards: React.FC = () => {
     {
       id: '3',
       title: 'High Roller',
-      description: 'Get VIP s
+      description: 'Get VIP status after receiving 1000 STX in tips',
+      
