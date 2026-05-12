@@ -119,4 +119,9 @@ export const Header = () => {
   
         const response = await fetch('https://stx-tip.onrender.com/api/v1/users/connect-wallet', {
           method: 'POST',
-          headers:
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            email: email.trim().toLowerCase(),
+            wallet: walletAddr
