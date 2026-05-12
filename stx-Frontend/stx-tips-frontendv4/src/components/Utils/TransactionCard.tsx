@@ -5,4 +5,4 @@ interface TransactionCardProps {
   transaction: Transaction;
 }
 
-export
+export const TransactionCa
