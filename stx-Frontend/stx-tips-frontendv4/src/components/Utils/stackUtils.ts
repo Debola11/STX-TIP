@@ -2,4 +2,5 @@
 
 // // Convert STX amount to microstacks
 // export const toMicroStacks = (amount: string): number =>
-// 
+// {
+//     return Math.floor(parseFloat(amount) * 1000000)
