@@ -49,4 +49,11 @@ export const TippingSection: React.FC = () =>
     }
   });
 
-  const fetchUserInfo = async 
+  const fetchUserInfo = async (input: string) =>
+  {
+    setSearching(true);
+    setValidationError('');
+
+    try
+    {
+      if (validateStacksAddress(inp
