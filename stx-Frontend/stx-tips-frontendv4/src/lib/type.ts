@@ -12,4 +12,6 @@ export interface Stat {
   }
   
   export interface Transaction {
-    id: strin
+    id: string;
+    sender: string;
+   
