@@ -18,4 +18,4 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 {
   const [currentPage, setCurrentPage] = useState('home');
   const [walletConnected, setWalletConnected] = useState(false);
-  const [walletAddress, setWalletA
+  const [walletAddress, setWalletAddress] = useState<string 
