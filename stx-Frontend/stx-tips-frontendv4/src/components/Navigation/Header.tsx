@@ -254,4 +254,12 @@ export const Header = () => {
 
       {/* Verify Email Modal */}
       <VerifyEmailModal
-        is
+        isOpen={isVerifyModalOpen}
+        onOpenChange={setIsVerifyModalOpen}
+        userEmail={email}
+      />
+    </>
+  );
+};
+
+export default Header;
