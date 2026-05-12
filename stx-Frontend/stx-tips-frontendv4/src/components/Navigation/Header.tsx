@@ -169,4 +169,9 @@ export const Header = () => {
           {/* Left section - Brand and Navigation */}
           <div className="flex items-center space-x-4">
             {currentPage !== 'home' && (
-              <button className="lg:hidden 
+              <button className="lg:hidden hover:bg-gray-100 p-2 rounded-full transition-colors">
+                <Menu className="h-6 w-6" />
+              </button>
+            )}
+            
+            <div class
