@@ -106,4 +106,6 @@ export const Settings: React.FC = () => {
                   type="checkbox"
                   checked={privacy.showAmount}
                   onChange={(e) => setPrivacy({ ...privacy, showAmount: e.target.checked })}
-  
+                  className="sr-only peer"
+                />
+                <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-viol
