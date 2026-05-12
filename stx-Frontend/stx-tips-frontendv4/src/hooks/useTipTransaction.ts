@@ -61,4 +61,4 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
       });
     } catch (error) {
       console.error('Transaction error:', error);
-      onError(error inst
+      onError(error instanceof Error ? error.message : 'Failed to proce
