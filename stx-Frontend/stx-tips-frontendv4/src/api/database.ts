@@ -70,4 +70,7 @@ export async function submitUserWalletDataWithRetry(
         {
             return await submitUserWalletData(userData);
         } catch (error)
-  
+        {
+            lastError = error as Error;
+
+     
