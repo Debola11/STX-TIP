@@ -112,4 +112,12 @@ export const TippingSection: React.FC = () =>
     if (!validateStacksAddress(recipientInput))
     {
       setValidationError('Invalid wallet address');
-      return
+      return;
+    }
+
+    setShowConfirmDialog(true);
+  };
+
+  return (
+    <motion.div
+      className="bg-gradient-to-br from-white to-gr
