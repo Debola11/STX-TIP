@@ -13,4 +13,4 @@ const benefits = [
 export const BenefitsList: React.FC = () => {
   return (
     <motion.div 
-      clas
+      className="lg:col-span-2 bg-g
