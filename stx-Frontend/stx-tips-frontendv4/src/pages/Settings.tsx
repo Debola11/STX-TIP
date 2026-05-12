@@ -56,4 +56,7 @@ export const Settings: React.FC = () => {
               </label>
             </div>
 
-            <div className="flex i
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="font-medium">Platform Updates</p>
+                <p className="text-sm text-gray-500">Get noti
