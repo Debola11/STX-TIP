@@ -36,4 +36,5 @@ export const History: React.FC = () => {
             value={filter}
             onChange={(e) => setFilter(e.target.value)}
           >
-       
+            <option value="all">All Transactions</option>
+         
