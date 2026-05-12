@@ -1,2 +1,2 @@
 import * as React from "react"
-i
+import { cva, type VariantProps }
