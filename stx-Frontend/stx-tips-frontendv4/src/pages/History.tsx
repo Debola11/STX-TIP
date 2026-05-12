@@ -4,4 +4,6 @@ import { Transaction } from '@/lib/type';
 
 export const History: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
-  const [filter,
+  const [filter, setFilter] = useState('all');
+
+  // Sample data - replace w
