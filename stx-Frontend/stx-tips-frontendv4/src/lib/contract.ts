@@ -47,4 +47,5 @@ export const sendTip = async ({
     };
 
     await openContractCall(options);
-  } c
+  } catch (error) {
+    consol
