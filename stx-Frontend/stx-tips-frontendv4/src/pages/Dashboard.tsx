@@ -70,4 +70,12 @@ export const Dashboard = () =>
     },
     {
       id: 2,
-      type: 'recei
+      type: 'received',
+      address: '0x8765...4321',
+      amount: '25 STX',
+      timestamp: '5 hours ago'
+    }
+  ];
+
+  const chartData = [
+    { name
