@@ -79,4 +79,7 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                         <div className="text-center space-y-2">
                             <div className="flex items-center justify-center mx-auto mb-4">
                                 <div className="bg-violet-500 rounded-full p-1">
-                                    <CheckCircle2 classNam
+                                    <CheckCircle2 className="w-4 h-4 text-white" />
+                                </div>
+                            </div>
+                            <h2 className="t
