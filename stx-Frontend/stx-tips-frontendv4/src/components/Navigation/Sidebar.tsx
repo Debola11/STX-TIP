@@ -8,4 +8,5 @@ export const Sidebar: React.FC = () => {
 
   console.log("isOpen", isOpen);
 
-  const
+  const navItems: NavItem[] = [
+    { name: 'Da
