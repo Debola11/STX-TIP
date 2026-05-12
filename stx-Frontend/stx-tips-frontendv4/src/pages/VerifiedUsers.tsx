@@ -97,4 +97,7 @@ const VerifiedUsers: React.FC = () => {
                   <CardHeader>
                     <CardTitle className="text-lg text-white/90 flex items-center justify-between">
                       <span className="truncate">{user.email}</span>
-                      <CheckCir
+                      <CheckCircle className="h-5 w-5 text-green-400" />
+                    </CardTitle>
+                  </CardHeader>
+       
