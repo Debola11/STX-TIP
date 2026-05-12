@@ -1,1 +1,1 @@
-export d
+export def
