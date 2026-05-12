@@ -55,4 +55,7 @@ export interface TipHistoryEntry {
   amount: number;
   fee: number;
   tokenType: string;
-  timest
+  timestamp: number;
+}
+
+export int
