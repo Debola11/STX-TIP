@@ -1,3 +1,4 @@
 import { useState } from 'react';
 import { useConnect } from '@stacks/connect-react';
-import { AnchorMode, PostConditionMode } from '@stacks/
+import { AnchorMode, PostConditionMode } from '@stacks/transactions';
+import { NETWORK, CONTRACT_ADDRE
