@@ -23,4 +23,6 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   const [email, setEmail] = useState<string>('');
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [userData, setUserData] = useState<UserData | null>(null);
-  const [isAuthe
+  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
+  const [isEmailModalOpen, setIsEmailModalOpen] = useState<boolean>(false);
+  const [isVerifyModalOpen, setIsVerifyModalOpen] = useState<boolean>(fa
