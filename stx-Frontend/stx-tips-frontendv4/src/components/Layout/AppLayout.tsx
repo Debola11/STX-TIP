@@ -36,4 +36,5 @@ export const AppLayout: React.FC = () =>
             case 'rewards':
                 return <Rewards />;
             case 'settings':
-                ret
+                return <Settings />;
+            d
