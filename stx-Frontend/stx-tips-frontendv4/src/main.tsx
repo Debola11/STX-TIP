@@ -4,4 +4,5 @@ import { Connect } from '@stacks/connect-react';
 import { BrowserRouter } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
 import { AuthContextProvider } from './context/AuthContext'
-import App from './Ap
+import App from './App';
+import './in
