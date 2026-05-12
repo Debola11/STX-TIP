@@ -15,4 +15,12 @@
 //   onOpenChange: (open: boolean) => void;
 //   amount: string;
 //   recipientInput: string;
-//   userInfo: 
+//   userInfo: {
+//     email?: string;
+//     found?: boolean;
+//   };
+//   onConfirm: () => Promise<void>;
+//   transactionInProgress: boolean;
+// }
+
+// export co
