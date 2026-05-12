@@ -13,4 +13,9 @@ export const Settings: React.FC = () => {
     showAmount: true
   });
 
- 
+  return (
+    <div className="space-y-6">
+      <h1 className="text-2xl font-bold">Settings</h1>
+
+      <div className="space-y-6">
+        <div className="bg-white rounded-xl
