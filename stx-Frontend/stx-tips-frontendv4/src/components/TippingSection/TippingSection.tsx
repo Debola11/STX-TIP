@@ -24,4 +24,5 @@ export const TippingSection: React.FC = () =>
   const [recipientInput, setRecipientInput] = useState<string>('');
   const [amount, setAmount] = useState<string>('');
   const [userInfo, setUserInfo] = useState<UserInfo>({});
-  c
+  const [searching, setSearching] = useState<boolean>(false);
+  const [validationError, setValidationError] = useState<string>('
