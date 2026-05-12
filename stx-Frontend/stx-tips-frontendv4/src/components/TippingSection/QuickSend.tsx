@@ -94,4 +94,9 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
     const handleSendTip = () => {
         if (!recipientInput || !amount) {
-            setValidationError('Please verify recipient an
+            setValidationError('Please verify recipient and amount');
+            return;
+        }
+
+        if (!validateStacksAddress(recipientInput)) {
+            setValidationError('Invalid 
