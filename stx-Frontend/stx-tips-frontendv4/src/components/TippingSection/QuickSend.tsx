@@ -117,4 +117,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                     <RecipientInput
                         recipientInput={recipientInput}
                         setRecipientInput={setRecipientInput}
-               
+                        searching={searching}
+                        validationError={validationError}
+                        userInfo={userInfo}
+    
