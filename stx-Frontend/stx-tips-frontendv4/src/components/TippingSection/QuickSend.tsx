@@ -42,4 +42,9 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         setValidationError('');
     };
 
-    const { processTip, i
+    const { processTip, isProcessing } = useTipTransaction({
+        onSuccess: () => {
+            resetForm();
+        },
+        onError: (error) => {
+        
