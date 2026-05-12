@@ -102,4 +102,10 @@ export const Header = () => {
 
   const formatWalletAddress = (address: string) => {
     if (!address) return '';
-    return
+    return `${address.slice(0, 6)}...${address.slice(-4)}`;
+  };
+
+  const handleEmailSubmit = async (e: React.FormEvent<HTMLFormElement>) =>
+    {
+      e.preventDefault();
+      if (!
