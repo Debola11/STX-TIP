@@ -16,3 +16,6 @@ interface TipOptions {
   tokenType: string;
   onSuccess?: (data: any) => void;
   onError?: (error: any) => void;
+}
+
+export const sendTip 
