@@ -5,4 +5,4 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
 {
     try
     {
-        const response = await fetch(`${API_BASE_URL}
+        const response = await fetch(`${API_BASE_URL}/users/wallet/${walletAddr
