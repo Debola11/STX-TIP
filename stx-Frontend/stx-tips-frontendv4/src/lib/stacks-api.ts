@@ -83,4 +83,6 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
     } catch (error)
     {
         console.error('Error sending tip:', error);
-        return
+        return null;
+    }
+}
