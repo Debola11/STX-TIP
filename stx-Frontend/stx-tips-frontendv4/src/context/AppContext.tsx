@@ -9,4 +9,7 @@ interface AppContextType
   walletAddress: string | null;
   setWalletAddress: (value: string | null) => void;
   isOpen: boolean;
-  setIsOpen: (value: bo
+  setIsOpen: (value: boolean) => void;
+}
+
+const A
