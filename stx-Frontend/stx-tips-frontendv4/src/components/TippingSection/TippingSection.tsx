@@ -132,4 +132,8 @@ export const TippingSection: React.FC = () =>
         className="text-3xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-transparent mb-8"
         variants={itemVariants}
       >
-        Sen
+        Send a Tip
+      </motion.h2>
+
+      <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
+        <motion.div className="lg:c
