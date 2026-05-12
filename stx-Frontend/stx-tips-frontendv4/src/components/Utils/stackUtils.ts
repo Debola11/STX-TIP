@@ -71,4 +71,5 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     // Create args array with serialized values
     const args = [recipientCV, amountCV, currencyCV].map(serializeCV);
 
-  
+    // Debug log
+    console.log('Prepared arguments:', {
