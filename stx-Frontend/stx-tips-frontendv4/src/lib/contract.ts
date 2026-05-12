@@ -8,4 +8,6 @@ import {
 } from '@stacks/transactions';
 import { CONTRACT_CONFIG } from './constants';
 
-// const NETWORK 
+// const NETWORK = new StacksTestnet();
+
+i
