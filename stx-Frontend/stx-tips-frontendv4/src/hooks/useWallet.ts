@@ -76,4 +76,5 @@ export const useWallet = () => {
     });
   }, [authOptions?.userSession]);
 
-  const disconnectWallet = useCallba
+  const disconnectWallet = useCallback(() => {
+    authOptions?.userSession?.signUserOut(
