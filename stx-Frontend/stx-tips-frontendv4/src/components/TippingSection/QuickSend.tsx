@@ -99,4 +99,13 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         }
 
         if (!validateStacksAddress(recipientInput)) {
-            setValidationError('Invalid 
+            setValidationError('Invalid wallet address');
+            return;
+        }
+
+        setShowConfirmDialog(true);
+    };
+
+    return (
+        <Card>
+            <Car
