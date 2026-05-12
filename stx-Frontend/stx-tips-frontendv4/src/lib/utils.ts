@@ -1,1 +1,1 @@
-import { clsx, type ClassVal
+import { clsx, type ClassValue }
