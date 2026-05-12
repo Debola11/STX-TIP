@@ -50,4 +50,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
         {
             throw error;
         }
-        // Handle network errors o
+        // Handle network errors or other unexpected issues
+        throw new APIError(5
