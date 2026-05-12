@@ -202,4 +202,7 @@ export const Footer: React.FC = () =>
         </div>
 
         {/* Bottom Section */}
-        <div className="relative mt-16 pt-8 bor
+        <div className="relative mt-16 pt-8 border-t border-white/10">
+          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+            <p className="text-gray-400 text-sm">
+             
