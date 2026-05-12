@@ -66,4 +66,6 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     // Create Clarity Values
     const recipientCV = stringAsciiCV(recipient);  // Changed from stringUtf8CV to stringAsciiCV
     const amountCV = uintCV(microStacks);
-    const currencyCV = stringAsciiCV('STX');  /
+    const currencyCV = stringAsciiCV('STX');  // Changed from stringUtf8CV to stringAsciiCV
+
+    // Cre
