@@ -59,4 +59,5 @@ export interface TipHistoryEntry {
 }
 
 export interface RawTipHistoryEntry {
-  amount: { value: bigin
+  amount: { value: bigint };
+  fee: { value: bigin
