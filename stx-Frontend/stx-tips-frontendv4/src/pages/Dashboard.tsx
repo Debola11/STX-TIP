@@ -195,3 +195,6 @@ export const Dashboard = () =>
             <div className="space-y-4">
               <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                 <div className="flex items-center space-x-3">
+                  <Award className="h-5 w-5 text-yellow-600" />
+                  <div>
+                    <p className="text-sm font-me
