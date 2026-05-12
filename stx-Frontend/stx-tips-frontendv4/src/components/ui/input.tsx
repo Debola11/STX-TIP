@@ -8,4 +8,4 @@ const Input = React.forwardRef<HTMLInputElement, React.ComponentProps<"input">>(
       <input
         type={type}
         className={cn(
-          "f
+          "flex h-9 w-full r
