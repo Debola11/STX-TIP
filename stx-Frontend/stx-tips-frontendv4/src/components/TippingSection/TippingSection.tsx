@@ -21,4 +21,7 @@ interface UserInfo
 export const TippingSection: React.FC = () =>
 {
   const { walletConnected } = useAppContext();
-  const [recipientInput, setRecipientInput] = useState<s
+  const [recipientInput, setRecipientInput] = useState<string>('');
+  const [amount, setAmount] = useState<string>('');
+  const [userInfo, setUserInfo] = useState<UserInfo>({});
+  c
