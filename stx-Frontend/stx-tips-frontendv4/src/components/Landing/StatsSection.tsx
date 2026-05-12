@@ -22,4 +22,10 @@ const statsData = [
     value: '50K+',
     label: 'Transactions',
     subtext: 'Secure transfers',
-    icon: ArrowUpRi
+    icon: ArrowUpRight,
+    growth: '+200% this month',
+    color: 'from-pink-500 to-rose-500'
+  }
+];
+
+co
