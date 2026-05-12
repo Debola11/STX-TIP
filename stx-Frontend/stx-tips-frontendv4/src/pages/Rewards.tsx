@@ -42,4 +42,4 @@ export const Rewards: React.FC = () => {
         <div className="flex items-center space-x-4 mb-4">
           <Gift className="h-8 w-8" />
           <div>
-         
+            <h2 className="text-xl font-bold">Your Point
