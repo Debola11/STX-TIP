@@ -34,4 +34,11 @@ const VerifiedUsers: React.FC = () => {
         console.error('Failed to fetch verified users:', error);
         toast.error('Error loading verified users');
       } finally {
-  
+        setLoading(false);
+      }
+    };
+
+    fetchUsers();
+  }, []);
+
+  const handleTipClick = (user: VerifiedUser
