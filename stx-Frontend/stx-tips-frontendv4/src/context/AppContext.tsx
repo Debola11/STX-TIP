@@ -39,4 +39,5 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
 export const useAppContext = () =>
 {
-  const context =
+  const context = useContext(AppContext);
+ 
