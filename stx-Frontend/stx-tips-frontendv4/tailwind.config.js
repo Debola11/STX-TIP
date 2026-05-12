@@ -43,4 +43,5 @@ export default {
   			},
   			border: 'hsl(var(--border))',
   			input: 'hsl(var(--input))',
-  			ring: 'h
+  			ring: 'hsl(var(--ring))',
+  			chart: {
