@@ -22,4 +22,5 @@
 //         };
 //     } catch (error)
 //     {
-//         console.error('Error preparing tip arg
+//         console.error('Error preparing tip arguments:', error);
+//         throw new Error('Failed to 
