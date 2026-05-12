@@ -83,4 +83,13 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
   const handleAuth = () => {
     if (isAuthenticated) {
-      signUserO
+      signUserOut();
+      setWalletAddress(null);
+      setIsAuthenticated(false);
+    } else {
+      authenticate();
+    }
+  };
+
+  const handleEmailSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.prevent
