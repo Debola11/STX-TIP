@@ -1,2 +1,2 @@
 export const containerVariants = {
-    hidden: {
+    hidden: { opacity
