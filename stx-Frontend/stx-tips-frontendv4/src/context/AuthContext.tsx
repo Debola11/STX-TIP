@@ -143,4 +143,8 @@ export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
   }, [state]);
 
   return (
-    <authContext.Provider value={{ ...state,
+    <authContext.Provider value={{ ...state, dispatch }}>
+      {children}
+    </authContext.Provider>
+  );
+};
