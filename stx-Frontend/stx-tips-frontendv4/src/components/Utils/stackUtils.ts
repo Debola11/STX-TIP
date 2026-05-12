@@ -32,4 +32,5 @@ import { stringAsciiCV, uintCV, ClarityValue, ClarityType } from '@stacks/transa
 // Convert STX amount to microstacks with validation
 export const toMicroStacks = (amount: string): number => {
   try {
-    const value = par
+    const value = parseFloat(amount);
+    if (isNaN(value)) throw new Error('
