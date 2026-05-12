@@ -110,4 +110,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         <Card>
             <CardHeader>
                 <CardTitle>Quick Send</CardTitle>
-                <CardDescription>Send tips to your favorite creators</CardDesc
+                <CardDescription>Send tips to your favorite creators</CardDescription>
+            </CardHeader>
+            <CardContent>
+                <div className="space-y-4">
+                    <RecipientIn
