@@ -223,4 +223,5 @@ export const Header = () => {
             )}
 
             <button
-              onClick={handleAut
+              onClick={handleAuth}
+              className="text-sm md:text-base bg-gradient-to-r from-violet-600 to-purple-600 text-white px-6 py-2 rounded-lg hover:opacity-90 transition-all duration-200 t
