@@ -50,4 +50,6 @@ export const Settings: React.FC = () => {
                   type="checkbox"
                   checked={notifications.milestones}
                   onChange={(e) => setNotifications({ ...notifications, milestones: e.target.checked })}
-                  className="sr-on
+                  className="sr-only peer"
+                />
+                <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-violet-300 rounded-full peer peer-ch
