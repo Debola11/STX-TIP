@@ -212,4 +212,5 @@ export const Header = () => {
                   <Bell className="h-6 w-6" />
                   <span className="absolute top-0 right-0 h-2 w-2 bg-red-500 rounded-full"></span>
                 </button>
- 
+                
+                <div className="hidden md:flex items-center px-4 py-2 bg-gradient-to-r from-violet-600/10 to-purple-600/10 rounded-lg border border-purple-100
