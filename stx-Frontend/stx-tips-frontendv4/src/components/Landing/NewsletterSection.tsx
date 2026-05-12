@@ -51,4 +51,7 @@ export const NewsletterSection = () => {
           className="max-w-lg mx-auto relative"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewpo
+          viewport={{ once: true }}
+          transition={{ delay: 0.2 }}
+        >
+          <d
