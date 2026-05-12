@@ -10,4 +10,9 @@ interface EmailModalProps {
   email: string;
   setEmail: (email: string) => void;
   handleSubmit: (e: React.FormEvent<HTMLFormElement>) => void;
-  isLoading: bo
+  isLoading: boolean;
+}
+
+const EmailModal: FC<EmailModalProps> = ({
+  isOpen,
+  onOpenChang
