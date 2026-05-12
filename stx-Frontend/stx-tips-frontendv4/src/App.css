@@ -9,4 +9,5 @@
   height: 6em;
   padding: 1.5em;
   will-change: filter;
-  transition: fi
+  transition: filter 300ms;
+}
