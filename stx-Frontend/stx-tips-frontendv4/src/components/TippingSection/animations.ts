@@ -11,4 +11,5 @@ export const containerVariants = {
   };
   
   export const itemVariants = {
-    hidden: { opacity: 0, x: -2
+    hidden: { opacity: 0, x: -20 },
+   
