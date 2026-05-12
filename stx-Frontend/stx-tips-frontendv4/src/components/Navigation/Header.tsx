@@ -11,4 +11,7 @@ import { UserData } from '@/lib/type';
 import toast from 'react-hot-toast';
 import { authContext } from '@/context/AuthContext';
 import EmailModal from '../Utils/EmailModal';
+import VerifyEmailModal from '../Utils/VerifyEmailModal';react-hot-toast';
+import { authContext } from '@/context/AuthContext';
+import EmailModal from '../Utils/EmailModal';
 import VerifyEmailModal from '../Utils/VerifyEmailModal';
