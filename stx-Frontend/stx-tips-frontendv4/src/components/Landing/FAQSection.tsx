@@ -43,4 +43,5 @@ export const FAQSection = () => {
             <HelpCircle className="w-4 h-4 mr-2" />
             Got Questions?
           </div>
-          <h2 className="text-4xl font-b
+          <h2 className="text-4xl font-bold text-transparent bg-gradient-to-r from-violet-200 to-purple-200 bg-clip-text mb-4">
+       
