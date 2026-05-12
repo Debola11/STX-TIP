@@ -19,4 +19,5 @@ export interface Stat {
     timestamp: Date;
   }
   
-  export i
+  export interface ChartData {
+    n
