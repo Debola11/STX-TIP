@@ -33,4 +33,5 @@ export const Sidebar: React.FC = () => {
               currentPage === item.id ? 'bg-white/10' : 'hover:bg-white/5'
             }`}
           >
-            {
+            {item.icon}
+            <span>{item.name}
