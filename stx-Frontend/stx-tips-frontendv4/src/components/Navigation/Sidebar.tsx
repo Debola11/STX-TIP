@@ -16,4 +16,4 @@ export const Sidebar: React.FC = () => {
   ];
 
   return (
-    <div className={`fixed top-0 left-0 h-full bg-gradient-to-b from-violet-900 
+    <div className={`fixed top-0 left-0 h-full bg-gradient-to-b from-violet-900 to-purple-800 text-white w-64 p-6 transf
