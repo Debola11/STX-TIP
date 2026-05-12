@@ -54,4 +54,5 @@ export interface RawUserStats {
 export interface TipHistoryEntry {
   amount: number;
   fee: number;
-  t
+  tokenType: string;
+  timest
