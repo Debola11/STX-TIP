@@ -8,4 +8,9 @@ import { toast } from 'react-hot-toast';
 
 interface VerifiedUser {
   _id: string;
-  email: 
+  email: string;
+  wallet: string;
+}
+
+const VerifiedUsers: React.FC = () => {
+  const [users, setUsers] = useState<Verified
