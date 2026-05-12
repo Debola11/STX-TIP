@@ -11,4 +11,6 @@
 //             <p className="text-gray-400">
 //               Secure, instant tipping on the Stacks blockchain
 //             </p>
-//        
+//             <div className="flex space-x-4">
+//               <a href="https://twitter.com/tipstack" className="hover:text-violet-400 transition-colors">
+//                 <ExternalLink className="h-
