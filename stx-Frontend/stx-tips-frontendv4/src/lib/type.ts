@@ -1,4 +1,5 @@
 export interface Stat {
     title: string;
     value: string;
-    change: stri
+    change: string;
+    icon?: React.React
