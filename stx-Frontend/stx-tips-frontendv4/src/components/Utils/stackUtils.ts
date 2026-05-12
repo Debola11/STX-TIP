@@ -85,4 +85,5 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
       microStacks,
       args
     };
-  } catch (error
+  } catch (error: any) {
+    console.error('Error preparing tip argument
