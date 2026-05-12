@@ -25,4 +25,11 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 
 
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) =>
-  
+    {
+        e.preventDefault();
+        if (!verificationCode.trim()) return;
+        setIsLoading(true);
+
+        try
+        {
+            con
