@@ -47,4 +47,7 @@ export const Header = () => {
           const userData = getUserData();
           setIsAuthenticated(true);
           setUserData(userData);
-          setWalletA
+          setWalletAddress(userData?.profile?.stxAddress?.testnet ?? null);
+          setWalletConnected(true);
+          await checkUserExists(userData?.profile?.stxAddress?.testnet);
+        }
