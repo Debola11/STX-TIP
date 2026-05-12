@@ -158,4 +158,7 @@ export const Dashboard = () =>
                   className="flex items-center justify-between p-3 bg-gray-50 rounded-lg"
                 >
                   <div className="flex items-center space-x-3">
-                    {tip.type === '
+                    {tip.type === 'sent' ? (
+                      <ArrowUpCircle className="h-5 w-5 text-green-600" />
+                    ) : (
+                      <Arr
