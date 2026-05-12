@@ -53,4 +53,5 @@ export const useWallet = () => {
   const { authOptions } = useConnect();
   const [walletState, setWalletState] = useState<WalletState>({
     walletConnected: !!authOptions?.userSession?.isUserSignedIn(),
-    walletAddress: authOptions?.userSession?.load
+    walletAddress: authOptions?.userSession?.loadUserData()?.profile?.stxAddress?.testnet || null,
+  }
