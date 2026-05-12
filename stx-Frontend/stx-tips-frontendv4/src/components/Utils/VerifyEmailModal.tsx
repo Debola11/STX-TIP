@@ -101,4 +101,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                     value={verificationCode}
                                     onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
                                         setVerificationCode(e.target.value)}
-                                    className="w-full bg-gray-50 dark:bg-white/5 bord
+                                    className="w-full bg-gray-50 dark:bg-white/5 border-gray-200 dark:border-violet-500/20 
+                           text-gray-900 dark:text-white placeholder:text-gray-400 
+                     
