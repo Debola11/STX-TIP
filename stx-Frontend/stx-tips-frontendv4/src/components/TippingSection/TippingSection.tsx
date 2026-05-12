@@ -70,4 +70,8 @@ export const TippingSection: React.FC = () =>
       }
     } catch (error)
     {
-      setUserInfo({ error: 'Failed to fetch user info' }
+      setUserInfo({ error: 'Failed to fetch user info' });
+      if (!walletConnected)
+      {
+        setValidationError('Please connect your wallet first to continue');
+      } el
