@@ -4,4 +4,5 @@ export const NETWORK_CONFIG = {
 };
 
 // Contract configuration
-export const CONTRACT_CONFIG = 
+export const CONTRACT_CONFIG = {
+    ADD
