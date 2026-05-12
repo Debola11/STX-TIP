@@ -197,4 +197,12 @@ export const Header = () => {
                 ) : (
                   <div className="flex gap-2 items-center justify-center lg:ml-[200px]">
                     <Home className="h-4 w-4 text-purple-600" />
-                    <span className="md:flex hidden">Ho
+                    <span className="md:flex hidden">Home</span>
+                  </div>
+                )}
+              </button>
+            )}
+          </div>
+
+          {/* Right section */}
+          <div className="flex 
