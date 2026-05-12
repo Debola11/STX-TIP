@@ -32,4 +32,6 @@ export const FAQSection = () => {
       <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-500/20 rounded-full blur-3xl animate-pulse delay-1000" />
       
       <motion.div 
-        className="relative max
+        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
+        initial={{ opacity: 0, y: 20 }}
+        whileInVie
