@@ -154,4 +154,7 @@ export const Footer: React.FC = () =>
                 <li key={item}>
                   <a
                     href={`#${item.toLowerCase()}`}
-                    className="group flex items-center text-gray-300/80 hover:text-violet-300 t
+                    className="group flex items-center text-gray-300/80 hover:text-violet-300 transition-colors"
+                  >
+                    {item}
+                    <ArrowUpRight className="h-4 w-4 ml-1 opacity-0 -translate-y-1 translate-x-1 group-hover:opacity-100 group-h
