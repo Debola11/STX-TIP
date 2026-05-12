@@ -20,4 +20,5 @@ export interface Stat {
   }
   
   export interface ChartData {
-    n
+    name: string;
+    tips: num
