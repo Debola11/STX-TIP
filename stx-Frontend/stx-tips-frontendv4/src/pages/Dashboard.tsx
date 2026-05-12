@@ -134,4 +134,8 @@ export const Dashboard = () =>
                   />
                   <Line
                     type="monotone"
-                   
+                    dataKey="received"
+                    stroke="#3b82f6"
+                    strokeWidth={2}
+                  />
+                </LineC
