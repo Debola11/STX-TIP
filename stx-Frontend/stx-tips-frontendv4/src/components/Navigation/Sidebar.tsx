@@ -9,4 +9,5 @@ export const Sidebar: React.FC = () => {
   console.log("isOpen", isOpen);
 
   const navItems: NavItem[] = [
-    { name: 'Dashboard', icon: <Trophy className="h-5 w
+    { name: 'Dashboard', icon: <Trophy className="h-5 w-5" />, id: 'dashboard' },
+    { name: '
