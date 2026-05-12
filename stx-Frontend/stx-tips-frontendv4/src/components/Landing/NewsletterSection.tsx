@@ -27,4 +27,6 @@ export const NewsletterSection = () => {
       <div className="absolute bottom-1/4 left-1/4 w-72 h-72 bg-violet-400/20 rounded-full blur-3xl animate-pulse delay-700" />
 
       <motion.div 
-        className="relative max-w-7xl m
+        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
+        initial={{ opacity: 0, y: 20 }}
+        whi
