@@ -120,4 +120,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                         searching={searching}
                         validationError={validationError}
                         userInfo={userInfo}
-    
+                        disabled={!!initialAddress}
+                    />
+                    <div>
+                        <label className
