@@ -40,4 +40,5 @@ export interface Stat {
 
 
 export interface UserStats {
-  totalTipsSent: number
+  totalTipsSent: number;
+  totalTipsReceived: num
