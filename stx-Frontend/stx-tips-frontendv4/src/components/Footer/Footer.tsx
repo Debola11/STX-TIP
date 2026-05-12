@@ -81,4 +81,12 @@
 //           </div>
 //         </div>
 //         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-//           <p
+//           <p>© {new Date().getFullYear()} TipStack. All rights reserved.</p>
+//         </div>
+//       </div>
+//     </footer>
+//   );
+// };
+
+import React from 'react';
+import { Github, Twitter, Mail, Arr
