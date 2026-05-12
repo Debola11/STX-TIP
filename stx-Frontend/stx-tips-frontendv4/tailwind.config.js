@@ -31,4 +31,4 @@ export default {
   			},
   			muted: {
   				DEFAULT: 'hsl(var(--muted))',
- 
+  				foreground: 'hsl(var(--mut
