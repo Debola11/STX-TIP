@@ -5,4 +5,5 @@ import { StatsSection } from '@/components/Landing/StatsSection';
 import { HowItWorksSection } from '@/components/Landing/HowItWorksSection';
 import { FAQSection } from '@/components/Landing/FAQSection';
 import { NewsletterSection } from '@/components/Landing/NewsletterSection';
-import { Footer } from '@/components
+import { Footer } from '@/components/Footer/Footer';
+imp
