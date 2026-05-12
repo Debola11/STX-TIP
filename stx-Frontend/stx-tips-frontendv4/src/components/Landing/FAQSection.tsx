@@ -64,4 +64,4 @@ export const FAQSection = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-violet-500/10 to-purple-500/10 rounded-2xl transform transition-transform group-hover:scale-105 opacity-0 group-hover:opacity-100" />
               <div className="relative bg-white/10 rounded-xl border border-white/10 overflow-hidden backdrop-blur-sm transition-all duration-300 hover:bg-white/15">
                 <button
-                  className="w-full px-6
+                  className="w-full px-6 py-4 text-left font-medium flex items-center justify-between text-white hover:text-violet-200 
