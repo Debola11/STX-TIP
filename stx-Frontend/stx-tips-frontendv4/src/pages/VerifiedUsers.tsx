@@ -31,4 +31,7 @@ const VerifiedUsers: React.FC = () => {
           toast.error('Failed to fetch verified users');
         }
       } catch (error) {
-        console.error('F
+        console.error('Failed to fetch verified users:', error);
+        toast.error('Error loading verified users');
+      } finally {
+  
