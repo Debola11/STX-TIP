@@ -181,4 +181,7 @@ export const Header = () => {
             </div>
 
             {isAuthenticated && (
-           
+              <button
+                onClick={toggleDashboard}
+                className={`flex items-center space-x-2 px-2 py-1 rounded-lg transition-all duration-200  ${
+            
