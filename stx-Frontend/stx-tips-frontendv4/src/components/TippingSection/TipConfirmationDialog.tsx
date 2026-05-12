@@ -44,3 +44,7 @@
 //               `You're about to send ${amount} STX to an unverified address (${recipientInput}). This will initiate a blockchain transaction. Please verify the address is correct before proceeding.`
 //             )}
 //           </AlertDialogDescription>
+//         </AlertDialogHeader>
+//         <AlertDialogFooter>
+//           <AlertDialogCancel>Cancel</AlertDialogCancel>
+//           <AlertDialogAc
