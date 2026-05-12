@@ -183,4 +183,12 @@ export const TippingSection: React.FC = () =>
                   <span>Send Tip</span>
                   <ArrowRight className="h-5 w-5" />
                 </>
-          
+              )}
+            </span>
+          </motion.button>
+        </motion.div>
+
+        <BenefitsList />
+      </div>
+
+      <Ti
