@@ -15,4 +15,5 @@ export default {
   			card: {
   				DEFAULT: 'hsl(va	card: {
   				DEFAULT: 'hsl(var(--card))',
-  				foreground: 
+  				foreground: 'hsl(var(--card-foreground))'
+ 
