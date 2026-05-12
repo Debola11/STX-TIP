@@ -102,4 +102,5 @@ const VerifiedUsers: React.FC = () => {
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-4">
-                      <div className="fle
+                      <div className="flex items-center justify-between bg-white/5 rounded-lg p-2">
+                        <code className="text-sm text-v
