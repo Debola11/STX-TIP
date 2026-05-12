@@ -33,4 +33,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
                 errorMessage = errorData.message || errorMessage;
             } catch (e)
             {
-                // If error response is not JSON, 
+                // If error response is not JSON, use status text
+                errorMessage = respons
