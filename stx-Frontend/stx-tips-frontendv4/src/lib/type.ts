@@ -60,4 +60,5 @@ export interface TipHistoryEntry {
 
 export interface RawTipHistoryEntry {
   amount: { value: bigint };
-  fee: { value: bigin
+  fee: { value: bigint };
+  'token-type': { val
