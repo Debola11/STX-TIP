@@ -52,4 +52,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
             // Continue with success even if backend notification fails
             onSuccess();
           }
-     
+        },
+        onCancel: () => {
+          conso
