@@ -3,4 +3,4 @@ import { HeroSection } from '@/components/Landing/HeroSection';
 import { StatsSection } from '@/components/Landing/StatsSection';
 // import { TippingSection } from '@/components/Landing/TippingSection';
 import { HowItWorksSection } from '@/components/Landing/HowItWorksSection';
-import { FAQSection } from '@/comp
+import { FAQSection } from '@/components/Landing/FAQSe
