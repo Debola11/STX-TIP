@@ -7,3 +7,5 @@ import { History } from '@/pages/History';
 import { Rewards } from '@/pages/Rewards';
 import { Settings } from '@/pages/Settings';
 import { HomePage } from '@/pages/HomePage';
+
+export const AppLayout: React
