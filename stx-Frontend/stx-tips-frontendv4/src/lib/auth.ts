@@ -21,4 +21,4 @@ export function getUserData() {
   return userSession.loadUserData();
 }
 
-export functi
+export function signUserOut
