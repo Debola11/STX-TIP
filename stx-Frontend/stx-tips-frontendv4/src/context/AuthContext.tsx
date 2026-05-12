@@ -128,4 +128,7 @@ interface AuthContextProviderProps {
 }
 
 export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
-  const [state, dis
+  const [state, dispatch] = useReducer(authReducer, initialState);
+
+  useEffect(() => {
+    if
