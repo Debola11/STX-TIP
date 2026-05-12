@@ -12,4 +12,5 @@ import { CONTRACT_CONFIG } from './constants';
 
 interface TipOptions {
   recipient: string;
-  amoun
+  amount: number;
+  tokenType: s
