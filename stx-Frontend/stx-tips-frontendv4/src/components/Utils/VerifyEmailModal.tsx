@@ -121,4 +121,5 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                          shadow-lg shadow-violet-500/25"
                             >
                                 {isLoading ? (
-          
+                                    <div className="flex items-center justify-center space-x-2">
+                                        <div className="w
