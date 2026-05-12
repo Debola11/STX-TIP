@@ -26,4 +26,7 @@ export const Settings: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center justify-between">
               <div>
-           
+                <p className="font-medium">Tip Notifications</p>
+                <p className="text-sm text-gray-500">Get notified when you receive tips</p>
+              </div>
+        
