@@ -16,4 +16,6 @@ export default {
   				DEFAULT: 'hsl(va	card: {
   				DEFAULT: 'hsl(var(--card))',
   				foreground: 'hsl(var(--card-foreground))'
- 
+  			},
+  			popover: {
+  				DE
