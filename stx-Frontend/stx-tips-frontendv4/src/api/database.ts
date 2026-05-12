@@ -24,4 +24,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             body: JSON.stringify(userData),
         });
 
-        if (!r
+        if (!response.ok)
+        {
+            let errorMessage = '
