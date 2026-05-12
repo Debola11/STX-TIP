@@ -14,4 +14,4 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
   const { doContractCall } = useConnect();
   const [isProcessing, setIsProcessing] = useState(false);
 
-  const process
+  const processTip = async (recipient: string, amount: string)
