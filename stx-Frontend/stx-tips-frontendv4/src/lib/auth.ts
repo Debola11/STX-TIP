@@ -5,4 +5,5 @@ export const userSession = new UserSession({ appConfig });
 
 export function authenticate() {
   showConnect({
-    appDetai
+    appDetails: {
+      na
