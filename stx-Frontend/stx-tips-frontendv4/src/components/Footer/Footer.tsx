@@ -179,4 +179,10 @@ export const Footer: React.FC = () =>
                   </a>
                 </li>
               ))}
-            
+            </ul>
+          </div>
+
+          {/* Legal Section */}
+          <div className="space-y-6">
+            <h3 className="text-lg font-semibold text-white/90">Legal</h3>
+            <ul classNam
