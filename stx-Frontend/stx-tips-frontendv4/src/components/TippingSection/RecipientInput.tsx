@@ -40,4 +40,6 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
         />
         <AnimatePresence>
           {searching && (
-           
+            <motion.div 
+              initial={{ opacity: 0 }}
+              a
