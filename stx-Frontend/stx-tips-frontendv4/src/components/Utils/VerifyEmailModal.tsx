@@ -144,3 +144,8 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                     onClick={() => {/* Add resend code logic */ }}
                                 >
                                     Click to resend
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+        
