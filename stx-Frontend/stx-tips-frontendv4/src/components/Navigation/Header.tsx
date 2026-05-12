@@ -78,4 +78,13 @@ export const Header = () => {
           const data = await response.json();
           if (!data.exists)
           {
-            setIsEmailModalOpen(true
+            setIsEmailModalOpen(true);
+          }
+        } catch (error)
+        {
+          console.error('Failed to check user existence:', error);
+        }
+      };
+
+  const handleAuth = () => {
+    if (i
