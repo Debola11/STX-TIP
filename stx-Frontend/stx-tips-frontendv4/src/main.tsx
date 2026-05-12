@@ -5,4 +5,6 @@ import { BrowserRouter } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
 import { AuthContextProvider } from './context/AuthContext'
 import App from './App';
-import './in
+import './index.css';
+
+// Co
