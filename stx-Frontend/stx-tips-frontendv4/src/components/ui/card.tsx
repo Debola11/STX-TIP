@@ -53,4 +53,6 @@ const CardDescription = React.forwardRef<
 ))
 CardDescription.displayName = "CardDescription"
 
-const CardContent = React.forwar
+const CardContent = React.forwardRef<
+  HTMLDivElement,
+  React.HTMLA
