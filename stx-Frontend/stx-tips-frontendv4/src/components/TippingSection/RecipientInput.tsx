@@ -80,4 +80,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
                 <UserCircle className="h-6 w-6" />
               </div>
               <div className="flex-1">
-                <p className="tex
+                <p className="text-sm font-medium text-gray-900">Verified User</p>
+                <p
