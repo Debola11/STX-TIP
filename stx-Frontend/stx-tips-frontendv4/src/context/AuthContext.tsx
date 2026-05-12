@@ -115,4 +115,5 @@ const authReducer = (state: AuthState, action: AuthAction): AuthState => {
     case "ACTIVATE_USER":
       return {
         ...state,
-        activationToken: ac
+        activationToken: action.payload.activationToken,
+        activation_Code: action.payload.activ
