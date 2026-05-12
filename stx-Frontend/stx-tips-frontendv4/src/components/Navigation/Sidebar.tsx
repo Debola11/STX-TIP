@@ -12,4 +12,4 @@ export const Sidebar: React.FC = () => {
     { name: 'Dashboard', icon: <Trophy className="h-5 w-5" />, id: 'dashboard' },
     { name: 'History', icon: <History className="h-5 w-5" />, id: 'history' },
     { name: 'Rewards', icon: <Gift className="h-5 w-5" />, id: 'rewards' },
-    { name: 'Setti
+    { name: 'Settings', icon: <Settings className="h-5 w-5
