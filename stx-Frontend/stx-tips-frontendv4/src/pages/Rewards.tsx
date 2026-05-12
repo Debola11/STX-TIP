@@ -51,4 +51,4 @@ export const Rewards: React.FC = () => {
       </div>
 
       <div className="space-y-4">
-        <h
+        <h2 className="text-lg font-bold">Available Rewar
