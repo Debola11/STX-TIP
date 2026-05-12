@@ -12,4 +12,4 @@ export const CONTRACT_CONFIG = {
 // App configuration
 export const APP_CONFIG = {
     NAME: 'TipStack',
-    ICON: '/l
+    ICON: '/logo.png',
