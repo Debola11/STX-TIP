@@ -25,4 +25,9 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   const [userData, setUserData] = useState<UserData | null>(null);
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
   const [isEmailModalOpen, setIsEmailModalOpen] = useState<boolean>(false);
-  const [isVerifyModalOpen, setIsVerifyModalOpen] = useState<boolean>(fa
+  const [isVerifyModalOpen, setIsVerifyModalOpen] = useState<boolean>(false);
+  const [isQuickSendOpen, setIsQuickSendOpen] = useState<boolean>(false);
+  
+  const navigate = useNavigate();
+  const { walletAddress, setWalletAddress, setWalletConnected } = useAppContext();
+  cons
