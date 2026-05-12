@@ -80,3 +80,7 @@ export const NewsletterSection = () => {
                     <Send className="w-3 h-3 ml-1.5" />
                   </>
                 )}
+              </button>
+            </div>
+          </div>
+        </motion.fo
