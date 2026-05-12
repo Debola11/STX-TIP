@@ -6,4 +6,6 @@ import {
   stringAsciiCV, 
   uintCV 
 } from '@stacks/transactions';
-import { CONTRACT_CONFIG } from './const
+import { CONTRACT_CONFIG } from './constants';
+
+// const NETWORK 
