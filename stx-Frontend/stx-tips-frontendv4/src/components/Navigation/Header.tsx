@@ -35,3 +35,8 @@ export const Header = () => {
       const checkAuth = async () =>
       {
         if (userSession.isSignInPending())
+        {
+          const userData = await userSession.handlePendingSignIn();
+          setIsAuthenticated(true);
+          setUserData(userData);
+          setWalletAddress(
