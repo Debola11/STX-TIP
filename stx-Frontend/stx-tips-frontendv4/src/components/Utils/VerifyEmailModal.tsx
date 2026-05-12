@@ -98,4 +98,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             <div className="relative">
                                 <Input
                                     placeholder="Enter verification code"
-                         
+                                    value={verificationCode}
+                                    onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                  
