@@ -125,4 +125,8 @@ export const Dashboard = () =>
                   <CartesianGrid strokeDasharray="3 3" />
                   <XAxis dataKey="name" />
                   <YAxis />
-                  <Toolt
+                  <Tooltip />
+                  <Line
+                    type="monotone"
+                    dataKey="sent"
+                    stroke="#8b5cf6"
