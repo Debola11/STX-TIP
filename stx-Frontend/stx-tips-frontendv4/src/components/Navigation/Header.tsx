@@ -186,4 +186,9 @@ export const Header = () => {
                 className={`flex items-center space-x-2 px-2 py-1 rounded-lg transition-all duration-200  ${
                   currentPage === (currentPage === 'home' ? 'dashboard' : 'home')
                     ? 'bg-gradient-to-r from-violet-600/10 to-purple-600/10 text-purple-700'
-           
+                    : 'hover:bg-gray-100'
+                }`}
+              >
+                {currentPage === 'home' ? (
+                  <>
+                    <Layout className="h-6
