@@ -146,4 +146,9 @@ export const TippingSection: React.FC = () =>
           />
 
           <div className="space-y-2">
-            <label className="block text-sm f
+            <label className="block text-sm font-medium text-gray-700">
+              Amount (STX)
+            </label>
+            <input
+              type="number"
+   
