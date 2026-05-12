@@ -148,4 +148,8 @@ export const Dashboard = () =>
         <Card>
           <CardHeader>
             <CardTitle>Recent Activity</CardTitle>
-            <CardDescription>Your latest transact
+            <CardDescription>Your latest transactions</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className="space-y-4">
+              {recentTips.
