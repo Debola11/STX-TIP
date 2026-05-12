@@ -30,4 +30,4 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           activeDot={{ r: 6, fill: '#8b5cf6' }}
         />
       </LineChart>
-    <
+    </ResponsiveContainer>
