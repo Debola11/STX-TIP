@@ -1,1 +1,1 @@
-import { STACKS_TESTNET, STACKS_MAINNET } from '
+import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/netw
