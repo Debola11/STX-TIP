@@ -9,4 +9,7 @@ export const NewsletterSection = () => {
 
   const handleSubscribe = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (!email) return;
     
+    setIsSubmitting(true);
+    await new Promise(resolv
