@@ -86,4 +86,7 @@ export const useWallet = () => {
 
   return {
     ...walletState,
-    
+    connectWallet,
+    disconnectWallet,
+  };
+};
