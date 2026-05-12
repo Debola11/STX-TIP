@@ -110,4 +110,6 @@ export const authContext = createContext<AuthContextType>({
 });
 
 // Reducer function
-const authReducer = (state: AuthStat
+const authReducer = (state: AuthState, action: AuthAction): AuthState => {
+  switch (action.type) {
+    case "A
