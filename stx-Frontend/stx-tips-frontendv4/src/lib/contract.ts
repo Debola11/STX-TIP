@@ -4,4 +4,5 @@ import {
   AnchorMode, 
   PostConditionMode, 
   stringAsciiCV, 
-  uint
+  uintCV 
+} from '@stacks/trans
