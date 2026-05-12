@@ -39,4 +39,7 @@ export const Header = () => {
           const userData = await userSession.handlePendingSignIn();
           setIsAuthenticated(true);
           setUserData(userData);
-          setWalletAddress(
+          setWalletAddress(userData?.profile?.stxAddress?.testnet ?? null);
+          setWalletConnected(true);
+          await checkUserExists(userData?.profile?.stxAddress?.testnet);
+        } else i
