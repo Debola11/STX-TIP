@@ -17,4 +17,5 @@ export function authenticate() {
   });
 }
 
-export function getUserData()
+export function getUserData() {
+  return us
