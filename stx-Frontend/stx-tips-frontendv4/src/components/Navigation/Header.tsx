@@ -134,4 +134,10 @@ export const Header = () => {
         {
           dispatch({
             type: "ACTIVATE_USER",
- 
+            payload: {
+              activationToken: result.verificationToken,
+              activation_Code: result.activationCode
+            }
+          })
+  
+          co
