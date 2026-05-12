@@ -45,4 +45,6 @@ export const HowItWorksSection = () => {
   ];
 
   return (
-    <div className="relative overflow-
+    <div className="relative overflow-hidden bg-white py-16">
+      {/* Background decorative elements */}
+     
