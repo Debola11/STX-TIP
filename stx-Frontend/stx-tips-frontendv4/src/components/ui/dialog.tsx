@@ -63,4 +63,9 @@ const DialogHeader = ({
     {...props}
   />
 )
-DialogHeader.display
+DialogHeader.displayName = "DialogHeader"
+
+const DialogFooter = ({
+  className,
+  ...props
+}: React
