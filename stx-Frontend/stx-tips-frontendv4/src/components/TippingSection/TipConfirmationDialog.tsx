@@ -34,4 +34,8 @@
 // }) => {
 //   return (
 //     <AlertDialog open={open} onOpenChange={onOpenChange}>
-//       <AlertDialo
+//       <AlertDialogContent>
+//         <AlertDialogHeader>
+//           <AlertDialogTitle>Confirm Tip</AlertDialogTitle>
+//           <AlertDialogDescription>
+//      
