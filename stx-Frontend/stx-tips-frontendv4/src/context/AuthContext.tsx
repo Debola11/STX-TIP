@@ -17,4 +17,8 @@
 // }
 
 // interface Action {
-//   t
+//   type: string;
+//   payload?: any;
+// }
+
+// const authReducer = (state: State
