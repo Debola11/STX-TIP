@@ -107,4 +107,6 @@ const VerifiedUsers: React.FC = () => {
                           {user.wallet.slice(0, 6)}...{user.wallet.slice(-4)}
                         </code>
                         <button
-                          onClick={() => copyToClipboard(user.wal
+                          onClick={() => copyToClipboard(user.wallet)}
+                          className="p-1 hover:bg-white/10 rounded-md transition-colors"
+                   
