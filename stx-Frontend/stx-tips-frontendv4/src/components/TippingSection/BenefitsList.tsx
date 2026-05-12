@@ -1,2 +1,2 @@
 import React from 'react';
-import { Gift, CheckCir
+import { Gift, CheckCircle } from 'lucide-react'
