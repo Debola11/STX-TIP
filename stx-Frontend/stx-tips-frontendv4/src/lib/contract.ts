@@ -10,4 +10,5 @@ import { CONTRACT_CONFIG } from './constants';
 
 // const NETWORK = new StacksTestnet();
 
-i
+interface TipOptions {
+  r
