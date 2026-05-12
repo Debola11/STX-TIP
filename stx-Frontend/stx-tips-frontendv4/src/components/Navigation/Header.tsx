@@ -64,4 +64,12 @@ export const Header = () => {
         {
           const response = await fetch(`https://stx-tip.onrender.com/api/v1/users/exists?wallet=${walletAddress.toLowerCase()}`, {
             method: 'GET',
-      
+            headers: {
+              'Content-Type': 'application/json',
+            },
+          });
+    
+    
+          if (!response.ok)
+          {
+            throw new Error(
