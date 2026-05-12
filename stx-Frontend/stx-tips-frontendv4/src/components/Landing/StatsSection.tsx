@@ -114,4 +114,5 @@ export const StatsSection = () =>
                 whileHover="hover"
                 className="relative group"
               >
-                <div className="absolute inset-0 bg-gradient-to-r from-gray-50 to-white rounded-xl transform rotate-1 group-hov
+                <div className="absolute inset-0 bg-gradient-to-r from-gray-50 to-white rounded-xl transform rotate-1 group-hover:rotate-2 transition-transform duration-300" />
+                <div className="rela
