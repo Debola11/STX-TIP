@@ -32,4 +32,5 @@ const Alert = React.forwardRef<
 ))
 Alert.displayName = "Alert"
 
-const AlertTitle = 
+const AlertTitle = React.forwardRef<
+  HTMLParagrap
