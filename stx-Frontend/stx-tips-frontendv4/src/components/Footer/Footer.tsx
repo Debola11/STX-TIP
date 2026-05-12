@@ -151,4 +151,7 @@ export const Footer: React.FC = () =>
             <h3 className="text-lg font-semibold text-white/90">Product</h3>
             <ul className="space-y-3">
               {['Features', 'Send Tips', 'FAQ', 'Pricing'].map((item) => (
-       
+                <li key={item}>
+                  <a
+                    href={`#${item.toLowerCase()}`}
+                    className="group flex items-center text-gray-300/80 hover:text-violet-300 t
