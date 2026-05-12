@@ -19,4 +19,5 @@ export async function getUserStats(userAddress: string)
             contractAddress: CONTRACT_ADDRESS,
             contractName: CONTRACT_NAME,
             functionName,
-            functionArgs: [standardPrincipa
+            functionArgs: [standardPrincipalCV(userAddress)],
+            senderAddress: u
