@@ -1,3 +1,5 @@
 import { NETWORK_CONFIG } from "@/lib/constants";
 
-export const fetchUserBalance = async (userAddress: string) =
+export const fetchUserBalance = async (userAddress: string) => {
+  try {
+  
