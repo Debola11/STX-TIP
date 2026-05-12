@@ -56,4 +56,7 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         onCancel: () => {
           console.log('Transaction cancelled by user');
           setIsProcessing(false);
-          onError('
+          onError('Transaction cancelled');
+        }
+      });
+  
