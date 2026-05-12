@@ -1,3 +1,3 @@
 import * as React from "react"
 
-import { cn } fr
+import { cn } from "@/lib/utils"
