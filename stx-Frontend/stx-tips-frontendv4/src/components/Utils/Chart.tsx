@@ -17,4 +17,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           contentStyle={{ 
             background: 'white', 
             border: 'none', 
-            borde
+            borderRadius: '8px', 
+    
