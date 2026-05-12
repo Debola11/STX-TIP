@@ -21,4 +21,5 @@
 //             microStacks
 //         };
 //     } catch (error)
-//
+//     {
+//         console.error('Error preparing tip arg
