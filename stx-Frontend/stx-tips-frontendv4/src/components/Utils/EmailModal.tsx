@@ -40,4 +40,5 @@ const EmailModal: FC<EmailModalProps> = ({
               Welcome to the Community
             </h2>
             <p className="text-gray-300/90 text-sm">
-        
+              Please enter your email to complete your profile and start giving
+    
