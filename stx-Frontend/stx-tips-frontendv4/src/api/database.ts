@@ -84,4 +84,8 @@ export async function submitUserWalletDataWithRetry(
                 // Wait before retrying, with exponential backoff
                 await new Promise(resolve => setTimeout(resolve, delayMs * Math.pow(2, attempt)));
                 continue;
-  
+            }
+        }
+    }
+
+    throw lastError || ne
