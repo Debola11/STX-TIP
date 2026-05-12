@@ -112,4 +112,8 @@ export const Dashboard = () =>
 
       {/* Main Content */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Activity Chart 
+        {/* Activity Chart */}
+        <Card className="lg:col-span-2">
+          <CardHeader>
+            <CardTitle>Tip Activity</CardTitle>
+            <CardDesc
