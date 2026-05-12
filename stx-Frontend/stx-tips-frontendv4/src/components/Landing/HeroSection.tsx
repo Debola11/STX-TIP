@@ -150,4 +150,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
           className="absolute w-full h-full opacity-30"
           style={{
             backgroundImage: 'radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2) 0%, transparent 50%)',
-           
+            animation: 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite'
+          }}
+        />
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_b
