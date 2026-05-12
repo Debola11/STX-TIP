@@ -28,4 +28,10 @@
 //     case "ACTIVATE_USER":
 //       return {
 //         activationToken: action.payload.activationToken,
-//         activation_Code: action.payload.activatio
+//         activation_Code: action.payload.activation_Code,
+//         user: null,
+//         token: null
+//       }
+
+   
+    
