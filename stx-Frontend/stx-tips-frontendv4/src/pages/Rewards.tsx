@@ -6,4 +6,7 @@ interface Reward {
   title: string;
   description: string;
   points: number;
-  unlocked: 
+  unlocked: boolean;
+}
+
+export const Rewards: React.FC = ()
