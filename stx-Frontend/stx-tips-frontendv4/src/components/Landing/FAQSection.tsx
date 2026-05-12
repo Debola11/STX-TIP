@@ -52,4 +52,7 @@ export const FAQSection = () => {
         </div>
 
         <div className="grid lg:grid-cols-2 gap-6 max-w-5xl mx-auto">
- 
+          {faqs.map((faq, index) => (
+            <motion.div
+              key={index}
+        
