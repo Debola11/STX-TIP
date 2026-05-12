@@ -66,4 +66,8 @@ export const TippingSection: React.FC = () =>
         });
       } else
       {
-        setValidationError
+        setValidationError('Invalid Stacks address format');
+      }
+    } catch (error)
+    {
+      setUserInfo({ error: 'Failed to fetch user info' }
