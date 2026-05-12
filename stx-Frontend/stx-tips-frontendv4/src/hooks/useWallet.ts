@@ -31,4 +31,6 @@
 //     }, []);
 
 //     return {
-//         walletConnec
+//         walletConnected,
+//         walletAddress,
+//         connectWall
