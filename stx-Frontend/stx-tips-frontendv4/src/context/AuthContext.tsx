@@ -99,4 +99,5 @@ const initialState: AuthState = {
   user: localStorage.getItem("user") 
     ? JSON.parse(localStorage.getItem("user") as string) 
     : null,
-  activationToken: localStorage.getItem("
+  activationToken: localStorage.getItem("activationToken") || null,
+  activation_Code: localStorage.getItem("activat
