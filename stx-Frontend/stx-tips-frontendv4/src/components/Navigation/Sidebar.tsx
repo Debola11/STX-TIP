@@ -37,3 +37,6 @@ export const Sidebar: React.FC = () => {
             <span>{item.name}</span>
           </button>
         ))}
+      </nav>
+
+      <div className="abso
