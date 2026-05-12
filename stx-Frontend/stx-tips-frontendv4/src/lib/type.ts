@@ -62,4 +62,7 @@ export interface RawTipHistoryEntry {
   amount: { value: bigint };
   fee: { value: bigint };
   'token-type': { value: string };
-  timestamp:
+  timestamp: { value: bigint };
+}
+
+exp
