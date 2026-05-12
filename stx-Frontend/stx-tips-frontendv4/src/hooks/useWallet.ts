@@ -52,4 +52,5 @@ export interface WalletState {
 export const useWallet = () => {
   const { authOptions } = useConnect();
   const [walletState, setWalletState] = useState<WalletState>({
-    walletConnected: !!authOptions?.userSession?.isUserSignedIn
+    walletConnected: !!authOptions?.userSession?.isUserSignedIn(),
+    walletAddress: authOptions?.userSession?.load
