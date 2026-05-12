@@ -174,4 +174,5 @@ export const Header = () => {
               </button>
             )}
             
-            <div class
+            <div className="flex items-center space-x-2">
+              <div className="text-xl md:text-2xl font-bold bg-gradient-to-r from-violet-600 to-purple-600 bg-clip-text text-transparent t
