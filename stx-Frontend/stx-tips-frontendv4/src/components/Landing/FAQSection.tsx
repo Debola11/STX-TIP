@@ -28,4 +28,5 @@ export const FAQSection = () => {
     <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950 py-16 rounded-lg">
       
       {/* Glowing orb effects */}
-      <div className="absolute top-0 left-1/4 w-96 h-96 bg-violet-500/20 rounded-full blur-3xl animate-pulse
+      <div className="absolute top-0 left-1/4 w-96 h-96 bg-violet-500/20 rounded-full blur-3xl animate-pulse" />
+      <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-500/20 rounded-full 
