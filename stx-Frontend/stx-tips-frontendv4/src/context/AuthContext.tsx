@@ -25,4 +25,6 @@
 // {
 //   switch (action.type)
 //   {
-//     ca
+//     case "ACTIVATE_USER":
+//       return {
+//         activationToken: action.pa
