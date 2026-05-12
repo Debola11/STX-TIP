@@ -20,4 +20,6 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
         </p>
       </div>
     </div>
-    <span className="font-medium text-violet-600">+{transaction.amount} S
+    <span className="font-medium text-violet-600">+{transaction.amount} STX</span>
+  </div>
+)
