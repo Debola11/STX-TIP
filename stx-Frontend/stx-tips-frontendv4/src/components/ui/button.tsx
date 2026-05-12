@@ -1,2 +1,3 @@
 import * as React from "react"
-import {
+import { Slot } from "@radix-ui/react-slot"
+imp
