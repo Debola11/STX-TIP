@@ -41,4 +41,5 @@ export default {
   				DEFAULT: 'hsl(var(--destructive))',
   				foreground: 'hsl(var(--destructive-foreground))'
   			},
-  			border: 'hsl(v
+  			border: 'hsl(var(--border))',
+  			input: 'hs
