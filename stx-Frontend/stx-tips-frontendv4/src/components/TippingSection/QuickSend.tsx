@@ -164,4 +164,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
             </CardContent>
 
             <TipConfirmationDialog
-       
+                open={showConfirmDialog}
+                onOpenChange={setShowConfirmDialog}
+                amount={amount}
+                rec
