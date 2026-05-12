@@ -34,4 +34,4 @@ export const sendTip = async ({
 
     const options = {
     //   network: NETWORK,
-      an
+      anchorMode: AnchorMode.Any,
