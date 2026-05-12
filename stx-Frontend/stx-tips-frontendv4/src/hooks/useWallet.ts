@@ -77,4 +77,6 @@ export const useWallet = () => {
   }, [authOptions?.userSession]);
 
   const disconnectWallet = useCallback(() => {
-    authOptions?.userSession?.signUserOut(
+    authOptions?.userSession?.signUserOut();
+    setWalletState({
+      walletConnected: false,
