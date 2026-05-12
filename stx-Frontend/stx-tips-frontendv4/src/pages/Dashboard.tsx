@@ -152,4 +152,7 @@ export const Dashboard = () =>
           </CardHeader>
           <CardContent>
             <div className="space-y-4">
-              {recentTips.
+              {recentTips.map((tip) => (
+                <div
+                  key={tip.id}
+                  className="flex items-center justify-between p-3 bg-
