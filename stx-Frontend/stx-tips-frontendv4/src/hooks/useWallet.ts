@@ -24,4 +24,6 @@
 //         });
 //     }, []);
 
-//     const disconnectWalle
+//     const disconnectWallet = useCallback(() =>
+//     {
+//         setWalletAd
