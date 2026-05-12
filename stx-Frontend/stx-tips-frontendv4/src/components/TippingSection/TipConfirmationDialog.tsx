@@ -103,4 +103,9 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
 }) =>
 {
   return (
-    <div className='absolute -top-64 left-0 
+    <div className='absolute -top-64 left-0  '>
+    <AlertDialog open={open} onOpenChange={onOpenChange} >
+      <AnimatePresence>
+        {open && (
+          <AlertDialogContent asChild>
+    
