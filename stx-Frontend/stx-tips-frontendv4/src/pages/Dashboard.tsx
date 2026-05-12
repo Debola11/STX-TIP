@@ -207,4 +207,6 @@ export const Dashboard = () =>
                 <div className="flex items-center space-x-3">
                   <TrendingUp className="h-5 w-5 text-green-600" />
                   <div>
-                    <p className=
+                    <p className="text-sm font-medium">Consistent Tipper</p>
+                    <p className="text-xs text-gray-500">Tipped for 5 consecutive weeks</p>
+ 
