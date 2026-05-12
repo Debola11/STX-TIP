@@ -100,4 +100,8 @@ const initialState: AuthState = {
     ? JSON.parse(localStorage.getItem("user") as string) 
     : null,
   activationToken: localStorage.getItem("activationToken") || null,
-  activation_Code: localStorage.getItem("activat
+  activation_Code: localStorage.getItem("activation_Code") || null
+};
+
+// Create context with type assertion
+export const a
