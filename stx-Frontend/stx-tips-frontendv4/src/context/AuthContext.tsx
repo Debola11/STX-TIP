@@ -131,4 +131,5 @@ export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
   const [state, dispatch] = useReducer(authReducer, initialState);
 
   useEffect(() => {
-    if
+    if (state.user) {
+      localStorage.setItem("user", JSON.stringify(state.use
