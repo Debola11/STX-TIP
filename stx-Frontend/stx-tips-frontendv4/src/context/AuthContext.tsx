@@ -10,4 +10,6 @@
 // export const authContext = createContext(initialState);
 
 // interface State {
-/
+//   user: any;
+//   token: string | null;
+//   activationToken: string | nu
