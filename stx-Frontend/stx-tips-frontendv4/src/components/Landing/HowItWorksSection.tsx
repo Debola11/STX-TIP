@@ -23,4 +23,8 @@ const itemVariants = {
 };
 
 export const HowItWorksSection = () => {
-  c
+  const steps = [
+    {
+      icon: Wallet,
+      title: "Connect Wallet",
+  
