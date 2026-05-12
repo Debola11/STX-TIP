@@ -1,1 +1,2 @@
-import React from 'r
+import React from 'react';
+import { Hero
