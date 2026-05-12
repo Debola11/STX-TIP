@@ -1,1 +1,2 @@
-import { Stat } from '@/li
+import { Stat } from '@/lib/type';
+impo
