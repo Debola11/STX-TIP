@@ -1,1 +1,1 @@
-/// <reference types="vite/cc
+/// <reference types="vite/ccl
