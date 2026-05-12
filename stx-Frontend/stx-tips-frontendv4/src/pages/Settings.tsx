@@ -32,4 +32,8 @@ export const Settings: React.FC = () => {
               <label className="relative inline-flex items-center cursor-pointer">
                 <input
                   type="checkbox"
-                  checked={notifications.ti
+                  checked={notifications.tips}
+                  onChange={(e) => setNotifications({ ...notifications, tips: e.target.checked })}
+                  className="sr-only peer"
+                />
+          
