@@ -87,4 +87,7 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
             </div>
           </motion.div>
         )}
-      </
+      </AnimatePresence>
+    </div>
+  );
+};
