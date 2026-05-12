@@ -11,4 +11,5 @@ export interface Stat {
     id: string;
   }
   
-  export interface T
+  export interface Transaction {
+    id: strin
