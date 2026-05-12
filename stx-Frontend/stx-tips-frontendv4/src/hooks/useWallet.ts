@@ -50,4 +50,5 @@ export interface WalletState {
 }
 
 export const useWallet = () => {
-  const 
+  const { authOptions } = useConnect();
+  const [walletState,
