@@ -1,2 +1,2 @@
 import path from "path"
-import reac
+import react fro
