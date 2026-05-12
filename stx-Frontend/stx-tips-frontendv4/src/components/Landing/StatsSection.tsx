@@ -87,4 +87,6 @@ export const StatsSection = () =>
         <div className="text-center mb-10">
           <motion.h2
             className="text-2xl font-bold bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent mb-2"
-            
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+       
