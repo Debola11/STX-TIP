@@ -35,4 +35,6 @@ export const toMicroStacks = (amount: string): number => {
     const value = parseFloat(amount);
     if (isNaN(value)) throw new Error('Invalid amount');
     if (value < 0) throw new Error('Amount must be positive');
-    return Math.floor(value * 1
+    return Math.floor(value * 1000000);
+  } catch (error) {
+    console.error('Error co
