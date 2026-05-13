@@ -1,2 +1,2 @@
 import path from "path"
-import react from "@vitejs/plugin-re
+import react from "@vitejs/plugin-react"
