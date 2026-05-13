@@ -21,4 +21,5 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
     }
 };
 
-export const notifyTipSen
+export const notifyTipSent = async (
+    recipientA
