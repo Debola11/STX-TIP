@@ -30,4 +30,6 @@ export const notifyTipSent = async (
     try
     {
         const response = await fetch(`${API_BASE_URL}/users/send-tip`, {
-            method: 'POST'
+            method: 'POST',
+            headers: {
+ 
