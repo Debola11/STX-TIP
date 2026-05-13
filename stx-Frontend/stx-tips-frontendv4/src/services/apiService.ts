@@ -28,4 +28,5 @@ export const notifyTipSent = async (
 ) =>
 {
     try
- 
+    {
+        const respons
