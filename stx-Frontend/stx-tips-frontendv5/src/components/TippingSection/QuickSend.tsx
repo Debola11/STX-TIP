@@ -114,4 +114,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
             </CardHeader>
             <CardContent>
                 <div className="space-y-4">
-                    <RecipientIn
+                    <RecipientInput
+                        recipientInput={recipientInput}
+                        setRecipientInput={setRecipientInput}
+               
