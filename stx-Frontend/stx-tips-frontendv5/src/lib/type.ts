@@ -41,4 +41,5 @@ export interface Stat {
 
 export interface UserStats {
   totalTipsSent: number;
-  totalTipsReceived: num
+  totalTipsReceived: number;
+  rewardPoints: numbe
