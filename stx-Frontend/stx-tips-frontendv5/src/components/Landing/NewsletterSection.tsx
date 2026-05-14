@@ -83,4 +83,10 @@ export const NewsletterSection = () => {
               </button>
             </div>
           </div>
-        </motion.fo
+        </motion.form>
+      </motion.div>
+    </div>
+  );
+};
+
+export default NewsletterSection;
