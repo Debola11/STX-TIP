@@ -164,4 +164,6 @@ export const Dashboard = () =>
                       <ArrowDownCircle className="h-5 w-5 text-blue-600" />
                     )}
                     <div>
-                      <p className="te
+                      <p className="text-sm font-medium">
+                        {tip.type === 'sent' ? 'Sent to' : 'Received from'} {tip.address}
+                      </p>
