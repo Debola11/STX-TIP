@@ -111,4 +111,6 @@
   }
 }
 
-@la
+@layer base {
+  * {
+    @apply border-
