@@ -69,4 +69,6 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
         const result = await callReadOnlyFunction({
             network: NETWORK,
             contractAddress: CONTRACT_ADDRESS,
-            contractName: CO
+            contractName: CONTRACT_NAME,
+            functionName,
+        
