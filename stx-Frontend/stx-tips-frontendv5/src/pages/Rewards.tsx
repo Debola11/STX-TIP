@@ -51,4 +51,6 @@ export const Rewards: React.FC = () => {
       </div>
 
       <div className="space-y-4">
-        <h2 className="text-lg font-bold">Available Rewar
+        <h2 className="text-lg font-bold">Available Rewards</h2>
+        {rewards.map((reward) => (
+    
