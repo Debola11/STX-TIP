@@ -4,4 +4,5 @@ import { Sidebar } from '../Navigation/Sidebar';
 import { Header } from '../Navigation/Header';
 import { Dashboard } from '@/pages/Dashboard';
 import { History } from '@/pages/History';
-import { Rewards } from '@/pages/Reward
+import { Rewards } from '@/pages/Rewards';
+import { Settings } from '@
