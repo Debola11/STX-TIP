@@ -12,4 +12,9 @@
 // interface State {
 //   user: any;
 //   token: string | null;
-//   activationToken: string | nu
+//   activationToken: string | null;
+//   activation_Code: string | null;
+// }
+
+// interface Action {
+//   t
