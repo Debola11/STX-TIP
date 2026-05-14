@@ -103,4 +103,8 @@ export const Dashboard = () =>
               </span>
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">
+              <div className="text-2xl font-bold">{stat.value}</div>
+              <p className="text-sm text-gray-600">{stat.title}</p>
+            </CardContent>
+          </Card>
+     
