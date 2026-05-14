@@ -18,4 +18,5 @@ export async function getUserStats(userAddress: string)
             network:NETWORK,
             contractAddress: CONTRACT_ADDRESS,
             contractName: CONTRACT_NAME,
-            functionNa
+            functionName,
+            functionArgs: [standardPrincipa
