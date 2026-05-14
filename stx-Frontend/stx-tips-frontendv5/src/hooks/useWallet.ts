@@ -74,4 +74,6 @@ export const useWallet = () => {
       userSession: authOptions?.userSession,
     //   network: NETWORK,
     });
-  }, [authOptions?
+  }, [authOptions?.userSession]);
+
+  const disconnectWallet = useCallba
