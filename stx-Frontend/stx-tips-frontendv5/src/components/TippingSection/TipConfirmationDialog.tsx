@@ -94,4 +94,13 @@ const contentVariants = {
 
 export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
   open,
-  onOpen
+  onOpenChange,
+  amount,
+  recipientInput,
+  userInfo,
+  onConfirm,
+  transactionInProgress,
+}) =>
+{
+  return (
+    <div className='absolute -top-64 left-0 
