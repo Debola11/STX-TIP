@@ -23,4 +23,5 @@ export const HomePage: React.FC = () => {
         <NewsletterSection />
       </div>
 
-      
+      <Footer />
+    </div
