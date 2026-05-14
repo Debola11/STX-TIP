@@ -1,4 +1,5 @@
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
-interface TransactionCardProps
+interface TransactionCardProps {
+  transaction: Tr
