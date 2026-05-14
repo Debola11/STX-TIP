@@ -30,4 +30,5 @@ export const notifyTipSent = async (
         const response = await fetch(`${API_BASE_URL}/users/send-tip`, {
             method: 'POST',
             headers: {
-                'Content-Ty
+                'Content-Type': 'application/json',
+ 
