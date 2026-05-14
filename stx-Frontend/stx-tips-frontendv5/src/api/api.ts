@@ -21,3 +21,5 @@ export const fetchUserStats = async (userAddress: string) => {
   } catch (error) {
     console.error('Error fetching user stats:', error);
     return null;
+  }
+};
