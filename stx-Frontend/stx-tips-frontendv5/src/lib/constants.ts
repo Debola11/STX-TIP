@@ -10,3 +10,4 @@ export const CONTRACT_CONFIG = {
 };
 
 // App configuration
+export co
