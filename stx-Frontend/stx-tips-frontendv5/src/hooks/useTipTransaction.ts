@@ -31,4 +31,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         recipient,
         amount,
         microStacks,
-       
+        args: args.map(arg => arg.toString())
+      })
