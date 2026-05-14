@@ -126,4 +126,7 @@ export const TippingSection: React.FC = () =>
       animate="visible"
       id="send-tip"
     >
-      <div className="absolute top-0 right-0 w-1/2 h-1/2 bg-gradient-to-br from-viol
+      <div className="absolute top-0 right-0 w-1/2 h-1/2 bg-gradient-to-br from-violet-100/20 to-purple-100/20 blur-3xl transform rotate-12" />
+
+      <motion.h2
+        className="text-3xl font-bold bg-gradie
