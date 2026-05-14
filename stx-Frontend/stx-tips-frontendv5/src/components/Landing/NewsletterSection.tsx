@@ -29,4 +29,5 @@ export const NewsletterSection = () => {
       <motion.div 
         className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
         initial={{ opacity: 0, y: 20 }}
-        whi
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, margin: "-100px"
