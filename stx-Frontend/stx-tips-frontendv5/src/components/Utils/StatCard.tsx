@@ -6,4 +6,5 @@ export const StatCard: React.FC<Stat> = ({ title, value, change, icon }) => (
     <div className="flex items-center justify-between mb-4">
       <h3 className="text-gray-500 text-sm font-medium">{title}</h3>
       {icon && <div className="text-violet-600">{icon}</div>}
-    </di
+    </div>
+    <p cla
