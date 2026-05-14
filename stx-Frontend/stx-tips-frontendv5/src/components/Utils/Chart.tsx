@@ -8,4 +8,4 @@ interface ChartProps {
 
 export const Chart: React.FC<ChartProps> = ({ data }) => (
   <div className="h-80">
-    <Responsi
+    <ResponsiveContainer width="10
