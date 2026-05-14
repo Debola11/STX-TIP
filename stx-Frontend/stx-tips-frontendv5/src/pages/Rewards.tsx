@@ -23,4 +23,8 @@ export const Rewards: React.FC = () => {
       title: 'Tip Master',
       description: 'Unlock exclusive badge after receiving 100 tips',
       points: 2500,
-      unlocke
+      unlocked: false
+    },
+    {
+      id: '3',
+      titl
