@@ -13,3 +13,5 @@ export const AppLayout: React.FC = () =>
     const { currentPage } = useAppContext();
 
     if (currentPage === 'home') {
+        return (
+            <
