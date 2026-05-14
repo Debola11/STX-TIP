@@ -6,4 +6,7 @@ import { Input } from '@/components/ui/input';
 
 interface EmailModalProps {
   isOpen: boolean;
-  onOpenChange: (open
+  onOpenChange: (open: boolean) => void;
+  email: string;
+  setEmail: (email: string) => void;
+  
