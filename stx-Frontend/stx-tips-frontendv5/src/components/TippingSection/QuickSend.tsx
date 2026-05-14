@@ -152,4 +152,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                                     <Loader2 className="h-5 w-5 animate-spin" />
                                     Processing...
                                 </>
-         
+                            ) : (
+                                <>
+                                    <span>Send Tip</span>
+                   
