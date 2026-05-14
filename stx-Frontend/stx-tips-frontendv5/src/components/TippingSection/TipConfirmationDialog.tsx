@@ -179,4 +179,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     {
                       e.preventDefault();
                       onConfirm();
-               
+                    }}
+                    disabled={transactionInProgress}
+                    className="w-full sm:w-auto bg-gradient-to-r from-violet-600 to-purp
