@@ -12,4 +12,4 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
       <LineChart data={data}>
         <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
         <XAxis dataKey="name" stroke="#666" />
-        <Y
+        <YAxis stroke="#666" />
