@@ -4,4 +4,5 @@ interface AppContextType
 {
   currentPage: string;
   setCurrentPage: (value: string) => void;
-  walletConnected: b
+  walletConnected: boolean;
+  setWalletConnect
