@@ -7,4 +7,4 @@ import { AuthContextProvider } from './context/AuthContext'
 import App from './App';
 import './index.css';
 
-// Co
+// Configure Connect 
