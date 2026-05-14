@@ -80,3 +80,6 @@ export const useWallet = () => {
     authOptions?.userSession?.signUserOut();
     setWalletState({
       walletConnected: false,
+      walletAddress: null,
+    });
+  }, [authOptions
