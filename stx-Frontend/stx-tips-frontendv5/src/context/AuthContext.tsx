@@ -127,4 +127,5 @@ interface AuthContextProviderProps {
   children: ReactNode;
 }
 
-export const AuthContextP
+export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
+  const [state, dis
