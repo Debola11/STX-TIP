@@ -76,3 +76,6 @@ interface User {
   [key: string]: any;
 }
 
+interface AuthState {
+  user: User | null;
+  activationToken: string | null
