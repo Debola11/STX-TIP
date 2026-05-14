@@ -25,4 +25,5 @@ export interface Stat {
   }
 
   export interface UserWalletData {
-    wa
+    walletAddress: string;
+    u
