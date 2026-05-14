@@ -8,4 +8,4 @@ export const History: React.FC = () => {
 
   // Sample data - replace with real data in production
   const transactions: Transaction[] = [
-    { id: '1', sender: '0x1234567890abcdef', recipie
+    { id: '1', sender: '0x1234567890abcdef', recipient: '0xabcdef1234567890', amount: 10, timestamp: new Date('2
