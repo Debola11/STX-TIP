@@ -51,4 +51,5 @@ export interface RawUserStats {
   'reward-points': { value: bigint };
 }
 
-export interface Ti
+export interface TipHistoryEntry {
+  amount: 
