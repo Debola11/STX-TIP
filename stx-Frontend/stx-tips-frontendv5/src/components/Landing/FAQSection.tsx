@@ -68,4 +68,5 @@ export const FAQSection = () => {
                   onClick={() => setSelectedFaq(selectedFaq === index ? null : index)}
                 >
                   <span className="flex-1">{faq.question}</span>
- 
+                  <motion.div
+                    animate={{ rotate: selectedFaq === index ? 180
