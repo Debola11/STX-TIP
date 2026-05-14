@@ -50,4 +50,8 @@ export const serializeCV = (cv: ClarityValue): any => {
     case ClarityType.StringASCII:  // Changed from StringUTF8 to StringASCII
       return cv.value;
     default:
-      throw new Error
+      throw new Error(`Unsupported Clarity type: ${cv.type}`);
+  }
+};
+
+// Pre
