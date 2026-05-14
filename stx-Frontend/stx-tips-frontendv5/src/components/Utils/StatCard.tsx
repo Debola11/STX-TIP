@@ -1,4 +1,4 @@
 import { Stat } from '@/lib/type';
 import React from 'react';
 
-ex
+export const St
