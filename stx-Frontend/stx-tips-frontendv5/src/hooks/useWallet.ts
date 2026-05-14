@@ -44,4 +44,6 @@ import { useConnect } from '@stacks/connect-react';
 import { APP_CONFIG } from '@/lib/constants';
 // import { NETWORK } from '@/config/stacks';
 
-export interface WalletState 
+export interface WalletState {
+  walletConnected: boolean;
+  walletAddress: string
