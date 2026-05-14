@@ -20,4 +20,5 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
 };
 
 export const notifyTipSent = async (
-    recipientA
+    recipientAddress: string,
+    amount
