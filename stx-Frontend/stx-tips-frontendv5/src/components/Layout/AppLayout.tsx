@@ -38,4 +38,6 @@ export const AppLayout: React.FC = () =>
             case 'settings':
                 return <Settings />;
             default:
-                return 
+                return <Dashboard />;
+        }
+    };
