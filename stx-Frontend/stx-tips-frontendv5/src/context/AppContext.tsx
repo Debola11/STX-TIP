@@ -7,4 +7,4 @@ interface AppContextType
   walletConnected: boolean;
   setWalletConnected: (value: boolean) => void;
   walletAddress: string | null;
-  setWalletAddre
+  setWalletAddress: (value: string | null)
