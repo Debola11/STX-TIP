@@ -11,4 +11,5 @@ interface UseTipTransactionProps {
 }
 
 export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps) => {
-  const { doContractCall
+  const { doContractCall } = useConnect();
+  const [isProcessing, setIs
