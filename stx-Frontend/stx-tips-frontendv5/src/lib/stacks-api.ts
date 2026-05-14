@@ -72,4 +72,5 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
             contractName: CONTRACT_NAME,
             functionName,
             functionArgs: [
-                standardPri
+                standardPrincipalCV(recipient),
+                uintCV(amo
