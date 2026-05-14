@@ -54,4 +54,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
           }
         },
         onCancel: () => {
-          conso
+          console.log('Transaction cancelled by user');
+      
