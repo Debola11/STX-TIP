@@ -59,4 +59,8 @@ export const Settings: React.FC = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Platform Updates</p>
-                <p className="text-sm text-gray-500">Get noti
+                <p className="text-sm text-gray-500">Get notified about new features</p>
+              </div>
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input
+                  ty
