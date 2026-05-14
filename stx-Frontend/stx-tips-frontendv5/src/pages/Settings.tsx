@@ -87,4 +87,7 @@ export const Settings: React.FC = () => {
               </div>
               <label className="relative inline-flex items-center cursor-pointer">
                 <input
-                 
+                  type="checkbox"
+                  checked={privacy.public}
+                  onChange={(e) => setPrivacy({ ...privacy, public: e.target.checked })}
+                  classNam
