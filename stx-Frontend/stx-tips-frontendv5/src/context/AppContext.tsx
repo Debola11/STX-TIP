@@ -25,4 +25,5 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     <AppContext.Provider value={{
       currentPage,
       setCurrentPage,
-      w
+      walletConnected,
+      setW
