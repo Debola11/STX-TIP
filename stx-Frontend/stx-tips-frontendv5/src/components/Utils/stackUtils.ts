@@ -48,4 +48,6 @@ export const serializeCV = (cv: ClarityValue): any => {
     case ClarityType.UInt:
       return cv.value.toString();
     case ClarityType.StringASCII:  // Changed from StringUTF8 to StringASCII
- 
+      return cv.value;
+    default:
+      throw new Error
