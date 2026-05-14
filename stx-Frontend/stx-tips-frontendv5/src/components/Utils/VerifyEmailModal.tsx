@@ -118,3 +118,7 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                          text-white py-6 rounded-lg font-medium
                          transform hover:scale-[1.02] transition-all duration-200 
                          disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none
+                         shadow-lg shadow-violet-500/25"
+                            >
+                                {isLoading ? (
+          
