@@ -27,4 +27,4 @@ export const notifyTipSent = async (
 {
     try
     {
-        const respons
+        const response = await fetch(`${API_BAS
