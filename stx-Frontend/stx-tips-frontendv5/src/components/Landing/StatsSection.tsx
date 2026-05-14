@@ -137,4 +137,8 @@ export const StatsSection = () =>
                     <TrendingUp className="h-3 w-3 mr-1" />
                     {stat.growth}
                   </div>
-  
+                </div>
+              </motion.div>
+            );
+          })}
+        
