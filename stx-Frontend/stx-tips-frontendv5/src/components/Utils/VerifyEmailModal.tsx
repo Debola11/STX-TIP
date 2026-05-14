@@ -38,4 +38,9 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    activat
+                    activation_token: activationToken,
+                    activation_Code: activation_Code
+                }),
+            });
+
+            const result =
