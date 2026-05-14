@@ -12,4 +12,6 @@ interface Reward {
 export const Rewards: React.FC = () => {
   const rewards: Reward[] = [
     {
+      id: '1',
+      title: 'Early Supporter',
      
