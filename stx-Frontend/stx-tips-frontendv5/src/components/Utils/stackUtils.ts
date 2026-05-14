@@ -42,4 +42,5 @@ export const toMicroStacks = (amount: string): number => {
   }
 };
 
-// Serialize Clarity Value to a format the contract 
+// Serialize Clarity Value to a format the contract expects
+export const serializeCV = (cv: ClarityValue): a
