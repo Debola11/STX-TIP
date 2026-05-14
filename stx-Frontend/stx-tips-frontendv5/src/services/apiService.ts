@@ -41,4 +41,4 @@ export const notifyTipSent = async (
 
         if (!response.ok)
         {
-     
+            throw new Error(`HT
