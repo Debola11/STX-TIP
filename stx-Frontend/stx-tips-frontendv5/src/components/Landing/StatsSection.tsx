@@ -82,3 +82,6 @@ export const StatsSection = () =>
         variants={containerVariants}
         initial="hidden"
         whileInView="visible"
+        viewport={{ once: true, margin: "-100px" }}
+      >
+        <div className="te
