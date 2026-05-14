@@ -161,4 +161,7 @@ export const Dashboard = () =>
                     {tip.type === 'sent' ? (
                       <ArrowUpCircle className="h-5 w-5 text-green-600" />
                     ) : (
-                      <Arr
+                      <ArrowDownCircle className="h-5 w-5 text-blue-600" />
+                    )}
+                    <div>
+                      <p className="te
