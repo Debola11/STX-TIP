@@ -63,3 +63,5 @@ export const useWallet = () => {
         icon: window.location.origin + APP_CONFIG.ICON,
       },
       onFinish: () => {
+        setWalletState({
+          walletConnected: t
