@@ -96,3 +96,5 @@ interface AuthContextType extends AuthState {
 
 // Initialize state
 const initialState: AuthState = {
+  user: localStorage.getItem("user") 
+    ? JSON.parse(localStorage.getIte
