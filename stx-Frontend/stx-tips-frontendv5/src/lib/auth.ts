@@ -9,4 +9,5 @@ export function authenticate() {
       name: "TipStack",
       icon: "https://raw.githubusercontent.com/stacksgov/stacksgov.github.io/master/img/stacks-logo.svg",
     },
-    redirec
+    redirectTo: "/",
+    
