@@ -76,4 +76,8 @@ export const Settings: React.FC = () => {
 
         <div className="bg-white rounded-xl shadow-sm p-6">
           <div className="flex items-center space-x-3 mb-4">
-            <Shield className="h-5 w-
+            <Shield className="h-5 w-5 text-violet-600" />
+            <h2 className="text-lg font-bold">Privacy</h2>
+          </div>
+          <div className="space-y-4">
+            <div className="flex items-
