@@ -79,4 +79,7 @@ const EmailModal: FC<EmailModalProps> = ({
 
           {/* Footer text */}
           <p className="text-center text-sm text-gray-400">
-            By continuing, you agree to o
+            By continuing, you agree to our Terms of Service and Privacy Policy
+          </p>
+        </div>
+      <
