@@ -16,4 +16,6 @@ export const History: React.FC = () => {
 
   return (
     <div className="space-y-6">
-      <h1 className="text-2xl font-bo
+      <h1 className="text-2xl font-bold">Transaction History</h1>
+
+      <div className="flex fle
