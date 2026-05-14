@@ -40,4 +40,6 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 export const useAppContext = () =>
 {
   const context = useContext(AppContext);
-  if (context === undefined
+  if (context === undefined)
+  {
+    throw new Error(
