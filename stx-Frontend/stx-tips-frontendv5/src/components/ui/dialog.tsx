@@ -110,4 +110,9 @@ export {
   Dialog,
   DialogPortal,
   DialogOverlay,
-  Dialo
+  DialogTrigger,
+  DialogClose,
+  DialogContent,
+  DialogHeader,
+  DialogFooter,
+  Dia
