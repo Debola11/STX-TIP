@@ -42,4 +42,4 @@ const DialogContent = React.forwardRef<
       {...props}
     >
       {children}
-      <DialogPrimitive.Close className="absolute right-4 top-4 ro
+      <DialogPrimitive.Close className="absolute right-4 top-4 rounded-full opacity-70 bg-slate-50 font-bold text-violet-600 p-1 border border-v
