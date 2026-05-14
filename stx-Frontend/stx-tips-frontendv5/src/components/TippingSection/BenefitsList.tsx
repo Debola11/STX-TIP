@@ -24,4 +24,4 @@ export const BenefitsList: React.FC = () => {
         {benefits.map((benefit, index) => (
           <motion.li 
             key={index}
-            classNa
+            className="flex items-start gap-
