@@ -96,4 +96,7 @@ export const Settings: React.FC = () => {
               </label>
             </div>
 
-            <div className
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="font-medium">Show Tip Amounts</p>
+                <p className="text-sm text-gray-500">
