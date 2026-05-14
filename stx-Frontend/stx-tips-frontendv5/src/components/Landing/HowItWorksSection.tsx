@@ -92,4 +92,7 @@ export const HowItWorksSection = () => {
                   </p>
                   <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity">
                     <ArrowRight className="w-5 h-5 text-violet-500" />
-                
+                  </div>
+                </div>
+              </motion.div>
+            );
