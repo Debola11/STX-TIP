@@ -27,4 +27,5 @@
 //   {
 //     case "ACTIVATE_USER":
 //       return {
-//         activationToken: action.pa
+//         activationToken: action.payload.activationToken,
+//         activation_Code: action.payload.activatio
