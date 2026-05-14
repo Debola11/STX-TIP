@@ -44,4 +44,5 @@ export const History: React.FC = () => {
       </div>
 
       <div className="bg-white rounded-xl shadow-sm">
-        <div className="grid grid-cols-4 gap
+        <div className="grid grid-cols-4 gap-4 p-4 border-b font-medium text-gray-500">
+          <div>F
