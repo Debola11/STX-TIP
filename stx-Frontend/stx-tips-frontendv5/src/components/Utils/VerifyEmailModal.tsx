@@ -95,4 +95,7 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 
                         {/* Verification Form */}
                         <form onSubmit={handleSubmit} className="space-y-6">
-                            <div className="relat
+                            <div className="relative">
+                                <Input
+                                    placeholder="Enter verification code"
+                         
