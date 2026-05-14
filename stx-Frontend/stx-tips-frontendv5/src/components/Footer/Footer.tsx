@@ -164,4 +164,8 @@ export const Footer: React.FC = () =>
             </ul>
           </div>
 
-          {/* Resources Sectio
+          {/* Resources Section */}
+          <div className="space-y-6">
+            <h3 className="text-lg font-semibold text-white/90">Resources</h3>
+            <ul className="space-y-3">
+              {['Documentation'
