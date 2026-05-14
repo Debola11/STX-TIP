@@ -32,4 +32,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 
         try
         {
-            con
+            const response = await fetch('https://stx-tip.onrender.com/api/v1/users/verify-account', {
+                method: 'POST',
+                headers:
