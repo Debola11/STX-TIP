@@ -94,4 +94,7 @@ import { Github, Twitter, Mail, ArrowUpRight, Sparkles } from 'lucide-react';
 export const Footer: React.FC = () =>
 {
   return (
-    <footer className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-p
+    <footer className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950">
+      {/* Background Elements */}
+      <div className="absolute inset-0">
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linea
