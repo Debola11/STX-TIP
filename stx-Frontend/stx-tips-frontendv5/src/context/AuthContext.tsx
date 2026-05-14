@@ -45,4 +45,8 @@
 
 // export const AuthContextProvider = ({ children }: { children: ReactNode }) =>
 // {
-//   const [state, dispatch] = useReducer(auth
+//   const [state, dispatch] = useReducer(authReducer, initialState);
+
+//   useEffect(() =>
+//   {
+//     localStorage.se
