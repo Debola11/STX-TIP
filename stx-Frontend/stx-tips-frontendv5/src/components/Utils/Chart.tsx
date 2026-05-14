@@ -14,4 +14,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
         <XAxis dataKey="name" stroke="#666" />
         <YAxis stroke="#666" />
         <Tooltip 
-          contentStyle=
+          contentStyle={{ 
+            backg
