@@ -24,4 +24,5 @@ export interface Stat {
     tips: number;
   }
 
-  export interfa
+  export interface UserWalletData {
+    wa
