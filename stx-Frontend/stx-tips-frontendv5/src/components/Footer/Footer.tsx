@@ -189,4 +189,7 @@ export const Footer: React.FC = () =>
               {['Privacy Policy', 'Terms of Service', 'Cookie Policy'].map((item) => (
                 <li key={item}>
                   <a
-                    href={`/${item.toL
+                    href={`/${item.toLowerCase().replace(/\s+/g, '-')}`}
+                    className="group flex items-center text-gray-300/80 hover:text-violet-300 transition-colors"
+                  >
+                    {item
