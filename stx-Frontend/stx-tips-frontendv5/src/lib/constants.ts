@@ -1,2 +1,2 @@
 // Network configuration
-export const NETWORK
+export const NETWORK_CONFIG =
