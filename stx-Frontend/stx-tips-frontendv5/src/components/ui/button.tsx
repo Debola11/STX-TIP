@@ -9,4 +9,5 @@ const buttonVariants = cva(
   {
     variants: {
       variant: {
-      
+        default:
+          "bg-primary text-p
