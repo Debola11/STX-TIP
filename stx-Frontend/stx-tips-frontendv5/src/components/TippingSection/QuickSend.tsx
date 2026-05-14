@@ -24,4 +24,6 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
     const [recipientInput, setRecipientInput] = useState<string>(initialAddress || '');
     const [amount, setAmount] = useState<string>('');
     const [userInfo, setUserInfo] = useState<UserInfo>({});
-    const [searching, setSearc
+    const [searching, setSearching] = useState<boolean>(false);
+    const [validationError, setValidationError] = useState<string>('');
+    const [showConfirmDialog, s
