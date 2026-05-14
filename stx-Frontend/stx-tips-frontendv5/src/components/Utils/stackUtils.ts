@@ -58,4 +58,7 @@ export const serializeCV = (cv: ClarityValue): any => {
 export const prepareTipArgs = (recipient: string, amount: string) => {
   try {
     if (!recipient || !amount) {
-      throw new Error('Recipient and amount are requir
+      throw new Error('Recipient and amount are required');
+    }
+
+    const microStacks = toMicroStacks(amoun
