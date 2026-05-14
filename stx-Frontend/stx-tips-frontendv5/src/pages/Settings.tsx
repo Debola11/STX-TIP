@@ -145,4 +145,8 @@ export const Settings: React.FC = () => {
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">Language</label>
               <select className="block w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-600">
-                <option v
+                <option value="en">English</option>
+                <option value="es">Español</option>
+                <option value="fr">Français</option>
+              </select>
+            </div>
