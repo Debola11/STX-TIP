@@ -213,4 +213,11 @@ export const Header = () => {
                 <div className="hidden md:flex items-center px-4 py-2 bg-gradient-to-r from-violet-600/10 to-purple-600/10 rounded-lg border border-purple-100">
                   <WalletIcon className="h-4 w-4 text-purple-600 mr-2" />
                   <span className="text-sm font-medium text-purple-700">
-                    {for
+                    {formatWalletAddress(walletAddress || '')}
+                  </span>
+                </div>
+              </>
+            )}
+
+            <button
+              onClick={handleAut
