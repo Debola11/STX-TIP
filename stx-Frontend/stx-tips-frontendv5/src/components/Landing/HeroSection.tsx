@@ -19,4 +19,8 @@ import { authContext } from '@/context/AuthContext';
 
 interface HeroSectionProps {}
 
-export const HeroSection: React.FC<HeroSectionProps>
+export const HeroSection: React.FC<HeroSectionProps> = () => {
+  const [email, setEmail] = useState<string>('');
+  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [userData, setUserData] = useState<UserData | null>(null);
+  const [isAuthe
