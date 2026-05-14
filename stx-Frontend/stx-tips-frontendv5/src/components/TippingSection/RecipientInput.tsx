@@ -16,4 +16,8 @@ interface RecipientInputProps {
 }
 
 export const RecipientInput: React.FC<RecipientInputProps> = ({
-  reci
+  recipientInput,
+  setRecipientInput,
+  searching,
+  validationError,
+  u
