@@ -30,4 +30,6 @@
 import { stringAsciiCV, uintCV, ClarityValue, ClarityType } from '@stacks/transactions';
 
 // Convert STX amount to microstacks with validation
-export const toMicroStacks = (am
+export const toMicroStacks = (amount: string): number => {
+  try {
+    const value = par
