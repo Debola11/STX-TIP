@@ -52,4 +52,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         }
     });
 
-    const fetchUserInfo = async (input: string
+    const fetchUserInfo = async (input: string) => {
+        setSearching(true);
+        setValidationError('');
+
+        try {
+            if (validateStacksAddress(input)) {
+       
