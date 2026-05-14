@@ -84,4 +84,4 @@ export const HowItWorksSection = () => {
                   <div className={`inline-flex p-3 rounded-2xl bg-gradient-to-r ${step.gradient} mb-6 text-white`}>
                     <Icon className="w-6 h-6" />
                   </div>
- 
+                  <h3 className="text-xl font-semibold mb-4 text-gray-900">
