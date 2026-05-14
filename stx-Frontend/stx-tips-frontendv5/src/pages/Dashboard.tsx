@@ -107,4 +107,9 @@ export const Dashboard = () =>
               <p className="text-sm text-gray-600">{stat.title}</p>
             </CardContent>
           </Card>
-     
+        ))}
+      </div>
+
+      {/* Main Content */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        {/* Activity Chart 
