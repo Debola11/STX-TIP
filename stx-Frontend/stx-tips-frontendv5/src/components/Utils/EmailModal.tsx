@@ -58,4 +58,6 @@ const EmailModal: FC<EmailModalProps> = ({
               />
             </div>
             
-            <Butt
+            <Button
+              type="submit"
+              disabled={isLoading || !email.t
