@@ -57,4 +57,5 @@ export const Rewards: React.FC = () => {
             key={reward.id}
             className="bg-white rounded-xl shadow-sm p-6 flex items-center justify-between hover:shadow-md transition-shadow"
           >
-           
+            <div className="space-y-1">
+              <div
