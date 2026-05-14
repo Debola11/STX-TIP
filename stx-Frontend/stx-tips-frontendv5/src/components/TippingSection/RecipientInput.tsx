@@ -60,4 +60,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
             exit={{ opacity: 0, height: 0 }}
           >
             <Alert variant="destructive">
-              <AlertCircle cl
+              <AlertCircle className="h-4 w-4" />
+              <AlertDescription>{validationErro
