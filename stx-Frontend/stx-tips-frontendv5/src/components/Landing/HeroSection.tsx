@@ -202,4 +202,4 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
               ) : (
                 <Button
                   onClick={handleAuth}
-               
+                  className="group bg-gradient-to-r from-violet-500 to-purple-500 text-white px-8 py-6 rounded-xl text-lg hover:opacity-90 transform hover:scale-105 transition-all duration-200 shadow-lg shadow-violet-500/
