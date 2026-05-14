@@ -9,4 +9,5 @@ export const NETWORK = IS_MAINNET ? STACKS_MAINNET : STACKS_TESTNET;
 //   ? 'https://stacks-node-api.mainnet.stacks.co'
 //   : 'https://stacks-node-api.testnet.stacks.co';
 
-// Contract detai
+// Contract details
+export co
