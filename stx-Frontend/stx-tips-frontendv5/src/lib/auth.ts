@@ -22,4 +22,5 @@ export function getUserData() {
 }
 
 export function signUserOut() {
-  userSession.signUserO
+  userSession.signUserOut();
+  window
