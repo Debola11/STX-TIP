@@ -32,4 +32,12 @@ const containerVariants = {
   hidden: {},
   visible: {
     transition: {
-      staggerCh
+      staggerChildren: 0.2
+    }
+  }
+};
+
+const cardVariants = {
+  hidden: {
+    opacity: 0,
+    y: 20
