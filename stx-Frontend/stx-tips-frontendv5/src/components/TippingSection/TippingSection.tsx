@@ -56,4 +56,9 @@ export const TippingSection: React.FC = () =>
 
     try
     {
-      if (validateStacksAddress(inp
+      if (validateStacksAddress(input))
+      {
+        const data = await fetchUserWalletInfo(input);
+        setUserInfo({
+          email: data.data.email,
+ 
