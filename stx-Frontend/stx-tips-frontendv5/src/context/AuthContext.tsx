@@ -83,4 +83,7 @@ interface AuthState {
 }
 
 type AuthAction = {
-  type: "ACTIVAT
+  type: "ACTIVATE_USER";
+  payload: {
+    activationToken: string;
+    activation_Code: str
