@@ -46,4 +46,5 @@ export const Rewards: React.FC = () => {
             <p className="text-white/80">Earn points with every transaction</p>
           </div>
         </div>
-        <p className="
+        <p className="text-4xl font-bold">750</p>
+        <p classNam
