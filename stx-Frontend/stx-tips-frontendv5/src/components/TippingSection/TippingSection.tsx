@@ -102,3 +102,8 @@ export const TippingSection: React.FC = () =>
   }, [recipientInput]);
 
   const handleSendTip = () =>
+  {
+    if (!recipientInput || !amount)
+    {
+      setValidationError('Please verify recipient and amount');
+      return;
