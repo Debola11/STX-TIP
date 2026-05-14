@@ -57,4 +57,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
 
 // Optional: Add retry logic for better reliability
 export async function submitUserWalletDataWithRetry(
-    user
+    userData: UserWalletData,
+    maxRetries = 3,
+    delayMs 
