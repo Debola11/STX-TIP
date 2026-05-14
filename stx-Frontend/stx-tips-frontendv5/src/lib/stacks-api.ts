@@ -75,3 +75,5 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
                 standardPrincipalCV(recipient),
                 uintCV(amount),
                 stringAsciiCV(tokenType)
+            ],
+            senderAddress: CONTR
