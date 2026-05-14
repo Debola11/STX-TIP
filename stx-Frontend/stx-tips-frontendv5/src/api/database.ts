@@ -42,4 +42,8 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
         const data = await response.json();
         return {
             success: true,
-            userId: data.u
+            userId: data.userId,
+        };
+    } catch (error)
+    {
+        if
