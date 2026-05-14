@@ -116,4 +116,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-
+    @apply bg-background text-foreground;
+  }
+}
