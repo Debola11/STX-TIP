@@ -120,4 +120,8 @@ const VerifiedUsers: React.FC = () => {
                       <Button
                         onClick={() => handleTipClick(user)}
                         className="w-full bg-gradient-to-r from-violet-500 to-purple-500 hover:from-violet-600 hover:to-purple-600"
-      
+                      >
+                        Send Tip
+                      </Button>
+                    </div>
+    
