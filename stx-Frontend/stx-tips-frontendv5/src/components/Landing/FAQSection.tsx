@@ -46,4 +46,6 @@ export const FAQSection = () => {
           <h2 className="text-4xl font-bold text-transparent bg-gradient-to-r from-violet-200 to-purple-200 bg-clip-text mb-4">
             Frequently Asked Questions
           </h2>
-          <p className="text-lg text-gray-300/9
+          <p className="text-lg text-gray-300/90 max-w-2xl mx-auto">
+            Find quick answers to common questions about TipStack
+       
