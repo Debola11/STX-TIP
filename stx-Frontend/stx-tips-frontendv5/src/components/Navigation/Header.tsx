@@ -105,4 +105,10 @@ export const Header = () => {
   const handleEmailSubmit = async (e: React.FormEvent<HTMLFormElement>) =>
     {
       e.preventDefault();
-      if (!
+      if (!email.trim().toLowerCase() || !walletAddress?.toLowerCase()) return;
+  
+      console.log('email:', email);
+      console.log('wallet:', walletAddress);
+  
+      try
+      {
