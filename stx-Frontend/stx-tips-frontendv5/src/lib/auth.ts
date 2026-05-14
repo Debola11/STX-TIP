@@ -22,4 +22,4 @@ export function getUserData() {
 }
 
 export function signUserOut() {
-  userSes
+  userSession.signUserO
