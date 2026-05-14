@@ -29,4 +29,5 @@
 
 import { stringAsciiCV, uintCV, ClarityValue, ClarityType } from '@stacks/transactions';
 
-// Convert STX amount to micr
+// Convert STX amount to microstacks with validation
+export const toMicroStacks = (am
