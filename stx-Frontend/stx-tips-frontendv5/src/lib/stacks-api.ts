@@ -37,4 +37,5 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
 
     try
     {
-        const result = awai
+        const result = await callReadOnlyFunction({
+            network: N
