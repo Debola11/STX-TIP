@@ -66,4 +66,5 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
 
     try
     {
-        const re
+        const result = await callReadOnlyFunction({
+           
