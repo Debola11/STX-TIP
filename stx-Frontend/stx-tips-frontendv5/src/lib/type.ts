@@ -1,3 +1,4 @@
 export interface Stat {
     title: string;
-    value
+    value: string;
+    change: stri
