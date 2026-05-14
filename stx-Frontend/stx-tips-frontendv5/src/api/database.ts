@@ -21,4 +21,7 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             headers: {
                 'Content-Type': 'application/json',
             },
-            body:
+            body: JSON.stringify(userData),
+        });
+
+        if (!r
