@@ -207,4 +207,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
                   Give a Tip
                   <ArrowRight className="ml-2 h-5 w-5 inline-block group-hover:translate-x-1 transition-transform" />
                 </Button>
-           
+              )}
+            </div>
+
+            <div className="grid sm:grid-cols-2 justify-center items-center gap-6 mt-8">
+              <div className="flex items-center justify-center space-x-3 bg-white/5 p-3 rou
