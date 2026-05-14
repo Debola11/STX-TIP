@@ -175,4 +175,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     Cancel
                   </AlertDialogCancel>
                   <AlertDialogAction
- 
+                    onClick={(e) =>
+                    {
+                      e.preventDefault();
+                      onConfirm();
+               
