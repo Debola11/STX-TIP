@@ -99,4 +99,8 @@ export const Dashboard = () =>
               {stat.icon}
               <span className={`text-sm font-medium ${stat.change.startsWith('+') ? 'text-green-600' : 'text-red-600'
                 }`}>
-                {
+                {stat.change}
+              </span>
+            </CardHeader>
+            <CardContent>
+              <div className="text-2xl font-bold">
