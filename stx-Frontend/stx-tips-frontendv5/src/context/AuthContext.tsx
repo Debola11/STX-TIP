@@ -116,4 +116,11 @@ const authReducer = (state: AuthState, action: AuthAction): AuthState => {
       return {
         ...state,
         activationToken: action.payload.activationToken,
-        activation_Code: action.payload.activ
+        activation_Code: action.payload.activation_Code,
+      };
+    default:
+      return state;
+  }
+};
+
+interface Aut
