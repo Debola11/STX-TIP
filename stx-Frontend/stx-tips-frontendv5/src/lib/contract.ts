@@ -15,4 +15,4 @@ interface TipOptions {
   amount: number;
   tokenType: string;
   onSuccess?: (data: any) => void;
-  onErro
+  onError?: (error: any) => void;
