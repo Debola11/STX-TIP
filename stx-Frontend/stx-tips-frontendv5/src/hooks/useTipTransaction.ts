@@ -45,4 +45,30 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         onFinish: async (data: { txId: string }) => {
           console.log('Transaction successful:', data);
           try {
-            await notifyTipSent(recipient, amount, data.txId)
+            await notifyTipSent(recipient, amount, data.txId);
+            onSuccess();
+          } catch (error) {
+            console.error('Backend notification failed:', error);
+            // Continue with success even if backend notification fails
+            onSuccess();
+          }
+        },
+        onCancel: () => {
+          console.log('Transaction cancelled by user');
+          setIsProcessing(false);
+          onError('Transaction cancelled');
+        }
+      });
+    } catch (error) {
+      console.error('Transaction error:', error);
+      onError(error instanceof Error ? error.message : 'Failed to process transaction');
+    } finally {
+      setIsProcessing(false);
+    }
+  };
+
+  return {
+    processTip,
+    isProcessing
+  };
+};
