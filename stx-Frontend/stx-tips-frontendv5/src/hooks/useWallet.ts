@@ -4,4 +4,5 @@
 
 // export const useWallet = () =>
 // {
-//     const [walletCon
+//     const [walletConnected, setWalletConnected] = useState(false);
+//    
