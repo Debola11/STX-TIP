@@ -87,4 +87,6 @@ const VerifiedUsers: React.FC = () => {
           </div>
 
           {users.length === 0 ? (
-            <div clas
+            <div className="text-center py-12">
+              <p className="text-gray-300/80">No verified users found.</p>
+            
