@@ -10,4 +10,5 @@ import { TippingSection } from '@/components/TippingSection/TippingSection';
 
 export const HomePage: React.FC = () => {
 
-  
+  return (
+    <div cl
