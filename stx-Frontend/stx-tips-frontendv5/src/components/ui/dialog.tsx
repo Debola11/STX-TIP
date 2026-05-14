@@ -33,4 +33,7 @@ const DialogContent = React.forwardRef<
 >(({ className, children, ...props }, ref) => (
   <DialogPortal>
     <DialogOverlay />
-    <D
+    <DialogPrimitive.Content
+      ref={ref}
+      className={cn(
+        "fixed left
