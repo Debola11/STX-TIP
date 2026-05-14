@@ -231,4 +231,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
                   <div className="animate-bounce mb-4">
                     <Sparkles className="h-12 w-12 text-violet-300 mx-auto" />
                   </div>
-                  <div className="text-
+                  <div className="text-center space-y-2">
+                    <h3 className="text-xl font-semibold text-white">Secure Transactions</h3>
+                    <p className="text-gray-300">Powered by Stacks Blockchain</p>
+           
