@@ -1,3 +1,6 @@
 import { useState } from 'react';
 import { Send, Mail } from 'lucide-react';
-imp
+import { motion } from 'framer-motion';
+
+export const NewsletterSection = () => {
+ 
