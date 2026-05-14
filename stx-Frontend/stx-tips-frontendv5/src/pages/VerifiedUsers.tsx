@@ -15,4 +15,6 @@ interface VerifiedUser {
 const VerifiedUsers: React.FC = () => {
   const [users, setUsers] = useState<VerifiedUser[]>([]);
   const [loading, setLoading] = useState(true);
-  const [selectedUser, setSelectedUser] = useState<Ve
+  const [selectedUser, setSelectedUser] = useState<VerifiedUser | null>(null);
+  const [isQuickSendOpen, setIsQuickSendOpen] = useState(false);
+  const [copiedWallet, 
