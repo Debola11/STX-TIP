@@ -7,4 +7,5 @@ interface AppContextType
   walletConnected: boolean;
   setWalletConnected: (value: boolean) => void;
   walletAddress: string | null;
-  setWalletAddress: (value: string | null)
+  setWalletAddress: (value: string | null) => void;
+  isOpen: boolea
