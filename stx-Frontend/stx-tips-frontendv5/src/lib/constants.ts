@@ -9,4 +9,4 @@ export const CONTRACT_CONFIG = {
     NAME: 'tip-stacks',
 };
 
-// 
+// App confi
