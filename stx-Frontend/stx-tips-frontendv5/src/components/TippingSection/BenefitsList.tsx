@@ -4,4 +4,4 @@ import { motion } from 'framer-motion';
 import { itemVariants } from './animations';
 
 const benefits = [
-  "Instant, secure
+  "Instant, secure transactions on Stacks b
