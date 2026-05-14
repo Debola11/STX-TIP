@@ -10,4 +10,8 @@ import
 
 export async function getUserStats(userAddress: string)
 {
-    const function
+    const functionName = 'get-user-tip-stats';
+
+    try
+    {
+   
