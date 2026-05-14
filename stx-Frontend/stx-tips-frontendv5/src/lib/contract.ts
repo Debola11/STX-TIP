@@ -48,4 +48,4 @@ export const sendTip = async ({
 
     await openContractCall(options);
   } catch (error) {
-    consol
+    console.error('Error sending ti
