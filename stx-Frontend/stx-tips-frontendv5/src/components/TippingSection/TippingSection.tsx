@@ -142,4 +142,8 @@ export const TippingSection: React.FC = () =>
             setRecipientInput={setRecipientInput}
             searching={searching}
             validationError={validationError}
-    
+            userInfo={userInfo}
+          />
+
+          <div className="space-y-2">
+            <label className="block text-sm f
