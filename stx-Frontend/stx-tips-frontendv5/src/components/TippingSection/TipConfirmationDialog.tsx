@@ -108,4 +108,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
       <AnimatePresence>
         {open && (
           <AlertDialogContent asChild>
-    
+            
+            <div
+              className="max-w-md bg-white/95 backdrop-blur-lg border border-violet-100 shadow-xl"
+            >
+          
