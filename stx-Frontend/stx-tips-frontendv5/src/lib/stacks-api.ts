@@ -14,4 +14,6 @@ export async function getUserStats(userAddress: string)
 
     try
     {
-        const result = await callReadOnlyFunction(
+        const result = await callReadOnlyFunction({
+            network:NETWORK,
+            cont
