@@ -39,4 +39,4 @@ export const FAQSection = () => {
         transition={{ duration: 0.6 }}
       >
         <div className="text-center mb-16">
-          <div classNa
+          <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-white/10 border border-white/20 text-v
