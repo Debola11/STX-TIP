@@ -105,4 +105,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                            text-gray-900 dark:text-white placeholder:text-gray-400 
                            focus:border-violet-500 focus:ring-violet-500/20 
                            rounded-lg py-6 text-center text-lg tracking-widest"
-        
+                                    disabled={isLoading}
+                                    maxLength={6}
+                                    required
