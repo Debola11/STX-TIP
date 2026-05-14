@@ -76,4 +76,4 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
             className="mt-2 p-4 bg-gradient-to-r from-violet-50 to-purple-50 rounded-xl border border-violet-100/50 backdrop-blur-sm"
           >
             <div className="flex items-center gap-3">
-              <div
+              <div className="h-10 w-10 rounded-full bg-gradient-to-r from-violet-500 
