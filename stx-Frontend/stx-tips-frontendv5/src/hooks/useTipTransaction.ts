@@ -28,4 +28,7 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
       const { args, microStacks } = prepareTipArgs(recipient, amount);
       
       console.log('Prepared arguments:', {
-        recipien
+        recipient,
+        amount,
+        microStacks,
+       
