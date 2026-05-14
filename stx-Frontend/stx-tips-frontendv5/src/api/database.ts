@@ -16,4 +16,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
 {
     try
     {
-        const response = await fetch(`${API_BASE
+        const response = await fetch(`${API_BASE_URL}/api/users/wallet`, {
+            method: 'POST',
