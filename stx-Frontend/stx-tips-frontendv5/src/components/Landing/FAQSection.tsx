@@ -69,4 +69,7 @@ export const FAQSection = () => {
                 >
                   <span className="flex-1">{faq.question}</span>
                   <motion.div
-                    animate={{ rotate: selectedFaq === index ? 180
+                    animate={{ rotate: selectedFaq === index ? 180 : 0 }}
+                    transition={{ duration: 0.2 }}
+                  >
+                
