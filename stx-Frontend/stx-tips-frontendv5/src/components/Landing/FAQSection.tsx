@@ -74,4 +74,7 @@ export const FAQSection = () => {
                   >
                     <ChevronDown className="h-5 w-5 text-violet-300" />
                   </motion.div>
-       
+                </button>
+                
+                <AnimatePresence>
+                  {select
