@@ -177,4 +177,9 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
             <p className="text-lg text-gray-300/90 max-w-xl">
               Send instant tips and rewards to anyone, anywhere. Support creators,
-              contribute to communities, or show appreciation
+              contribute to communities, or show appreciation - all powered by
+              secure blockchain technology.
+            </p>
+
+            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              {isAuthenticated ?
