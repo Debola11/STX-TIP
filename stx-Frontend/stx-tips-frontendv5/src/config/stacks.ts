@@ -1,1 +1,1 @@
-import { STACKS_TESTNET,
+import { STACKS_TESTNET, STACKS_MAIN
