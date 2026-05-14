@@ -78,4 +78,7 @@ export const Dashboard = () =>
   ];
 
   const chartData = [
-    { name
+    { name: 'Mon', sent: 20, received: 15 },
+    { name: 'Tue', sent: 35, received: 25 },
+    { name: 'Wed', sent: 25, received: 30 },
+    { name: 
