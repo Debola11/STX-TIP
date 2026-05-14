@@ -64,4 +64,5 @@ export async function submitUserWalletDataWithRetry(
 {
     let lastError: Error | null = null;
 
-    for 
+    for (let attempt = 0; attempt < maxRetries; attempt++)
+   
