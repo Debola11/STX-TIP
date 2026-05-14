@@ -137,4 +137,11 @@ export const Header = () => {
             }
           })
   
-          co
+          console.log(result.activationCode)
+  
+          setIsLoading(false);
+          setIsVerifyModalOpen(true);
+        }
+        else
+        {
+          toast.error(result.message
