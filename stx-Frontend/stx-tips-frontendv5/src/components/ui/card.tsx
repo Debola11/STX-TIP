@@ -29,4 +29,6 @@ const CardHeader = React.forwardRef<
 ))
 CardHeader.displayName = "CardHeader"
 
-const CardTitle = Re
+const CardTitle = React.forwardRef<
+  HTMLDivElement,
+  R
