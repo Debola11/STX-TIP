@@ -134,4 +134,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                             placeholder="0.00"
                             value={amount}
                             onChange={(e) => setAmount(e.target.value)}
-                   
+                        />
+                    </div>
+                    <button
+                        onClick={handleSendTip}
+                        cl
