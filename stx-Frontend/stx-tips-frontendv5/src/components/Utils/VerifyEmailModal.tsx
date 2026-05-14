@@ -16,4 +16,8 @@ interface VerifyEmailModalProps
 const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
     isOpen,
     onOpenChange,
-    us
+    userEmail,
+}) =>
+{
+    const [verificationCode, setVerificationCode] = useState('');
+    const { activationToken, activation_Code } = useContext(a
