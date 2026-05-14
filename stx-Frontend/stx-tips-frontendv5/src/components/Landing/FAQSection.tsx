@@ -90,4 +90,8 @@ export const FAQSection = () => {
                       </div>
                     </motion.div>
                   )}
-   
+                </AnimatePresence>
+              </div>
+            </motion.div>
+          ))}
+  
