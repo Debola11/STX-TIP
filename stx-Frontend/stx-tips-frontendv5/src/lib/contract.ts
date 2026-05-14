@@ -20,4 +20,6 @@ interface TipOptions {
 
 export const sendTip = async ({
   recipient,
- 
+  amount,
+  tokenType,
+  o
