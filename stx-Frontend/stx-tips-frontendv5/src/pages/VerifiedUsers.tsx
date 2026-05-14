@@ -94,4 +94,5 @@ const VerifiedUsers: React.FC = () => {
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               {users.map((user) => (
                 <Card key={user._id} className="bg-white/5 border-white/10 backdrop-blur-sm">
-   
+                  <CardHeader>
+                    <CardTitle className="text-lg text-white/90 flex items-center just
