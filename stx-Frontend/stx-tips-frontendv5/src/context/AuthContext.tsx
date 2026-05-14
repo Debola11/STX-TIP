@@ -78,4 +78,9 @@ interface User {
 
 interface AuthState {
   user: User | null;
-  activationToken: string | null
+  activationToken: string | null;
+  activation_Code: string | null;
+}
+
+type AuthAction = {
+  type: "ACTIVAT
