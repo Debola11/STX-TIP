@@ -10,4 +10,5 @@ export const StatCard: React.FC<Stat> = ({ title, value, change, icon }) => (
     <p className="text-2xl font-bold">{value}</p>
     <span className={`text-sm ${change.startsWith('+') ? 'text-green-500' : 'text-red-500'}`}>
       {change}
-    </
+    </span>
+  </div
