@@ -27,4 +27,5 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       setCurrentPage,
       walletConnected,
       setWalletConnected,
-      wall
+      walletAddress,
+      setWallet
