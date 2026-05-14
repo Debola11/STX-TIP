@@ -60,4 +60,6 @@
 //         user: state.user,
 //         token: state.token,
 //         activationToken: state.activationToken,
-/
+//         activation_Code: state.activation_Code,
+//         dispatch,
+//  
