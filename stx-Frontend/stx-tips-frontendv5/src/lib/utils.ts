@@ -1,4 +1,4 @@
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
-export function cn(...inp
+export function cn(...inputs:
