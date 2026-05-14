@@ -134,4 +134,11 @@ const VerifiedUsers: React.FC = () => {
 
       <Dialog open={isQuickSendOpen} onOpenChange={setIsQuickSendOpen}>
         <DialogContent className="sm:max-w-md bg-gray-900/95 border-white/10">
-          <QuickSend initialAddress={selectedUser?.wallet} 
+          <QuickSend initialAddress={selectedUser?.wallet} />
+        </DialogContent>
+      </Dialog>
+    </div>
+  );
+};
+
+export default VerifiedUsers;
