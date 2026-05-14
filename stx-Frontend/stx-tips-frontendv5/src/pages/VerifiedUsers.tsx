@@ -74,4 +74,5 @@ const VerifiedUsers: React.FC = () => {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950">
       <div className="relative">
         {/* Background grid pattern */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:24px_24px]" />
+   
