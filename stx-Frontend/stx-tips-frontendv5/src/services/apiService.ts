@@ -5,4 +5,4 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
 {
     try
     {
- 
+        const response = aw
