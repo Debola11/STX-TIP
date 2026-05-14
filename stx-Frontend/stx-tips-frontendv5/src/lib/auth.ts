@@ -7,4 +7,4 @@ export function authenticate() {
   showConnect({
     appDetails: {
       name: "TipStack",
-      icon: "https://raw.githubusercontent.com/stacksgov/stacksgov.g
+      icon: "https://raw.githubusercontent.com/stacksgov/stacksgov.github.io/maste
