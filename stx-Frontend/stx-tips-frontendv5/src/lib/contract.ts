@@ -37,4 +37,5 @@ export const sendTip = async ({
       anchorMode: AnchorMode.Any,
       contractAddress: CONTRACT_CONFIG.ADDRESS,
       contractName: CONTRACT_CONFIG.NAME,
-      fun
+      functionName: 'tip',
+      f
