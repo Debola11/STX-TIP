@@ -118,4 +118,9 @@ export const Footer: React.FC = () =>
               </h3>
             </div>
             <p className="text-gray-300/80">
-              Empowering global communities throug
+              Empowering global communities through secure, instant blockchain-powered tipping.
+            </p>
+            <div className="flex space-x-4">
+              <a
+                href="https://twitter.com/tipstack"
+                
