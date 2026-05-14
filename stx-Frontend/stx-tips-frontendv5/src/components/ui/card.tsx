@@ -41,4 +41,6 @@ const CardTitle = React.forwardRef<
 ))
 CardTitle.displayName = "CardTitle"
 
-const CardDescription = React
+const CardDescription = React.forwardRef<
+  HTMLDivElement,
+  Reac
