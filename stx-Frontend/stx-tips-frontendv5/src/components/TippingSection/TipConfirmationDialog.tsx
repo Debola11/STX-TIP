@@ -142,4 +142,7 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                         <CheckCircle className="w-5 h-5 text-green-500 mt-1 flex-shrink-0" />
                         <p>
                           Sending to verified user{' '}
-                          <span className="font-medium text-violet-900">{userInfo.email}</sp
+                          <span className="font-medium text-violet-900">{userInfo.email}</span>
+                          <br />
+                          <span className="text-sm text-gray-500">{recipientInput}</span>
+                      
