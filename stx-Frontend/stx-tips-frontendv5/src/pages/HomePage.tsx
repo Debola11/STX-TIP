@@ -20,4 +20,4 @@ export const HomePage: React.FC = () => {
         <TippingSection />
         <HowItWorksSection />
         <FAQSection />
-        <N
+        <NewsletterSection />
