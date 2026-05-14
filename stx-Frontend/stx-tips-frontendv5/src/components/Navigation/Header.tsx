@@ -210,4 +210,7 @@ export const Header = () => {
                   <span className="absolute top-0 right-0 h-2 w-2 bg-red-500 rounded-full"></span>
                 </button>
                 
-                <div className="hidden md:flex items-center px-4 py-2 bg-gradient-to-r from-violet-600/10 to-purple-600/10 rounded-lg border border-purple-100
+                <div className="hidden md:flex items-center px-4 py-2 bg-gradient-to-r from-violet-600/10 to-purple-600/10 rounded-lg border border-purple-100">
+                  <WalletIcon className="h-4 w-4 text-purple-600 mr-2" />
+                  <span className="text-sm font-medium text-purple-700">
+                    {for
