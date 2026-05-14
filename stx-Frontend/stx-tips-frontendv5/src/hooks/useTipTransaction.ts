@@ -68,4 +68,7 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
   };
 
   return {
-    pro
+    processTip,
+    isProcessing
+  };
+};
