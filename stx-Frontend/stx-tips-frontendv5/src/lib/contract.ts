@@ -13,4 +13,5 @@ import { CONTRACT_CONFIG } from './constants';
 interface TipOptions {
   recipient: string;
   amount: number;
-  tokenType: s
+  tokenType: string;
+  onSuccess?: (dat
