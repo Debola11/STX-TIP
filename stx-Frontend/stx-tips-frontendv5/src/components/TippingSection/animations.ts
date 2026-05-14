@@ -10,4 +10,4 @@ export const containerVariants = {
     }
   };
   
-  export const itemVari
+  export const itemVariants = {
