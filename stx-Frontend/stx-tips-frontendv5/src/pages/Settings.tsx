@@ -121,3 +121,7 @@ export const Settings: React.FC = () => {
           </div>
           <div className="space-y-4">
             <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">Default Tip Amount</label>
+              <div className="relative">
+                <input 
+     
