@@ -7,4 +7,8 @@
 // };
 
 // // Prepare contract call arguments
-// export const prepareTipArgs = (recipient: string, amount: stri
+// export const prepareTipArgs = (recipient: string, amount: string) =>
+// {
+//     try
+//     {
+//         const microSt
