@@ -94,4 +94,7 @@ export const Dashboard = () =>
       {/* Header Stats */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {stats.map((stat, index) => (
-          <Card key={i
+          <Card key={index}>
+            <CardHeader className="flex flex-row items-center justify-between pb-2">
+              {stat.icon}
+              <span
