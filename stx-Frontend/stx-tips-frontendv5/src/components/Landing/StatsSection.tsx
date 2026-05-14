@@ -129,4 +129,8 @@ export const StatsSection = () =>
                     </motion.p>
 
                     <p className=" mt-1 text-lg font-semibold text-gray-900">{stat.label}</p>
-                  </div
+                  </div>
+
+                  <p className="mt-0.5 text-xs text-gray-500">{stat.subtext}</p>
+
+ 
