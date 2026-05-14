@@ -26,4 +26,4 @@ export const sendTip = async ({
   onError
 }: TipOptions) => {
   try {
-  
+    const functionArgs = [
