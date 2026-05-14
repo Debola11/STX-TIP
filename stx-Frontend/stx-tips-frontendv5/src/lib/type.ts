@@ -7,4 +7,6 @@ export interface Stat {
   
   export interface NavItem {
     name: string;
-    icon: React.Re
+    icon: React.ReactNode;
+    id: string;
+ 
