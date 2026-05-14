@@ -1,1 +1,2 @@
-import { ChartData } 
+import { ChartData } from '@/lib/type';
+im
