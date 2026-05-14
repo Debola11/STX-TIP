@@ -1,2 +1,4 @@
 import React from 'react';
-import { Gift, Chevr
+import { Gift, ChevronRight, Lock } from 'lucide-react';
+
+interface
