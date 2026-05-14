@@ -72,3 +72,7 @@ const numberVariants = {
 };
 
 export const StatsSection = () =>
+{
+  return (
+    <div className="relative pt-12 pb-8 bg-gray-50">
+      <div classNam
