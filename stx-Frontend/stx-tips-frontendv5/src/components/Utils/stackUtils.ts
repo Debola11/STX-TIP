@@ -57,4 +57,5 @@ export const serializeCV = (cv: ClarityValue): any => {
 // Prepare contract call arguments with improved error handling
 export const prepareTipArgs = (recipient: string, amount: string) => {
   try {
-    if (!recipient || !amount) 
+    if (!recipient || !amount) {
+      throw new Error('Recipient and amount are requir
