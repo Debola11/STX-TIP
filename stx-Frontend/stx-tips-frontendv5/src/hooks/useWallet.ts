@@ -39,4 +39,5 @@
 // };
 
 import { useState, useCallback } from 'react';
-import { 
+import { showConnect } from '@stacks/connect';
+import { useCon
