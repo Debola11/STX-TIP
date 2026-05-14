@@ -24,4 +24,6 @@ export const sendTip = async ({
   tokenType,
   onSuccess,
   onError
-}: Ti
+}: TipOptions) => {
+  try {
+  
