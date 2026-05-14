@@ -29,4 +29,7 @@ export const Settings: React.FC = () => {
                 <p className="font-medium">Tip Notifications</p>
                 <p className="text-sm text-gray-500">Get notified when you receive tips</p>
               </div>
-        
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={notifications.ti
