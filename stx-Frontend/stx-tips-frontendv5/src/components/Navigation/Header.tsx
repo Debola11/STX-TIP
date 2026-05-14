@@ -188,4 +188,8 @@ export const Header = () => {
               >
                 {currentPage === 'home' ? (
                   <>
-                    <Layout className="h-6
+                    <Layout className="h-6 w- text-purple-600" />
+                    <span className="md:flex hidden ">Dashboard</span>
+                  </>
+                ) : (
+                  <div className="f
