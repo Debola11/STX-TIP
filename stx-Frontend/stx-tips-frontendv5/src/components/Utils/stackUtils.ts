@@ -40,3 +40,6 @@ export const toMicroStacks = (amount: string): number => {
     console.error('Error converting to microStacks:', error);
     throw error;
   }
+};
+
+// Serialize Clarity Value to a format the contract 
