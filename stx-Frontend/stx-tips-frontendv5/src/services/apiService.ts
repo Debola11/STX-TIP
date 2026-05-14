@@ -18,3 +18,5 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
         throw error;
     }
 };
+
+export const notifyTipSen
