@@ -10,4 +10,4 @@ export const NETWORK = IS_MAINNET ? STACKS_MAINNET : STACKS_TESTNET;
 //   : 'https://stacks-node-api.testnet.stacks.co';
 
 // Contract details
-export const CONTRACT_ADDRESS = 'ST3P8GST1CH1QTD2W8VQ9BT6
+export const CONTRACT_ADDRESS = 'ST3P8GST1CH1QTD2W8VQ9BT60EPBQFWDN9DR
