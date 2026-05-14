@@ -29,4 +29,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             let errorMessage = 'Failed to submit user data';
             try
             {
-                const errorData = await response.
+                const errorData = await response.json();
+                errorMessage = errorData.messa
