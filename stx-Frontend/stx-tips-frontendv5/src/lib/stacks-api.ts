@@ -79,4 +79,7 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
             senderAddress: CONTRACT_ADDRESS,
         });
 
-        return result
+        return result;
+    } catch (error)
+    {
+        console.err
