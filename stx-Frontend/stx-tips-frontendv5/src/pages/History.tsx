@@ -3,4 +3,5 @@ import { Search, Filter } from 'lucide-react';
 import { Transaction } from '@/lib/type';
 
 export const History: React.FC = () => {
-  const 
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filter,
