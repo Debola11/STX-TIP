@@ -46,3 +46,5 @@ export const toMicroStacks = (amount: string): number => {
 export const serializeCV = (cv: ClarityValue): any => {
   switch (cv.type) {
     case ClarityType.UInt:
+      return cv.value.toString();
+    case ClarityType.S
