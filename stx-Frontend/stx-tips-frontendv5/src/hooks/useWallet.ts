@@ -57,3 +57,6 @@ export const useWallet = () => {
   });
 
   const connectWallet = useCallback(async () => {
+    showConnect({
+      appDetails: {
+        name: 
