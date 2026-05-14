@@ -17,4 +17,8 @@ const VerifiedUsers: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [selectedUser, setSelectedUser] = useState<VerifiedUser | null>(null);
   const [isQuickSendOpen, setIsQuickSendOpen] = useState(false);
-  const [copiedWallet, 
+  const [copiedWallet, setCopiedWallet] = useState<string | null>(null);
+
+  useEffect(() => {
+    const fetchUsers = async () => {
+      
