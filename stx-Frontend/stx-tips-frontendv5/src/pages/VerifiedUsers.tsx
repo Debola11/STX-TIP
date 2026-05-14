@@ -103,4 +103,6 @@ const VerifiedUsers: React.FC = () => {
                   <CardContent>
                     <div className="space-y-4">
                       <div className="flex items-center justify-between bg-white/5 rounded-lg p-2">
-                        <code className="text-sm text-v
+                        <code className="text-sm text-violet-300 truncate">
+                          {user.wallet.slice(0, 6)}...{user.wallet.slice(-4)}
+               
