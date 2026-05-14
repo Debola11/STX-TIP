@@ -60,4 +60,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   const checkUserExists = async (walletAddress: string | null) => {
     if (!walletAddress) return;
 
-  
+    try {
+      const response = await fetch(`https://stx-tip.onrender.com/api/v1/users/exists?wallet=${walletAddress.toLowerCase()}`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'ap
