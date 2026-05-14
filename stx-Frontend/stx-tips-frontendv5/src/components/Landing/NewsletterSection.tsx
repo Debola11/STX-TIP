@@ -68,4 +68,4 @@ export const NewsletterSection = () => {
               <button
                 type="submit"
                 disabled={isSubmitting || isSuccess || !email}
-         
+                className="px-4 py-1.5 rounded-md bg-gradient-to-r from-indigo-500 to-vio
