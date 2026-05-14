@@ -64,4 +64,4 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     const microStacks = toMicroStacks(amount);
     
     // Create Clarity Values
-    const recipien
+    const recipientCV = stringAsciiCV(recipient);  // Changed from stringU
