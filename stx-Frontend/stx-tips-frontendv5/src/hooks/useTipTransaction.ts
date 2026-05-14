@@ -5,4 +5,6 @@ import { NETWORK, CONTRACT_ADDRESS, CONTRACT_NAME } from '@/config/stacks';
 import { prepareTipArgs } from '../components/Utils/stackUtils';
 import { notifyTipSent } from '../services/apiService';
 
-interface UseTipTransa
+interface UseTipTransactionProps {
+  onSuccess: () => void;
+  onError
