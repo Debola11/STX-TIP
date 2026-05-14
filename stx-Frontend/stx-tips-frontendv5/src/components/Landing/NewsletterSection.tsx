@@ -24,4 +24,7 @@ export const NewsletterSection = () => {
     <div className="relative overflow-hidden bg-gradient-to-b from-blue-100 via-indigo-200 to-violet-300 py-16 rounded-lg">
       {/* Compact background effects */}
       <div className="absolute top-1/4 right-1/4 w-72 h-72 bg-blue-400/20 rounded-full blur-3xl animate-pulse" />
-      <div className="absolute bottom-1/4 left-1/4 w-72 h-72 bg-violet-400/20 rounded-full blur-3xl animate
+      <div className="absolute bottom-1/4 left-1/4 w-72 h-72 bg-violet-400/20 rounded-full blur-3xl animate-pulse delay-700" />
+
+      <motion.div 
+        className="relative max-w-7xl m
