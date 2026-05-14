@@ -179,4 +179,8 @@ export const TippingSection: React.FC = () =>
                   Processing...
                 </>
               ) : (
-                <
+                <>
+                  <span>Send Tip</span>
+                  <ArrowRight className="h-5 w-5" />
+                </>
+          
