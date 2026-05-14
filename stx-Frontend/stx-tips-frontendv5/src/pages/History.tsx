@@ -55,3 +55,4 @@ export const History: React.FC = () => {
             <div key={tx.id} className="grid grid-cols-4 gap-4 p-4 hover:bg-gray-50 transition-colors">
               <div className="font-medium">{tx.sender.slice(0, 6)}...{tx.sender.slice(-4)}</div>
               <div className="font-medium">{tx.recipient.slice(0, 6)}...{tx.recipient.slice(-4)}</div>
+              <div className="text-violet-600 font-medium">{
