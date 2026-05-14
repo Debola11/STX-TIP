@@ -52,4 +52,7 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
             senderAddress: sender,
         });
 
-        return 
+        return result;
+    } catch (error)
+    {
+        conso
