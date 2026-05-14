@@ -139,4 +139,7 @@ export const TippingSection: React.FC = () =>
         <motion.div className="lg:col-span-3 space-y-6" variants={itemVariants}>
           <RecipientInput
             recipientInput={recipientInput}
-         
+            setRecipientInput={setRecipientInput}
+            searching={searching}
+            validationError={validationError}
+    
