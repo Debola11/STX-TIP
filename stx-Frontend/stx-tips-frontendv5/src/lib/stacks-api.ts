@@ -3,4 +3,6 @@ import
     {
         fetchCallReadOnlyFunction as callReadOnlyFunction,
         standardPrincipalCV,
-        uin
+        uintCV,
+        stringAsciiCV,
+    } from '@stacks
