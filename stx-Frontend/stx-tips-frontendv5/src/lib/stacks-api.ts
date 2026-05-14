@@ -71,4 +71,5 @@ export async function sendTip(recipient: string, amount: number, tokenType: stri
             contractAddress: CONTRACT_ADDRESS,
             contractName: CONTRACT_NAME,
             functionName,
-        
+            functionArgs: [
+                standardPri
