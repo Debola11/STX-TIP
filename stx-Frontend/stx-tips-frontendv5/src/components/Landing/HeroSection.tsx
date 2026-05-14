@@ -105,4 +105,14 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         },
         body: JSON.stringify({
           email: email.trim().toLowerCase(),
-          wa
+          wallet: walletAddress
+        }),
+      });
+
+      const result = await response.json();
+
+      if (response.ok) {
+        dispatch({
+          type: "ACTIVATE_USER",
+          payload: {
+            activati
