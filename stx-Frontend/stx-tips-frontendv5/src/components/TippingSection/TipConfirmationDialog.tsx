@@ -85,4 +85,13 @@ const contentVariants = {
   visible: {
     opacity: 1,
     y: 0,
-    transition:
+    transition: {
+      delay: 0.1,
+      duration: 0.2
+    }
+  }
+};
+
+export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
+  open,
+  onOpen
