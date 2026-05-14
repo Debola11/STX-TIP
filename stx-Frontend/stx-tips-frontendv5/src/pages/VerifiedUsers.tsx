@@ -92,4 +92,6 @@ const VerifiedUsers: React.FC = () => {
             </div>
           ) : (
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {users
+              {users.map((user) => (
+                <Card key={user._id} className="bg-white/5 border-white/10 backdrop-blur-sm">
+   
