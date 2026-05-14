@@ -15,4 +15,8 @@ const statsData = [
     label: 'Active Users',
     subtext: 'Growing community',
     icon: Users,
-    growt
+    growth: '+85% this month',
+    color: 'from-violet-500 to-purple-500'
+  },
+  {
+    value: '
