@@ -13,4 +13,6 @@ interface VerifiedUser {
 }
 
 const VerifiedUsers: React.FC = () => {
-  const [users, setUsers] = useState<Verified
+  const [users, setUsers] = useState<VerifiedUser[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [selectedUser, setSelectedUser] = useState<Ve
