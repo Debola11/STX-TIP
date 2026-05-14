@@ -43,4 +43,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         functionArgs: args,
         postConditionMode: PostConditionMode.Allow,
         onFinish: async (data: { txId: string }) => {
-          console.log('Transaction succ
+          console.log('Transaction successful:', data);
+          try {
+            aw
