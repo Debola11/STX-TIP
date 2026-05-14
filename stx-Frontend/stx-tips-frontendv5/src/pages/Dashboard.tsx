@@ -119,4 +119,7 @@ export const Dashboard = () =>
             <CardDescription>Your sending and receiving patterns</CardDescription>
           </CardHeader>
           <CardContent>
-            <div className=
+            <div className="h-[300px]">
+              <ResponsiveContainer width="100%" height="100%">
+                <LineChart data={chartData}>
+                
