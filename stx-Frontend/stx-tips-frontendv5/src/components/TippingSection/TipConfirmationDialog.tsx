@@ -135,4 +135,7 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     variants={contentVariants}
                     initial="hidden"
                     animate="visible"
-      
+                    className="space-y-2"
+                  >
+                    {userInfo.found ? (
+                      <div className="flex items-star
