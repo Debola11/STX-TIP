@@ -6,4 +6,6 @@ import { NavItem } from '@/lib/type';
 export const Sidebar: React.FC = () => {
   const { isOpen, setIsOpen, currentPage, setCurrentPage } = useAppContext();
 
- 
+  console.log("isOpen", isOpen);
+
+  const
