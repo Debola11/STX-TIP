@@ -71,4 +71,5 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
             <DialogContent className="sm:max-w-md border border-violet-200/10 bg-white dark:bg-gray-900 shadow-2xl shadow-violet-500/10">
                 <div className="relative overflow-hidden rounded-lg p-6">
-             
+                    {/* Animated gradient accent */}
+                    {/* <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-violet-5
