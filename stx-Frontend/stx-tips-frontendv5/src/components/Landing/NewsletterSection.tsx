@@ -60,4 +60,5 @@ export const NewsletterSection = () => {
               <input
                 type="email"
                 value={email}
-                onChan
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder="Enter your ema
