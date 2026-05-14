@@ -4,4 +4,4 @@ export const NETWORK_CONFIG = {
 };
 
 // Contract configuration
-expo
+export const 
