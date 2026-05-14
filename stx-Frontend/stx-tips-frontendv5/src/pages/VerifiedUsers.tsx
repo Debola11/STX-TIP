@@ -124,4 +124,9 @@ const VerifiedUsers: React.FC = () => {
                         Send Tip
                       </Button>
                     </div>
-    
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          )}
+        </d
