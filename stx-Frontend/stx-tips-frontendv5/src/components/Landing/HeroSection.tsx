@@ -243,4 +243,12 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
       </div>
 
       {/* Add QuickSend Modal */}
-      <Dialog open={isQuickSendOpen} onOpenChange
+      <Dialog open={isQuickSendOpen} onOpenChange={setIsQuickSendOpen}>
+        <DialogContent className="sm:max-w-md">
+          <QuickSend />
+        </DialogContent>
+      </Dialog>
+
+      {/* Keep existing modals */}
+      <EmailModal
+        isOpen={
