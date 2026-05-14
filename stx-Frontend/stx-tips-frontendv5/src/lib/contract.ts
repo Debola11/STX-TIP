@@ -28,4 +28,5 @@ export const sendTip = async ({
   try {
     const functionArgs = [
       stringAsciiCV(recipient),
-      uintCV(amoun
+      uintCV(amount),
+      stringAsciiCV(t
