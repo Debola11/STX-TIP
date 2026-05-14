@@ -130,4 +130,17 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
       setIsEmailModalOpen(false);
     } catch (error: any) {
       console.error('Failed to save user data:', error);
-      toast.error(error.mess
+      toast.error(error.message);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleStartGiving = () => {
+    if (isAuthenticated) {
+      setIsQuickSendOpen(true);
+    }
+  };
+
+  return (
+    <div className="relativ
