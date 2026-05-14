@@ -5,4 +5,5 @@ export interface Stat {
     icon?: React.ReactNode;
   }
   
-  export inte
+  export interface NavItem {
+    name: 
