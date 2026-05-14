@@ -53,4 +53,6 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
       </div>
 
       <AnimatePresence>
-        {
+        {validationError && (
+          <motion.div
+            initial={{ op
