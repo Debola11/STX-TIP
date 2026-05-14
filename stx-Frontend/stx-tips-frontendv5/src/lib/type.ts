@@ -58,4 +58,4 @@ export interface TipHistoryEntry {
   timestamp: number;
 }
 
-export int
+export interface RawTipHistoryEntry 
