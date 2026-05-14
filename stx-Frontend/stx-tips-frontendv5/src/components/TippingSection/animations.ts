@@ -15,4 +15,5 @@ export const containerVariants = {
     visible: {
       opacity: 1,
       x: 0,
-      transition: { duration: 
+      transition: { duration: 0.4 }
+  
