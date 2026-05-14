@@ -67,4 +67,8 @@
 //                   Privacy Policy
 //                 </a>
 //               </li>
-//  
+//               <li>
+//                 <a href="/terms" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Terms of Service
+//                 </a>
+//        
