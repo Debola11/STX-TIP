@@ -16,4 +16,5 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
           {transaction.sender.slice(0, 6)}...{transaction.sender.slice(-4)}
         </p>
         <p className="text-sm text-gray-500">
-          {new Date(transaction.timestamp).toLocale
+          {new Date(transaction.timestamp).toLocaleString()}
+        </
