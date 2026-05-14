@@ -1,3 +1,6 @@
 import { FC, useContext, useState } from 'react';
 import { Sparkles, CheckCircle2 } from 'lucide-react';
-import { Dialog, DialogContent } from '
+import { Dialog, DialogContent } from '@/components/ui/dialog';
+import { toast } from 'react-hot-toast';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/comp
