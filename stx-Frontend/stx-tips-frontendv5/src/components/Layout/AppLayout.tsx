@@ -49,4 +49,6 @@ export const AppLayout: React.FC = () =>
             <main className="pt-16 lg:pl-64">
                 <div className="p-6">
                     {renderPage()}
-                <
+                </div>
+            </main>
+     
