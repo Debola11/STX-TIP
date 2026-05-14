@@ -34,4 +34,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             } catch (e)
             {
                 // If error response is not JSON, use status text
-                errorMessage = respons
+                errorMessage = response.statusText;
+            }
+            throw new APIE
