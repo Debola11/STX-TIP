@@ -85,4 +85,5 @@ export const FAQSection = () => {
                       transition={{ duration: 0.2 }}
                       className="overflow-hidden"
                     >
-                      <div
+                      <div className="px-6 pb-4 text-gray-300/90 border-t border-white/10">
+                        {faq.
