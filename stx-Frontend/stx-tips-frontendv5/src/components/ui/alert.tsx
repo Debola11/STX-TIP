@@ -35,4 +35,5 @@ Alert.displayName = "Alert"
 const AlertTitle = React.forwardRef<
   HTMLParagraphElement,
   React.HTMLAttributes<HTMLHeadingElement>
->(({ classN
+>(({ className, ...props }, ref) => (
+  <h5
