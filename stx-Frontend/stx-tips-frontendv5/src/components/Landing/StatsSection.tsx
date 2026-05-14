@@ -84,4 +84,6 @@ export const StatsSection = () =>
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
       >
-        <div className="te
+        <div className="text-center mb-10">
+          <motion.h2
+            className="text-2xl font-bold bg-gr
