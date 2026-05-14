@@ -44,4 +44,8 @@ export const Settings: React.FC = () => {
               <div>
                 <p className="font-medium">Milestone Alerts</p>
                 <p className="text-sm text-gray-500">Get notified when you reach milestones</p>
-   
+              </div>
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input
+                  type="checkbox"
+                 
