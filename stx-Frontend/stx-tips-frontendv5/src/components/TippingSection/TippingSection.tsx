@@ -123,4 +123,7 @@ export const TippingSection: React.FC = () =>
       className="bg-gradient-to-br from-white to-gray-50 rounded-3xl shadow-lg p-8 relative overflow-hidden"
       variants={containerVariants}
       initial="hidden"
-      ani
+      animate="visible"
+      id="send-tip"
+    >
+      <div className="absolute top-0 right-0 w-1/2 h-1/2 bg-gradient-to-br from-viol
