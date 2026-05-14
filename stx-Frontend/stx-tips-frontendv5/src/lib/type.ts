@@ -67,4 +67,5 @@ export interface RawTipHistoryEntry {
 
 export interface SendTipParams {
   recipient: string;
- 
+  amount: number;
+  tokenTy
