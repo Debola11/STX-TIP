@@ -94,4 +94,7 @@ const DialogTitle = React.forwardRef<
       "text-lg font-semibold leading-none tracking-tight",
       className
     )}
- 
+    {...props}
+  />
+))
+DialogTitle.displayName = DialogPrimitive.Title.displayNa
