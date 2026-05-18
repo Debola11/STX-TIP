@@ -10,4 +10,4 @@ import './index.css';
 // Configure Connect for Stacks authentication
 const appConfig = {
   name: 'TipStack',
-  icon: window
+  icon: window.location.origin
