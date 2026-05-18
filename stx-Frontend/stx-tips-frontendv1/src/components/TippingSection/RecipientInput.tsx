@@ -15,4 +15,5 @@ interface RecipientInputProps {
   disabled?: boolean;
 }
 
-ex
+export const RecipientInput: React.FC<RecipientInputProps> = ({
+  reci
