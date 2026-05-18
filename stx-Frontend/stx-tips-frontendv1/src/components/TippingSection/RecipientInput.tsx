@@ -4,4 +4,5 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Alert, AlertDescription } from '@/components/ui/alert';
 
 interface RecipientInputProps {
-  re
+  recipientInput: string;
+  setRecipientInput: (value: string) => void;
