@@ -22,4 +22,5 @@ const EmailModal: FC<EmailModalProps> = ({
   isLoading
 }) => (
   <Dialog open={isOpen} onOpenChange={onOpenChange}>
-    <DialogContent className="sm:max-w-md border-0 bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950 shad
+    <DialogContent className="sm:max-w-md border-0 bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950 shadow-xl shadow-violet-500/20">
+      <div className="relative overflow-hidden 
