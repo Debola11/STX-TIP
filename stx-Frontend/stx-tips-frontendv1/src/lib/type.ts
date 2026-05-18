@@ -52,4 +52,6 @@ export interface RawUserStats {
 }
 
 export interface TipHistoryEntry {
-  amount: 
+  amount: number;
+  fee: number;
+  t
