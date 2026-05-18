@@ -7,4 +7,7 @@
 //   activation_Code: localStorage.getItem("activation_Code")
 // };
 
-// expo
+// export const authContext = createContext(initialState);
+
+// interface State {
+/
