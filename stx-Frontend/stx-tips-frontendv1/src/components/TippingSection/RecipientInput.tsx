@@ -20,4 +20,8 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
   setRecipientInput,
   searching,
   validationError,
-  u
+  userInfo,
+  disabled = false
+}) => {
+  return (
+    <div className="s
