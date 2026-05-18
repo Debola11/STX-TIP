@@ -123,4 +123,8 @@ export const Footer: React.FC = () =>
             <div className="flex space-x-4">
               <a
                 href="https://twitter.com/tipstack"
-                
+                className="group relative p-2 bg-white/5 rounded-lg hover:bg-white/10 transition-all duration-200"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+    
