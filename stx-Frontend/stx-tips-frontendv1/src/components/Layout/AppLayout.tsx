@@ -34,4 +34,5 @@ export const AppLayout: React.FC = () =>
             case 'history':
                 return <History />;
             case 'rewards':
-                return
+                return <Rewards />;
+            case 
