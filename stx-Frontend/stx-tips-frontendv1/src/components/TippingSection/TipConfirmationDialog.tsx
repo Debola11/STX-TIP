@@ -76,4 +76,13 @@ interface TipConfirmationDialogProps
     found?: boolean;
   };
   onConfirm: () => Promise<void>;
-  
+  transactionInProgress: boolean;
+}
+
+
+const contentVariants = {
+  hidden: { opacity: 0, y: 10 },
+  visible: {
+    opacity: 1,
+    y: 0,
+    transition:
