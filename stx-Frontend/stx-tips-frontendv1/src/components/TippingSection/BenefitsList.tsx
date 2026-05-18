@@ -29,4 +29,6 @@ export const BenefitsList: React.FC = () => {
           >
             <CheckCircle className="h-5 w-5 text-violet-600 shrink-0 mt-0.5" />
             <span>{benefit}</span>
-          </motion.l
+          </motion.li>
+        ))}
+      </ul
