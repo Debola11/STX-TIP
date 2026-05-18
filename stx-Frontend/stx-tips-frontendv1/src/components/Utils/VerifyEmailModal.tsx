@@ -134,4 +134,7 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             </Button>
 
                             <div className="text-center space-y-2">
-                                <p className="text-sm text-gray-500 da
+                                <p className="text-sm text-gray-500 dark:text-gray-400">
+                                    Didn't receive the code?
+                                </p>
+                           
