@@ -95,4 +95,6 @@ const VerifiedUsers: React.FC = () => {
               {users.map((user) => (
                 <Card key={user._id} className="bg-white/5 border-white/10 backdrop-blur-sm">
                   <CardHeader>
-                    <CardTitle className="text-lg text-white/90 flex items-center just
+                    <CardTitle className="text-lg text-white/90 flex items-center justify-between">
+                      <span className="truncate">{user.email}</span>
+                      <CheckCir
