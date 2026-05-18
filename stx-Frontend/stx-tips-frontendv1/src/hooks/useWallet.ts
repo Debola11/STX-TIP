@@ -65,4 +65,8 @@ export const useWallet = () => {
       onFinish: () => {
         setWalletState({
           walletConnected: true,
-          walletAddress: walletState.walletAddre
+          walletAddress: walletState.walletAddress,
+        });
+      },
+      onCancel: () => {
+    
