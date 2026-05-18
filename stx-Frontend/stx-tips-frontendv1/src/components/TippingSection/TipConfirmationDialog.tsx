@@ -10,4 +10,9 @@
 //   AlertDialogTitle,
 // } from "@/components/ui/alert-dialog";
 
-// interface TipConfir
+// interface TipConfirmationDialogProps {
+//   open: boolean;
+//   onOpenChange: (open: boolean) => void;
+//   amount: string;
+//   recipientInput: string;
+//   userInfo: 
