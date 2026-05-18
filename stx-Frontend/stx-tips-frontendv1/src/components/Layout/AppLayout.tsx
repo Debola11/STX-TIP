@@ -41,3 +41,6 @@ export const AppLayout: React.FC = () =>
                 return <Dashboard />;
         }
     };
+
+    return (
+        <div cla
