@@ -31,3 +31,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
         />
       </LineChart>
     </ResponsiveContainer>
+  </div>
+);
