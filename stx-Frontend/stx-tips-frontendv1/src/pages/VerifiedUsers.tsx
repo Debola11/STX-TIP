@@ -81,4 +81,5 @@ const VerifiedUsers: React.FC = () => {
             <h1 className="text-3xl font-bold bg-gradient-to-r from-violet-300 to-purple-300 bg-clip-text text-transparent mb-4">
               Verified Users
             </h1>
-            <p className="text-gr
+            <p className="text-gray-300/80 max-w-2xl mx-auto">
+              Send tips to verified community members instantly and securely through
