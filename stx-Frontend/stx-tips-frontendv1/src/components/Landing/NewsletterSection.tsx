@@ -77,4 +77,6 @@ export const NewsletterSection = () => {
                 ) : (
                   <>
                     Subscribe
-                
+                    <Send className="w-3 h-3 ml-1.5" />
+                  </>
+                )}
