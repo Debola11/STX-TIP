@@ -6,4 +6,10 @@ const containerVariants = {
   visible: {
     opacity: 1,
     transition: {
-      stag
+      staggerChildren: 0.2
+    }
+  }
+};
+
+const itemVariants = {
+  hidden: { opacity:
