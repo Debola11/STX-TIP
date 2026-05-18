@@ -5,4 +5,5 @@ import { itemVariants } from './animations';
 
 const benefits = [
   "Instant, secure transactions on Stacks blockchain",
-  "Earn rewards and badges for your co
+  "Earn rewards and badges for your contributions",
+  "Support 
