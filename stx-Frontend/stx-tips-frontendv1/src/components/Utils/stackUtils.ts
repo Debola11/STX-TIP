@@ -81,4 +81,8 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
 
     return { 
       recipient,
-      amoun
+      amount,
+      microStacks,
+      args
+    };
+  } catch (error
