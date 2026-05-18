@@ -17,4 +17,6 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
         </p>
         <p className="text-sm text-gray-500">
           {new Date(transaction.timestamp).toLocaleString()}
-        </
+        </p>
+      </div>
+    
