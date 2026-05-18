@@ -74,4 +74,11 @@ export const TippingSection: React.FC = () =>
       if (!walletConnected)
       {
         setValidationError('Please connect your wallet first to continue');
-      } el
+      } else
+      {
+        setValidationError('Unverified wallet address');
+      }
+    } finally
+    {
+      setSearching(false);
+  
