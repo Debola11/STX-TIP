@@ -37,4 +37,6 @@ export const HowItWorksSection = () => {
       gradient: "from-purple-500 to-fuchsia-500"
     },
     {
-      icon: TrendingUp
+      icon: TrendingUp,
+      title: "Send & Earn",
+      description: "Send your tip and earn r
