@@ -14,4 +14,5 @@ interface TipOptions {
   recipient: string;
   amount: number;
   tokenType: string;
-  onSuccess?: (dat
+  onSuccess?: (data: any) => void;
+  onErro
