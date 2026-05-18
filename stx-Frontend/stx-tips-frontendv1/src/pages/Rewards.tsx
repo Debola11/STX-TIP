@@ -38,4 +38,4 @@ export const Rewards: React.FC = () => {
     <div className="space-y-6">
       <h1 className="text-2xl font-bold">Rewards</h1>
 
-      <div className="bg-gradient-to-r fro
+      <div className="bg-gradient-to-r from-violet-600 to-purple-600 rounded-xl shadow-sm
