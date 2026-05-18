@@ -6,3 +6,4 @@ export default {
   	extend: {
   		borderRadius: {
   			lg: 'var(--radius)',
+  			md: 'calc(var(--radius) - 
