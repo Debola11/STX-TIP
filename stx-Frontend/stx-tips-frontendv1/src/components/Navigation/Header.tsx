@@ -93,4 +93,10 @@ export const Header = () => {
     }
   };
 
-  const toggleDashboard =
+  const toggleDashboard = () => {
+    setCurrentPage(currentPage === 'home' ? 'dashboard' : 'home');
+  };
+
+  const formatWalletAddress = (address: string) => {
+    if (!address) return '';
+    return
