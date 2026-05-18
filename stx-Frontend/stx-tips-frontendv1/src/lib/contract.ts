@@ -18,4 +18,6 @@ interface TipOptions {
   onError?: (error: any) => void;
 }
 
-export const sendTip 
+export const sendTip = async ({
+  recipient,
+ 
