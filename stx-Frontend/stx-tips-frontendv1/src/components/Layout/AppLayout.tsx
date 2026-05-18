@@ -46,4 +46,4 @@ export const AppLayout: React.FC = () =>
         <div className="min-h-screen bg-gray-50">
             <Sidebar />
             <Header />
-            
+            <main className="pt-16 lg:pl-64
