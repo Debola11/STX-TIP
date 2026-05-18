@@ -136,4 +136,7 @@ export const TippingSection: React.FC = () =>
       </motion.h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
-        <motion.div className="lg:c
+        <motion.div className="lg:col-span-3 space-y-6" variants={itemVariants}>
+          <RecipientInput
+            recipientInput={recipientInput}
+         
