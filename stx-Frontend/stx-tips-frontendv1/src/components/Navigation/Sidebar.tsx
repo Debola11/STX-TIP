@@ -40,4 +40,4 @@ export const Sidebar: React.FC = () => {
       </nav>
 
       <div className="absolute bottom-6 left-6 right-6">
-        <
+        <button className="flex items-center spac
