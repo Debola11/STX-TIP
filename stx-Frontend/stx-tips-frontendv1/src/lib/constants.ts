@@ -10,4 +10,4 @@ export const CONTRACT_CONFIG = {
 };
 
 // App configuration
-export co
+export const APP_C
