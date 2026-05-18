@@ -29,4 +29,9 @@
 //   amount,
 //   recipientInput,
 //   userInfo,
-/
+//   onConfirm,
+//   transactionInProgress,
+// }) => {
+//   return (
+//     <AlertDialog open={open} onOpenChange={onOpenChange}>
+//       <AlertDialo
