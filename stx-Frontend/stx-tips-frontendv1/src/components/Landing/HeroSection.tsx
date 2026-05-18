@@ -167,3 +167,11 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
             <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
               <span className="text-transparent bg-gradient-to-r from-violet-300 to-purple-300 bg-clip-text">
+                Empower Communities
+              </span>
+              <br />
+              <span className="text-white/90">
+                Through Digital Giving
+              </span>
+            </h1>
+
