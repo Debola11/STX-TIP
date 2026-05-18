@@ -61,4 +61,7 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
       throw new Error('Recipient and amount are required');
     }
 
-    const microStacks = toMicroStacks(amoun
+    const microStacks = toMicroStacks(amount);
+    
+    // Create Clarity Values
+    const recipien
