@@ -68,4 +68,5 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     const amountCV = uintCV(microStacks);
     const currencyCV = stringAsciiCV('STX');  // Changed from stringUtf8CV to stringAsciiCV
 
-    // Cre
+    // Create args array with serialized values
+    const args = [
