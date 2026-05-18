@@ -69,4 +69,5 @@ const EmailModal: FC<EmailModalProps> = ({
                   <span>Setting up your profile...</span>
                 </div>
               ) : (
-      
+                <div className="flex items-center justify-center space-x-2">
+     
