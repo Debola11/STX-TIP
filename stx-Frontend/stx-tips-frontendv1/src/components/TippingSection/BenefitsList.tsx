@@ -10,4 +10,4 @@ const benefits = [
   "Track all your transactions in one place"
 ];
 
-export co
+export const BenefitsList: React.F
