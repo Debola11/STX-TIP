@@ -25,4 +25,6 @@ export const BenefitsList: React.FC = () => {
           <motion.li 
             key={index}
             className="flex items-start gap-3 text-gray-600"
-            variants={itemVariant
+            variants={itemVariants}
+          >
+          
