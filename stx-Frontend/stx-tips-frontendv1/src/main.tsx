@@ -1,3 +1,3 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { Connect } from '@sta
+import { Connect } from '@stacks/connect-reac
