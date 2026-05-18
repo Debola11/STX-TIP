@@ -110,4 +110,6 @@ export const StatsSection = () =>
             return (
               <motion.div
                 key={index}
-   
+                variants={cardVariants}
+                whileHover="hover"
+              
