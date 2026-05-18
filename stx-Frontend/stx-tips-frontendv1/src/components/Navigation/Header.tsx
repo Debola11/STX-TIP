@@ -12,3 +12,8 @@ import toast from 'react-hot-toast';
 import { authContext } from '@/context/AuthContext';
 import EmailModal from '../Utils/EmailModal';
 import VerifyEmailModal from '../Utils/VerifyEmailModal';
+
+export const Header = () => {
+  const [email, setEmail] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
+  const [userData, setUserData] = useState<User
