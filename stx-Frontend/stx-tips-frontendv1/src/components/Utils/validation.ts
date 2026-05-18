@@ -1,1 +1,1 @@
-export const validateStacksAddress = (address: strin
+export const validateStacksAddress = (address: string): 
