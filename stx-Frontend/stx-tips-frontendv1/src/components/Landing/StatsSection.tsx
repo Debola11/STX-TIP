@@ -103,4 +103,7 @@ export const StatsSection = () =>
           </motion.p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {statsData.map((stat, index) =>
+          {
+            const Icon = sta
