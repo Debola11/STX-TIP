@@ -23,4 +23,6 @@ export const AppLayout: React.FC = () =>
         );
     }
 
-    const rend
+    const renderPage = () =>
+    {
+        sw
