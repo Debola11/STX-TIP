@@ -23,4 +23,8 @@
 //           <div>
 //             <h3 className="text-lg font-bold mb-4">Product</h3>
 //             <ul className="space-y-2">
-//  
+//               <li>
+//                 <a href="#features" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Features
+//                 </a>
+//             
