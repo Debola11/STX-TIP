@@ -43,4 +43,6 @@ export const toMicroStacks = (amount: string): number => {
 };
 
 // Serialize Clarity Value to a format the contract expects
-export const serializeCV = (cv: ClarityValue): a
+export const serializeCV = (cv: ClarityValue): any => {
+  switch (cv.type) {
+    case ClarityType.UInt:
