@@ -13,4 +13,5 @@ const benefits = [
 export const BenefitsList: React.FC = () => {
   return (
     <motion.div 
-      className="lg:col-span-2 bg-gradient-to-br from-gray-50 to-white rounded-2xl p-6 border border-gray-100/
+      className="lg:col-span-2 bg-gradient-to-br from-gray-50 to-white rounded-2xl p-6 border border-gray-100/50 backdrop-blur-sm"
+    
