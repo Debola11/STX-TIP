@@ -77,4 +77,6 @@ export const FAQSection = () => {
                 </button>
                 
                 <AnimatePresence>
-                  {select
+                  {selectedFaq === index && (
+                    <motion.div
+                      initial={{ height: 0
