@@ -18,4 +18,6 @@ export const AppLayout: React.FC = () =>
                 <Header />
                 <main className="pt-16">
                     <HomePage />
-             
+                </main>
+            </div>
+ 
