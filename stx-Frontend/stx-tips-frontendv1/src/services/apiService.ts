@@ -46,4 +46,4 @@ export const notifyTipSent = async (
             throw new Error(`HTTP error! status: ${response.status}`);
         }
 
- 
+        return await respon
