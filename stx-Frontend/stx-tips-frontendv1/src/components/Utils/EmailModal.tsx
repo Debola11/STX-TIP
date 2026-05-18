@@ -48,4 +48,6 @@ const EmailModal: FC<EmailModalProps> = ({
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="relative">
               <Input
-                placeholder="Enter your email addre
+                placeholder="Enter your email address"
+                value={email}
+                onChange={(e: React.Change
