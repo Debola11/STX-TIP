@@ -13,4 +13,8 @@ export function authenticate() {
     onFinish: () => {
       window.location.reload();
     },
-    userSessi
+    userSession,
+  });
+}
+
+e
