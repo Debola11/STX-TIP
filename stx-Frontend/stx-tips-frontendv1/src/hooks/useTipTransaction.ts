@@ -10,4 +10,5 @@ interface UseTipTransactionProps {
   onError: (error: string) => void;
 }
 
-export const useTipTransaction = ({ onSuccess, onError }: UseTip
+export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps) => {
+  const { doContractCall
