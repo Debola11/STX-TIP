@@ -37,4 +37,6 @@ export const toMicroStacks = (amount: string): number => {
     if (value < 0) throw new Error('Amount must be positive');
     return Math.floor(value * 1000000);
   } catch (error) {
-    console.error('Error co
+    console.error('Error converting to microStacks:', error);
+    throw error;
+  }
