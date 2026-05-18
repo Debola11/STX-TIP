@@ -236,4 +236,12 @@ export const Header = () => {
               )}
             </button>
           </div>
-   
+        </div>
+      </header>
+
+      {/* Email Modal */}
+      <EmailModal
+        isOpen={isEmailModalOpen}
+        onOpenChange={setIsEmailModalOpen}
+        email={email}
+  
