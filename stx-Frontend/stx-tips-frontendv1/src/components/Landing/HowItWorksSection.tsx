@@ -30,4 +30,7 @@ export const HowItWorksSection = () => {
       description: "Connect your Stacks wallet securely to start sending and receiving tips",
       gradient: "from-violet-500 to-purple-500"
     },
- 
+    {
+      icon: Users,
+      title: "Choose Recipient",
+      description
