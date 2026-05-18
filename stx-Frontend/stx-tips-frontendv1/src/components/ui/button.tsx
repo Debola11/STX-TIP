@@ -4,4 +4,5 @@ import { cva, type VariantProps } from "class-variance-authority"
 
 import { cn } from "@/lib/utils"
 
-const buttonVariant
+const buttonVariants = cva(
+  "inline-flex items-center ju
