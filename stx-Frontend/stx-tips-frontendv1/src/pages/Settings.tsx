@@ -124,4 +124,6 @@ export const Settings: React.FC = () => {
               <label className="block text-sm font-medium text-gray-700 mb-1">Default Tip Amount</label>
               <div className="relative">
                 <input 
-     
+                  type="number" 
+                  className="block w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-600"
+                  plac
