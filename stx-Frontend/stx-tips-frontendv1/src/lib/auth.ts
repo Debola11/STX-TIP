@@ -11,4 +11,5 @@ export function authenticate() {
     },
     redirectTo: "/",
     onFinish: () => {
-      window.location.re
+      window.location.reload();
+    },
