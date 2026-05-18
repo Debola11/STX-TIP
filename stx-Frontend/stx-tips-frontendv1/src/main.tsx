@@ -17,4 +17,5 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
       <AuthContextProvider>
-        <Connect authOptions={{ appDetails: appConfig }}
+        <Connect authOptions={{ appDetails: appConfig }}>
+          <App
