@@ -44,4 +44,4 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-        
+              className="absolute right-3 top-1/2 transform -translate-y-1/2
