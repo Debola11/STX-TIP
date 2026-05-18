@@ -123,4 +123,8 @@ const authReducer = (state: AuthState, action: AuthAction): AuthState => {
   }
 };
 
-interface Aut
+interface AuthContextProviderProps {
+  children: ReactNode;
+}
+
+export const AuthContextP
