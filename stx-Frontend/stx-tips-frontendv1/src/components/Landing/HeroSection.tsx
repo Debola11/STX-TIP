@@ -98,4 +98,11 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
     try {
       setIsLoading(true);
 
-      const response = await fetch('https://stx-tip.onrender.com/api/v1/users/c
+      const response = await fetch('https://stx-tip.onrender.com/api/v1/users/connect-wallet', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          email: email.trim().toLowerCase(),
+          wa
