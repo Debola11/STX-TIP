@@ -62,4 +62,5 @@ const CardContent = React.forwardRef<
 CardContent.displayName = "CardContent"
 
 const CardFooter = React.forwardRef<
-  HTMLDi
+  HTMLDivElement,
+  React.HTMLAttributes<HTML
