@@ -38,4 +38,10 @@ export const Dashboard = () =>
       title: 'Total Balance',
       value: '1,234 STX',
       change: '+12.3%',
-      icon: <Wallet className="h-6
+      icon: <Wallet className="h-6 w-6 text-violet-600" />
+    },
+    {
+      title: 'Tips Sent',
+      value: '456 STX',
+      change: '+8.2%',
+      icon: <ArrowUpCircle
