@@ -126,4 +126,7 @@ export const Settings: React.FC = () => {
                 <input 
                   type="number" 
                   className="block w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-600"
-                  plac
+                  placeholder="Enter amount in STX"
+                />
+                <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
+                  <spa
