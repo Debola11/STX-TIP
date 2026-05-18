@@ -11,4 +11,5 @@
 //     {
 //         showConnect({
 //             appDetails: {
-//                 na
+//                 name: APP_CONFIG.NAME,
+//                 icon: window.
