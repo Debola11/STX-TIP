@@ -79,4 +79,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               <div className="h-10 w-10 rounded-full bg-gradient-to-r from-violet-500 to-purple-500 flex items-center justify-center text-white">
                 <UserCircle className="h-6 w-6" />
               </div>
-    
+              <div className="flex-1">
+                <p className="tex
