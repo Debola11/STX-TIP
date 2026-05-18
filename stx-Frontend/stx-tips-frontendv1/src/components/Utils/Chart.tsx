@@ -11,4 +11,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
     <ResponsiveContainer width="100%" height="100%">
       <LineChart data={data}>
         <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
-        <XAxis dataKey="name" stroke
+        <XAxis dataKey="name" stroke="#666" />
+        <Y
