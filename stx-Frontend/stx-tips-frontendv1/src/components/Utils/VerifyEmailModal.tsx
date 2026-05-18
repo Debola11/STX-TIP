@@ -20,4 +20,9 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 }) =>
 {
     const [verificationCode, setVerificationCode] = useState('');
-    const { activationToken, activation_Code } = useContext(a
+    const { activationToken, activation_Code } = useContext(authContext);
+    const [isLoading, setIsLoading] = useState(false);
+
+
+    const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) =>
+  
