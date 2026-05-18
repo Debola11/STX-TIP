@@ -21,4 +21,5 @@ export const NewsletterSection = () => {
   };
 
   return (
-    <div className="relative overflow-hidden bg-gradient-to-b from
+    <div className="relative overflow-hidden bg-gradient-to-b from-blue-100 via-indigo-200 to-violet-300 py-16 rounded-lg">
+      {/* Compact back
