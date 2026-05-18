@@ -68,4 +68,6 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
       </AnimatePresence>
 
       <AnimatePresence>
-        
+        {userInfo.found && (
+          <motion.div 
+            initial={{ o
