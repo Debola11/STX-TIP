@@ -31,4 +31,5 @@ export const AppLayout: React.FC = () =>
             //     return <HomePage />;
             case 'dashboard':
                 return <Dashboard />;
-            case 'his
+            case 'history':
+                return <
