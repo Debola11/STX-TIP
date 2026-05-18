@@ -87,4 +87,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             </h2>
                             <p className="text-gray-600 dark:text-gray-300/90 text-sm px-4">
                                 We've sent a verification code to{' '}
-                                <span className
+                                <span className="font-medium text-violet-600 dark:text-violet-300">
+                                    {userEmail || 'your email'}
+                           
