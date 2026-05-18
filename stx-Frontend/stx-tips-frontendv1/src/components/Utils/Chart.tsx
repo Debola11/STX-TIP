@@ -18,4 +18,4 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
             background: 'white', 
             border: 'none', 
             borderRadius: '8px', 
-    
+            boxShadow: '0
