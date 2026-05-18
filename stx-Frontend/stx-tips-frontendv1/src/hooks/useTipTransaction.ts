@@ -23,4 +23,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         address: CONTRACT_ADDRESS,
         name: CONTRACT_NAME,
         network: NETWORK
-      }
+      });
+
+      const { args, microStacks } = prepare
