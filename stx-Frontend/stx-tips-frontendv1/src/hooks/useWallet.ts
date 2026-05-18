@@ -42,4 +42,6 @@ import { useState, useCallback } from 'react';
 import { showConnect } from '@stacks/connect';
 import { useConnect } from '@stacks/connect-react';
 import { APP_CONFIG } from '@/lib/constants';
-// import { NETWORK } f
+// import { NETWORK } from '@/config/stacks';
+
+export interface WalletState 
