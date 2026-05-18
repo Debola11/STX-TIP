@@ -48,4 +48,6 @@ export const Settings: React.FC = () => {
               <label className="relative inline-flex items-center cursor-pointer">
                 <input
                   type="checkbox"
-                 
+                  checked={notifications.milestones}
+                  onChange={(e) => setNotifications({ ...notifications, milestones: e.target.checked })}
+                  className="sr-on
