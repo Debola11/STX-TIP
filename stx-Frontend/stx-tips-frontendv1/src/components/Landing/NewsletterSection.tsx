@@ -63,4 +63,7 @@ export const NewsletterSection = () => {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Enter your email"
                 className="flex-1 bg-transparent px-3 py-2 text-gray-700 placeholder-gray-500 focus:outline-none text-sm"
-                disabled={isSubmit
+                disabled={isSubmitting || isSuccess}
+              />
+              <button
+                type="
