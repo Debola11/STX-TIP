@@ -22,4 +22,6 @@ export const sendTip = async ({
   recipient,
   amount,
   tokenType,
-  o
+  onSuccess,
+  onError
+}: Ti
