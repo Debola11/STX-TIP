@@ -30,4 +30,6 @@ const EmailModal: FC<EmailModalProps> = ({
         {/* Grid pattern overlay */}
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:24px_24px]" />
         
-        <div className="relative z-10 sp
+        <div className="relative z-10 space-y-6">
+          {/* Header with icon */}
+          <div className="text-
