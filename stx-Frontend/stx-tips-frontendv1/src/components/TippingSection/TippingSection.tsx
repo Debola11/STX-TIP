@@ -191,4 +191,8 @@ export const TippingSection: React.FC = () =>
         <BenefitsList />
       </div>
 
-      <Ti
+      <TipConfirmationDialog
+        open={showConfirmDialog}
+        onOpenChange={setShowConfirmDialog}
+        amount={amount}
+    
