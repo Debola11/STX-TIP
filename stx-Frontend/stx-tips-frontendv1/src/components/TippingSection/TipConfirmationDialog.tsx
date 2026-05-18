@@ -149,4 +149,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                       </div>
                     ) : (
                       <div className="flex items-start space-x-2 text-gray-700">
-      
+                        <AlertCircle className="w-5 h-5 text-amber-500 mt-1 flex-shrink-0" />
+                        <p>
+                          Sending
