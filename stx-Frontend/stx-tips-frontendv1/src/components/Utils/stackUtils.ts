@@ -69,4 +69,6 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     const currencyCV = stringAsciiCV('STX');  // Changed from stringUtf8CV to stringAsciiCV
 
     // Create args array with serialized values
-    const args = [
+    const args = [recipientCV, amountCV, currencyCV].map(serializeCV);
+
+  
