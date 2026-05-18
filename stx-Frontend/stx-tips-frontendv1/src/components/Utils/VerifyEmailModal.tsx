@@ -148,4 +148,10 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             </div>
                         </form>
                     </div>
-        
+                </div>
+            </DialogContent>
+        </Dialog>
+    );
+};
+
+export default VerifyEmailModal;
