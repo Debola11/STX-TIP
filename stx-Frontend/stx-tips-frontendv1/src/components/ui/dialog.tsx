@@ -73,4 +73,7 @@ const DialogFooter = ({
 const DialogFooter = ({
   className,
   ...props
-}: React
+}: React.HTMLAttributes<HTMLDivElement>) => (
+  <div
+    className={cn(
+      "flex fle
