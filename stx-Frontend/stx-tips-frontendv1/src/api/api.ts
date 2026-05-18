@@ -7,4 +7,5 @@ export const fetchUserBalance = async (userAddress: string) => {
     );
     return await response.json();
   } catch (error) {
-    console.error('Error fetching user balance
+    console.error('Error fetching user balance:', error);
+  
