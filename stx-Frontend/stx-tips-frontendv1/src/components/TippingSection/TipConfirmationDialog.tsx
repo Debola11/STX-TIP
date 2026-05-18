@@ -171,4 +171,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                 animate="visible"
               >
                 <AlertDialogFooter className="gap-3 sm:gap-0">
-                  <AlertDialogCancel className="w-full sm:w-auto border-violet-200 text-violet-700 hover:bg-violet-50 hover:t
+                  <AlertDialogCancel className="w-full sm:w-auto border-violet-200 text-violet-700 hover:bg-violet-50 hover:text-violet-800 transition-all duration-200">
+                    Cancel
+                  </AlertDialogCancel>
+                  <AlertDialogAction
+ 
