@@ -121,4 +121,14 @@ export const Header = () => {
           },
           body: JSON.stringify({
             email: email.trim().toLowerCase(),
-            wallet: walletAddr
+            wallet: walletAddress
+          }),
+        });
+  
+        const result = await response.json();
+  
+        if (response.ok)
+        {
+          dispatch({
+            type: "ACTIVATE_USER",
+ 
