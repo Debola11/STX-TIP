@@ -14,4 +14,5 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
       <div>
         <p className="font-medium">
           {transaction.sender.slice(0, 6)}...{transaction.sender.slice(-4)}
-        </
+        </p>
+        <p classN
