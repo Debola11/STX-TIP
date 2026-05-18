@@ -43,4 +43,5 @@ export const Rewards: React.FC = () => {
           <Gift className="h-8 w-8" />
           <div>
             <h2 className="text-xl font-bold">Your Points</h2>
-            <p className="text-white/80"
+            <p className="text-white/80">Earn points with every transaction</p>
+       
