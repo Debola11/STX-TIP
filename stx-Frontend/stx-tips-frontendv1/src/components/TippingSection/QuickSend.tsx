@@ -126,4 +126,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                         <label className="block text-sm font-medium text-gray-700 mb-1">
                             Amount (STX)
                         </label>
-              
+                        <input
+                            type="number"
+                            min="0"
+                            step="0.1"
+   
