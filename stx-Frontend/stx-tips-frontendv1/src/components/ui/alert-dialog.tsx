@@ -106,4 +106,6 @@ const AlertDialogAction = React.forwardRef<
     {...props}
   />
 ))
-Aler
+AlertDialogAction.displayName = AlertDialogPrimitive.Action.displayName
+
+const AlertDialogCan
