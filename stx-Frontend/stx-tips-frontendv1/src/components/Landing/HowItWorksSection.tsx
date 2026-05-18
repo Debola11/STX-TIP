@@ -103,4 +103,4 @@ export const HowItWorksSection = () => {
   );
 };
 
-expo
+export default HowItWorksSection;
