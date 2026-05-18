@@ -41,4 +41,5 @@ export const NewsletterSection = () => {
           <h2 className="text-3xl font-bold text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text mb-2">
             Stay Updated with TipStack
           </h2>
-          <p class
+          <p className="text-base text-gray-600 max-w-2xl mx-auto">
+            Join our community
