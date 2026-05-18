@@ -120,4 +120,6 @@ export const StatsSection = () =>
                     <Icon className="h-5 w-5 text-white" />
                   </div>
 
-                  <div className="flex gap-4 i
+                  <div className="flex gap-4 items-center mb-3">
+                    <motion.p
+                      className="text
