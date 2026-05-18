@@ -27,4 +27,5 @@ export const Sidebar: React.FC = () => {
       <nav className="space-y-4">
         {navItems.map((item) => (
           <button
-         
+            key={item.id}
+            onClick={()
