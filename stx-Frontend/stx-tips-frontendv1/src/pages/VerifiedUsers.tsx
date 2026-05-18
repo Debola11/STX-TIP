@@ -129,4 +129,8 @@ const VerifiedUsers: React.FC = () => {
               ))}
             </div>
           )}
-        </d
+        </div>
+      </div>
+
+      <Dialog open={isQuickSendOpen} onOpenChange={setIsQuickSendOpen}>
+        <DialogContent c
