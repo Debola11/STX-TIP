@@ -116,4 +116,5 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                 disabled={isLoading || !verificationCode.trim()}
                                 className="w-full bg-gradient-to-r from-violet-500 to-purple-500 
                          text-white py-6 rounded-lg font-medium
-                         transform h
+                         transform hover:scale-[1.02] transition-all duration-200 
+                         disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none
