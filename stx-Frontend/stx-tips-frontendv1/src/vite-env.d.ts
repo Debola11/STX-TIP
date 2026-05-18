@@ -1,1 +1,1 @@
-/// <reference types="vit
+/// <reference types="vite
