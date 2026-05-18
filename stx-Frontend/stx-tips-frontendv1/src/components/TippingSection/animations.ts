@@ -6,4 +6,5 @@ export const containerVariants = {
       transition: {
         duration: 0.6,
         staggerChildren: 0.1
-     
+      }
+    }
