@@ -12,4 +12,4 @@ interface AppContextType
   setIsOpen: (value: boolean) => void;
 }
 
-const A
+const AppContext = createContext<
