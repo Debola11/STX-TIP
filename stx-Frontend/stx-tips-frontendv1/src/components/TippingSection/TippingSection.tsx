@@ -88,4 +88,10 @@ export const TippingSection: React.FC = () =>
   {
     const timeoutId = setTimeout(() =>
     {
-      if (recipientInput && recipientInput.lengt
+      if (recipientInput && recipientInput.length > 2)
+      {
+        fetchUserInfo(recipientInput);
+      } else
+      {
+        setUserInfo({});
+        setValidationErro
