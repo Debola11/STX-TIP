@@ -7,4 +7,6 @@ const App: React.FC = () => {
     <AppProvider>
       <AppLayout />
     </AppProvider>
-  )
+  );
+};
+
