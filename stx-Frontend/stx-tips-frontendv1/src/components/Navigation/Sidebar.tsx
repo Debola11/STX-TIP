@@ -34,4 +34,6 @@ export const Sidebar: React.FC = () => {
             }`}
           >
             {item.icon}
-            <span>{item.name}
+            <span>{item.name}</span>
+          </button>
+        ))}
