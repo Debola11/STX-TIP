@@ -10,4 +10,4 @@ export const Sidebar: React.FC = () => {
 
   const navItems: NavItem[] = [
     { name: 'Dashboard', icon: <Trophy className="h-5 w-5" />, id: 'dashboard' },
-    { name: '
+    { name: 'History', icon: <History className="h-5 
