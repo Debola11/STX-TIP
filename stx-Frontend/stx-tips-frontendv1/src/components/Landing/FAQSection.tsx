@@ -48,4 +48,8 @@ export const FAQSection = () => {
           </h2>
           <p className="text-lg text-gray-300/90 max-w-2xl mx-auto">
             Find quick answers to common questions about TipStack
-       
+          </p>
+        </div>
+
+        <div className="grid lg:grid-cols-2 gap-6 max-w-5xl mx-auto">
+ 
