@@ -12,4 +12,7 @@ const statsData = [
   },
   {
     value: '10K+',
- 
+    label: 'Active Users',
+    subtext: 'Growing community',
+    icon: Users,
+    growt
