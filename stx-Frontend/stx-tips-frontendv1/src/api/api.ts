@@ -1,1 +1,1 @@
-import { NETWORK_CONFIG } fr
+import { NETWORK_CONFIG } from "@/lib/cons
