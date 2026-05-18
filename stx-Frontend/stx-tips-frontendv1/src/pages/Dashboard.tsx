@@ -97,4 +97,6 @@ export const Dashboard = () =>
           <Card key={index}>
             <CardHeader className="flex flex-row items-center justify-between pb-2">
               {stat.icon}
-              <span
+              <span className={`text-sm font-medium ${stat.change.startsWith('+') ? 'text-green-600' : 'text-red-600'
+                }`}>
+                {
