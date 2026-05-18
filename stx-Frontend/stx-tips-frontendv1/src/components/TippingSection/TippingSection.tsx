@@ -61,4 +61,9 @@ export const TippingSection: React.FC = () =>
         const data = await fetchUserWalletInfo(input);
         setUserInfo({
           email: data.data.email,
- 
+          walletAddress: input,
+          found: !!data.data.email
+        });
+      } else
+      {
+        setValidationError
