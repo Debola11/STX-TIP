@@ -122,4 +122,7 @@ export const StatsSection = () =>
 
                   <div className="flex gap-4 items-center mb-3">
                     <motion.p
-                      className="text-3xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparen
+                      className="text-3xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent"
+                      variants={numberVariants}
+                    >
+             
