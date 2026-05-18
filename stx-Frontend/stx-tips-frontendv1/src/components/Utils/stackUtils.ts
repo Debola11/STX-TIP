@@ -54,4 +54,4 @@ export const serializeCV = (cv: ClarityValue): any => {
   }
 };
 
-// Pre
+// Prepare contract call arguments with improved error handlin
