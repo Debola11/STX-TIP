@@ -46,4 +46,4 @@ export interface UserStats {
 }
 
 export interface RawUserStats {
-  'total-tips-
+  'total-tips-sent': { value: bigint };
