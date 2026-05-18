@@ -22,4 +22,5 @@ createRoot(document.getElementById('root')!).render(
           <Toaster />
 
         </Connect>
-      </AuthContex
+      </AuthContextProvider>
+    <
