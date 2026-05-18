@@ -103,4 +103,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                         setVerificationCode(e.target.value)}
                                     className="w-full bg-gray-50 dark:bg-white/5 border-gray-200 dark:border-violet-500/20 
                            text-gray-900 dark:text-white placeholder:text-gray-400 
-                     
+                           focus:border-violet-500 focus:ring-violet-500/20 
+                           rounded-lg py-6 text-center text-lg tracking-widest"
+        
