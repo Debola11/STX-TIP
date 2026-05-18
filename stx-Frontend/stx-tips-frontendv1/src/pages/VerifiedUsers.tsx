@@ -82,4 +82,9 @@ const VerifiedUsers: React.FC = () => {
               Verified Users
             </h1>
             <p className="text-gray-300/80 max-w-2xl mx-auto">
-              Send tips to verified community members instantly and securely through
+              Send tips to verified community members instantly and securely through the Stacks blockchain.
+            </p>
+          </div>
+
+          {users.length === 0 ? (
+            <div clas
