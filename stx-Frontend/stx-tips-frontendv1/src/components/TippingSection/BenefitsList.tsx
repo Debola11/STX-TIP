@@ -12,4 +12,5 @@ const benefits = [
 
 export const BenefitsList: React.FC = () => {
   return (
-  
+    <motion.div 
+      clas
