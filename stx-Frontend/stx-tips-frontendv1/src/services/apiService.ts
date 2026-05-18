@@ -23,4 +23,8 @@ export const notifyTipSen
 export const notifyTipSent = async (
     recipientAddress: string,
     amount: string,
-    transactionI
+    transactionId: string
+) =>
+{
+    try
+ 
