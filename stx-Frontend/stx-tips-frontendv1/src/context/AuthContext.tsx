@@ -112,4 +112,7 @@ export const authContext = createContext<AuthContextType>({
 // Reducer function
 const authReducer = (state: AuthState, action: AuthAction): AuthState => {
   switch (action.type) {
-    case "A
+    case "ACTIVATE_USER":
+      return {
+        ...state,
+        activationToken: ac
