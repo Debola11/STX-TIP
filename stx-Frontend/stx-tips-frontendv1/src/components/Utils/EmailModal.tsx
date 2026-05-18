@@ -60,4 +60,5 @@ const EmailModal: FC<EmailModalProps> = ({
             
             <Button
               type="submit"
-              disabled={isLoading || !email.t
+              disabled={isLoading || !email.trim().toLowerCase()}
+              className="w-full bg-gradient-to-r from-v
