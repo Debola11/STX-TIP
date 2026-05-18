@@ -154,4 +154,4 @@ export const TippingSection: React.FC = () =>
               min="0"
               step="0.1"
               placeholder="Enter amount to tip"
-              className="block w-
+              className="block w-full px-4 py-3 border border-gray-200 rounded-xl bg-white/80 backdrop-blur-sm focus:outline-none focus:ring-2 focus:ring-viol
