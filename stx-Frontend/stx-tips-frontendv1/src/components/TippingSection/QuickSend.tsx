@@ -36,4 +36,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
     const resetForm = () => {
         setRecipientInput(initialAddress || '');
-        setAm
+        setAmount('');
+        setUserInfo({});
+        setShowConfirmDialog(false);
+        setValidationError('');
+    };
+
+    const { processTip, i
