@@ -4,4 +4,4 @@ import { StatsSection } from '@/components/Landing/StatsSection';
 // import { TippingSection } from '@/components/Landing/TippingSection';
 import { HowItWorksSection } from '@/components/Landing/HowItWorksSection';
 import { FAQSection } from '@/components/Landing/FAQSection';
-import { NewsletterSection } from '@/components/Land
+import { NewsletterSection } from '@/components/Landing/NewsletterSectio
