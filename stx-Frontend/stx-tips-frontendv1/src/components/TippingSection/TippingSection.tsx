@@ -37,4 +37,9 @@ export const TippingSection: React.FC = () =>
     setValidationError('');
   };
 
-  c
+  const { processTip, isProcessing } = useTipTransaction({
+    onSuccess: () =>
+    {
+      resetForm();
+    },
+    onError: (er
