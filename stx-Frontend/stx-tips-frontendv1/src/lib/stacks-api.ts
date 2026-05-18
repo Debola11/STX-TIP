@@ -17,4 +17,5 @@ export async function getUserStats(userAddress: string)
         const result = await callReadOnlyFunction({
             network:NETWORK,
             contractAddress: CONTRACT_ADDRESS,
-            cont
+            contractName: CONTRACT_NAME,
+            functionNa
