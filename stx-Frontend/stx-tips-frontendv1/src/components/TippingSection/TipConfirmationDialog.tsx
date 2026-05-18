@@ -188,4 +188,9 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                         <>
                           <Loader2 className="h-4 w-4 animate-spin" />
                           Processing...
-                        <
+                        </>
+                      ) : (
+                        'Confirm'
+                      )}
+                    </span>
+                  </AlertDialog
