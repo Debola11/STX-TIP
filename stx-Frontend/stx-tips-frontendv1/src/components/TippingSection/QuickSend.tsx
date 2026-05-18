@@ -15,4 +15,9 @@ interface UserInfo {
     error?: string;
 }
 
-interf
+interface QuickSendProps {
+    initialAddress?: string;
+}
+
+export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
+    con
