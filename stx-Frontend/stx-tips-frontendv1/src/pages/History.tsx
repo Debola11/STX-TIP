@@ -53,4 +53,4 @@ export const History: React.FC = () => {
         <div className="divide-y">
           {transactions.map((tx) => (
             <div key={tx.id} className="grid grid-cols-4 gap-4 p-4 hover:bg-gray-50 transition-colors">
-              <div c
+              <div className="font-medium">{tx.sender.slice(0, 6)}...{tx.sender.
