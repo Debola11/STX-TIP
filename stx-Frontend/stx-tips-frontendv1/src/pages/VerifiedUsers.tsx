@@ -53,4 +53,10 @@ const VerifiedUsers: React.FC = () => {
       setTimeout(() => setCopiedWallet(null), 2000);
       toast.success('Wallet address copied!');
     } catch (err) {
-      
+      toast.error('Failed to copy wallet address');
+    }
+  };
+
+  if (loading) {
+    return (
+      <div className="min-
