@@ -91,4 +91,8 @@ type AuthAction = {
 };
 
 interface AuthContextType extends AuthState {
-  dispatch: Dis
+  dispatch: Dispatch<AuthAction>;
+}
+
+// Initialize state
+const initialState: AuthState = {
