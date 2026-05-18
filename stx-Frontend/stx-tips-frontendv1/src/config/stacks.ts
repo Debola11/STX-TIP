@@ -4,4 +4,4 @@ import { STACKS_TESTNET, STACKS_MAINNET } from '@stacks/network';
 export const IS_MAINNET = false;
 export const NETWORK = IS_MAINNET ? STACKS_MAINNET : STACKS_TESTNET;
 
-// Se
+// Set the approp
