@@ -81,4 +81,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               </div>
               <div className="flex-1">
                 <p className="text-sm font-medium text-gray-900">Verified User</p>
-                <p
+                <p className="text-sm text-gray-600">{userInfo.email}</p>
+            
