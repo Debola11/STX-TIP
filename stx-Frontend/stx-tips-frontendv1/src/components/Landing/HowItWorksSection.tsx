@@ -79,4 +79,5 @@ export const HowItWorksSection = () => {
                 whileHover={{ y: -5 }}
                 className="relative group"
               >
-                <div className="absolute inset-0 bg-gradient-to-r from-violet-100/50 to-purple-100/50 rounded-3xl transform rotate-2 transition-transform group-ho
+                <div className="absolute inset-0 bg-gradient-to-r from-violet-100/50 to-purple-100/50 rounded-3xl transform rotate-2 transition-transform group-hover:rotate-1" />
+                <div className="relative bg-white p-8 rou
