@@ -55,4 +55,6 @@ export const FAQSection = () => {
           {faqs.map((faq, index) => (
             <motion.div
               key={index}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
         
