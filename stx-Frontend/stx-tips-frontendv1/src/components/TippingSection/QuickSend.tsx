@@ -85,4 +85,9 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                 fetchUserInfo(recipientInput);
             } else {
                 setUserInfo({});
-     
+                setValidationError('');
+            }
+        }, 500);
+
+        return () => clearTimeout(timeoutId);
+    }, [recipientInput])
