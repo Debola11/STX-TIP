@@ -33,4 +33,5 @@ export const HowItWorksSection = () => {
     {
       icon: Users,
       title: "Choose Recipient",
-      description
+      description: "Enter the recipient's address or search for their username",
+      grad
