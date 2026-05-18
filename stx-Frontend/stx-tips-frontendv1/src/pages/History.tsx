@@ -57,4 +57,8 @@ export const History: React.FC = () => {
               <div className="font-medium">{tx.recipient.slice(0, 6)}...{tx.recipient.slice(-4)}</div>
               <div className="text-violet-600 font-medium">{tx.amount} STX</div>
               <div className="text-gray-500">{new Date(tx.timestamp).toLocaleDateString()}</div>
-  
+            </div>
+          ))}
+        </div>
+      </div>
+ 
