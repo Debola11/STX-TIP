@@ -8,4 +8,5 @@
 .logo {
   height: 6em;
   padding: 1.5em;
-  will-change
+  will-change: filter;
+  t
