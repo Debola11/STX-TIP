@@ -198,3 +198,8 @@ export const TippingSection: React.FC = () =>
         recipientInput={recipientInput}
         userInfo={userInfo}
         onConfirm={() => processTip(recipientInput, amount)}
+        transactionInProgress={isProcessing}
+      />
+    </motion.div>
+  );
+};
