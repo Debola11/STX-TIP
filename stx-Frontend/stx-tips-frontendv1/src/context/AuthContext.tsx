@@ -50,4 +50,5 @@
 //   useEffect(() =>
 //   {
 //     localStorage.setItem("user", JSON.stringify(state.user))
-//     localStorage.setItem("acti
+//     localStorage.setItem("activationToken", state.activationToken);
+//     localStorage.setItem("activati
