@@ -51,4 +51,4 @@ const CardDescription = React.forwardRef<
     {...props}
   />
 ))
-CardDes
+CardDescription.displayName = "CardDescripti
