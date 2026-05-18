@@ -65,4 +65,7 @@ export const FAQSection = () => {
               <div className="relative bg-white/10 rounded-xl border border-white/10 overflow-hidden backdrop-blur-sm transition-all duration-300 hover:bg-white/15">
                 <button
                   className="w-full px-6 py-4 text-left font-medium flex items-center justify-between text-white hover:text-violet-200 transition-colors"
-                  onClick={() => setSelectedFaq(selectedFaq === index ? null
+                  onClick={() => setSelectedFaq(selectedFaq === index ? null : index)}
+                >
+                  <span className="flex-1">{faq.question}</span>
+ 
