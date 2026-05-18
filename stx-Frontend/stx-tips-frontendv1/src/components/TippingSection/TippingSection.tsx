@@ -94,4 +94,11 @@ export const TippingSection: React.FC = () =>
       } else
       {
         setUserInfo({});
-        setValidationErro
+        setValidationError('');
+      }
+    }, 500);
+
+    return () => clearTimeout(timeoutId);
+  }, [recipientInput]);
+
+  const handleSendTip = () =>
