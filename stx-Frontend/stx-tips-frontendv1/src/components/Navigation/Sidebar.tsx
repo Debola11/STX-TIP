@@ -29,4 +29,4 @@ export const Sidebar: React.FC = () => {
           <button
             key={item.id}
             onClick={() => setCurrentPage(item.id)}
-           
+            className={`flex items-center space-x-3
