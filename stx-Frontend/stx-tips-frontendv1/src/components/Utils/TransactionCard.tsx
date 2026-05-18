@@ -6,3 +6,4 @@ interface TransactionCardProps {
 }
 
 export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction }) => (
+  <div className="fl
