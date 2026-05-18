@@ -30,4 +30,5 @@ export interface Stat {
     memoCode: string;
   }
 
-  export
+  export interface UserData {
+    
