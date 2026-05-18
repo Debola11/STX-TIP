@@ -244,4 +244,11 @@ export const Header = () => {
         isOpen={isEmailModalOpen}
         onOpenChange={setIsEmailModalOpen}
         email={email}
-  
+        setEmail={setEmail}
+        handleSubmit={handleEmailSubmit}
+        isLoading={isLoading}
+      />
+
+      {/* Verify Email Modal */}
+      <VerifyEmailModal
+        is
