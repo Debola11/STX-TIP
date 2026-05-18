@@ -151,4 +151,14 @@ export const Header = () => {
         setIsEmailModalOpen(false);
       } catch (error: any)
       {
-        console.error('Failed to save user data:', error
+        console.error('Failed to save user data:', error);
+        toast.error(error.message);
+      } finally
+      {
+        setIsLoading(false);
+      }
+    };
+
+  return (
+    <>
+      <header className="bg-white/80 backdrop-bl
