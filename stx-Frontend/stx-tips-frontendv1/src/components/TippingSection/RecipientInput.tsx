@@ -64,4 +64,8 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               <AlertDescription>{validationError}</AlertDescription>
             </Alert>
           </motion.div>
- 
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        
