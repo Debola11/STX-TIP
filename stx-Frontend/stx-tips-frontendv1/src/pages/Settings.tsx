@@ -72,3 +72,8 @@ export const Settings: React.FC = () => {
               </label>
             </div>
           </div>
+        </div>
+
+        <div className="bg-white rounded-xl shadow-sm p-6">
+          <div className="flex items-center space-x-3 mb-4">
+            <Shield className="h-5 w-
