@@ -221,4 +221,8 @@ export const Header = () => {
 
             <button
               onClick={handleAuth}
-              className="text-sm md:text-base bg-gradient-to-r from-violet-600 to-purple-600 text-white px-6 py-2 rounded-lg hover:opacity-90 transition-all duration-200 t
+              className="text-sm md:text-base bg-gradient-to-r from-violet-600 to-purple-600 text-white px-6 py-2 rounded-lg hover:opacity-90 transition-all duration-200 transform hover:scale-105 shadow-md flex items-center"
+            >
+              {isAuthenticated ? (
+                <>
+                  <LogOutIcon className="h-5 w-5 mr-
