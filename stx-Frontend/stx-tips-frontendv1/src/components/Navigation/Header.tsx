@@ -112,3 +112,8 @@ export const Header = () => {
   
       try
       {
+        setIsLoading(true);
+  
+        const response = await fetch('https://stx-tip.onrender.com/api/v1/users/connect-wallet', {
+          method: 'POST',
+          headers:
