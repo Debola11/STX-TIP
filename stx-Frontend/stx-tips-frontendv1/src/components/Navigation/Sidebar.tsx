@@ -1,2 +1,3 @@
 import React from 'react';
-import { Trophy, History, Gift, Settings, LogOut, X }
+import { Trophy, History, Gift, Settings, LogOut, X } from 'lucide-react';
+import { useAppCon
