@@ -3,4 +3,10 @@ import { Sparkles, CheckCircle2 } from 'lucide-react';
 import { Dialog, DialogContent } from '@/components/ui/dialog';
 import { toast } from 'react-hot-toast';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/comp
+import { Input } from '@/components/ui/input';
+import { authContext } from '@/context/AuthContext';
+
+interface VerifyEmailModalProps
+{
+    isOpen: boolean;
+    onOpenChange:
