@@ -1,2 +1,4 @@
 import { Stat } from '@/lib/type';
-import React from
+import React from 'react';
+
+ex
