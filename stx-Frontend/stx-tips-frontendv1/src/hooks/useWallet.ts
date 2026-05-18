@@ -70,4 +70,5 @@ export const useWallet = () => {
       },
       onCancel: () => {
         console.log('User canceled wallet connection');
- 
+      },
+      userSession: authOptions?.userSession,
