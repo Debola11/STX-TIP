@@ -193,4 +193,5 @@ export const Dashboard = () =>
           </CardHeader>
           <CardContent>
             <div className="space-y-4">
-              <di
+              <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center space-x-3">
