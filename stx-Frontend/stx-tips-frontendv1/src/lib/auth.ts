@@ -17,4 +17,4 @@ export function authenticate() {
   });
 }
 
-export function
+export function getUserData()
