@@ -45,4 +45,5 @@ export interface UserStats {
   rewardPoints: number;
 }
 
-export interface Raw
+export interface RawUserStats {
+  'total-tips-
