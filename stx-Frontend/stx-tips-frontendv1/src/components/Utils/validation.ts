@@ -1,2 +1,2 @@
 export const validateStacksAddress = (address: string): boolean => {
-    return address.startsWith('ST') || address.startsWith('SP') && address.
+    return address.startsWith('ST') || address.startsWith('SP') && address.leng
