@@ -21,4 +21,4 @@ const alertVariants = cva(
 
 const Alert = React.forwardRef<
   HTMLDivElement,
-  React.HTMLAttributes<HTMLDivElem
+  React.HTMLAttributes<HTMLDivElement> & VariantProps<typeof alert
