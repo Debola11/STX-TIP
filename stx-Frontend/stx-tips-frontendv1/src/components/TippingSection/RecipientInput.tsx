@@ -24,4 +24,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
   disabled = false
 }) => {
   return (
-    <div className="s
+    <div className="space-y-2">
+      <label className="block text-sm font-medium text-gr
