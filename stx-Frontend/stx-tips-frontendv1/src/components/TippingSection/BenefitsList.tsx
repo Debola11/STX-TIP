@@ -34,3 +34,4 @@ export const BenefitsList: React.FC = () => {
       </ul>
     </motion.div>
   );
+};
