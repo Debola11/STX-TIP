@@ -28,4 +28,5 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(
+  a:nth-of-type(2) .logo {
+  
