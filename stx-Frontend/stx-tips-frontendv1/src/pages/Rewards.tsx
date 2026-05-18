@@ -21,4 +21,4 @@ export const Rewards: React.FC = () => {
     {
       id: '2',
       title: 'Tip Master',
-      des
+      description: 'Unlock exclusive badge after receivi
