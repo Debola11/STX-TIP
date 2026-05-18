@@ -41,4 +41,6 @@ export const notifyTipSent = async (
             }),
         });
 
-        if (!re
+        if (!response.ok)
+        {
+     
