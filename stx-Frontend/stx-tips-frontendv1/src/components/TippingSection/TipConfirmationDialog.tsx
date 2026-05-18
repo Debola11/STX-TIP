@@ -120,4 +120,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                 </motion.div>
 
                 <AlertDialogDescription className="space-y-4">
-                  <moti
+                  <motion.div
+                    variants={contentVariants}
+                    initial="hidden"
+                    animate="visible"
+                    
