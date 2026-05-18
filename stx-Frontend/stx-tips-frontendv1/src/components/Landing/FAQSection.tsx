@@ -13,4 +13,4 @@ const faqs = [
   },
   {
     question: "How do I earn rewards?",
-    an
+    answer: "You earn points for every tip you send or receive. These points contribute to your ranki
