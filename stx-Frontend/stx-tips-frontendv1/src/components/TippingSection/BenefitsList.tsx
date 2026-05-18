@@ -28,4 +28,4 @@ export const BenefitsList: React.FC = () => {
             variants={itemVariants}
           >
             <CheckCircle className="h-5 w-5 text-violet-600 shrink-0 mt-0.5" />
-     
+            <span>{benefit}</s
