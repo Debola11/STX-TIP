@@ -24,4 +24,11 @@ export const Header = () => {
 
   console.log(userData);
   
-  const {walletAddress, setWalletAddress, currentPage, setCurrentPage, setWalletConnected } = use
+  const {walletAddress, setWalletAddress, currentPage, setCurrentPage, setWalletConnected } = useAppContext();
+  const { dispatch } = useContext(authContext);
+
+  useEffect(() =>
+    {
+      const checkAuth = async () =>
+      {
+        if (userSession.isSignInPending())
