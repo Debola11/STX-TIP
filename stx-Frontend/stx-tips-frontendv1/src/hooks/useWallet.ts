@@ -14,3 +14,6 @@
 //                 name: APP_CONFIG.NAME,
 //                 icon: window.location.origin + APP_CONFIG.ICON,
 //             },
+//             onFinish: (data) =>
+//             {
+/
