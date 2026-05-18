@@ -12,4 +12,6 @@ interface AppContextType
   setIsOpen: (value: boolean) => void;
 }
 
-const AppContext = createContext<AppContextType | undefined
+const AppContext = createContext<AppContextType | undefined>(undefined);
+
+export cons
