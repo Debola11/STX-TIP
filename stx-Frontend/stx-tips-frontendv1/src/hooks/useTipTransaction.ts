@@ -45,4 +45,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         onFinish: async (data: { txId: string }) => {
           console.log('Transaction successful:', data);
           try {
-            await notifyTipSent(recipient, amount, data.txId)
+            await notifyTipSent(recipient, amount, data.txId);
+            onSuccess();
+          } catch (e
