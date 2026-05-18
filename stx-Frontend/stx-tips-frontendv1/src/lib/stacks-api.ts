@@ -56,3 +56,8 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
     } catch (error)
     {
         console.error('Error fetching tip history:', error);
+        return null;
+    }
+}
+
+export async fun
