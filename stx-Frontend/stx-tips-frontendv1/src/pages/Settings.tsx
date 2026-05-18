@@ -152,4 +152,6 @@ export const Settings: React.FC = () => {
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">Time Zone</label>
-              <select className="block w-full px-3 py-2 borde
+              <select className="block w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-600">
+                <option value="utc">UTC</option>
+                <option value="est">Eastern Time</option>
