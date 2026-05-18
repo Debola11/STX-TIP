@@ -10,4 +10,5 @@ const AlertDialogTrigger = AlertDialogPrimitive.Trigger
 
 const AlertDialogPortal = AlertDialogPrimitive.Portal
 
-const 
+const AlertDialogOverlay = React.forwardRef<
+  React.ElementRef<typeof AlertDialogPrimitive.Ove
