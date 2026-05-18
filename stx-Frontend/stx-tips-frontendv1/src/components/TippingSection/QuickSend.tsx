@@ -90,4 +90,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         }, 500);
 
         return () => clearTimeout(timeoutId);
-    }, [recipientInput])
+    }, [recipientInput]);
+
+    const handleSendTip = () => {
+        if (!recipientInput || !amount) {
+            setValidationError('Please verify recipient an
