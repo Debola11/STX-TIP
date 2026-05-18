@@ -112,4 +112,6 @@ export const StatsSection = () =>
                 key={index}
                 variants={cardVariants}
                 whileHover="hover"
-              
+                className="relative group"
+              >
+                <div className="absolute 
