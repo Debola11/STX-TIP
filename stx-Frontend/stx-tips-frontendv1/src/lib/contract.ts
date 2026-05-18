@@ -42,4 +42,5 @@ export const sendTip = async ({
       postConditionMode: PostConditionMode.Allow,
       onFinish: (data: any) => {
         console.log('Transaction:', data);
-        onS
+        onSuccess?.(data);
+      },
