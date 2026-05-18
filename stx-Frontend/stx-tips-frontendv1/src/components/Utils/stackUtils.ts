@@ -1,4 +1,5 @@
 // import { stringUtf8CV, uintCV } from '@stacks/transactions';
 
 // // Convert STX amount to microstacks
-// expo
+// export const toMicroStacks = (amount: string): number =>
+// 
