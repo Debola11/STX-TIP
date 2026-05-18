@@ -194,3 +194,12 @@ export const Footer: React.FC = () =>
                   >
                     {item}
                     <ArrowUpRight className="h-4 w-4 ml-1 opacity-0 -translate-y-1 translate-x-1 group-hover:opacity-100 group-hover:translate-y-0 group-hover:translate-x-0 transition-all" />
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* Bottom Section */}
+        <div className="relative mt-16 pt-8 bor
