@@ -52,4 +52,8 @@
 //                   Blog
 //                 </a>
 //               </li>
-//   
+//               <li>
+//                 <a href="/support" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Support
+//                 </a>
+//               <
