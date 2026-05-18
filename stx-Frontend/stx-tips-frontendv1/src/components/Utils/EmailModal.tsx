@@ -51,4 +51,5 @@ const EmailModal: FC<EmailModalProps> = ({
                 placeholder="Enter your email address"
                 value={email}
                 onChange={(e: React.ChangeEvent<HTMLInputElement>) => setEmail(e.target.value)}
-                className="w-full bg-white/5 border-violet-500/20 text-white placeholder:text-gray
+                className="w-full bg-white/5 border-violet-500/20 text-white placeholder:text-gray-400 focus:border-violet-400 focus:ring-violet-400/20 rounded-lg py-6"
+     
