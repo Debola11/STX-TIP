@@ -225,4 +225,9 @@ export const Header = () => {
             >
               {isAuthenticated ? (
                 <>
-                  <LogOutIcon className="h-5 w-5 mr-
+                  <LogOutIcon className="h-5 w-5 mr-2" />
+                  <span className="hidden md:inline">Disconnect</span>
+                </>
+              ) : (
+                <>
+                  <WalletIcon classNam
