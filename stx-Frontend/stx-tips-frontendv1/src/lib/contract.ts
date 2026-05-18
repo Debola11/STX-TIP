@@ -44,3 +44,6 @@ export const sendTip = async ({
         console.log('Transaction:', data);
         onSuccess?.(data);
       },
+    };
+
+    await openCon
