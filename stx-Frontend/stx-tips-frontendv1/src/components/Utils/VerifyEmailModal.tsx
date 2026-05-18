@@ -126,4 +126,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                         <span>Verifying...</span>
                                     </div>
                                 ) : (
-                                    <div className="flex items-c
+                                    <div className="flex items-center justify-center space-x-2">
+                                        <Sparkles className="w-5 h-5" />
+                                      
