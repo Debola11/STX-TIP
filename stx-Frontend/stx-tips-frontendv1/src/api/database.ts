@@ -19,4 +19,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
         const response = await fetch(`${API_BASE_URL}/api/users/wallet`, {
             method: 'POST',
             headers: {
-                'Content-Type'
+                'Content-Type': 'application/json',
+            },
+            body:
