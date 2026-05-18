@@ -230,4 +230,10 @@ export const Header = () => {
                 </>
               ) : (
                 <>
-                  <WalletIcon classNam
+                  <WalletIcon className="h-5 w-5 mr-2" />
+                  <span className="hidden md:inline">Connect Wallet</span>
+                </>
+              )}
+            </button>
+          </div>
+   
