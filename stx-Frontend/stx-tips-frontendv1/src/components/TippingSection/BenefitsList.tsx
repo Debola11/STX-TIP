@@ -22,4 +22,5 @@ export const BenefitsList: React.FC = () => {
       </h3>
       <ul className="space-y-4">
         {benefits.map((benefit, index) => (
-          <moti
+          <motion.li 
+            key={i
