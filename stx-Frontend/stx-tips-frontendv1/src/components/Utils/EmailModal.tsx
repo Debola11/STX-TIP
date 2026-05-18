@@ -21,4 +21,5 @@ const EmailModal: FC<EmailModalProps> = ({
   handleSubmit,
   isLoading
 }) => (
-  <Dialog open={
+  <Dialog open={isOpen} onOpenChange={onOpenChange}>
+    <DialogContent className="sm:max-w-
