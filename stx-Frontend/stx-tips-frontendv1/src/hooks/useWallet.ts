@@ -1,3 +1,5 @@
 // import { useState, useCallback } from 'react';
 // import { showConnect } from '@stacks/connect';
-// imp
+// import { APP_CONFIG } from '@/lib/constants';
+
+// export
