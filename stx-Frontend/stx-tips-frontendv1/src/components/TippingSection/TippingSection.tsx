@@ -162,4 +162,5 @@ export const TippingSection: React.FC = () =>
 
           <motion.button
             onClick={handleSendTip}
-            className="w-full bg-gradient-to-r from-violet-600 to-purple-600 text-white px-6 py-3 rounded-xl font-medium transition-a
+            className="w-full bg-gradient-to-r from-violet-600 to-purple-600 text-white px-6 py-3 rounded-xl font-medium transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed hover:shadow-lg hover:shadow-violet-500/25"
+            disab
