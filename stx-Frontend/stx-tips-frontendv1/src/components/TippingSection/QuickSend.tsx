@@ -70,4 +70,9 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
         } catch (error) {
             setUserInfo({ error: 'Failed to fetch user info' });
             if (!walletConnected) {
-                setValidationError('Please connect your wallet first to continue
+                setValidationError('Please connect your wallet first to continue');
+            } else {
+                setValidationError('Unverified wallet address');
+            }
+        } finally {
+            s
