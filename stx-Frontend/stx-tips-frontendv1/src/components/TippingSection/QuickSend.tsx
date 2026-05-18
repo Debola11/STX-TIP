@@ -123,4 +123,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                         disabled={!!initialAddress}
                     />
                     <div>
-                        <label className
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                            Amount (STX)
+                        </label>
+              
