@@ -24,4 +24,8 @@ export const HomePage: React.FC = () => {
       </div>
 
       <Footer />
-    </div
+    </div>
+  );
+};
+
+export de
