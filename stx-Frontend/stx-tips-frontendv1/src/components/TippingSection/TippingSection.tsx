@@ -175,4 +175,8 @@ export const TippingSection: React.FC = () =>
                 </>
               ) : searching ? (
                 <>
-                  <Loader2 
+                  <Loader2 className="h-5 w-5 animate-spin" />
+                  Processing...
+                </>
+              ) : (
+                <
