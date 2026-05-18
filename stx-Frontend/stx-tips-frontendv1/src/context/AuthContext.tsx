@@ -106,4 +106,8 @@ const initialState: AuthState = {
 // Create context with type assertion
 export const authContext = createContext<AuthContextType>({
   ...initialState,
-  dispatch
+  dispatch: () => null,
+});
+
+// Reducer function
+const authReducer = (state: AuthStat
