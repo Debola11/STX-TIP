@@ -33,4 +33,4 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
         <input
           type="text"
           placeholder="Enter Stacks address"
-          cl
+          className="block w-full pl-10 pr-4 py-3 border border-gray-200 rounded
