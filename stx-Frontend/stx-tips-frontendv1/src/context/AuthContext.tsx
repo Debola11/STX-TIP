@@ -137,4 +137,6 @@ export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
     if (state.activationToken) {
       localStorage.setItem("activationToken", state.activationToken);
     }
-    if (state.activation_Code)
+    if (state.activation_Code) {
+      localStorage.setItem("activation_Code", state.activation_Code);
+  
