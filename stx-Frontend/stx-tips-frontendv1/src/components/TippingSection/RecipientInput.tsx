@@ -56,4 +56,7 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
         {validationError && (
           <motion.div
             initial={{ opacity: 0, height: 0 }}
-            animate={{ opacity: 1, height: 'a
+            animate={{ opacity: 1, height: 'auto' }}
+            exit={{ opacity: 0, height: 0 }}
+          >
+   
