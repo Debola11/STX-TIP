@@ -76,4 +76,9 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
       recipient,
       amount,
       microStacks,
-      
+      args
+    });
+
+    return { 
+      recipient,
+      amoun
