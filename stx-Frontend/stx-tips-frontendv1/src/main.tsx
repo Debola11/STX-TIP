@@ -13,4 +13,4 @@ const appConfig = {
   icon: window.location.origin + '/logo.png',
 };
 
-createRoot(document.getEleme
+createRoot(document.getElementById('root')!)
