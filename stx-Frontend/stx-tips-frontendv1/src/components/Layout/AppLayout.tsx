@@ -10,4 +10,6 @@ import { HomePage } from '@/pages/HomePage';
 
 export const AppLayout: React.FC = () =>
 {
-    const { curre
+    const { currentPage } = useAppContext();
+
+  
