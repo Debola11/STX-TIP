@@ -21,4 +21,8 @@
 //   payload?: any;
 // }
 
-// const authReducer = (state: State
+// const authReducer = (state: State, action: Action): State =>
+// {
+//   switch (action.type)
+//   {
+//     ca
