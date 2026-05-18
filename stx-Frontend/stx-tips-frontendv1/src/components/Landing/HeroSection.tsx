@@ -224,4 +224,5 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
           {/* Keep the decorative right column */}
           <div className="relative hidden lg:block">
-            <div clas
+            <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/20 to-purple-500/20 rounded-3xl transform rotate-3 animate-pulse" />
+            <div className="relative bg-white/10 backdrop-blur-lg p-8 rounded-3
