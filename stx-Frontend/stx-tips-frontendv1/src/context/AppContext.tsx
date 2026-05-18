@@ -22,4 +22,6 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <AppContext.Provider value
+    <AppContext.Provider value={{
+      currentPage,
+   
