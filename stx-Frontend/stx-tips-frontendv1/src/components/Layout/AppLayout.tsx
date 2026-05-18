@@ -5,4 +5,5 @@ import { Header } from '../Navigation/Header';
 import { Dashboard } from '@/pages/Dashboard';
 import { History } from '@/pages/History';
 import { Rewards } from '@/pages/Rewards';
-import { Settings } from '@
+import { Settings } from '@/pages/Settings';
+import { Home
