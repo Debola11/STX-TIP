@@ -5,4 +5,4 @@ export const IS_MAINNET = false;
 export const NETWORK = IS_MAINNET ? STACKS_MAINNET : STACKS_TESTNET;
 
 // Set the appropriate API URL based on the network
-// NETWORK.co
+// NETWORK.coreApiUrl = I
