@@ -47,4 +47,5 @@ export const AppLayout: React.FC = () =>
             <Sidebar />
             <Header />
             <main className="pt-16 lg:pl-64">
-                <div classNa
+                <div className="p-6">
+                    {
