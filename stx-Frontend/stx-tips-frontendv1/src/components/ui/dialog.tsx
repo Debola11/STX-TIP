@@ -120,4 +120,6 @@ export {
   DialogContent,
   DialogHeader,
   DialogFooter,
-  Dia
+  DialogTitle,
+  DialogDescription,
+}
