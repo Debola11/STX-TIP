@@ -138,4 +138,11 @@ export const Dashboard = () =>
                     stroke="#3b82f6"
                     strokeWidth={2}
                   />
-                </LineC
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
+          </CardContent>
+        </Card>
+
+        {/* Recent Activity */}
+ 
