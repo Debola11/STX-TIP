@@ -251,4 +251,12 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
       {/* Keep existing modals */}
       <EmailModal
-        isOpen={
+        isOpen={isEmailModalOpen}
+        onOpenChange={setIsEmailModalOpen}
+        email={email}
+        setEmail={setEmail}
+        handleSubmit={handleEmailSubmit}
+        isLoading={isLoading}
+      />
+
+      <VerifyE
