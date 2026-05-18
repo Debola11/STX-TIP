@@ -69,4 +69,10 @@
 //   );
 // };
 
-import { createContext, useEffect, useReducer, ReactNode, Dispatch 
+import { createContext, useEffect, useReducer, ReactNode, Dispatch } from "react";
+
+// Define types
+interface User {
+  [key: string]: any;
+}
+
