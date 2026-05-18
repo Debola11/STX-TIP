@@ -15,4 +15,5 @@ const appConfig = {
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <Bro
+    <BrowserRouter>
+    
