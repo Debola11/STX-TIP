@@ -12,4 +12,5 @@
 //         showConnect({
 //             appDetails: {
 //                 name: APP_CONFIG.NAME,
-//                 icon: window.
+//                 icon: window.location.origin + APP_CONFIG.ICON,
+//             },
