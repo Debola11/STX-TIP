@@ -1,3 +1,6 @@
 import React, { useState } from 'react';
 import { Search, Filter } from 'lucide-react';
-import { Transaction } from '@/l
+import { Transaction } from '@/lib/type';
+
+export const History: React.FC = () => {
+  const 
