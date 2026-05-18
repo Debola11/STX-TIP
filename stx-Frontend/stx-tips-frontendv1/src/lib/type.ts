@@ -27,4 +27,7 @@ export interface Stat {
   export interface UserWalletData {
     walletAddress: string;
     username: string;
-    memoC
+    memoCode: string;
+  }
+
+  export
