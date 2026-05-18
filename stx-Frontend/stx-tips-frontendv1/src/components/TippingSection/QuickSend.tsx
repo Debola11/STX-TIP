@@ -81,4 +81,8 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
     useEffect(() => {
         const timeoutId = setTimeout(() => {
-            if (recipientInput &
+            if (recipientInput && recipientInput.length > 2) {
+                fetchUserInfo(recipientInput);
+            } else {
+                setUserInfo({});
+     
