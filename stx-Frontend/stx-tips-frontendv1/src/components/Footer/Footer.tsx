@@ -27,4 +27,9 @@
 //                 <a href="#features" className="text-gray-400 hover:text-violet-400 transition-colors">
 //                   Features
 //                 </a>
-//             
+//               </li>
+//               <li>
+//                 <a href="#send-tip" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Send Tips
+//                 </a>
+//
