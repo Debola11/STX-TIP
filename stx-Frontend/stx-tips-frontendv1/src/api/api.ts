@@ -12,4 +12,4 @@ export const fetchUserBalance = async (userAddress: string) => {
   }
 };
 
-expor
+export const fetchU
