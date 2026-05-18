@@ -27,4 +27,5 @@ export const Rewards: React.FC = () => {
     },
     {
       id: '3',
-      titl
+      title: 'High Roller',
+      description: 'Get VIP s
