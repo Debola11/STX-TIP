@@ -198,4 +198,12 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
               </motion.div>
             </div> 
             {/* </div> */}
-          </AlertDialogConten
+          </AlertDialogContent>
+        )}
+      </AnimatePresence>
+    </AlertDialog>
+    </div>
+  );
+};
+
+export default TipConfirmationDialog;
