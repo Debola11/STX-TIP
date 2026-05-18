@@ -59,4 +59,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
           onError('Transaction cancelled');
         }
       });
-  
+    } catch (error) {
+      console.error('Transa
