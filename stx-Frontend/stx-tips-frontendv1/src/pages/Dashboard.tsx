@@ -173,4 +173,9 @@ export const Dashboard = () =>
                       </p>
                     </div>
                   </div>
-                  <span class
+                  <span className="font-medium">{tip.amount}</span>
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Car
