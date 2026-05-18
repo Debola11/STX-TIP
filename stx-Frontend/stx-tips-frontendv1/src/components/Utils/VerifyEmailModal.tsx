@@ -72,4 +72,8 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
             <DialogContent className="sm:max-w-md border border-violet-200/10 bg-white dark:bg-gray-900 shadow-2xl shadow-violet-500/10">
                 <div className="relative overflow-hidden rounded-lg p-6">
                     {/* Animated gradient accent */}
-                    {/* <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-violet-5
+                    {/* <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-violet-500 to-purple-500" /> */}
+
+                    <div className="relative z-10 space-y-6">
+                        {/* Header with icon */}
+       
