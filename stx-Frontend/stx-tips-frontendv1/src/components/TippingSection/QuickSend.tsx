@@ -6,4 +6,13 @@ import { fetchUserWalletInfo } from '../../services/apiService';
 import { useTipTransaction } from '../../hooks/useTipTransaction';
 import { TipConfirmationDialog } from './TipConfirmationDialog';
 import { useAppContext } from '@/context/AppContext';
-import { RecipientInput } from './
+import { RecipientInput } from './RecipientInput';
+
+interface UserInfo {
+    email?: string;
+    walletAddress?: string;
+    found?: boolean;
+    error?: string;
+}
+
+interf
