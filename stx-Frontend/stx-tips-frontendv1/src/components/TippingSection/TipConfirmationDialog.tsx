@@ -114,4 +114,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
             >
               <AlertDialogHeader>
                 <motion.div variants={contentVariants} initial="hidden" animate="visible">
-                  <AlertDialogTitl
+                  <AlertDialogTitle className="text-2xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-transparent">
+                    Confirm Tip
+      
