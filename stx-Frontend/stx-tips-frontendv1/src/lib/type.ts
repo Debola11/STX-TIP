@@ -48,4 +48,7 @@ export interface UserStats {
 export interface RawUserStats {
   'total-tips-sent': { value: bigint };
   'total-tips-received': { value: bigint };
-  'reward-points': { value: bigint
+  'reward-points': { value: bigint };
+}
+
+export interface Ti
