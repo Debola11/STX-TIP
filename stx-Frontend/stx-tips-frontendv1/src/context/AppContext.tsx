@@ -32,4 +32,5 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       isOpen, 
       setIsOpen
     }}>
-   
+      {children}
+    </AppCon
