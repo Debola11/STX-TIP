@@ -5,4 +5,7 @@ const API_BASE_URL = 'https://api.yourbackend.com';
 
 export class APIError extends Error
 {
-    constructor(public status: number,
+    constructor(public status: number, message: string)
+    {
+        super(message);
+      
