@@ -4,4 +4,6 @@ import { Gift, ChevronRight, Lock } from 'lucide-react';
 interface Reward {
   id: string;
   title: string;
-  desc
+  description: string;
+  points: number;
+  unlocked: 
