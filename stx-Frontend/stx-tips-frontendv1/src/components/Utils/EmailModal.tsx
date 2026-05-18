@@ -46,4 +46,6 @@ const EmailModal: FC<EmailModalProps> = ({
 
           {/* Form */}
           <form onSubmit={handleSubmit} className="space-y-4">
-            <div className="relativ
+            <div className="relative">
+              <Input
+                placeholder="Enter your email addre
