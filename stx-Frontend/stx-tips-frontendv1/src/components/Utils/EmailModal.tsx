@@ -38,4 +38,6 @@ const EmailModal: FC<EmailModalProps> = ({
             </div>
             <h2 className="text-2xl font-bold text-transparent bg-gradient-to-r from-violet-300 to-purple-300 bg-clip-text">
               Welcome to the Community
-   
+            </h2>
+            <p className="text-gray-300/90 text-sm">
+        
