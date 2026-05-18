@@ -144,4 +144,6 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                         <span className="flex items-center justify-center gap-2">
                             {isProcessing ? (
                                 <>
-                         
+                                    <Loader2 className="h-5 w-5 animate-spin" />
+                                    Confirming Transaction...
+                   
