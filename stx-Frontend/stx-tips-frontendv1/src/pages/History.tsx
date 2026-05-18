@@ -30,4 +30,4 @@ export const History: React.FC = () => {
           />
         </div>
         <div className="relative">
-   
+          <Filter className="absolute left-3 top-1/2 transform 
