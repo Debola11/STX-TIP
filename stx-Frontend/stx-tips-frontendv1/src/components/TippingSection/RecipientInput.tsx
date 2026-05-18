@@ -6,3 +6,7 @@ import { Alert, AlertDescription } from '@/components/ui/alert';
 interface RecipientInputProps {
   recipientInput: string;
   setRecipientInput: (value: string) => void;
+  searching: boolean;
+  validationError: string;
+  userInfo: {
+    e
