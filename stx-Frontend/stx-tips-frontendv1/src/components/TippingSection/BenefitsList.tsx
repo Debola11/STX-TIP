@@ -7,4 +7,4 @@ const benefits = [
   "Instant, secure transactions on Stacks blockchain",
   "Earn rewards and badges for your contributions",
   "Support your favorite content creators directly",
-  "Track
+  "Track all your transactions in
