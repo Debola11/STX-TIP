@@ -14,4 +14,5 @@ export const Rewards: React.FC = () => {
     {
       id: '1',
       title: 'Early Supporter',
-      description: 'Receive 10% bonus on all tips fo
+      description: 'Receive 10% bonus on all tips for being an early platform adopter',
+      point
