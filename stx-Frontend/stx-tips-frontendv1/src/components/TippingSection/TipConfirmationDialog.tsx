@@ -185,4 +185,7 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                   >
                     <span className="flex items-center justify-center gap-2">
                       {transactionInProgress ? (
-              
+                        <>
+                          <Loader2 className="h-4 w-4 animate-spin" />
+                          Processing...
+                        <
