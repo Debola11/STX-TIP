@@ -83,4 +83,8 @@ export const Settings: React.FC = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Public Profile</p>
-                <p className="text-sm text-gray-500">Allow others to
+                <p className="text-sm text-gray-500">Allow others to view your tipping history</p>
+              </div>
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input
+                 
