@@ -76,4 +76,5 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 
                     <div className="relative z-10 space-y-6">
                         {/* Header with icon */}
-       
+                        <div className="text-center space-y-2">
+                            <div className="flex items-center justify-center mx-auto mb
