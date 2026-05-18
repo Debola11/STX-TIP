@@ -20,4 +20,6 @@ interface QuickSendProps {
 }
 
 export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
+    const { walletConnected } = useAppContext();
+    const [recipientInput, setRecipientInput] = useState<string>(initialAddress || '');
     con
