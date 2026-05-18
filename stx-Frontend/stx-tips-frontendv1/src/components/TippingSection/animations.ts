@@ -4,4 +4,4 @@ export const containerVariants = {
       opacity: 1,
       y: 0,
       transition: {
-        d
+        duration:
