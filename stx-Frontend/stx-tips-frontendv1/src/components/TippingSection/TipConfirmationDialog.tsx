@@ -145,4 +145,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                           <span className="font-medium text-violet-900">{userInfo.email}</span>
                           <br />
                           <span className="text-sm text-gray-500">{recipientInput}</span>
-                      
+                        </p>
+                      </div>
+                    ) : (
+                      <div className="flex items-start space-x-2 text-gray-700">
+      
