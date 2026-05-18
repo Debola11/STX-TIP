@@ -37,4 +37,6 @@ export const notifyTipSent = async (
                 recipientAddress,
                 amount,
                 transact,
-                transac
+                transactionId,
+            }),
+  
