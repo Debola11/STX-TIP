@@ -1,1 +1,2 @@
-import path from "pa
+import path from "path"
+i
