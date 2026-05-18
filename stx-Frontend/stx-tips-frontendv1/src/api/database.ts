@@ -39,4 +39,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             throw new APIError(response.status, errorMessage);
         }
 
-      
+        const data = await response.json();
+        return {
