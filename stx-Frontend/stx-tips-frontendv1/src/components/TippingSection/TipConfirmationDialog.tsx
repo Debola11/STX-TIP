@@ -51,4 +51,9 @@
 //             onClick={onConfirm}
 //             disabled={transactionInProgress}
 //           >
-//             {transactionInProgress ? 'Proc
+//             {transactionInProgress ? 'Processing...' : 'Confirm'}
+//           </AlertDialogAction>
+//         </AlertDialogFooter>
+//       </AlertDialogContent>
+//     </AlertDialog>
+//   )
