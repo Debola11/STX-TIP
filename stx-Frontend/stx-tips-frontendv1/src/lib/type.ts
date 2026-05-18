@@ -2,4 +2,7 @@ export interface Stat {
     title: string;
     value: string;
     change: string;
-    icon?: React.React
+    icon?: React.ReactNode;
+  }
+  
+  export inte
