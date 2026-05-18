@@ -113,4 +113,9 @@ export const Footer: React.FC = () =>
           <div className="space-y-6">
             <div className="flex items-center space-x-2">
               <Sparkles className="h-6 w-6 text-violet-400" />
-              <h3 className="text-xl font-bold bg-gradient-to-r from-violet-300 to-purple-30
+              <h3 className="text-xl font-bold bg-gradient-to-r from-violet-300 to-purple-300 bg-clip-text text-transparent">
+                TipStack
+              </h3>
+            </div>
+            <p className="text-gray-300/80">
+              Empowering global communities throug
