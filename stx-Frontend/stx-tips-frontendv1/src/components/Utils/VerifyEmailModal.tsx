@@ -108,3 +108,8 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                     disabled={isLoading}
                                     maxLength={6}
                                     required
+                                />
+                            </div>
+
+                            <Button
+                                type=
