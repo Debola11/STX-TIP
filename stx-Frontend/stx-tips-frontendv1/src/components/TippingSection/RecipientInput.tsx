@@ -70,4 +70,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
       <AnimatePresence>
         {userInfo.found && (
           <motion.div 
-            initial={{ o
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: '
