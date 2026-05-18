@@ -134,4 +134,8 @@ export const Footer: React.FC = () =>
                 className="group relative p-2 bg-white/5 rounded-lg hover:bg-white/10 transition-all duration-200"
                 target="_blank"
                 rel="noopener noreferrer"
-    
+              >
+                <Github className="h-5 w-5 text-violet-300 group-hover:text-violet-400 transition-colors" />
+              </a>
+              <a
+                href="mailto:contact
