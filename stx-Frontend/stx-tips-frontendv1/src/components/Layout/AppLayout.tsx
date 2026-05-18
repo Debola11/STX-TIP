@@ -20,4 +20,7 @@ export const AppLayout: React.FC = () =>
                     <HomePage />
                 </main>
             </div>
- 
+        );
+    }
+
+    const rend
