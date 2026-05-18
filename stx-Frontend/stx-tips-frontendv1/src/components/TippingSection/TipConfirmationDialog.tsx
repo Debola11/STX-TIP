@@ -62,4 +62,10 @@
 
 import React from 'react';
 import { AlertDialog, AlertDialogContent, AlertDialogHeader, AlertDialogTitle, AlertDialogDescription, AlertDialogFooter, AlertDialogCancel, AlertDialogAction } from "@/components/ui/alert-dialog";
-import { Loader2, AlertCircle, CheckCircle } from 'lucide-react
+import { Loader2, AlertCircle, CheckCircle } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+
+interface TipConfirmationDialogProps
+{
+  open: boolean;
+  onOpenChange: (open: boolean) 
