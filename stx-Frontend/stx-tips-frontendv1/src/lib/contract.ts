@@ -6,4 +6,4 @@ import {
   stringAsciiCV, 
   uintCV 
 } from '@stacks/transactions';
-import { CONTRA
+import { CONTRACT_CONFIG } from './const
