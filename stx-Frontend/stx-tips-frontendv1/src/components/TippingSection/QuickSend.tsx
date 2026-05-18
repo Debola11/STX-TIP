@@ -158,4 +158,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                                     <ArrowRight className="h-5 w-5" />
                                 </>
                             )}
-                  
+                        </span>
+                    </button>
+                </div>
+            </CardContent>
+
+            <TipConfirmationDialog
+       
