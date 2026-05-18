@@ -58,4 +58,5 @@ export interface TipHistoryEntry {
   timestamp: number;
 }
 
-export interface RawTipHistoryEntry 
+export interface RawTipHistoryEntry {
+  amount: { value: bigin
