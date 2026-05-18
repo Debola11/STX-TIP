@@ -154,4 +154,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                           Sending to unverified address
                           <br />
                           <span className="text-sm font-medium">{recipientInput}</span>
-     
+                          <br />
+                          <span className="text-sm text-amber-600">
+                            Please verify the address
