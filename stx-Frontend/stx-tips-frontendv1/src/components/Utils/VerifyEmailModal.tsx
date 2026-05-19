@@ -43,4 +43,10 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                 }),
             });
 
-            const result =
+            const result = await response.json();
+
+
+            if (response.ok)
+            {
+                setIsLoading(false);
+                toast.success(result.m
