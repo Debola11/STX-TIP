@@ -34,4 +34,6 @@ export const History: React.FC = () => {
           <select
             className="pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-600 appearance-none bg-white"
             value={filter}
-            onC
+            onChange={(e) => setFilter(e.target.value)}
+          >
+       
