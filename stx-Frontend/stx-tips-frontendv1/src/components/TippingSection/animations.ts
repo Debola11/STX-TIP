@@ -3,4 +3,4 @@ export const containerVariants = {
     visible: {
       opacity: 1,
       y: 0,
-     
+      transit
