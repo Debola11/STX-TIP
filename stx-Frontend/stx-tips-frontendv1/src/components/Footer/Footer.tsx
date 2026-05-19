@@ -89,4 +89,9 @@
 // };
 
 import React from 'react';
-import { Github, Twitter, Mail, Arr
+import { Github, Twitter, Mail, ArrowUpRight, Sparkles } from 'lucide-react';
+
+export const Footer: React.FC = () =>
+{
+  return (
+    <footer className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-p
