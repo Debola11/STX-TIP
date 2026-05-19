@@ -259,4 +259,13 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         isLoading={isLoading}
       />
 
-      <VerifyE
+      <VerifyEmailModal
+        isOpen={isVerifyModalOpen}
+        onOpenChange={setIsVerifyModalOpen}
+        userEmail={email}
+      />
+    </div>
+  );
+};
+
+export default HeroSection;
