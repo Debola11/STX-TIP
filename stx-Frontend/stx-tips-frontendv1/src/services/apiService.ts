@@ -8,4 +8,6 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
         const response = await fetch(`${API_BASE_URL}/users/wallet/${walletAddress}`);
         if (!response.ok)
         {
-            throw new Error(`HTTP error! status: ${response.
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+     
