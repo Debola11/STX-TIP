@@ -160,4 +160,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         <div className="grid lg:grid-cols-2 gap-8 items-center justify-center">
           <div className="space-y-6 text-center lg:text-left">
             {/* Keep all existing content */}
-            <div className="inline-flex items-center px-4 py
+            <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-violet-500/10 border border-violet-500/20 text-violet-300 text-sm font-medium mb-4">
+              <Zap className="w-4 h-4 mr-2" />
+              Instant Blockchain Transfers
+          
