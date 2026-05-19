@@ -72,4 +72,6 @@ export const FAQSection = () => {
                     animate={{ rotate: selectedFaq === index ? 180 : 0 }}
                     transition={{ duration: 0.2 }}
                   >
-                
+                    <ChevronDown className="h-5 w-5 text-violet-300" />
+                  </motion.div>
+       
