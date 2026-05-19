@@ -61,4 +61,4 @@ export const FAQSection = () => {
               transition={{ delay: index * 0.1 }}
               className="group relative"
             >
-              <div className="absolute inset-0 bg-gra
+              <div className="absolute inset-0 bg-gradient-to-r from-violet-500/10 to-purple-500/10 rounded-2xl transform transition-transform group
