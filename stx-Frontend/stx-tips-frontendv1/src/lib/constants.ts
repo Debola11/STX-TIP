@@ -1,2 +1,2 @@
 // Network configuration
-export cons
+export const NETWORK
