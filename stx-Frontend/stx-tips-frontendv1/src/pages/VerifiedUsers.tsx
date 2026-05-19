@@ -21,4 +21,6 @@ const VerifiedUsers: React.FC = () => {
 
   useEffect(() => {
     const fetchUsers = async () => {
-      
+      try {
+        const response = await fetch('https://stx-tip.onrender.com/api/v1/users/verified');
+        const da
