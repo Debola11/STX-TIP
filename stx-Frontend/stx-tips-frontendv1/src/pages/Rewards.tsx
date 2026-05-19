@@ -55,4 +55,6 @@ export const Rewards: React.FC = () => {
         {rewards.map((reward) => (
           <div
             key={reward.id}
-            className="bg-white rounded-xl shadow-sm p-6 flex items-center justify-between hover:shado
+            className="bg-white rounded-xl shadow-sm p-6 flex items-center justify-between hover:shadow-md transition-shadow"
+          >
+           
