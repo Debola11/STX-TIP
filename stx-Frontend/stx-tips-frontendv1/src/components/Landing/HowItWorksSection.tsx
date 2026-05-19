@@ -1,2 +1,5 @@
 import { Wallet, Users, TrendingUp, ArrowRight } from 'lucide-react';
-impo
+import { motion } from 'framer-motion';
+
+const containerVariants = {
+  hidden:
