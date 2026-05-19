@@ -28,4 +28,7 @@ const VerifiedUsers: React.FC = () => {
         if (data.success) {
           setUsers(data.data);
         } else {
- 
+          toast.error('Failed to fetch verified users');
+        }
+      } catch (error) {
+        console.error('F
