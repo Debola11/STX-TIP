@@ -19,4 +19,4 @@ export const fetchUserStats = async (userAddress: string) => {
     );
     return await response.json();
   } catch (error) {
-    console.erro
+    console.error('Error fetch
