@@ -47,4 +47,7 @@ export const History: React.FC = () => {
         <div className="grid grid-cols-4 gap-4 p-4 border-b font-medium text-gray-500">
           <div>From</div>
           <div>To</div>
-          <div>Amount</div
+          <div>Amount</div>
+          <div>Date</div>
+        </div>
+        <div clas
