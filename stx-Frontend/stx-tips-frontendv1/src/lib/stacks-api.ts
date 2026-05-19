@@ -39,4 +39,5 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
     {
         const result = await callReadOnlyFunction({
             network: NETWORK,
-            contractAddress: CONTRACT_A
+            contractAddress: CONTRACT_ADDRESS,
+            contractName: CONTRACT_NAME
