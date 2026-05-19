@@ -71,4 +71,5 @@ const VerifiedUsers: React.FC = () => {
   }
 
   return (
-    <div cla
+    <div className="min-h-screen bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950">
+      <div className="relative"
