@@ -5,4 +5,6 @@
 // export const useWallet = () =>
 // {
 //     const [walletConnected, setWalletConnected] = useState(false);
-//     const [walletAddress, setWalletAddress] = useState<s
+//     const [walletAddress, setWalletAddress] = useState<string | null>(null);
+
+//     const connectWallet = us
