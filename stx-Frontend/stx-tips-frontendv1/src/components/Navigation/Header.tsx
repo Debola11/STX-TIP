@@ -84,4 +84,13 @@ export const Header = () => {
       };
 
   const handleAuth = () => {
-    if (i
+    if (isAuthenticated) {
+      signUserOut();
+      setWalletAddress(null);
+      setIsAuthenticated(false);
+    } else {
+      authenticate();
+    }
+  };
+
+  const toggleDashboard =
