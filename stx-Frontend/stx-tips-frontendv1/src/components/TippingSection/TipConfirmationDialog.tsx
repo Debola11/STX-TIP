@@ -112,4 +112,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
             <div
               className="max-w-md bg-white/95 backdrop-blur-lg border border-violet-100 shadow-xl"
             >
-          
+              <AlertDialogHeader>
+                <motion.div variants={contentVariants} initial="hidden" animate="visible">
+                  <AlertDialogTitl
