@@ -84,4 +84,11 @@ export const Dashboard = () =>
     { name: 'Thu', sent: 45, received: 20 },
     { name: 'Fri', sent: 30, received: 40 },
     { name: 'Sat', sent: 55, received: 35 },
-    { name: 'S
+    { name: 'Sun', sent: 40, received: 45 }
+  ];
+
+ 
+
+  return (
+    <div className="p-6 space-y-6 bg-gray-50 min-h-screen">
+      {/* Header Stats */}
