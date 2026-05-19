@@ -43,4 +43,5 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
             contractName: CONTRACT_NAME,
             functionName,
             functionArgs: [
-                standardPrincipalCV(se
+                standardPrincipalCV(sender),
+                standardPrincipalCV(reci
