@@ -9,4 +9,6 @@
 
 //     const connectWallet = useCallback(async () =>
 //     {
-//         showConnect
+//         showConnect({
+//             appDetails: {
+//                 na
