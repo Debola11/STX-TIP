@@ -5,4 +5,4 @@ interface TransactionCardProps {
   transaction: Transaction;
 }
 
-export const TransactionCard: React.FC<Transac
+export const TransactionCard: React.FC<TransactionCardProps> = ({ 
