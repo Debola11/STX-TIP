@@ -199,4 +199,8 @@ export const Dashboard = () =>
                   <div>
                     <p className="text-sm font-medium">Top Tipper Badge</p>
                     <p className="text-xs text-gray-500">Sent over 1000 STX in tips</p>
-                  </di
+                  </div>
+                </div>
+                <span className="text-sm font-medium text-violet-600">Level 3</span>
+              </div>
+     
