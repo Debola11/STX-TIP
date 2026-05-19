@@ -100,4 +100,6 @@ const VerifiedUsers: React.FC = () => {
                       <CheckCircle className="h-5 w-5 text-green-400" />
                     </CardTitle>
                   </CardHeader>
-       
+                  <CardContent>
+                    <div className="space-y-4">
+                      <div className="fle
