@@ -172,4 +172,10 @@ export const Header = () => {
             )}
             
             <div className="flex items-center space-x-2">
-              <div className="text-xl md:text-2xl font-bold bg-gradient-to-r from-violet-600 to-purple-600 bg-clip-text text-transparent t
+              <div className="text-xl md:text-2xl font-bold bg-gradient-to-r from-violet-600 to-purple-600 bg-clip-text text-transparent transform hover:scale-105 transition-transform cursor-pointer">
+                TipStack
+              </div>
+            </div>
+
+            {isAuthenticated && (
+           
