@@ -28,4 +28,4 @@ export const HomePage: React.FC = () => {
   );
 };
 
-export de
+export default HomePage;
