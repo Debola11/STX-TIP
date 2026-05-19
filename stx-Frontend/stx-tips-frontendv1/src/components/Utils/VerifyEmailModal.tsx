@@ -139,4 +139,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                 </p>
                                 <button
                                     type="button"
-                                    className="text-sm text-violet-600 dark:text-
+                                    className="text-sm text-violet-600 dark:text-violet-400 hover:text-violet-700 
+                           dark:hover:text-violet-300 font-medium transition-colors"
+                         
