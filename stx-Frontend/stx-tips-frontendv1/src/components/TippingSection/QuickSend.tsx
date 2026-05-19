@@ -47,4 +47,9 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
             resetForm();
         },
         onError: (error) => {
-        
+            setValidationError(error);
+            setShowConfirmDialog(false);
+        }
+    });
+
+    const fetchUserInfo = async (input: string
