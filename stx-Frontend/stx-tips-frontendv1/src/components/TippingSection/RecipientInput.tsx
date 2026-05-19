@@ -83,4 +83,8 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
                 <p className="text-sm font-medium text-gray-900">Verified User</p>
                 <p className="text-sm text-gray-600">{userInfo.email}</p>
               </div>
-              <CheckCircle className="h-5 w-5 text-green-50
+              <CheckCircle className="h-5 w-5 text-green-500" />
+            </div>
+          </motion.div>
+        )}
+      </
