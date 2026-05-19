@@ -35,3 +35,4 @@ export const sendTip = async ({
     const options = {
     //   network: NETWORK,
       anchorMode: AnchorMode.Any,
+      contractAddress: C
