@@ -1,1 +1,1 @@
-import { Transaction
+import { Transaction } from '@/lib/type'
