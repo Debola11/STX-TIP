@@ -38,4 +38,6 @@ export const History: React.FC = () => {
           >
             <option value="all">All Transactions</option>
             <option value="sent">Sent</option>
-            <option va
+            <option value="received">Received</option>
+          </select>
+       
