@@ -31,4 +31,6 @@ export const Sidebar: React.FC = () => {
             onClick={() => setCurrentPage(item.id)}
             className={`flex items-center space-x-3 w-full p-3 rounded-lg transition-colors ${
               currentPage === item.id ? 'bg-white/10' : 'hover:bg-white/5'
- 
+            }`}
+          >
+            {
