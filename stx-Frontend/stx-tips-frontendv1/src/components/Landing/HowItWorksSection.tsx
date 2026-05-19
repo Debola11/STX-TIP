@@ -79,4 +79,4 @@ export const HowItWorksSection = () => {
                 whileHover={{ y: -5 }}
                 className="relative group"
               >
-              
+                <div className="absolute inset-0 bg-gradient-to-r from-violet-100/50 to-
