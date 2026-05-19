@@ -212,4 +212,13 @@ export const Dashboard = () =>
                   </div>
                 </div>
                 <span className="text-sm font-medium text-violet-600">Achieved</span>
-    
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default Dashboard;
