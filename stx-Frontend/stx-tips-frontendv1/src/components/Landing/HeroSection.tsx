@@ -146,4 +146,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
     <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950">
       {/* Keep all existing background elements and styling */}
       <div className="absolute inset-0 overflow-hidden">
-     
+        <div
+          className="absolute w-full h-full opacity-30"
+          style={{
+            backgroundImage: 'radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2) 0%, transparent 50%)',
+           
