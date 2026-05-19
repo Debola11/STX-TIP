@@ -73,4 +73,4 @@ export async function submitUserWalletDataWithRetry(
         {
             lastError = error as Error;
 
-     
+            // Only retry on network errors or 5xx server e
