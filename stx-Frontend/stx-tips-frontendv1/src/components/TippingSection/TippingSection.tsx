@@ -107,3 +107,9 @@ export const TippingSection: React.FC = () =>
     {
       setValidationError('Please verify recipient and amount');
       return;
+    }
+
+    if (!validateStacksAddress(recipientInput))
+    {
+      setValidationError('Invalid wallet address');
+      return
