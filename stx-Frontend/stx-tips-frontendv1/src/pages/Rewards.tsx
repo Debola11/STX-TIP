@@ -39,4 +39,5 @@ export const Rewards: React.FC = () => {
       <h1 className="text-2xl font-bold">Rewards</h1>
 
       <div className="bg-gradient-to-r from-violet-600 to-purple-600 rounded-xl shadow-sm p-6 text-white">
-        <div className="flex 
+        <div className="flex items-center space-x-4 mb-4">
+          <Gift c
