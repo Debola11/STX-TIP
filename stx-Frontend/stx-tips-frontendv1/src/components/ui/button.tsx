@@ -40,4 +40,5 @@ export interface ButtonProps
   asChild?: boolean
 }
 
-const Button = React.forwardRef<HTMLButtonElement, Bu
+const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
+  ({ className, variant, si
