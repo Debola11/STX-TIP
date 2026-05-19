@@ -76,4 +76,7 @@ export async function submitUserWalletDataWithRetry(
             // Only retry on network errors or 5xx server errors
             if (error instanceof APIError && error.status < 500)
             {
-                throw e
+                throw error;
+            }
+
+            if (attempt < maxRetr
