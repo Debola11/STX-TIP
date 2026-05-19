@@ -10,4 +10,4 @@ export const containerVariants = {
     }
   };
   
-  expor
+  export const 
