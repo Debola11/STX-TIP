@@ -40,4 +40,5 @@ export const sendTip = async ({
       functionName: 'tip',
       functionArgs,
       postConditionMode: PostConditionMode.Allow,
-      onFini
+      onFinish: (data: any) => {
+    
