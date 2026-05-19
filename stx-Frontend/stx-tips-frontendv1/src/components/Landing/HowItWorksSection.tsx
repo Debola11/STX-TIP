@@ -48,4 +48,6 @@ export const HowItWorksSection = () => {
     <div className="relative overflow-hidden bg-white py-16">
       {/* Background decorative elements */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f0a_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f0a_1px,transparent_1px)] bg-[size:24px_24px]" />
-      <div className="absolute top-0 left-0 w-
+      <div className="absolute top-0 left-0 w-full h-24 bg-gradient-to-b from-white to-transparent" />
+      
+      <mot
