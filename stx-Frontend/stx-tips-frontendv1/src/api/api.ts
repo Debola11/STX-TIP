@@ -5,4 +5,5 @@ export const fetchUserBalance = async (userAddress: string) => {
     const response = await fetch(
       `${NETWORK_CONFIG.API_URL}/v1/addresses/${userAddress}/balances`
     );
-    return await response.json
+    return await response.json();
+  } catch 
