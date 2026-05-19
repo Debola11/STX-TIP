@@ -39,4 +39,5 @@ export const Sidebar: React.FC = () => {
         ))}
       </nav>
 
-      <div className="abso
+      <div className="absolute bottom-6 left-6 right-6">
+        <
