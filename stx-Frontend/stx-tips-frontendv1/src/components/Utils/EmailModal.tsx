@@ -82,4 +82,9 @@ const EmailModal: FC<EmailModalProps> = ({
             By continuing, you agree to our Terms of Service and Privacy Policy
           </p>
         </div>
-      <
+      </div>
+    </DialogContent>
+  </Dialog>
+);
+
+export default EmailModal;
