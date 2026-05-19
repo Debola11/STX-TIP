@@ -138,4 +138,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     className="space-y-2"
                   >
                     {userInfo.found ? (
-                      <div className="flex items-star
+                      <div className="flex items-start space-x-2 text-gray-700">
+                        <CheckCircle className="w-5 h-5 text-green-500 mt-1 flex-shrink-0" />
+                        <p>
