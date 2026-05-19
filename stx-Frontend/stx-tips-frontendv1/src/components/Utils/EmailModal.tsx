@@ -61,4 +61,4 @@ const EmailModal: FC<EmailModalProps> = ({
             <Button
               type="submit"
               disabled={isLoading || !email.trim().toLowerCase()}
-              className="w-full bg-gradient-to-r from-violet-500 to-purple-500 text-white py-6 rounded-lg font-medium transform hov
+              className="w-full bg-gradient-to-r from-violet-500 to-purple-500 text-white py-6 rounded-lg font-medium transform hover:scale-[1.02] transition-all duration-200 disabled:opacity-50 disabled:cur
