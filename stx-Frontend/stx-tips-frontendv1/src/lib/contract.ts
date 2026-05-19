@@ -36,4 +36,5 @@ export const sendTip = async ({
     //   network: NETWORK,
       anchorMode: AnchorMode.Any,
       contractAddress: CONTRACT_CONFIG.ADDRESS,
-      contractName: CONTRA
+      contractName: CONTRACT_CONFIG.NAME,
+      fun
