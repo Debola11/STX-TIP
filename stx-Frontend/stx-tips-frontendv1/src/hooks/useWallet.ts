@@ -54,4 +54,6 @@ export const useWallet = () => {
   const [walletState, setWalletState] = useState<WalletState>({
     walletConnected: !!authOptions?.userSession?.isUserSignedIn(),
     walletAddress: authOptions?.userSession?.loadUserData()?.profile?.stxAddress?.testnet || null,
-  }
+  });
+
+  const connectWallet = useCallback(async () => {
