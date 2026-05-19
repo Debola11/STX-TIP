@@ -61,4 +61,5 @@ export const NewsletterSection = () => {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="Enter your ema
+                placeholder="Enter your email"
+                className="flex-1 bg-transparent px-3 py-2 text-gray-700 pla
