@@ -4,3 +4,4 @@ import { useAppContext } from '../../context/AppContext';
 import { NavItem } from '@/lib/type';
 
 export const Sidebar: React.FC = () => {
+  const { isOpen, setIsOpen, currentPage
