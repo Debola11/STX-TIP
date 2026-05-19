@@ -1,2 +1,2 @@
 import React from 'react';
-import { HeroSection } from '@/co
+import { HeroSection } from '@/components/Landing/Her
