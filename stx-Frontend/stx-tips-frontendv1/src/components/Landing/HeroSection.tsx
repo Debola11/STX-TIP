@@ -115,4 +115,12 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         dispatch({
           type: "ACTIVATE_USER",
           payload: {
-            activati
+            activationToken: result.verificationToken,
+            activation_Code: result.activationCode
+          }
+        });
+
+        setIsLoading(false);
+        setIsVerifyModalOpen(true);
+      } else {
+        toast.e
