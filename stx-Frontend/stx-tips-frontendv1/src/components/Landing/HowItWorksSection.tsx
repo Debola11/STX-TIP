@@ -65,4 +65,6 @@ export const HowItWorksSection = () => {
             How It Works
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Start suppo
+            Start supporting your favorite creators in three simple steps
+          </p>
+        
