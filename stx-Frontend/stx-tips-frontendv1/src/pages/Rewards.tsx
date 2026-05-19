@@ -59,4 +59,5 @@ export const Rewards: React.FC = () => {
           >
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
-                <h3 className="font-bold">{reward.ti
+                <h3 className="font-bold">{reward.title}</h3>
+                {!reward.unlocked && 
