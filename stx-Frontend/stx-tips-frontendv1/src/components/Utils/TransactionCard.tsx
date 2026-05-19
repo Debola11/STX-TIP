@@ -20,4 +20,4 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
         </p>
       </div>
     </div>
-    <span cla
+    <span className="font-medium 
