@@ -12,4 +12,4 @@ export class APIError extends Error
     }
 }
 
-export async functi
+export async function submitUserWalletData(userData: UserWalletData): Pro
