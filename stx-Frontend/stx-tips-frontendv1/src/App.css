@@ -28,4 +28,4 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a
+  a:nth-of-type(
