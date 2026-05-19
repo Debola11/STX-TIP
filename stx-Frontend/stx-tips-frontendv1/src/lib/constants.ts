@@ -5,4 +5,4 @@ export const NETWORK_CONFIG = {
 
 // Contract configuration
 export const CONTRACT_CONFIG = {
-    ADDRESS: 'ST
+    ADDRESS: 'STNHKEPYEPJ
