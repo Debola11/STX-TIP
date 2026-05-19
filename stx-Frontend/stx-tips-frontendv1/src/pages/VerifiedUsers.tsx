@@ -50,4 +50,7 @@ const VerifiedUsers: React.FC = () => {
     try {
       await navigator.clipboard.writeText(wallet);
       setCopiedWallet(wallet);
-      setTim
+      setTimeout(() => setCopiedWallet(null), 2000);
+      toast.success('Wallet address copied!');
+    } catch (err) {
+      
