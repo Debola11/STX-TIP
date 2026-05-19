@@ -1,3 +1,3 @@
 export default {
   plugins: {
-    tailwind
+    tailwindcs
