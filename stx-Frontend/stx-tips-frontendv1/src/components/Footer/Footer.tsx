@@ -185,4 +185,8 @@ export const Footer: React.FC = () =>
           {/* Legal Section */}
           <div className="space-y-6">
             <h3 className="text-lg font-semibold text-white/90">Legal</h3>
-            <ul classNam
+            <ul className="space-y-3">
+              {['Privacy Policy', 'Terms of Service', 'Cookie Policy'].map((item) => (
+                <li key={item}>
+                  <a
+                    href={`/${item.toL
