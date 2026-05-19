@@ -217,4 +217,11 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
               </div>
               <div className="flex items-center justify-center space-x-3 bg-white/5 p-3 rounded-lg backdrop-blur-sm">
                 <Shield className="h-5 w-5 text-violet-300" />
-                <span className="text-gray-200">S
+                <span className="text-gray-200">Secure Transfers</span>
+              </div>
+            </div>
+          </div>
+
+          {/* Keep the decorative right column */}
+          <div className="relative hidden lg:block">
+            <div clas
