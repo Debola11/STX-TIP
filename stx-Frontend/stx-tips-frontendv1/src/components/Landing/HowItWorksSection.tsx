@@ -89,4 +89,5 @@ export const HowItWorksSection = () => {
                   </h3>
                   <p className="text-gray-600">
                     {step.description}
-   
+                  </p>
+                  <div className="absolute bottom-4 ri
