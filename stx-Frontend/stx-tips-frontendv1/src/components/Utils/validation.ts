@@ -1,1 +1,1 @@
-export const validat
+export const validateSta
