@@ -24,4 +24,4 @@ export const History: React.FC = () => {
           <input
             type="text"
             placeholder="Search transactions..."
-            className="w-full pl-10 
+            className="w-full pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 
