@@ -37,4 +37,6 @@ export const notifyTipSent = async (
                 amount,
                 transactionId,
             }),
-  
+        });
+
+        if (!re
