@@ -156,4 +156,10 @@ export const TippingSection: React.FC = () =>
               placeholder="Enter amount to tip"
               className="block w-full px-4 py-3 border border-gray-200 rounded-xl bg-white/80 backdrop-blur-sm focus:outline-none focus:ring-2 focus:ring-violet-500 focus:border-transparent transition-all duration-200"
               value={amount}
-              onChange={(e) => setA
+              onChange={(e) => setAmount(e.target.value)}
+            />
+          </div>
+
+          <motion.button
+            onClick={handleSendTip}
+        
