@@ -1,1 +1,1 @@
-import { NETWO
+import { NETWORK_CONFIG } fr
