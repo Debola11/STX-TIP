@@ -6,4 +6,5 @@ export const History: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [filter, setFilter] = useState('all');
 
-  // Sample data - replace w
+  // Sample data - replace with real data in production
+  const transactions: Transactio
