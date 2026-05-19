@@ -44,4 +44,10 @@ export const Dashboard = () =>
       title: 'Tips Sent',
       value: '456 STX',
       change: '+8.2%',
-      icon: <ArrowUpCircle
+      icon: <ArrowUpCircle className="h-6 w-6 text-green-600" />
+    },
+    {
+      title: 'Tips Received',
+      value: '789 STX',
+      change: '+15.7%',
+      i
