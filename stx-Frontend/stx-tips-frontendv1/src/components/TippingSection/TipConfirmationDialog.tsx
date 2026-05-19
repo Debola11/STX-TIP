@@ -47,4 +47,8 @@
 //         </AlertDialogHeader>
 //         <AlertDialogFooter>
 //           <AlertDialogCancel>Cancel</AlertDialogCancel>
-//           <AlertDialogAc
+//           <AlertDialogAction 
+//             onClick={onConfirm}
+//             disabled={transactionInProgress}
+//           >
+//             {transactionInProgress ? 'Proc
