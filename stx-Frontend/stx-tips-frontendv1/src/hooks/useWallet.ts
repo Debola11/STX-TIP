@@ -64,4 +64,5 @@ export const useWallet = () => {
       },
       onFinish: () => {
         setWalletState({
-          walletConnected: t
+          walletConnected: true,
+          walletAddress: walletState.walletAddre
