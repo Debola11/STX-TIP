@@ -46,4 +46,8 @@ import { APP_CONFIG } from '@/lib/constants';
 
 export interface WalletState {
   walletConnected: boolean;
-  walletAddress: string
+  walletAddress: string | null;
+}
+
+export const useWallet = () => {
+  const 
