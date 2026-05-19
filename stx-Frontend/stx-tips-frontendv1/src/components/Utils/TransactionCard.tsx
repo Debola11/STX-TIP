@@ -12,4 +12,5 @@ export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction })
         {transaction.sender.slice(0, 2)}
       </div>
       <div>
-        <p className="
+        <p className="font-medium">
+      
