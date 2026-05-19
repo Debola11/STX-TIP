@@ -27,3 +27,4 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           stroke="#8b5cf6" 
           strokeWidth={2}
           dot={{ fill: '#8b5cf6', strokeWidth: 2 }}
+          activeDot=
