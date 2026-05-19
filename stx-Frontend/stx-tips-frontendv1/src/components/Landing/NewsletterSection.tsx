@@ -56,4 +56,4 @@ export const NewsletterSection = () => {
         >
           <div className="relative group">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-violet-500/20 rounded-lg transform transition-transform group-hover:scale-105 opacity-0 group-hover:opacity-100" />
-           
+            <div className="relative flex rounded-lg backdrop-blur-sm bg-white/50 p-1 hover
