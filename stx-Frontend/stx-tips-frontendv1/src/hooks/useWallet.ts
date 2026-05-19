@@ -59,4 +59,5 @@ export const useWallet = () => {
   const connectWallet = useCallback(async () => {
     showConnect({
       appDetails: {
-        name: 
+        name: APP_CONFIG.NAME,
+        icon: window.location.origin
