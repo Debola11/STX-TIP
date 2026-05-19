@@ -30,4 +30,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
     useEffect(() => {
         if (initialAddress) {
-            fetchUserInfo(initialAd
+            fetchUserInfo(initialAddress);
+        }
+    }, [initialAddress]);
+
+    const resetForm = () => {
+        setRecipientInput(initialAddress || '');
+        setAm
