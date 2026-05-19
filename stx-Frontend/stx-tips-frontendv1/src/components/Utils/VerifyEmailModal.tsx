@@ -82,4 +82,5 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                     <CheckCircle2 className="w-4 h-4 text-white" />
                                 </div>
                             </div>
-                            <h2 className="t
+                            <h2 className="text-2xl font-bold bg-gradient-to-r from-violet-600 to-purple-600 dark:from-violet-400 dark:to-purple-400 bg-clip-text text-transparent">
+       
