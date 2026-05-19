@@ -11,3 +11,6 @@ import './index.css';
 const appConfig = {
   name: 'TipStack',
   icon: window.location.origin + '/logo.png',
+};
+
+createRoot(d
