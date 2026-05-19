@@ -33,4 +33,9 @@ export interface Stat {
   export interface UserData {
     profile: {
       stxAddress: {
-        mainnet: stri
+        mainnet: string;
+      };
+    };
+  }
+
+
