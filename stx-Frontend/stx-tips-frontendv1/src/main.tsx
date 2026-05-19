@@ -16,4 +16,4 @@ const appConfig = {
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
-    
+      <AuthContextPr
