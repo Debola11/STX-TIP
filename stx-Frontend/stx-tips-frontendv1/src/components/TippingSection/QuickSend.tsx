@@ -149,4 +149,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                                 </>
                             ) : searching ? (
                                 <>
-                                    <Lo
+                                    <Loader2 className="h-5 w-5 animate-spin" />
+                                    Processing...
+                                </>
+         
