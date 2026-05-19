@@ -33,4 +33,9 @@
 //     return {
 //         walletConnected,
 //         walletAddress,
-//         connectWall
+//         connectWallet,
+//         disconnectWallet,
+//     };
+// };
+
+imp
