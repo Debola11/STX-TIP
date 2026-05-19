@@ -13,4 +13,7 @@ const faqs = [
   },
   {
     question: "How do I earn rewards?",
-    answer: "You earn points for every tip you send or receive. These points contribute to your ranki
+    answer: "You earn points for every tip you send or receive. These points contribute to your ranking and unlock special badges and rewards as you reach different milestones."
+  },
+  {
+    quest
