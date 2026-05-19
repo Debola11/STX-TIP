@@ -9,3 +9,7 @@ export const fetchUserBalance = async (userAddress: string) => {
   } catch (error) {
     console.error('Error fetching user balance:', error);
     return null;
+  }
+};
+
+expor
