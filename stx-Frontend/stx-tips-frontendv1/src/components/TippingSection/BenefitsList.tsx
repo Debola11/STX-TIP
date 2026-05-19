@@ -20,4 +20,5 @@ export const BenefitsList: React.FC = () => {
         <Gift className="h-5 w-5 text-violet-600" />
         <span>Why use TipStack?</span>
       </h3>
-      <ul classNa
+      <ul className="space-y-4">
+        {
