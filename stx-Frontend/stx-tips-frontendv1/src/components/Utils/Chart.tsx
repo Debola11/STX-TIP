@@ -16,4 +16,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
         <Tooltip 
           contentStyle={{ 
             background: 'white', 
-            border: 'none
+            border: 'none', 
+            borde
