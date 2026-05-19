@@ -3,3 +3,5 @@ import { openContractCall } from '@stacks/connect';
 import { 
   AnchorMode, 
   PostConditionMode, 
+  stringAsciiCV, 
+  uint
