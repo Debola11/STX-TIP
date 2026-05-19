@@ -64,4 +64,5 @@ export const HowItWorksSection = () => {
           <h2 className="text-4xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-transparent mb-4">
             How It Works
           </h2>
-          <p cl
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+            Start suppo
