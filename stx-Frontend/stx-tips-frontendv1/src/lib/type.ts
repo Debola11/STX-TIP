@@ -9,4 +9,6 @@ export interface Stat {
     name: string;
     icon: React.ReactNode;
     id: string;
- 
+  }
+  
+  export interface T
