@@ -116,4 +116,7 @@ export const Dashboard = () =>
         <Card className="lg:col-span-2">
           <CardHeader>
             <CardTitle>Tip Activity</CardTitle>
-            <CardDesc
+            <CardDescription>Your sending and receiving patterns</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className=
