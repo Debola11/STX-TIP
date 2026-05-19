@@ -8,4 +8,4 @@ interface TransactionCardProps {
 export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction }) => (
   <div className="flex items-center justify-between py-3 border-b last:border-0 hover:bg-gray-50 transition-colors">
     <div className="flex items-center space-x-4">
-      <div cl
+      <div className="w-10 h-10 r
