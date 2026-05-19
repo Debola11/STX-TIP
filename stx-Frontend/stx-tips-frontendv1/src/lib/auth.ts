@@ -23,4 +23,4 @@ export function getUserData() {
 
 export function signUserOut() {
   userSession.signUserOut();
-  window
+  window.location.relo
