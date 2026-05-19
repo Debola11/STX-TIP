@@ -60,4 +60,8 @@ export async function submitUserWalletDataWithRetry(
     userData: UserWalletData,
     maxRetries = 3,
     delayMs = 1000
-): Promise<{ success: boolean; userId?: string 
+): Promise<{ success: boolean; userId?: string }>
+{
+    let lastError: Error | null = null;
+
+    for 
