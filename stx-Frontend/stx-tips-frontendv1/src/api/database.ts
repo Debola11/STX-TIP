@@ -56,4 +56,5 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
 }
 
 // Optional: Add retry logic for better reliability
-export 
+export async function submitUserWalletDataWithRetry(
+    user
