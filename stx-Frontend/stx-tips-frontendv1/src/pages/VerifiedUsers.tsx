@@ -109,4 +109,6 @@ const VerifiedUsers: React.FC = () => {
                         <button
                           onClick={() => copyToClipboard(user.wallet)}
                           className="p-1 hover:bg-white/10 rounded-md transition-colors"
-                   
+                        >
+                          {copiedWallet === user.wallet ? (
+                            <CheckCircle classN
