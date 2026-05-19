@@ -15,4 +15,4 @@ export const containerVariants = {
     visible: {
       opacity: 1,
       x: 0,
-      
+      transiti
