@@ -6,4 +6,5 @@ interface AppContextType
   setCurrentPage: (value: string) => void;
   walletConnected: boolean;
   setWalletConnected: (value: boolean) => void;
-  walletAddress: strin
+  walletAddress: string | null;
+  setWalletAddre
