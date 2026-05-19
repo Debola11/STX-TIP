@@ -16,4 +16,5 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) =>
 {
-  const [currentPage, setCurrentPage] = useState('hom
+  const [currentPage, setCurrentPage] = useState('home');
+  const [walletConnec
