@@ -32,4 +32,7 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         amount,
         microStacks,
         args: args.map(arg => arg.toString())
-      })
+      });
+
+      await doContractCall({
+        network
