@@ -1,1 +1,1 @@
-import { Stat
+import { Stat } from '@/li
