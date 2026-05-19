@@ -101,4 +101,10 @@ export const Footer: React.FC = () =>
         <div
           className="absolute w-full h-full opacity-30"
           style={{
-            backgroundImage:
+            backgroundImage: 'radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2) 0%, transparent 50%)',
+          }}
+        />
+      </div>
+
+      {/* Content */}
+      <div className="relative max-w-7xl mx-auto 
