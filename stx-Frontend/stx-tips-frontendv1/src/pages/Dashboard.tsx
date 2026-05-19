@@ -145,4 +145,7 @@ export const Dashboard = () =>
         </Card>
 
         {/* Recent Activity */}
- 
+        <Card>
+          <CardHeader>
+            <CardTitle>Recent Activity</CardTitle>
+            <CardDescription>Your latest transact
