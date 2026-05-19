@@ -51,4 +51,6 @@ export const AppLayout: React.FC = () =>
                     {renderPage()}
                 </div>
             </main>
-     
+        </div>
+    );
+};
