@@ -45,4 +45,5 @@ const EmailModal: FC<EmailModalProps> = ({
           </div>
 
           {/* Form */}
-          <form onSubm
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div className="relativ
