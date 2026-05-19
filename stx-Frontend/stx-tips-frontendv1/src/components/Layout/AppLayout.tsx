@@ -8,4 +8,6 @@ import { Rewards } from '@/pages/Rewards';
 import { Settings } from '@/pages/Settings';
 import { HomePage } from '@/pages/HomePage';
 
-export const AppLayout: React
+export const AppLayout: React.FC = () =>
+{
+    const { curre
