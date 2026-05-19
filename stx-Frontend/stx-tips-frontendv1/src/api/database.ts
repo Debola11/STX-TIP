@@ -46,4 +46,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
         };
     } catch (error)
     {
-        if
+        if (error instanceof APIError)
+        {
+            thr
