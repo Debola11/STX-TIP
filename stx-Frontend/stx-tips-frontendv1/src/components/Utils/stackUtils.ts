@@ -27,4 +27,6 @@
 //     }
 // };
 
-import { stringAsciiCV, uintCV, ClarityValue, ClarityType } fro
+import { stringAsciiCV, uintCV, ClarityValue, ClarityType } from '@stacks/transactions';
+
+// Convert STX amount to micr
