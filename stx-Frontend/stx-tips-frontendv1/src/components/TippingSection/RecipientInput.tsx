@@ -49,4 +49,8 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               <Loader2 className="h-5 w-5 text-violet-600 animate-spin" />
             </motion.div>
           )}
-      
+        </AnimatePresence>
+      </div>
+
+      <AnimatePresence>
+        {
