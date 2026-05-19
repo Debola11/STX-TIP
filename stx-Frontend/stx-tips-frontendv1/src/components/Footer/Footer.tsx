@@ -168,4 +168,8 @@ export const Footer: React.FC = () =>
           <div className="space-y-6">
             <h3 className="text-lg font-semibold text-white/90">Resources</h3>
             <ul className="space-y-3">
-              {['Documentation'
+              {['Documentation', 'Blog', 'Support', 'Status'].map((item) => (
+                <li key={item}>
+                  <a
+                    href={`/${item.toLowerCase()}`}
+                    className="group flex
