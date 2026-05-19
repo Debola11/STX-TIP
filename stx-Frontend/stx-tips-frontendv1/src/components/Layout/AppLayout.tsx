@@ -29,4 +29,5 @@ export const AppLayout: React.FC = () =>
         {
             // case 'home':
             //     return <HomePage />;
-            case 'dashboard
+            case 'dashboard':
+                return <Dash
