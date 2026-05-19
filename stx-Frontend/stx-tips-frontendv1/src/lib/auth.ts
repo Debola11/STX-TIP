@@ -11,4 +11,4 @@ export function authenticate() {
     },
     redirectTo: "/",
     onFinish: () => {
-      wind
+      window.location.re
