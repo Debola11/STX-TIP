@@ -82,4 +82,6 @@ export async function submitUserWalletDataWithRetry(
             if (attempt < maxRetries - 1)
             {
                 // Wait before retrying, with exponential backoff
-                await new Promise(resolve => setTimeout(resolve, delayMs 
+                await new Promise(resolve => setTimeout(resolve, delayMs * Math.pow(2, attempt)));
+                continue;
+  
