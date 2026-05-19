@@ -33,4 +33,5 @@ export const notifyTipSent = async (
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                recipientAddr
+                recipientAddress,
+                amoun
