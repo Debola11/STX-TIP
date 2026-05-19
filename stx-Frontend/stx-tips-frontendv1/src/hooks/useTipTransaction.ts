@@ -7,4 +7,7 @@ import { notifyTipSent } from '../services/apiService';
 
 interface UseTipTransactionProps {
   onSuccess: () => void;
-  onError
+  onError: (error: string) => void;
+}
+
+export const useT
