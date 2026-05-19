@@ -1,0 +1,18 @@
+---
+id: 0
+name: Mainnet deployment
+network: mainnet
+stacks-node: "https://api.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoin.blockstack.com:8332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: stx-tips
+            expected-sender: SP300CAQA5YFXRFCSY3NW902DN8JSK7MWMPQDBVS7
+            cost: 90070
+            path: contracts/stx-tips.clar
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.0"
