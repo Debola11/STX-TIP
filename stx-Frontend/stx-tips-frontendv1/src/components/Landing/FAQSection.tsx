@@ -59,4 +59,6 @@ export const FAQSection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-             
+              className="group relative"
+            >
+              <div className="absolute inset-0 bg-gra
