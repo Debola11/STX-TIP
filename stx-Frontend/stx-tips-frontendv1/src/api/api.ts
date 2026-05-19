@@ -18,4 +18,5 @@ export const fetchUserStats = async (userAddress: string) => {
       `${NETWORK_CONFIG.API_URL}/v1/addresses/${userAddress}/transactions`
     );
     return await response.json();
-  } catc
+  } catch (error) {
+  
