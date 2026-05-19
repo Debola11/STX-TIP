@@ -8,4 +8,4 @@ import { NewsletterSection } from '@/components/Landing/NewsletterSection';
 import { Footer } from '@/components/Footer/Footer';
 import { TippingSection } from '@/components/TippingSection/TippingSection';
 
-expor
+export const HomePage: Re
