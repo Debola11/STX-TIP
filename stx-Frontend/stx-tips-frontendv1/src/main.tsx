@@ -18,4 +18,5 @@ createRoot(document.getElementById('root')!).render(
     <BrowserRouter>
       <AuthContextProvider>
         <Connect authOptions={{ appDetails: appConfig }}>
-          <App
+          <App />
+          <T
