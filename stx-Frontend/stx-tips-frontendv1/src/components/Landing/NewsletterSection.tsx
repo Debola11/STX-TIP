@@ -71,4 +71,7 @@ export const NewsletterSection = () => {
                 className="px-4 py-1.5 rounded-md bg-gradient-to-r from-indigo-500 to-violet-500 text-white text-sm font-medium hover:from-indigo-600 hover:to-violet-600 transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center"
               >
                 {isSubmitting ? (
-                  <div className="h-4 w-4 border-2 border-white/30 border-t-white rounded-full animate-spin
+                  <div className="h-4 w-4 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+                ) : isSuccess ? (
+                  "Subscribed!"
+         
