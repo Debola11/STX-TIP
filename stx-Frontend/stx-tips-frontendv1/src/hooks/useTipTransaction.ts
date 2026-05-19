@@ -21,4 +21,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
       console.log('Starting tip transaction...');
       console.log('Contract details:', {
         address: CONTRACT_ADDRESS,
-        name: 
+        name: CONTRACT_NAME,
+        network: NETWORK
+      }
