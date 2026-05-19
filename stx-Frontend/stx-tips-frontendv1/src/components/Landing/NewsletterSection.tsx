@@ -33,4 +33,5 @@ export const NewsletterSection = () => {
         viewport={{ once: true, margin: "-100px" }}
         transition={{ duration: 0.6 }}
       >
-        <div className="text-
+        <div className="text-center mb-8">
+          <div className="inline-flex items-center px-3 py-1 round
