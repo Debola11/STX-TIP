@@ -12,4 +12,6 @@ export class APIError extends Error
     }
 }
 
-export async function submitUserWalletData(userData: UserWalletData): Pro
+export async function submitUserWalletData(userData: UserWalletData): Promise<{ success: boolean; userId?: string }>
+{
+    try
