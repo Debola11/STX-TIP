@@ -54,4 +54,8 @@ const EmailModal: FC<EmailModalProps> = ({
                 className="w-full bg-white/5 border-violet-500/20 text-white placeholder:text-gray-400 focus:border-violet-400 focus:ring-violet-400/20 rounded-lg py-6"
                 disabled={isLoading}
                 type="email"
-               
+                required
+              />
+            </div>
+            
+            <Butt
