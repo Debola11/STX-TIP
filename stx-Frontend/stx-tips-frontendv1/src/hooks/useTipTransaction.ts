@@ -41,4 +41,4 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         contractName: CONTRACT_NAME,
         functionName: 'tip',
         functionArgs: args,
-    
+        postConditionMode: PostConditionMode.Allow,
