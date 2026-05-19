@@ -49,4 +49,7 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
                 uintCV(fee),
                 stringAsciiCV(tokenType)
             ],
-            send
+            senderAddress: sender,
+        });
+
+        return 
