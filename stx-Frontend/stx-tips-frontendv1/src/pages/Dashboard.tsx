@@ -167,3 +167,6 @@ export const Dashboard = () =>
                       <p className="text-sm font-medium">
                         {tip.type === 'sent' ? 'Sent to' : 'Received from'} {tip.address}
                       </p>
+                      <p className="text-xs text-gray-500">
+                        <Clock className="h-3 w-3 inline mr-1" />
+           
