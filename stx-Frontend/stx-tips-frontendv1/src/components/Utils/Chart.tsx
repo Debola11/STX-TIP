@@ -7,4 +7,5 @@ interface ChartProps {
 }
 
 export const Chart: React.FC<ChartProps> = ({ data }) => (
-  <div className=
+  <div className="h-80">
+    <Responsi
