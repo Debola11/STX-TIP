@@ -111,4 +111,6 @@ const VerifiedUsers: React.FC = () => {
                           className="p-1 hover:bg-white/10 rounded-md transition-colors"
                         >
                           {copiedWallet === user.wallet ? (
-                            <CheckCircle classN
+                            <CheckCircle className="h-4 w-4 text-green-400" />
+                          ) : (
+                            <Copy className="h-4 w
