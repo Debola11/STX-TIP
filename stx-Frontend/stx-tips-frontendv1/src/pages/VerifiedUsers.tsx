@@ -46,4 +46,8 @@ const VerifiedUsers: React.FC = () => {
     setIsQuickSendOpen(true);
   };
 
-  const copyToClipboard = async (wallet: str
+  const copyToClipboard = async (wallet: string) => {
+    try {
+      await navigator.clipboard.writeText(wallet);
+      setCopiedWallet(wallet);
+      setTim
