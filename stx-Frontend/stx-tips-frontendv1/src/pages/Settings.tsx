@@ -80,4 +80,7 @@ export const Settings: React.FC = () => {
             <h2 className="text-lg font-bold">Privacy</h2>
           </div>
           <div className="space-y-4">
-            <div className="flex items-
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="font-medium">Public Profile</p>
+                <p className="text-sm text-gray-500">Allow others to
