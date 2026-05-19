@@ -14,4 +14,5 @@ export interface Stat {
   export interface Transaction {
     id: string;
     sender: string;
-   
+    recipient: string;
+    am
