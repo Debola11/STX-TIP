@@ -25,4 +25,4 @@ const EmailModal: FC<EmailModalProps> = ({
     <DialogContent className="sm:max-w-md border-0 bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950 shadow-xl shadow-violet-500/20">
       <div className="relative overflow-hidden rounded-lg p-6">
         {/* Animated background gradient */}
-        <div c
+        <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/10 to-purple-50
