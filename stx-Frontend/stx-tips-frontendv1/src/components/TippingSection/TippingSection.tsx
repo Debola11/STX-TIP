@@ -25,4 +25,9 @@ export const TippingSection: React.FC = () =>
   const [amount, setAmount] = useState<string>('');
   const [userInfo, setUserInfo] = useState<UserInfo>({});
   const [searching, setSearching] = useState<boolean>(false);
-  const [validationError, setValidationError] = useState<string>('
+  const [validationError, setValidationError] = useState<string>('');
+  const [showConfirmDialog, setShowConfirmDialog] = useState<boolean>(false);
+
+  const resetForm = () =>
+  {
+    setRecip
