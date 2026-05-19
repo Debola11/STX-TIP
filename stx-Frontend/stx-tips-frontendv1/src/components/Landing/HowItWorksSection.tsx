@@ -34,4 +34,7 @@ export const HowItWorksSection = () => {
       icon: Users,
       title: "Choose Recipient",
       description: "Enter the recipient's address or search for their username",
-      grad
+      gradient: "from-purple-500 to-fuchsia-500"
+    },
+    {
+      icon: TrendingUp
