@@ -30,4 +30,11 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   
   const navigate = useNavigate();
   const { walletAddress, setWalletAddress, setWalletConnected } = useAppContext();
-  cons
+  const { dispatch } = useContext(authContext);
+
+  console.log(userData);
+
+  // Keep all the existing useEffect and functions exactly as they were
+  useEffect(() => {
+    const checkAuth = async () => {
+      if 
