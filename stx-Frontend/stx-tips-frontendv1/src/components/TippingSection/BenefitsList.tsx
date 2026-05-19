@@ -21,4 +21,5 @@ export const BenefitsList: React.FC = () => {
         <span>Why use TipStack?</span>
       </h3>
       <ul className="space-y-4">
-        {benefits.map((benefit, in
+        {benefits.map((benefit, index) => (
+          <moti
