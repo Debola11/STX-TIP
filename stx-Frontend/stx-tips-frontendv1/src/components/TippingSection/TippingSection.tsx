@@ -81,4 +81,11 @@ export const TippingSection: React.FC = () =>
     } finally
     {
       setSearching(false);
-  
+    }
+  };
+
+  useEffect(() =>
+  {
+    const timeoutId = setTimeout(() =>
+    {
+      if (recipientInput && recipientInput.lengt
