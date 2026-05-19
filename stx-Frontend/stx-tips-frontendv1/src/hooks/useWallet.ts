@@ -26,4 +26,6 @@
 
 //     const disconnectWallet = useCallback(() =>
 //     {
-//         setWalletAd
+//         setWalletAddress(null);
+//         setWalletConnected(false);
+//
