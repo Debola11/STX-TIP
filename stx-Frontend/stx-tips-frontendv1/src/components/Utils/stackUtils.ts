@@ -33,4 +33,5 @@ import { stringAsciiCV, uintCV, ClarityValue, ClarityType } from '@stacks/transa
 export const toMicroStacks = (amount: string): number => {
   try {
     const value = parseFloat(amount);
-    if (isNaN(value)) throw new Error('
+    if (isNaN(value)) throw new Error('Invalid amount');
+    if (value < 0) throw new Error('Am
