@@ -39,4 +39,5 @@ export interface Stat {
   }
 
 
-export interface UserStats
+export interface UserStats {
+  totalTipsSent: number
