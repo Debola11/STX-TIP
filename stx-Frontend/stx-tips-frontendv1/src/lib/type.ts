@@ -31,4 +31,5 @@ export interface Stat {
   }
 
   export interface UserData {
-    
+    profile: {
+      stxAddres
