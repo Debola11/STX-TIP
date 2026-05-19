@@ -124,4 +124,6 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     variants={contentVariants}
                     initial="hidden"
                     animate="visible"
-                    
+                    className="p-4 rounded-xl bg-gradient-to-br from-violet-50 to-purple-50 border border-violet-100"
+                  >
+                    <span class
