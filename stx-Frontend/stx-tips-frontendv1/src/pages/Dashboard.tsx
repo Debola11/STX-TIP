@@ -130,3 +130,8 @@ export const Dashboard = () =>
                     type="monotone"
                     dataKey="sent"
                     stroke="#8b5cf6"
+                    strokeWidth={2}
+                  />
+                  <Line
+                    type="monotone"
+                   
