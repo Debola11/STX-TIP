@@ -59,4 +59,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
           >
-   
+            <Alert variant="destructive">
+              <AlertCircle cl
