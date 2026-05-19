@@ -16,4 +16,6 @@
 //             args: [
 //                 stringUtf8CV(recipient),
 //                 uintCV(microStacks),
-//         
+//                 stringUtf8CV('STX')
+//             ],
+//        
