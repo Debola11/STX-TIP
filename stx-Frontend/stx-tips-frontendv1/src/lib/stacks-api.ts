@@ -8,4 +8,6 @@ import
     } from '@stacks/transactions';
 
 
-export async function getUser
+export async function getUserStats(userAddress: string)
+{
+    const function
