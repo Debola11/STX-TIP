@@ -133,4 +133,4 @@ export const StatsSection = () =>
 
                   <p className="mt-0.5 text-xs text-gray-500">{stat.subtext}</p>
 
- 
+                  <div className="mt-3 inline-flex items-center px-2 py-0.5 rounded-ful
