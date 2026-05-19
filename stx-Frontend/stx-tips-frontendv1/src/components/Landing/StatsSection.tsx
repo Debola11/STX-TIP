@@ -7,4 +7,9 @@ const statsData = [
     label: 'Tips Processed',
     subtext: 'Across global communities',
     icon: TrendingUp,
-    growth: '+127
+    growth: '+127% this month',
+    color: 'from-emerald-500 to-teal-500'
+  },
+  {
+    value: '10K+',
+ 
