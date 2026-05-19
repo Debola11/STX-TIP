@@ -1,2 +1,2 @@
 // Network configuration
-ex
+export cons
