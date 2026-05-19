@@ -167,4 +167,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                 open={showConfirmDialog}
                 onOpenChange={setShowConfirmDialog}
                 amount={amount}
-                rec
+                recipientInput={recipientInput}
+                userInfo={userInfo}
+                onConfirm={() => processTip(recipientInput, amount)}
+   
