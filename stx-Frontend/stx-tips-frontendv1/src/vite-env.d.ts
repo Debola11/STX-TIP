@@ -1,1 +1,1 @@
-/// <reference ty
+/// <reference typ
