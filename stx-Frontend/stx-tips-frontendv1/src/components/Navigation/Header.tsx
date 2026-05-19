@@ -48,3 +48,13 @@ export const Header = () => {
           setWalletConnected(true);
           await checkUserExists(userData?.profile?.stxAddress?.testnet);
         }
+      };
+  
+      checkAuth();
+    }, []);
+
+    const checkUserExists = async (walletAddress: string | null) =>
+      {
+        if (!walletAddress) return;
+    
+        try
