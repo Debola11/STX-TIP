@@ -38,4 +38,5 @@
 //         <AlertDialogHeader>
 //           <AlertDialogTitle>Confirm Tip</AlertDialogTitle>
 //           <AlertDialogDescription>
-//      
+//             {userInfo.found ? (
+//               `You're about to send ${amount} STX to ${userInfo.email} (${recipientInput}). This will initiate a blockc
