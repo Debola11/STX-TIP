@@ -85,3 +85,6 @@ export const HowItWorksSection = () => {
                     <Icon className="w-6 h-6" />
                   </div>
                   <h3 className="text-xl font-semibold mb-4 text-gray-900">
+                    {step.title}
+                  </h3>
+                
