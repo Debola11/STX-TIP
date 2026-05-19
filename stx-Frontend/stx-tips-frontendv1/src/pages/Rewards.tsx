@@ -40,4 +40,6 @@ export const Rewards: React.FC = () => {
 
       <div className="bg-gradient-to-r from-violet-600 to-purple-600 rounded-xl shadow-sm p-6 text-white">
         <div className="flex items-center space-x-4 mb-4">
-          <Gift c
+          <Gift className="h-8 w-8" />
+          <div>
+         
