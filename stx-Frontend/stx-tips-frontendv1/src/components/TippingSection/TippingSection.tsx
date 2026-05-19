@@ -168,4 +168,7 @@ export const TippingSection: React.FC = () =>
             whileTap={{ scale: 0.98 }}
           >
             <span className="flex items-center justify-center gap-2">
-      
+              {isProcessing ? (
+                <>
+                  <Loader2 className="h-5 w-5 animate-spin" />
+                 
