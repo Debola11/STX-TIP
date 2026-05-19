@@ -60,4 +60,4 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
     }
 }
 
-export async fun
+export async function sendTip(recipient: string, amount: number
