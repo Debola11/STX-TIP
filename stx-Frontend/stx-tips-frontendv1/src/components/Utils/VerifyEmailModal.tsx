@@ -67,4 +67,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
         }
     };
 
-    retur
+    return (
+        <Dialog open={isOpen} onOpenChange={onOpenChange}>
+            <DialogContent className="sm:max-w-md border border-violet-200/10 bg-
