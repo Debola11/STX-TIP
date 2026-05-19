@@ -24,3 +24,6 @@ export async function getUserStats(userAddress: string)
         });
 
         return result;
+    } catch (error)
+    {
+        console.erro
