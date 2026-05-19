@@ -63,4 +63,11 @@ export const Dashboard = () =>
   const recentTips = [
     {
       id: 1,
-      type: 's
+      type: 'sent',
+      address: '0x1234...5678',
+      amount: '50 STX',
+      timestamp: '2 hours ago'
+    },
+    {
+      id: 2,
+      type: 'recei
