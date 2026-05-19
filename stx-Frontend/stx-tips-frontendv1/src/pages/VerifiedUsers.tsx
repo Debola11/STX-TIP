@@ -105,4 +105,6 @@ const VerifiedUsers: React.FC = () => {
                       <div className="flex items-center justify-between bg-white/5 rounded-lg p-2">
                         <code className="text-sm text-violet-300 truncate">
                           {user.wallet.slice(0, 6)}...{user.wallet.slice(-4)}
-               
+                        </code>
+                        <button
+                          onClick={() => copyToClipboard(user.wal
