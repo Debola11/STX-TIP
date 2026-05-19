@@ -59,4 +59,6 @@ export const HowItWorksSection = () => {
       >
         <motion.div 
           className="text-center mb-16"
-      
+          variants={itemVariants}
+        >
+          <h2 className="text-4xl fo
