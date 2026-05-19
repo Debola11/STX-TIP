@@ -32,4 +32,5 @@ export default {
   				DEFAULT: 'hsl(var(--muted))',
   				foreground: 'hsl(var(--muted-foreground))'
   			},
-  			a
+  			accent: {
+  				DEFAULT: 'hsl(va
