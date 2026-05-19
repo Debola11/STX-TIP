@@ -39,4 +39,4 @@ export const sendTip = async ({
       contractName: CONTRACT_CONFIG.NAME,
       functionName: 'tip',
       functionArgs,
-      postCo
+      postConditionMode: PostConditio
