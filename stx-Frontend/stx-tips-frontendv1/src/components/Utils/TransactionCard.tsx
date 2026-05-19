@@ -1,4 +1,4 @@
 import { Transaction } from '@/lib/type';
 import React from 'react';
 
-interface 
+interface TransactionCardProps
