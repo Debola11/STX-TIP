@@ -11,4 +11,5 @@ import { CONTRACT_CONFIG } from './constants';
 // const NETWORK = new StacksTestnet();
 
 interface TipOptions {
-  r
+  recipient: string;
+  amoun
