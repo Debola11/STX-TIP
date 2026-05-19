@@ -40,4 +40,7 @@ export const History: React.FC = () => {
             <option value="sent">Sent</option>
             <option value="received">Received</option>
           </select>
-       
+        </div>
+      </div>
+
+      <div className="bg-white rounded
