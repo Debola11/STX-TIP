@@ -39,4 +39,5 @@ export const HowItWorksSection = () => {
     {
       icon: TrendingUp,
       title: "Send & Earn",
-      description: "Send your tip and earn r
+      description: "Send your tip and earn rewards points for your contribution",
+      gradient: "from-fuchsia-500 to
