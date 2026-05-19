@@ -155,4 +155,7 @@ export const Dashboard = () =>
               {recentTips.map((tip) => (
                 <div
                   key={tip.id}
-                  className="flex items-center justify-between p-3 bg-
+                  className="flex items-center justify-between p-3 bg-gray-50 rounded-lg"
+                >
+                  <div className="flex items-center space-x-3">
+                    {tip.type === '
