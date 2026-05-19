@@ -113,4 +113,8 @@ const VerifiedUsers: React.FC = () => {
                           {copiedWallet === user.wallet ? (
                             <CheckCircle className="h-4 w-4 text-green-400" />
                           ) : (
-                            <Copy className="h-4 w
+                            <Copy className="h-4 w-4 text-gray-400" />
+                          )}
+                        </button>
+                      </div>
+ 
