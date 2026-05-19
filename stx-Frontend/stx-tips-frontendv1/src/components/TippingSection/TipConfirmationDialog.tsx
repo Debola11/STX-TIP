@@ -68,4 +68,12 @@ import { motion, AnimatePresence } from 'framer-motion';
 interface TipConfirmationDialogProps
 {
   open: boolean;
-  onOpenChange: (open: boolean) 
+  onOpenChange: (open: boolean) => void;
+  amount: string;
+  recipientInput: string;
+  userInfo: {
+    email?: string;
+    found?: boolean;
+  };
+  onConfirm: () => Promise<void>;
+  
