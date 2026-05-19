@@ -39,4 +39,9 @@ export const Header = () => {
           setWalletAddress(userData?.profile?.stxAddress?.testnet ?? null);
           setWalletConnected(true);
           await checkUserExists(userData?.profile?.stxAddress?.testnet);
-        } else i
+        } else if (userSession.isUserSignedIn())
+        {
+          const userData = getUserData();
+          setIsAuthenticated(true);
+          setUserData(userData);
+          setWalletA
