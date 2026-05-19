@@ -34,4 +34,5 @@ const buttonVariants = cva(
   }
 )
 
-export in
+export interface ButtonProps
+  extends React.But
