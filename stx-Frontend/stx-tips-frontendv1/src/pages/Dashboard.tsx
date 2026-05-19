@@ -203,4 +203,5 @@ export const Dashboard = () =>
                 </div>
                 <span className="text-sm font-medium text-violet-600">Level 3</span>
               </div>
-     
+              <div className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center 
