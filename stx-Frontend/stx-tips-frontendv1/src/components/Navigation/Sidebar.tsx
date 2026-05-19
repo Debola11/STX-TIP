@@ -28,4 +28,5 @@ export const Sidebar: React.FC = () => {
         {navItems.map((item) => (
           <button
             key={item.id}
-            onClick={()
+            onClick={() => setCurrentPage(item.id)}
+           
