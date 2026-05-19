@@ -234,4 +234,13 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
                   <div className="text-center space-y-2">
                     <h3 className="text-xl font-semibold text-white">Secure Transactions</h3>
                     <p className="text-gray-300">Powered by Stacks Blockchain</p>
-           
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Add QuickSend Modal */}
+      <Dialog open={isQuickSendOpen} onOpenChange
