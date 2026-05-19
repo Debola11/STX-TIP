@@ -49,4 +49,10 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
             if (response.ok)
             {
                 setIsLoading(false);
-                toast.success(result.m
+                toast.success(result.message);
+                onOpenChange(false);
+            }
+            else
+            { 
+                toast.error(result.message);
+       
