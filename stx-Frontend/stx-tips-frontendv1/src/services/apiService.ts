@@ -14,4 +14,4 @@ export const fetchUserWalletInfo = async (walletAddress: string) =>
         return data;
     } catch (error)
     {
-        console.er
+        console.error('Error fetching user w
