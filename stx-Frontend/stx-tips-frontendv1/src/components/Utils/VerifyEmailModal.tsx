@@ -69,4 +69,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
 
     return (
         <Dialog open={isOpen} onOpenChange={onOpenChange}>
-            <DialogContent className="sm:max-w-md border border-violet-200/10 bg-
+            <DialogContent className="sm:max-w-md border border-violet-200/10 bg-white dark:bg-gray-900 shadow-2xl shadow-violet-500/10">
+                <div className="relative overflow-hidden rounded-lg p-6">
+             
