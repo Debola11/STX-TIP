@@ -87,4 +87,6 @@ export const prepareTipArgs = (recipient: string, amount: string) => {
     };
   } catch (error: any) {
     console.error('Error preparing tip arguments:', error);
-    throw new Error(`Failed to prepare tran
+    throw new Error(`Failed to prepare transaction arguments: ${error.message}`);
+  }
+};
