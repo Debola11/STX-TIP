@@ -6,4 +6,4 @@ export const NETWORK = IS_MAINNET ? STACKS_MAINNET : STACKS_TESTNET;
 
 // Set the appropriate API URL based on the network
 // NETWORK.coreApiUrl = IS_MAINNET 
-//   ? 'https
+//   ? 'https://stacks-no
