@@ -55,4 +55,4 @@ export const NewsletterSection = () => {
           transition={{ delay: 0.2 }}
         >
           <div className="relative group">
-            <div className="absolute inset-0 bg-g
+            <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-violet-500/20 rounded-lg transform transition-t
