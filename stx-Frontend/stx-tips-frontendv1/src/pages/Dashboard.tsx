@@ -197,4 +197,6 @@ export const Dashboard = () =>
                 <div className="flex items-center space-x-3">
                   <Award className="h-5 w-5 text-yellow-600" />
                   <div>
-                    <p className="text-sm font-me
+                    <p className="text-sm font-medium">Top Tipper Badge</p>
+                    <p className="text-xs text-gray-500">Sent over 1000 STX in tips</p>
+                  </di
