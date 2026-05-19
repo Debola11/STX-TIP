@@ -129,4 +129,11 @@ export const Settings: React.FC = () => {
                   placeholder="Enter amount in STX"
                 />
                 <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
-                  <spa
+                  <span className="text-gray-500">STX</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="bg-white rounded
