@@ -26,4 +26,5 @@ export async function getUserStats(userAddress: string)
         return result;
     } catch (error)
     {
-        console.erro
+        console.error('Error fetching user stats:', error);
+       
