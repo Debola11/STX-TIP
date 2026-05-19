@@ -153,4 +153,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
             animation: 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite'
           }}
         />
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_b
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:24px_24px]" />
+      </div>
+
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-10">
+        <div className="grid lg:grid-cols-2
