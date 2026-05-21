@@ -12,4 +12,5 @@ import
 
 const router = express.Router();
 
-router.route("/verify-account").post(ver
+router.route("/verify-account").post(verifyAccount);
+
