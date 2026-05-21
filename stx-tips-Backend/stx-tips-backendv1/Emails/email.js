@@ -52,4 +52,4 @@ export default class Email
     //   if (error) {
     //     console.error("Error:", error.message);
     //   } else {
-    //     console.l
+    //     console.log("Email sent:", info.response);
