@@ -4,4 +4,6 @@ import path from "path";
 
 export default class Email
 {
-  constructor(user, d
+  constructor(user, data)
+  {
+    this.to = user.email;
