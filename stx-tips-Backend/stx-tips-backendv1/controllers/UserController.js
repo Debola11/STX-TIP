@@ -121,4 +121,9 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
   // Send emails to both sender and recipient
   await Promise.all([
     new Email(sender, data).sendTipSentNotification(),
-    new Email(recipient, data).sendTipReceivedNo
+    new Email(recipient, data).sendTipReceivedNotification()
+  ]);
+
+  res.status(200).json({
+    success: true,
+    message: "Tip notification sent succes
