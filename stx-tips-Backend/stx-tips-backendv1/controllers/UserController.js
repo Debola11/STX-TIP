@@ -154,4 +154,9 @@ export const getUserByEmail = catchAsync(async (req, res, next) => {
   const user = await User.findOne({ email }).select('-__v');
 
   if (!user) {
-    return next(new AppError('N
+    return next(new AppError('No user found with this email address', 404));
+  }
+
+  res.status(200).json({
+    success: true,
+    data: u
