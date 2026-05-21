@@ -50,4 +50,5 @@ export default class Email
     await this.newTransport().sendMail(mailOptions);
     // , (error, info) => {
     //   if (error) {
-    //     console.er
+    //     console.error("Error:", error.message);
+    
