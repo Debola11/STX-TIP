@@ -6,4 +6,4 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      "@": path.resolve(_
+      "@": path.resolve(__dirn
