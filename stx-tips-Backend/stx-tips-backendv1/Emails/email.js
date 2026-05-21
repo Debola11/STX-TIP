@@ -62,4 +62,5 @@ export default class Email
     await this.send("verify-link.ejs", "Activate Your Account");
   }
 
-  as
+  async sendTipSentNotification()
+  {
