@@ -30,4 +30,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             try
             {
                 const errorData = await response.json();
-                errorMessage = errorData.messa
+                errorMessage = errorData.message || errorMessage;
+            } catch (e)
+          
