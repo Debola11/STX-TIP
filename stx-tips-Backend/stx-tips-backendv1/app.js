@@ -34,4 +34,4 @@ mountedRoutes(app);
 
 app.all("*", (req, res, next) =>
 {
-    const err = new 
+    const err = new Error(`Can't find $
