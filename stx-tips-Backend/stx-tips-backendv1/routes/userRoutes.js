@@ -10,4 +10,4 @@ import
     getVerifiedUsers
 } from "../controllers/UserController.js";
 
-cons
+const router = exp
