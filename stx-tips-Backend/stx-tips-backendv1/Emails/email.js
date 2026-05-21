@@ -8,4 +8,4 @@ export default class Email
   {
     this.to = user.email;
     this.data = data;
-    this.fr
+    this.from = `Theophilus<${process.env.SMT
