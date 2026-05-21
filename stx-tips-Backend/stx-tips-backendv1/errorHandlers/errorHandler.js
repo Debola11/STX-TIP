@@ -82,4 +82,7 @@ const sendErrorProd = (err, req, res) => {
   });
 };
 
-export default (err, req, res, nex
+export default (err, req, res, next) => {
+  // console.log(err.stack);
+
+  err.statusCode = err.statusCod
