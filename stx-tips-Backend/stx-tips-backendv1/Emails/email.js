@@ -36,4 +36,4 @@ export default class Email
     );
 
     //Render the email template with EJS
-    const html = await ejs.r
+    const html = await ejs.renderFile(emailTemplatePath, this.
