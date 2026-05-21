@@ -38,4 +38,5 @@ const sendErrorDev = (err, req, res) => {
 
   // B) RENDERED WEBSITE
   console.error("ERROR 💥", err);
-  retu
+  return res.status(err.statusCode).render("error", {
+    title: "Something 
