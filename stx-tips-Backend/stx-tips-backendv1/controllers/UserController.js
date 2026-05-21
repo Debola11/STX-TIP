@@ -159,4 +159,9 @@ export const getUserByEmail = catchAsync(async (req, res, next) => {
 
   res.status(200).json({
     success: true,
-    data: u
+    data: user
+  });
+});
+
+// Check if user exists
+export const checkUserExists = catchAsync(async (req, res, next) =>
