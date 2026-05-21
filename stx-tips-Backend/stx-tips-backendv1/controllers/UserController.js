@@ -40,4 +40,9 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
   const { verificationToken, activationCode } = createVerificationToken(user);
 
 
-  // Save user to 
+  // Save user to database
+  await user.save();
+
+  // Send verification email
+  const data = {
+    user: { email: user.email
