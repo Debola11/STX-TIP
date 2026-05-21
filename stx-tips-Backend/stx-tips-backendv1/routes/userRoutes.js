@@ -5,4 +5,5 @@ import
     submitUserDetails,
     verifyAccount,
     getUserByWallet,
-    getUserB
+    getUserByEmail,
+    ch
