@@ -1,3 +1,5 @@
 import nodemailer from "nodemailer";
 import ejs from "ejs";
-import p
+import path from "path";
+
+export default c
