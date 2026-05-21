@@ -4,4 +4,4 @@ const connectDB = async (db) => {
   try {
     const con = await mongoose.connect(db);
     console.log(`Database connected with ${con.connection.host}`);
-  } c
+  } catch (
