@@ -8,4 +8,6 @@ import
     getUserByEmail,
     checkUserExists,
     getVerifiedUsers
-} from "../controllers/UserControl
+} from "../controllers/UserController.js";
+
+cons
