@@ -1,1 +1,1 @@
-class AppError
+class AppError extend
