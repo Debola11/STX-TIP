@@ -51,4 +51,8 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
             throw error;
         }
         // Handle network errors or other unexpected issues
-        throw new APIError(5
+        throw new APIError(500, 'Failed to connect to the server');
+    }
+}
+
+// Op
