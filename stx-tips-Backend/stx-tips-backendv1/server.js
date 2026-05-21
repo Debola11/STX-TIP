@@ -9,4 +9,4 @@ process.on("uncaughtException", (err) => {
   process.exit(1);
 });
 
-dotenv.config({ path: "./confi
+dotenv.config({ path: "./config/config.env" });
