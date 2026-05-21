@@ -1,2 +1,2 @@
 import dotenv from "dotenv";
-import connectDB from "./
+import connectDB from "./utils/database.js"
