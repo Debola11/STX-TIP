@@ -40,4 +40,5 @@ export default class Email
 
     // Define mail options
     const mailOptions = {
-      f
+      from: this.from,
+      to: this.to,
