@@ -35,4 +35,4 @@ export default class Email
       template
     );
 
- 
+    //Render the email template wit
