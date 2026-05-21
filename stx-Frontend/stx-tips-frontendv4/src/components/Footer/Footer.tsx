@@ -111,4 +111,6 @@ export const Footer: React.FC = () =>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
           {/* Brand Section */}
           <div className="space-y-6">
-            <div cla
+            <div className="flex items-center space-x-2">
+              <Sparkles className="h-6 w-6 text-violet-400" />
+              <h3 className="text-xl font-bold bg-gradient-to-r from-violet-300 to-purple-30
