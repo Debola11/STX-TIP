@@ -1,2 +1,3 @@
 class AppError extends Error {
-  constructor(message, statusCod
+  constructor(message, statusCode) {
+  
