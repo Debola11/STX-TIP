@@ -19,4 +19,6 @@ createRoot(document.getElementById('root')!).render(
       <AuthContextProvider>
         <Connect authOptions={{ appDetails: appConfig }}>
           <App />
-          <T
+          <Toaster />
+
+     
