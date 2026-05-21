@@ -24,3 +24,4 @@ router.route("/email/:email").get(getUserByEmail);
 
 router.route("/exists").get(checkUserExists);
 
+router.route("
