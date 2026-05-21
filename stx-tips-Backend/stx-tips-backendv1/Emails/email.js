@@ -28,4 +28,5 @@ export default class Email
   async send(template, subject)
   {
     const __dirname = path.resolve();
-    //get the path to th
+    //get the path to the email template file
+    const em
