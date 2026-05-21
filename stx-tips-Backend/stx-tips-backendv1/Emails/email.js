@@ -35,4 +35,5 @@ export default class Email
       template
     );
 
-    //Render the email template wit
+    //Render the email template with EJS
+    const html = await ejs.r
