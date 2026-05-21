@@ -4,4 +4,4 @@ import userRouter from "./routes/userRoutes.js";
 
 export const mountedRoutes = function (app)
 {
-  app.use(express.js
+  app.use(express.json()
