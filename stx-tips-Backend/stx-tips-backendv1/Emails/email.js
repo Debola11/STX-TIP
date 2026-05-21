@@ -47,4 +47,5 @@ export default class Email
     };
 
     // 3) Create a transport and send email
-    await this.newTran
+    await this.newTransport().sendMail(mailOptions);
+   
