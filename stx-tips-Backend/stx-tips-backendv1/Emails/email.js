@@ -57,4 +57,6 @@ export default class Email
     // });
   }
 
-  async
+  async sendVerificationLink()
+  {
+    aw
