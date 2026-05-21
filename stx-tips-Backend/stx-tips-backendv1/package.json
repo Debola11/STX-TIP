@@ -3,4 +3,5 @@
   "version": "1.0.0",
   "description": "A minimal backend to manage user and send mails",
   "main": "server.js",
-  "type
+  "type": "module",
+  "scr
