@@ -55,4 +55,9 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
     success: true,
     verificationToken,
     activationCode,
-    message: `Please check your email: ${
+    message: `Please check your email: ${user.email} to verify your account!`
+  });
+});
+
+// Verify account endpoint
+export const verifyAccount = ca
