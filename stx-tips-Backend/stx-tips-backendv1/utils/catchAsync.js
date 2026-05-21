@@ -1,3 +1,3 @@
 export default (fn) => {
   return (req, res, next) => {
-    fn(req, res, next).catch
+    fn(req, res, next).catch(n
