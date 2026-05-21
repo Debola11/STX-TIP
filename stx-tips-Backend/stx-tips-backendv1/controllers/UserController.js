@@ -19,4 +19,6 @@ export const createVerificationToken = (user) => {
   return {verificationToken, activationCode};
 };
 
-// Submit user details endp
+// Submit user details endpoint
+export const submitUserDetails = catchAsync(async (req, res, next) => {
+  const { email, wallet } = r
