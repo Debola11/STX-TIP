@@ -12,4 +12,4 @@ process.on("uncaughtException", (err) => {
 dotenv.config({ path: "./config/config.env" });
 
 // Bring in the connection string
-c
+const DB_CLOUD = pr
