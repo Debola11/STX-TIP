@@ -6,4 +6,7 @@ import globalErrorHandler from "./errorHandlers/errorHandler.js";
 import { mountedRoutes } from "./routes.js";
 
 
-const app = express(
+const app = express();
+
+
+// SET Securit
