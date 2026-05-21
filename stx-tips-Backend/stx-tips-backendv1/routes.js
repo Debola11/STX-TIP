@@ -2,4 +2,4 @@ import express from "express";
 import userRouter from "./routes/userRoutes.js";
 
 
-export const mountedRoutes = funct
+export const mountedRoutes = function 
