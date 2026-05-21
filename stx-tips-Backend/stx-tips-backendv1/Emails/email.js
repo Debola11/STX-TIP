@@ -48,4 +48,5 @@ export default class Email
 
     // 3) Create a transport and send email
     await this.newTransport().sendMail(mailOptions);
-   
+    // , (error, info) => {
+    //   
