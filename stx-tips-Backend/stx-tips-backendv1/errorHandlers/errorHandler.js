@@ -54,4 +54,7 @@ const sendErrorProd = (err, req, res) => {
         message: err.message,
       });
     }
-    // B) Programming or other unknown error: don't leak error d
+    // B) Programming or other unknown error: don't leak error details
+    // 1) Log error
+    console.error("ERROR 💥", err);
+    // 
