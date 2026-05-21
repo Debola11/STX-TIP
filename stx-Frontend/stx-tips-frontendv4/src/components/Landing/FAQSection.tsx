@@ -9,4 +9,8 @@ const faqs = [
   },
   {
     question: "What are the transaction fees?",
-    answer: "Transaction fees are minimal and based on the current network conditions. We always display the exact f
+    answer: "Transaction fees are minimal and based on the current network conditions. We always display the exact fee before you confirm any transaction."
+  },
+  {
+    question: "How do I earn rewards?",
+    an
