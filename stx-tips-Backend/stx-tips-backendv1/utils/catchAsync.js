@@ -1,2 +1,2 @@
 export default (fn) => {
-  r
+  ret
