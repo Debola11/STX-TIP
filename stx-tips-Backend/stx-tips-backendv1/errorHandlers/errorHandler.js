@@ -64,4 +64,5 @@ const sendErrorProd = (err, req, res) => {
     });
   }
 
- 
+  // B) RENDERED WEBSITE
+  // A) Operational, trusted error: send messa
