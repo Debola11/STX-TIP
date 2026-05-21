@@ -85,4 +85,9 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
   res.status(200).json({
     success: true,
     data: user,
-    message: "Account verifi
+    message: "Account verified successfully"
+  });
+});
+
+// Send tip notification email
+export const sendTipNotification = catchAsync(a
