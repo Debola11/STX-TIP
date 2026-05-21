@@ -17,4 +17,8 @@ const faqs = [
   },
   {
     question: "Is my wallet secure?",
-    answer: "Yes! We never store your private keys. All transactio
+    answer: "Yes! We never store your private keys. All transactions are secured by the Stacks blockchain and require your explicit approval."
+  }
+];
+
+export con
