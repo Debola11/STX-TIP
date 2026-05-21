@@ -208,4 +208,8 @@ export const Footer: React.FC = () =>
               © {new Date().getFullYear()} TipStack. All rights reserved.
             </p>
             <div className="flex items-center space-x-4 text-sm text-gray-400">
-              <button className="ho
+              <button className="hover:text-violet-300 transition-colors">
+                Change Region
+              </button>
+              <span className="hidden md:inline">•</span>
+              <button className="hover:te
