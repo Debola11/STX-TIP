@@ -35,3 +35,9 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
     email,
     wallet,
     isverified: false
+  });
+
+  const { verificationToken, activationCode } = createVerificationToken(user);
+
+
+  // Save user to 
