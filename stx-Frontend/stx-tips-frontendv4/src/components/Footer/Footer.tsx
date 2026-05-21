@@ -75,4 +75,10 @@
 //               <li>
 //                 <a href="/cookies" className="text-gray-400 hover:text-violet-400 transition-colors">
 //                   Cookie Policy
-//                
+//                 </a>
+//               </li>
+//             </ul>
+//           </div>
+//         </div>
+//         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+//           <p
