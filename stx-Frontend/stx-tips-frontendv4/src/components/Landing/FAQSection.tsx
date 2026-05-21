@@ -25,4 +25,7 @@ export const FAQSection = () => {
   const [selectedFaq, setSelectedFaq] = useState<number | null>(null);
 
   return (
-    <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-vio
+    <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950 py-16 rounded-lg">
+      
+      {/* Glowing orb effects */}
+      <div cl
