@@ -48,4 +48,6 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
     {
         if (error instanceof APIError)
         {
-            thr
+            throw error;
+        }
+        // Handle network errors o
