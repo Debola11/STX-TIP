@@ -34,3 +34,8 @@ const sendErrorDev = (err, req, res) => {
       message: err.message,
       stack: err.stack,
     });
+  }
+
+  // B) RENDERED WEBSITE
+  console.error("ERROR 💥", err);
+  retu
