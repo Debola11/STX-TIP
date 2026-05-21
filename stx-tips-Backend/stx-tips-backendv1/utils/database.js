@@ -8,3 +8,6 @@ const connectDB = async (db) => {
     console.log(err);
     setTimeout(connectDB, 5000);
   }
+};
+
+ex
