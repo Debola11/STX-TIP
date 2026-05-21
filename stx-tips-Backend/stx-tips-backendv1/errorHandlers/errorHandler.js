@@ -72,4 +72,6 @@ const sendErrorProd = (err, req, res) => {
       msg: err.message,
     });
   }
-  // B) Programming or other unknown err
+  // B) Programming or other unknown error: don't leak error details
+  // 1) Log error
+  console.error("ERROR 
