@@ -4,4 +4,5 @@ import
     sendTipNotification,
     submitUserDetails,
     verifyAccount,
-    getUserByWallet
+    getUserByWallet,
+    getUserB
