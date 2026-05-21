@@ -40,4 +40,7 @@ export const FAQSection = () => {
       >
         <div className="text-center mb-16">
           <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-white/10 border border-white/20 text-violet-200 text-sm font-medium mb-4 backdrop-blur-sm">
-            <HelpCircle className="w-4 h-
+            <HelpCircle className="w-4 h-4 mr-2" />
+            Got Questions?
+          </div>
+          <h2 className="text-4xl font-b
