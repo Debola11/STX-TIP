@@ -172,4 +172,9 @@ export const checkUserExists = catchAsync(async (req, res, next) => {
   }
 
   const query = {};
-  if (email) query.email = email
+  if (email) query.email = email;
+  if (wallet) query.wallet = wallet;
+
+  const exists = await User.exists(query);
+
+  res.status(200).json
