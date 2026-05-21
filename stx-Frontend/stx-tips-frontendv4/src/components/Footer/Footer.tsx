@@ -205,4 +205,7 @@ export const Footer: React.FC = () =>
         <div className="relative mt-16 pt-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-             
+              © {new Date().getFullYear()} TipStack. All rights reserved.
+            </p>
+            <div className="flex items-center space-x-4 text-sm text-gray-400">
+              <button className="ho
