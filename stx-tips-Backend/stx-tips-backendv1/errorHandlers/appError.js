@@ -1,2 +1,2 @@
 class AppError extends Error {
-  co
+  construct
