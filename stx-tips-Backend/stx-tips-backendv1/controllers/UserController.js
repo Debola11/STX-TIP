@@ -25,3 +25,6 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
 
   // Check if email or wallet already exists
   const checkEmail = await User.findOne({ email });
+  const checkWallet = await User.findOne({ wallet });
+
+  if (checkEmail) return next(new AppError("Email 
