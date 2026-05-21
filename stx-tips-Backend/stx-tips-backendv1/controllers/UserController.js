@@ -102,4 +102,10 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
   }
 
   if (!sender.isverified) {
-    return next(new AppError("Sender
+    return next(new AppError("Sender account not verified", 400));
+  }
+
+  // Prepare email data
+  const data = {
+    sender: {
+      email: se
