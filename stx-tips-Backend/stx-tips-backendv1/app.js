@@ -19,4 +19,7 @@ if (process.env.NODE_ENV === 'development')
 }
 
 // The body parser, reading data from the body into req.body
-app.use(express.json({ limit: "1
+app.use(express.json({ limit: "10kb" }));
+
+
+// The 
