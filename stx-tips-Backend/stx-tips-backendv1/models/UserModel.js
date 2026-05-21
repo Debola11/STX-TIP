@@ -18,4 +18,5 @@ const userSchema = new mongoose.Schema({
         lowercase: true,
     },
 
-    is
+    isverified: {
+  
