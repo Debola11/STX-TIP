@@ -9,4 +9,5 @@
     "dev": "nodemon ./server.js"
   },
   "repository": {
-    "type": "git
+    "type": "git",
+    "url": "git+
