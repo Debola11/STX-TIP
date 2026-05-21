@@ -89,4 +89,5 @@ export default (err, req, res, next) => {
   err.status = err.status || "error";
 
   if (process.env.NODE_ENV === "development") {
-    if (err.name === "CastError") err = han
+    if (err.name === "CastError") err = handleCastErrorDB(err);
+    if (err.code === 11000) err = handleDuplicate
