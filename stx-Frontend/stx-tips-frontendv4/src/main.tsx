@@ -14,4 +14,5 @@ const appConfig = {
 };
 
 createRoot(document.getElementById('root')!).render(
-  <Stri
+  <StrictMode>
+    <Bro
