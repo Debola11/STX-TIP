@@ -27,4 +27,5 @@
   }
 }
 
-@media (prefers-reduced-motion: no-pref
+@media (prefers-reduced-motion: no-preference) {
+  a
