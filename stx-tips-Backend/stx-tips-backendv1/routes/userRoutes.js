@@ -12,4 +12,4 @@ import
 
 const router = express.Router();
 
-router.route
+router.route("/verify-acco
