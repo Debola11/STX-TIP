@@ -98,4 +98,6 @@ export default (err, req, res, next) => {
     sendErrorDev(err, req, res);
   } else if (process.env.NODE_ENV === "production") {
     let error = { ...err };
-    
+    error.message = err.message;
+
+    if (error.name === "CastError") erro
