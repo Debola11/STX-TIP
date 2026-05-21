@@ -5,4 +5,4 @@ import userRouter from "./routes/userRoutes.js";
 export const mountedRoutes = function (app)
 {
   app.use(express.json());
-  app.use("/api/v1/users", us
+  app.use("/api/v1/users", userRo
