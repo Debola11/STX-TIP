@@ -23,3 +23,6 @@ const faqs = [
 
 export const FAQSection = () => {
   const [selectedFaq, setSelectedFaq] = useState<number | null>(null);
+
+  return (
+    <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-vio
