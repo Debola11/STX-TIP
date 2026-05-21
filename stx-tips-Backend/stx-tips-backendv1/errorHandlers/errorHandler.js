@@ -53,3 +53,5 @@ const sendErrorProd = (err, req, res) => {
         status: err.status,
         message: err.message,
       });
+    }
+    // B) Programming or other unknown error: don't leak error d
