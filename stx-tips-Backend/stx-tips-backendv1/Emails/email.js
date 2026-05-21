@@ -59,4 +59,7 @@ export default class Email
 
   async sendVerificationLink()
   {
-    await this.send("verify-link.ejs", "
+    await this.send("verify-link.ejs", "Activate Your Account");
+  }
+
+  as
