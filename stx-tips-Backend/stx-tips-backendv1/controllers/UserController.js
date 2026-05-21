@@ -76,4 +76,7 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
   // console.log(decoded);
 
   // Find user and update verification status
-  const user = await User.findOneA
+  const user = await User.findOneAndUpdate(
+    { email: decoded.user.email, wallet: decoded.user.wallet },
+    { isverified: true },
+    { 
