@@ -70,4 +70,7 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
   // Verify token
   const decoded = jwt.verify(verification_token, process.env.VERIFY_EMAIL_SECRET);
 
-  if (decoded.activationCode
+  if (decoded.activationCode != activation_Code)
+    return next(new AppError("Invalid activation token. Please try again", 401));
+
+  
