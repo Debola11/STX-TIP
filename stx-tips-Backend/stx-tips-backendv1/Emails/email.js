@@ -42,3 +42,6 @@ export default class Email
     const mailOptions = {
       from: this.from,
       to: this.to,
+      subject,
+      html,
+    };
