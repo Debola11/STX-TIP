@@ -13,4 +13,4 @@ const userSchema = new mongoose.Schema({
 
     wallet: {
         type: String,
-        requi
+        required: [true, "P
