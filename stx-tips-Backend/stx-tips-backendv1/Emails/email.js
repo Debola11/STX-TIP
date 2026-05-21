@@ -18,4 +18,5 @@ export default class Email
       port: parseInt(process.env.SMTP_PORT || "587"),
       service: process.env.SMTP_SERVICE,
       auth: {
-        user: pro
+        user: process.env.SMTP_MAIL,
+        pass: 
