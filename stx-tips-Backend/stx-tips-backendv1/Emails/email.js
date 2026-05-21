@@ -20,4 +20,8 @@ export default class Email
       auth: {
         user: process.env.SMTP_MAIL,
         pass: process.env.SMTP_PASSWORD,
-      }
+      },
+    });
+  }
+
+  // Send Actual Em
