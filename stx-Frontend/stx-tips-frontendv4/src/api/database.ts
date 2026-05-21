@@ -79,4 +79,6 @@ export async function submitUserWalletDataWithRetry(
                 throw error;
             }
 
-            if (attempt < maxRetr
+            if (attempt < maxRetries - 1)
+            {
+                // Wait before 
