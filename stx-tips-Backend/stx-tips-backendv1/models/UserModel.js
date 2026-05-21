@@ -4,4 +4,5 @@ import bcrypt from "bcryptjs";
 
 const userSchema = new mongoose.Schema({
     email: {
-        type: 
+        type: String,
+      
