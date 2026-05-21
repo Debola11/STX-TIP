@@ -1,1 +1,1 @@
-export default (fn) 
+export default (fn) =>
