@@ -3,3 +3,4 @@ import validator from "validator";
 import bcrypt from "bcryptjs";
 
 const userSchema = new mongoose.Schema({
+    email: {
