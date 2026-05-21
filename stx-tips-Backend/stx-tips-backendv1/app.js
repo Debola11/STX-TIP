@@ -13,4 +13,4 @@ const app = express();
 app.use(helmet());
 
 // Development logging
-if (process.env.NO
+if (process.env.NODE_ENV === 'develop
