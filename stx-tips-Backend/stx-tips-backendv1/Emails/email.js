@@ -31,4 +31,8 @@ export default class Email
     //get the path to the email template file
     const emailTemplatePath = path.join(
       __dirname,
-      "./Emails/mailTe
+      "./Emails/mailTemplates",
+      template
+    );
+
+ 
