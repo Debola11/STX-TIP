@@ -95,4 +95,7 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
 
   // Find sender and recipient details
   const sender = await User.findOne({ wallet: senderWallet });
-  const recipient = 
+  const recipient = await User.findOne({ wallet: recipientWallet });
+
+  if (!sender || !recipient) {
+    return next(new AppEr
