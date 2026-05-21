@@ -12,4 +12,5 @@ export default class Email
   }
 
   newTransport()
- 
+  {
+    return nodemailer.createTra
