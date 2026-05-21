@@ -127,4 +127,7 @@ export const Footer: React.FC = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-    
+                <Twitter className="h-5 w-5 text-violet-300 group-hover:text-violet-400 transition-colors" />
+              </a>
+              <a
+                href="https://github.com/tipstack"
