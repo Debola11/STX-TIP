@@ -10,4 +10,4 @@ class AppError extends Error {
   }
 }
 
-ex
+export de
