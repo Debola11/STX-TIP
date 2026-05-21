@@ -164,4 +164,8 @@ export const getUserByEmail = catchAsync(async (req, res, next) => {
 });
 
 // Check if user exists
-export const checkUserExists = catchAsync(async (req, res, next) =>
+export const checkUserExists = catchAsync(async (req, res, next) => {
+  const { email, wallet } = req.query;
+
+  if (!email && !wallet) {
+    return next(new AppError('Please
