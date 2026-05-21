@@ -45,3 +45,5 @@ export default class Email
       subject,
       html,
     };
+
+    // 3) Create a transport and
