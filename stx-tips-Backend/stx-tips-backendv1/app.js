@@ -18,4 +18,4 @@ if (process.env.NODE_ENV === 'development')
     app.use(morgan("dev"));
 }
 
-// The body parser, reading data fro
+// The body parser, reading data from the body into req
