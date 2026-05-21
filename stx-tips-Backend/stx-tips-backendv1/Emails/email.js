@@ -46,4 +46,5 @@ export default class Email
       html,
     };
 
-    // 3) Create a transport and
+    // 3) Create a transport and send email
+    await this.newTran
