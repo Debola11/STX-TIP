@@ -96,4 +96,6 @@ export default (err, req, res, next) => {
     if (err.name === "TokenExpiredError") err = handleJWTExpiredError();
 
     sendErrorDev(err, req, res);
-  } else if (pro
+  } else if (process.env.NODE_ENV === "production") {
+    let error = { ...err };
+    
