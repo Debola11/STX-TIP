@@ -16,4 +16,5 @@ const faqs = [
     answer: "You earn points for every tip you send or receive. These points contribute to your ranking and unlock special badges and rewards as you reach different milestones."
   },
   {
-    quest
+    question: "Is my wallet secure?",
+    answer: "Yes! We never store your private keys. All transactio
