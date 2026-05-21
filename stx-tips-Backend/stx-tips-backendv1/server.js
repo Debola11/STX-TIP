@@ -3,4 +3,4 @@ import connectDB from "./utils/database.js";
 import app from "./app.js";
 
 // Handle uncaughtException
-process.on("u
+process.on("uncaughtException",
