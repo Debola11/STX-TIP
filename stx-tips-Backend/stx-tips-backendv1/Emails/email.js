@@ -69,4 +69,4 @@ export default class Email
 
   async sendTipReceivedNotification()
   {
-    await this.send("tip-rec
+    await this.send("tip-received.ejs", "Account Deactivated!"
