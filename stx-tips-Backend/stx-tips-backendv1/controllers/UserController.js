@@ -90,4 +90,7 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
 });
 
 // Send tip notification email
-export const sendTipNotification = catchAsync(a
+export const sendTipNotification = catchAsync(async (req, res, next) => {
+  const { senderWallet, recipientWallet, amount } = req.body;
+
+  // Find sender
