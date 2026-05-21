@@ -19,4 +19,5 @@
   },
   "homepage": "https://github.com/Arowolokehinde/STX-TIP#readme",
   "dependencies": {
-    "bcryp
+    "bcryptjs": "^2.4.3",
+   
