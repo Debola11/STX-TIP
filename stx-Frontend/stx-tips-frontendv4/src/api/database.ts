@@ -15,3 +15,5 @@ export class APIError extends Error
 export async function submitUserWalletData(userData: UserWalletData): Promise<{ success: boolean; userId?: string }>
 {
     try
+    {
+        const response = await fetch(`${API_BASE
