@@ -1,2 +1,2 @@
 export default (fn) => {
-  return (req, res, nex
+  return (req, res, next)
