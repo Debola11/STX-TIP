@@ -36,4 +36,7 @@ export async function submitUserWalletData(userData: UserWalletData): Promise<{ 
                 // If error response is not JSON, use status text
                 errorMessage = response.statusText;
             }
-            throw new APIE
+            throw new APIError(response.status, errorMessage);
+        }
+
+      
