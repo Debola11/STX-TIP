@@ -8,4 +8,5 @@ import App from './App';
 import './index.css';
 
 // Configure Connect for Stacks authentication
-const 
+const appConfig = {
+  
