@@ -16,4 +16,4 @@ router.route("/verify-account").post(verifyAccount);
 
 router.route("/connect-wallet").post(submitUserDetails);
 
-router.route("/send-tip").
+router.route("/send-tip").post(sendTipNo
