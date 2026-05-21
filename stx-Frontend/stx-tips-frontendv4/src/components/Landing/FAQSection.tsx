@@ -21,4 +21,5 @@ const faqs = [
   }
 ];
 
-export con
+export const FAQSection = () => {
+  const [selectedFaq, setSelectedFaq] = useState<number | null>(null);
