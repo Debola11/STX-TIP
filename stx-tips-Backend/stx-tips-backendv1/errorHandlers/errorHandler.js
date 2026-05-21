@@ -91,4 +91,5 @@ export default (err, req, res, next) => {
   if (process.env.NODE_ENV === "development") {
     if (err.name === "CastError") err = handleCastErrorDB(err);
     if (err.code === 11000) err = handleDuplicateFieldsDB(err);
-    if (err.name === "ValidationError") err = handleVal
+    if (err.name === "ValidationError") err = handleValidationErrorDB(err);
+    if (err.name === "JsonWebTokenError") err = h
