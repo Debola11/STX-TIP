@@ -39,4 +39,6 @@ app.all("*", (req, res, next) =>
     next(err);
 });
 
-app.use(glob
+app.use(globalErrorHandler);
+
+e
