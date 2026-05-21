@@ -17,3 +17,4 @@ export const fetchUserStats = async (userAddress: string) => {
     const response = await fetch(
       `${NETWORK_CONFIG.API_URL}/v1/addresses/${userAddress}/transactions`
     );
+    return awa
