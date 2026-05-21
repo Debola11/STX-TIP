@@ -22,4 +22,5 @@ if (process.env.NODE_ENV === 'development')
 app.use(express.json({ limit: "10kb" }));
 
 
-// The cross origin resour
+// The cross origin resource sharing
+const co
