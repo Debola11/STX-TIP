@@ -13,4 +13,5 @@ export default class Email
 
   newTransport()
   {
-    return nodemailer.createTra
+    return nodemailer.createTransport({
+      host: process.env.S
