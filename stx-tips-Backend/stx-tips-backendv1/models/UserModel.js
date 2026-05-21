@@ -13,4 +13,5 @@ const userSchema = new mongoose.Schema({
 
     wallet: {
         type: String,
-        required: [true, "Please provide your wallet Ad
+        required: [true, "Please provide your wallet Address"],
+     
