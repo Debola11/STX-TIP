@@ -12,4 +12,4 @@ import
 
 const router = express.Router();
 
-router.route("/verify-acco
+router.route("/verify-account").post(ver
