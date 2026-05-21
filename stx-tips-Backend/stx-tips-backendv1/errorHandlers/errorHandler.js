@@ -44,4 +44,6 @@ const sendErrorDev = (err, req, res) => {
   });
 };
 
-const sendErrorProd = (e
+const sendErrorProd = (err, req, res) => {
+  // A) API
+  if (req.originalUrl.startsWith("/api"
