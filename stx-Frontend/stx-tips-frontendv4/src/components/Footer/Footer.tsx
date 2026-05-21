@@ -141,4 +141,11 @@ export const Footer: React.FC = () =>
                 href="mailto:contact@tipstack.com"
                 className="group relative p-2 bg-white/5 rounded-lg hover:bg-white/10 transition-all duration-200"
               >
-                <Mail className="h-5 w-5 text-v
+                <Mail className="h-5 w-5 text-violet-300 group-hover:text-violet-400 transition-colors" />
+              </a>
+            </div>
+          </div>
+
+          {/* Product Section */}
+          <div className="space-y-6">
+     
