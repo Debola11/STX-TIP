@@ -168,4 +168,8 @@ export const checkUserExists = catchAsync(async (req, res, next) => {
   const { email, wallet } = req.query;
 
   if (!email && !wallet) {
-    return next(new AppError('Please
+    return next(new AppError('Please provide either email or wallet address', 400));
+  }
+
+  const query = {};
+  if (email) query.email = email
