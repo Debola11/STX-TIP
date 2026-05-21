@@ -22,4 +22,5 @@ router.route("/wallet/:wallet").get(getUserByWallet);
 
 router.route("/email/:email").get(getUserByEmail);
 
-router.route("/exists").get(check
+router.route("/exists").get(checkUserExists);
+
