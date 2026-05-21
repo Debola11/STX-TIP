@@ -9,4 +9,4 @@ const faqs = [
   },
   {
     question: "What are the transaction fees?",
-    answer: "Transact
+    answer: "Transaction fees are minimal and based on the current network conditions. We always display the exact f
