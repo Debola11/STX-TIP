@@ -2,4 +2,7 @@ import AppError from "./appError.js";
 
 const handleCastErrorDB = (err) => {
   const message = `Invalid ${err.path}: ${err.value}.`;
-  return
+  return new AppError(message, 400);
+};
+
+const handleDuplicateFieldsDB = (err)
