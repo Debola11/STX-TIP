@@ -126,4 +126,9 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
 
   res.status(200).json({
     success: true,
-    message: "Tip notification sent succes
+    message: "Tip notification sent successfully"
+  });
+});
+
+// Get user by wallet address
+export const getUserByWallet = catchAsync(async (req, res
