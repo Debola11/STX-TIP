@@ -93,4 +93,6 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
 export const sendTipNotification = catchAsync(async (req, res, next) => {
   const { senderWallet, recipientWallet, amount } = req.body;
 
-  // Find sender
+  // Find sender and recipient details
+  const sender = await User.findOne({ wallet: senderWallet });
+  const recipient = 
