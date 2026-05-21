@@ -24,3 +24,4 @@ createRoot(document.getElementById('root')!).render(
         </Connect>
       </AuthContextProvider>
     </BrowserRouter>
+  </StrictMode>
