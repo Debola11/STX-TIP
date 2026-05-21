@@ -39,3 +39,5 @@ export default class Email
     const html = await ejs.renderFile(emailTemplatePath, this.data);
 
     // Define mail options
+    const mailOptions = {
+      f
