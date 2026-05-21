@@ -73,4 +73,7 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
   if (decoded.activationCode != activation_Code)
     return next(new AppError("Invalid activation token. Please try again", 401));
 
-  
+  // console.log(decoded);
+
+  // Find user and update verification status
+  const user = await User.findOneA
