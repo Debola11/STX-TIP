@@ -100,4 +100,5 @@ export default (err, req, res, next) => {
     let error = { ...err };
     error.message = err.message;
 
-    if (error.name === "CastError") erro
+    if (error.name === "CastError") error = handleCastErrorDB(error);
+    if (error.code === 11000) error = ha
