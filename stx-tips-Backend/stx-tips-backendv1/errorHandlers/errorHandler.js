@@ -65,4 +65,6 @@ const sendErrorProd = (err, req, res) => {
   }
 
   // B) RENDERED WEBSITE
-  // A) Operational, trusted error: send messa
+  // A) Operational, trusted error: send message to client
+  if (err.isOperational) {
+    return res.status(err.stat
