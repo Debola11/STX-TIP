@@ -71,4 +71,8 @@
 //                 <a href="/terms" className="text-gray-400 hover:text-violet-400 transition-colors">
 //                   Terms of Service
 //                 </a>
-//        
+//               </li>
+//               <li>
+//                 <a href="/cookies" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Cookie Policy
+//                
