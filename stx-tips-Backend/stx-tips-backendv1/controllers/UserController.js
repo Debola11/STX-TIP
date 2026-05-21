@@ -134,4 +134,8 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
 export const getUserByWallet = catchAsync(async (req, res, next) => {
   const { wallet } = req.params;
 
-  const user = await User.findOne({ wallet }).select('-__v'
+  const user = await User.findOne({ wallet }).select('-__v');
+  console.log(user);
+
+  if (!user) {
+    return next(new AppError('No user found with this wallet addre
