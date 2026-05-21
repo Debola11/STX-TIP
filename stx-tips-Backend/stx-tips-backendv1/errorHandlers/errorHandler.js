@@ -23,4 +23,6 @@ const handleJWTError = () =>
   new AppError("Invalid token!", 401);
 
 const handleJWTExpiredError = () =>
-  new AppError("Your token has expired! Click resend to
+  new AppError("Your token has expired! Click resend token to get another one.", 401);
+
+const sendErrorDev = (err, req, res) 
