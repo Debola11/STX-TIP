@@ -138,4 +138,13 @@ export const getUserByWallet = catchAsync(async (req, res, next) => {
   console.log(user);
 
   if (!user) {
-    return next(new AppError('No user found with this wallet addre
+    return next(new AppError('No user found with this wallet address', 404));
+  }
+
+  res.status(200).json({
+    success: true,
+    data: user
+  });
+});
+
+// Get user by emai
