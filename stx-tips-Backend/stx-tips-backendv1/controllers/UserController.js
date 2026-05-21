@@ -181,4 +181,9 @@ export const checkUserExists = catchAsync(async (req, res, next) => {
     success: true,
     exists: !!exists,
     // If user exists, specify which identifier matched
-    ma
+    matchedBy: exists ? Object.keys(query).join(', ') : null
+  });
+});
+
+// Get all verified users
+export const g
