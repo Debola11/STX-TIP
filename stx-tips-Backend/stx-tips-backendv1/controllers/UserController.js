@@ -131,4 +131,7 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
 });
 
 // Get user by wallet address
-export const getUserByWallet = catchAsync(async (req, res
+export const getUserByWallet = catchAsync(async (req, res, next) => {
+  const { wallet } = req.params;
+
+  const user = await User.findOne({ wallet }).select('-__v'
