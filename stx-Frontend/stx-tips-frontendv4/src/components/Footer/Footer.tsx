@@ -212,4 +212,13 @@ export const Footer: React.FC = () =>
                 Change Region
               </button>
               <span className="hidden md:inline">•</span>
-              <button className="hover:te
+              <button className="hover:text-violet-300 transition-colors">
+                English (US)
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+};
