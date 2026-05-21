@@ -25,4 +25,7 @@ const handleJWTError = () =>
 const handleJWTExpiredError = () =>
   new AppError("Your token has expired! Click resend token to get another one.", 401);
 
-const sendErrorDev = (err, req, res) 
+const sendErrorDev = (err, req, res) => {
+  // A) API
+  if (req.originalUrl.startsWith("/api")) {
+    retur
