@@ -47,4 +47,9 @@
 //                   Documentation
 //                 </a>
 //               </li>
-//       
+//               <li>
+//                 <a href="/blog" className="text-gray-400 hover:text-violet-400 transition-colors">
+//                   Blog
+//                 </a>
+//               </li>
+//   
