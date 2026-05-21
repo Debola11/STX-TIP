@@ -200,4 +200,10 @@ export const getVerifiedUsers = catchAsync(async (req, res, next) => {
 
 export default {
   submitUserDetails,
-  verifyAccoun
+  verifyAccount,
+  sendTipNotification,
+  getUserByWallet,
+  getUserByEmail,
+  checkUserExists,
+  getVerifiedUsers
+};
