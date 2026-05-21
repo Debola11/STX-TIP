@@ -8,4 +8,4 @@ import
     getUserByEmail,
     checkUserExists,
     getVerifiedUsers
-} from
+} from "../controlle
