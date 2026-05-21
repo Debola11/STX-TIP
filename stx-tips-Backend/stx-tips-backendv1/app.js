@@ -30,3 +30,4 @@ const corOptions = cors({
 });
 app.use(corOptions);
 
+mountedRoutes(app);
