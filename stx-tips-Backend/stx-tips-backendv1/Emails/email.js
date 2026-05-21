@@ -24,4 +24,5 @@ export default class Email
     });
   }
 
-  // Send Actual Em
+  // Send Actual Email
+  async send(template, subject
