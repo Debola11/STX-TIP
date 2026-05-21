@@ -12,4 +12,4 @@ const app = express();
 // SET Security HTTP headers
 app.use(helmet());
 
-// 
+// Development logging
