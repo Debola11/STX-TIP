@@ -30,4 +30,5 @@ export default class Email
     const __dirname = path.resolve();
     //get the path to the email template file
     const emailTemplatePath = path.join(
-     
+      __dirname,
+      "./Emails/mailTe
