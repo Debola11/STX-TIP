@@ -22,4 +22,5 @@ const handleValidationErrorDB = (err) => {
 const handleJWTError = () =>
   new AppError("Invalid token!", 401);
 
-const handleJWTExpire
+const handleJWTExpiredError = () =>
+  new AppError("Your token has expired! Click resend to
