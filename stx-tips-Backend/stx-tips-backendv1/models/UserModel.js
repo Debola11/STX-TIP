@@ -24,4 +24,4 @@ const userSchema = new mongoose.Schema({
     },
 }, { timestamps: true });
 
-const
+const User = mongoo
