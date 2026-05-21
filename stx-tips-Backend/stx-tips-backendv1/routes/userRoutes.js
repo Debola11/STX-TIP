@@ -3,4 +3,5 @@ import
 {
     sendTipNotification,
     submitUserDetails,
-    verify
+    verifyAccount,
+    g
