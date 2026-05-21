@@ -18,4 +18,4 @@ const DB_CLOUD = process.env.DB_CLOUD.replace(
 );
 
 // Create a port
-const port = process
+const port = process.env.PORT || 3000;
