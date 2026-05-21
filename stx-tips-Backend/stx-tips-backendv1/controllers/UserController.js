@@ -151,4 +151,7 @@ export const getUserByWallet = catchAsync(async (req, res, next) => {
 export const getUserByEmail = catchAsync(async (req, res, next) => {
   const { email } = req.params;
 
-  
+  const user = await User.findOne({ email }).select('-__v');
+
+  if (!user) {
+    return next(new AppError('N
