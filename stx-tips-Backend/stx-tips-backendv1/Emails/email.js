@@ -67,4 +67,4 @@ export default class Email
     await this.send("tip-sent.ejs", "Account Reactivated!");
   }
 
-  
+  async sendTipReceivedNotification(
