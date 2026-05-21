@@ -10,4 +10,4 @@ import
     getVerifiedUsers
 } from "../controllers/UserController.js";
 
-const router = exp
+const router = express.Router();
