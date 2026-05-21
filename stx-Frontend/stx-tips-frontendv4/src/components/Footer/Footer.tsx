@@ -17,4 +17,10 @@
 //               </a>
 //               <a href="https://github.com/tipstack" className="hover:text-violet-400 transition-colors">
 //                 <Github className="h-5 w-5" />
-// 
+//               </a>
+//             </div>
+//           </div>
+//           <div>
+//             <h3 className="text-lg font-bold mb-4">Product</h3>
+//             <ul className="space-y-2">
+//  
