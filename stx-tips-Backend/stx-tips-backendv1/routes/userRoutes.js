@@ -18,4 +18,6 @@ router.route("/connect-wallet").post(submitUserDetails);
 
 router.route("/send-tip").post(sendTipNotification);
 
-router.route("/wallet/:wallet").get(getUse
+router.route("/wallet/:wallet").get(getUserByWallet);
+
+r
