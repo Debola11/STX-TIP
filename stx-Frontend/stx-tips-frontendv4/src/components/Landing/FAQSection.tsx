@@ -94,4 +94,10 @@ export const FAQSection = () => {
               </div>
             </motion.div>
           ))}
-  
+        </div>
+      </motion.div>
+    </div>
+  );
+};
+
+export default FAQSection;
