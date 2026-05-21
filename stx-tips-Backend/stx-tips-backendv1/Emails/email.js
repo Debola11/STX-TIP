@@ -25,4 +25,6 @@ export default class Email
   }
 
   // Send Actual Email
-  async send(template, subject
+  async send(template, subject)
+  {
+    const __dirname = path.r
