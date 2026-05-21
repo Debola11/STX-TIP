@@ -20,4 +20,6 @@ router.route("/send-tip").post(sendTipNotification);
 
 router.route("/wallet/:wallet").get(getUserByWallet);
 
-router.route("/email/:email").get(getUserBy
+router.route("/email/:email").get(getUserByEmail);
+
+route
