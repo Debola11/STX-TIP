@@ -26,4 +26,6 @@ app.use(express.json({ limit: "10kb" }));
 const corOptions = cors({
     origin: true,
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
-    credent
+    credentials: true,
+});
+app
