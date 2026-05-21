@@ -147,4 +147,8 @@ export const getUserByWallet = catchAsync(async (req, res, next) => {
   });
 });
 
-// Get user by emai
+// Get user by email
+export const getUserByEmail = catchAsync(async (req, res, next) => {
+  const { email } = req.params;
+
+  
