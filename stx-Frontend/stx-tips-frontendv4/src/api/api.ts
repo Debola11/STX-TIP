@@ -1,3 +1,3 @@
 import { NETWORK_CONFIG } from "@/lib/constants";
 
-expor
+export const fetchU
