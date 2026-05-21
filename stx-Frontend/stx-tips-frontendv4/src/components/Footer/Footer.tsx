@@ -13,4 +13,8 @@
 //             </p>
 //             <div className="flex space-x-4">
 //               <a href="https://twitter.com/tipstack" className="hover:text-violet-400 transition-colors">
-//                 <ExternalLink className="h-
+//                 <ExternalLink className="h-5 w-5" />
+//               </a>
+//               <a href="https://github.com/tipstack" className="hover:text-violet-400 transition-colors">
+//                 <Github className="h-5 w-5" />
+// 
