@@ -19,4 +19,5 @@ export default class Email
       service: process.env.SMTP_SERVICE,
       auth: {
         user: process.env.SMTP_MAIL,
-        pass: 
+        pass: process.env.SMTP_PASSWORD,
+      }
