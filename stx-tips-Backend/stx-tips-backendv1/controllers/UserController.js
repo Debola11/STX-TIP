@@ -12,4 +12,11 @@ export const createVerificationToken = (user) => {
     { user, activationCode },
     process.env.VERIFY_EMAIL_SECRET,
     {
-      expiresIn: process.env.VERIFY_E
+      expiresIn: process.env.VERIFY_EMAIL_EXPIRES_IN,
+    }
+  );
+
+  return {verificationToken, activationCode};
+};
+
+// Submit user details endp
