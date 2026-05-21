@@ -28,4 +28,4 @@ const server = app.listen(port, () => {
 
 // Handle unhandled Rejections
 process.on("unhandledRejection", (err) => {
-  console.log("UNH
+  console.log("UNHANDLED REJECTION! 
