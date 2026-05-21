@@ -9,4 +9,7 @@ export const createVerificationToken = (user) => {
   const activationCode = Math.floor(1000 + Math.random() * 9000).toString();
 
   const verificationToken = jwt.sign(
-    
+    { user, activationCode },
+    process.env.VERIFY_EMAIL_SECRET,
+    {
+      expiresIn: process.env.VERIFY_E
