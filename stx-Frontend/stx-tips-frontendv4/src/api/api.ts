@@ -20,4 +20,4 @@ export const fetchUserStats = async (userAddress: string) => {
     return await response.json();
   } catch (error) {
     console.error('Error fetching user stats:', error);
-  
+    return null;
