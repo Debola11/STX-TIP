@@ -93,4 +93,7 @@ export default (err, req, res, next) => {
     if (err.code === 11000) err = handleDuplicateFieldsDB(err);
     if (err.name === "ValidationError") err = handleValidationErrorDB(err);
     if (err.name === "JsonWebTokenError") err = handleJWTError();
-    if (err.name === "TokenExpiredError") err = handl
+    if (err.name === "TokenExpiredError") err = handleJWTExpiredError();
+
+    sendErrorDev(err, req, res);
+  } else if (pro
