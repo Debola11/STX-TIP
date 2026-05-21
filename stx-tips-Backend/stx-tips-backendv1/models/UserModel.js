@@ -1,1 +1,1 @@
-import mongoos
+import mongoose from "mongoo
