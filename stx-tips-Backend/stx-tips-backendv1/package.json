@@ -6,4 +6,5 @@
   "type": "module",
   "scripts": {
     "start": "node ./server.js",
-    "dev": "nod
+    "dev": "nodemon ./server.js"
+ 
