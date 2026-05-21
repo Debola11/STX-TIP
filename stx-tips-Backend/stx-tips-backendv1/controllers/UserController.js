@@ -21,4 +21,7 @@ export const createVerificationToken = (user) => {
 
 // Submit user details endpoint
 export const submitUserDetails = catchAsync(async (req, res, next) => {
-  const { email, wallet } = r
+  const { email, wallet } = req.body;
+
+  // Check if email or wallet already exists
+  const checkEmail = await User.findOne({ email });
