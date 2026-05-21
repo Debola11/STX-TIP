@@ -192,4 +192,12 @@ export const getVerifiedUsers = catchAsync(async (req, res, next) => {
     .sort({ createdAt: -1 });
 
   res.status(200).json({
-    success: true
+    success: true,
+    count: users.length,
+    data: users
+  });
+});
+
+export default {
+  submitUserDetails,
+  verifyAccoun
