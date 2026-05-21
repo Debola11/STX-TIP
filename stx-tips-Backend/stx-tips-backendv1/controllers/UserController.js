@@ -45,4 +45,10 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
 
   // Send verification email
   const data = {
-    user: { email: user.email
+    user: { email: user.email },
+    activationCode
+  };
+
+  await new Email(user, data).sendVerificationLink();
+
+  res.status(201).json
