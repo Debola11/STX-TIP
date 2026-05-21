@@ -2,4 +2,8 @@ import Email from "../Emails/email.js";
 import catchAsync from "../utils/catchAsync.js";
 import jwt from "jsonwebtoken";
 import User from "../models/UserModel.js";
-import AppError from "../errorHandlers/appError.
+import AppError from "../errorHandlers/appError.js";
+
+// Create Email verification token
+export const createVerificationToken = (user) => {
+  const activa
