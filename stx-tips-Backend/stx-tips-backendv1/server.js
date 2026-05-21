@@ -21,4 +21,5 @@ const DB_CLOUD = process.env.DB_CLOUD.replace(
 const port = process.env.PORT || 3000;
 
 // Listen to the port
-const server = app.listen(port
+const server = app.listen(port, () => {
+  consol
