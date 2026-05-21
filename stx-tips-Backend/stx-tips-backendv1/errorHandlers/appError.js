@@ -1,1 +1,2 @@
-class AppError extends Error
+class AppError extends Error {
+  co
