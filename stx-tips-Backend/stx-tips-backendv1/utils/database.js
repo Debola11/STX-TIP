@@ -3,4 +3,4 @@ import mongoose from "mongoose";
 const connectDB = async (db) => {
   try {
     const con = await mongoose.connect(db);
-    console.log(`Database connected with $
+    console.log(`Database connected with ${con.c
