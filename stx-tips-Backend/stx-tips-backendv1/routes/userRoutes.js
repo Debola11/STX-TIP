@@ -22,4 +22,4 @@ router.route("/wallet/:wallet").get(getUserByWallet);
 
 router.route("/email/:email").get(getUserByEmail);
 
-router.route("/exis
+router.route("/exists").get(check
