@@ -5,4 +5,5 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node ./server.j
+    "start": "node ./server.js",
+    "dev": "nod
