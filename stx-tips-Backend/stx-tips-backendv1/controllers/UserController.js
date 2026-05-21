@@ -51,4 +51,8 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
 
   await new Email(user, data).sendVerificationLink();
 
-  res.status(201).json
+  res.status(201).json({
+    success: true,
+    verificationToken,
+    activationCode,
+    message: `Please check your email: ${
