@@ -5,4 +5,4 @@ import app from "./app.js";
 // Handle uncaughtException
 process.on("uncaughtException", (err) => {
   console.log("UNCAUGHT EXCEPTION! 💥 Shutting down...");
-  console.log(err.na
+  console.log(err.name, err.message);
