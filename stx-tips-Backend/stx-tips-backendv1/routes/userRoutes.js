@@ -6,4 +6,4 @@ import
     verifyAccount,
     getUserByWallet,
     getUserByEmail,
-    ch
+    checkUserExists,
