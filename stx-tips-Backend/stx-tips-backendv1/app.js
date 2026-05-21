@@ -6,4 +6,4 @@ import globalErrorHandler from "./errorHandlers/errorHandler.js";
 import { mountedRoutes } from "./routes.js";
 
 
-c
+const app = express(
