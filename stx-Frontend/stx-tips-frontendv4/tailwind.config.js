@@ -1,1 +1,3 @@
-/** @type {import('tailwindcss'
+/** @type {import('tailwindcss').Config} */
+export default {
+ 
