@@ -186,4 +186,5 @@ export const checkUserExists = catchAsync(async (req, res, next) => {
 });
 
 // Get all verified users
-export const g
+export const getVerifiedUsers = catchAsync(async (req, res, next) => {
+  const users = await User.find({ isverified: tru
