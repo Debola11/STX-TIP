@@ -7,4 +7,5 @@ import
     getUserByWallet,
     getUserByEmail,
     checkUserExists,
-    getVerifi
+    getVerifiedUsers
+} from
