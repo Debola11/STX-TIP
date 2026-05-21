@@ -4,4 +4,4 @@ import app from "./app.js";
 
 // Handle uncaughtException
 process.on("uncaughtException", (err) => {
-  cons
+  console.log("UNCAUGHT 
