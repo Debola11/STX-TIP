@@ -26,4 +26,4 @@ router.route("/exists").get(checkUserExists);
 
 router.route("/verified").get(getVerifiedUsers);
 
-export default route
+export default router;
