@@ -4,4 +4,4 @@ import userRouter from "./routes/userRoutes.js";
 
 export const mountedRoutes = function (app)
 {
-  ap
+  app.us
