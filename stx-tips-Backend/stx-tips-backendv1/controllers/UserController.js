@@ -98,4 +98,8 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
   const recipient = await User.findOne({ wallet: recipientWallet });
 
   if (!sender || !recipient) {
-    return next(new AppEr
+    return next(new AppError("Invalid wallet address", 400));
+  }
+
+  if (!sender.isverified) {
+    return next(new AppError("Sender
