@@ -88,4 +88,4 @@ export async function submitUserWalletDataWithRetry(
         }
     }
 
-    throw lastError || ne
+    throw lastError || new Error('Failed to submit user data after multiple att
