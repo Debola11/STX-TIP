@@ -30,4 +30,6 @@
     "morgan": "^1.10.0",
     "nodemailer": "^6.9.16",
     "nodemon": "^3.1.9",
-    "validator"
+    "validator": "^13.12.0"
+  }
+}
