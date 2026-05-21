@@ -24,4 +24,4 @@ router.route("/email/:email").get(getUserByEmail);
 
 router.route("/exists").get(checkUserExists);
 
-router.route("/verified").ge
+router.route("/verified").get(getVerifiedU
