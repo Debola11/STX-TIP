@@ -113,4 +113,10 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
     },
     recipient: {
       email: recipient.email,
-      wallet:
+      wallet: recipientWallet
+    },
+    amount
+  };
+
+  // Send emails to both sender and recipient
+  await Promise.all
