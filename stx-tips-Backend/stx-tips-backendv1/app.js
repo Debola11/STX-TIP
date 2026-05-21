@@ -32,4 +32,6 @@ app.use(corOptions);
 
 mountedRoutes(app);
 
-app.all("*", (req
+app.all("*", (req, res, next) =>
+{
+ 
