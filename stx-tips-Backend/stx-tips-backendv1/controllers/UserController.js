@@ -28,4 +28,10 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
   const checkWallet = await User.findOne({ wallet });
 
   if (checkEmail) return next(new AppError("Email already exists", 400));
-  if (checkWallet) return next(new AppError("Wallet address already exists", 400))
+  if (checkWallet) return next(new AppError("Wallet address already exists", 400));
+
+  // Create user without saving
+  const user = new User({
+    email,
+    wallet,
+    isverified: false
