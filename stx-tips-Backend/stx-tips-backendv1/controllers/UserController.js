@@ -6,4 +6,7 @@ import AppError from "../errorHandlers/appError.js";
 
 // Create Email verification token
 export const createVerificationToken = (user) => {
-  const activa
+  const activationCode = Math.floor(1000 + Math.random() * 9000).toString();
+
+  const verificationToken = jwt.sign(
+    
