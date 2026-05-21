@@ -108,4 +108,9 @@ export const sendTipNotification = catchAsync(async (req, res, next) => {
   // Prepare email data
   const data = {
     sender: {
-      email: se
+      email: sender.email,
+      wallet: senderWallet
+    },
+    recipient: {
+      email: recipient.email,
+      wallet:
