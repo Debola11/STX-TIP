@@ -28,4 +28,5 @@ const corOptions = cors({
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
     credentials: true,
 });
-app
+app.use(corOptions);
+
