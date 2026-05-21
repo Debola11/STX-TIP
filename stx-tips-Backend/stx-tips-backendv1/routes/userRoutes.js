@@ -20,4 +20,4 @@ router.route("/send-tip").post(sendTipNotification);
 
 router.route("/wallet/:wallet").get(getUserByWallet);
 
-r
+router.route("/
