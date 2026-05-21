@@ -16,4 +16,4 @@ export default class Email
     return nodemailer.createTransport({
       host: process.env.SMTP_HOST,
       port: parseInt(process.env.SMTP_PORT || "587"),
-    
+      service: process.env.SMTP_SERVIC
