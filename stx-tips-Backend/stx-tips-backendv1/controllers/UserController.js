@@ -60,4 +60,7 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
 });
 
 // Verify account endpoint
-export const verifyAccount = ca
+export const verifyAccount = catchAsync(async (req, res, next) => {
+
+  const verification_token = req.body.activation_token;
+  const { ac
