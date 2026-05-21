@@ -19,4 +19,7 @@ const handleValidationErrorDB = (err) => {
   return new AppError(message, 400);
 };
 
-const handleJWTError
+const handleJWTError = () =>
+  new AppError("Invalid token!", 401);
+
+const handleJWTExpire
