@@ -19,4 +19,5 @@ const userSchema = new mongoose.Schema({
     },
 
     isverified: {
-        type: Bo
+        type: Boolean,
+       
