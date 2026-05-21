@@ -15,3 +15,5 @@ const router = express.Router();
 router.route("/verify-account").post(verifyAccount);
 
 router.route("/connect-wallet").post(submitUserDetails);
+
+router.route
