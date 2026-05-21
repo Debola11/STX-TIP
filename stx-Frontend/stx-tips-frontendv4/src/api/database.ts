@@ -81,4 +81,5 @@ export async function submitUserWalletDataWithRetry(
 
             if (attempt < maxRetries - 1)
             {
-                // Wait before 
+                // Wait before retrying, with exponential backoff
+                awa
