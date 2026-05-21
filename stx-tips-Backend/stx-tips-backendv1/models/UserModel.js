@@ -5,4 +5,4 @@ import bcrypt from "bcryptjs";
 const userSchema = new mongoose.Schema({
     email: {
         type: String,
-        required: [true, "Please p
+        required: [true, "Please provide your em
