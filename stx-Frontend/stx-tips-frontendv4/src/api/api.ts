@@ -15,4 +15,4 @@ export const fetchUserBalance = async (userAddress: string) => {
 export const fetchUserStats = async (userAddress: string) => {
   try {
     const response = await fetch(
-      `${NETWORK_CONFIG.AP
+      `${NETWORK_CONFIG.API_URL}/v1/addr
