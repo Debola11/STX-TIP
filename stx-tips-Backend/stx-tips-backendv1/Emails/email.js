@@ -59,4 +59,4 @@ export default class Email
 
   async sendVerificationLink()
   {
-    aw
+    await this.send("verify-link.ejs", "
