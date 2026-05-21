@@ -7,3 +7,5 @@ export default class Email
   constructor(user, data)
   {
     this.to = user.email;
+    this.data = data;
+    this.fr
