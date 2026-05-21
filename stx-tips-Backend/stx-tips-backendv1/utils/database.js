@@ -2,4 +2,4 @@ import mongoose from "mongoose";
 
 const connectDB = async (db) => {
   try {
-    const con = await mong
+    const con = await mongoose.c
