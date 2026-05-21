@@ -25,4 +25,5 @@ app.use(express.json({ limit: "10kb" }));
 // The cross origin resource sharing
 const corOptions = cors({
     origin: true,
-    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPT
+    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+    credent
