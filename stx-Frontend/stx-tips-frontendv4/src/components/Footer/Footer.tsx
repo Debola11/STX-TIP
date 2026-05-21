@@ -107,4 +107,8 @@ export const Footer: React.FC = () =>
       </div>
 
       {/* Content */}
-      <div className="relative max-w-7xl mx-auto 
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
+          {/* Brand Section */}
+          <div className="space-y-6">
+            <div cla
