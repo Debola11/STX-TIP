@@ -68,4 +68,6 @@ export const verifyAccount = catchAsync(async (req, res, next) => {
   console.log(verification_token, activation_Code);
 
   // Verify token
-  cons
+  const decoded = jwt.verify(verification_token, process.env.VERIFY_EMAIL_SECRET);
+
+  if (decoded.activationCode
