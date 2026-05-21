@@ -8,4 +8,4 @@ const userSchema = new mongoose.Schema({
         required: [true, "Please provide your email"],
         unique: true,
         lowercase: true,
-  
+        validate
