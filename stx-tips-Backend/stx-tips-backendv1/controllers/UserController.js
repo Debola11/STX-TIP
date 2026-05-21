@@ -177,4 +177,8 @@ export const checkUserExists = catchAsync(async (req, res, next) => {
 
   const exists = await User.exists(query);
 
-  res.status(200).json
+  res.status(200).json({
+    success: true,
+    exists: !!exists,
+    // If user exists, specify which identifier matched
+    ma
