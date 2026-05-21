@@ -2,4 +2,5 @@ import express from "express";
 import
 {
     sendTipNotification,
-    submitUserDetai
+    submitUserDetails,
+    verify
