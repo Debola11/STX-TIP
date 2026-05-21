@@ -63,4 +63,9 @@ export const submitUserDetails = catchAsync(async (req, res, next) => {
 export const verifyAccount = catchAsync(async (req, res, next) => {
 
   const verification_token = req.body.activation_token;
-  const { ac
+  const { activation_Code } = req.body;
+
+  console.log(verification_token, activation_Code);
+
+  // Verify token
+  cons
