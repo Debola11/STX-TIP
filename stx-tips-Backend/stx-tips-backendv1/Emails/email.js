@@ -64,3 +64,4 @@ export default class Email
 
   async sendTipSentNotification()
   {
+    await this.send("tip-sent.ejs"
