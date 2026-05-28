@@ -1,1 +1,3 @@
-import React, { createContext, useContext, useState 
+import React, { createContext, useContext, useState } from 'react';
+
+interface
