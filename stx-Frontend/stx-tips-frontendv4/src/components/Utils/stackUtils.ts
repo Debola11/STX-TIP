@@ -7,4 +7,4 @@
 // };
 
 // // Prepare contract call arguments
-// export
+// export const prepareTipArgs = (recipient: string, amount: stri
