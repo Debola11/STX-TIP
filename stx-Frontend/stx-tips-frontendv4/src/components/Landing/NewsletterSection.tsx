@@ -34,4 +34,4 @@ export const NewsletterSection = () => {
         transition={{ duration: 0.6 }}
       >
         <div className="text-center mb-8">
-          <div className="inline-flex items-center px-3 py-1 round
+          <div className="inline-flex items-center px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-700 text-sm fon
