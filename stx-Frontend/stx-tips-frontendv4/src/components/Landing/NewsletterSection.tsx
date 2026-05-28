@@ -38,4 +38,7 @@ export const NewsletterSection = () => {
             <Mail className="w-3 h-3 mr-1" />
             Newsletter
           </div>
-          <h2 className="text-3xl font-bold text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text 
+          <h2 className="text-3xl font-bold text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text mb-2">
+            Stay Updated with TipStack
+          </h2>
+          <p class
