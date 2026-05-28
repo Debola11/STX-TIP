@@ -54,4 +54,4 @@ const AlertDescription = React.forwardRef<
     {...props}
   />
 ))
-Aler
+AlertDescription.displayName = "Aler
