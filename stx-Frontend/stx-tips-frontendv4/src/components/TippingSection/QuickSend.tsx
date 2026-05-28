@@ -108,4 +108,6 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
     return (
         <Card>
-            <Car
+            <CardHeader>
+                <CardTitle>Quick Send</CardTitle>
+                <CardDescription>Send tips to your favorite creators</CardDesc
