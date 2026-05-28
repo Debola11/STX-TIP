@@ -14,4 +14,4 @@ interface AppContextType
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
-export cons
+export const AppProvider: React.FC<{ 
