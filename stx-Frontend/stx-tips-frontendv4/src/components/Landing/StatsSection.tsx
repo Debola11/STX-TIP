@@ -99,4 +99,5 @@ export const StatsSection = () =>
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-    
+            Track our community's expanding reach and impact across the globe
+          </
