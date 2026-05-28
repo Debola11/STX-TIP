@@ -20,4 +20,8 @@ export const Header = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isEmailModalOpen, setIsEmailModalOpen] = useState(false);
 
-  const [isVerifyModa
+  const [isVerifyModalOpen, setIsVerifyModalOpen] = useState(false);
+
+  console.log(userData);
+  
+  const {walletAddress, setWalletAddress, currentPage, setCurrentPage, setWalletConnected } = use
