@@ -14,4 +14,5 @@ export const AppLayout: React.FC = () =>
 
     if (currentPage === 'home') {
         return (
-            <div className="min-h-screen bg-
+            <div className="min-h-screen bg-gray-50">
+                <Head
