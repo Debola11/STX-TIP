@@ -112,4 +112,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                             </div>
 
                             <Button
-                                type=
+                                type="submit"
+                                disabled={isLoading || !verificationCode.trim()}
+                                className="w-full bg-g
