@@ -9,4 +9,10 @@ interface RecipientInputProps {
   searching: boolean;
   validationError: string;
   userInfo: {
-    e
+    email?: string;
+    found?: boolean;
+  };
+  disabled?: boolean;
+}
+
+ex
