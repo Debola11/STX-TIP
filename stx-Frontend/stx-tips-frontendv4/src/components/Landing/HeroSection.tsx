@@ -215,4 +215,6 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
                 <Users className="h-5 w-5 text-violet-300" />
                 <span className="text-gray-200">Global Community</span>
               </div>
-              <div class
+              <div className="flex items-center justify-center space-x-3 bg-white/5 p-3 rounded-lg backdrop-blur-sm">
+                <Shield className="h-5 w-5 text-violet-300" />
+                <span className="text-gray-200">S
