@@ -81,4 +81,5 @@ export const HowItWorksSection = () => {
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-violet-100/50 to-purple-100/50 rounded-3xl transform rotate-2 transition-transform group-hover:rotate-1" />
                 <div className="relative bg-white p-8 rounded-3xl shadow-lg border border-gray-100 backdrop-blur-sm transition-all duration-300 hover:shadow-xl">
-                  <div className={`inline-f
+                  <div className={`inline-flex p-3 rounded-2xl bg-gradient-to-r ${step.gradient} mb-6 text-white`}>
+ 
