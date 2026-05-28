@@ -6,4 +6,4 @@ interface TransactionCardProps {
 }
 
 export const TransactionCard: React.FC<TransactionCardProps> = ({ transaction }) => (
-  <div className="flex items-center just
+  <div className="flex items-center justify-between py-3 bor
