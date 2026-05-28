@@ -75,4 +75,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                 setValidationError('Unverified wallet address');
             }
         } finally {
-            s
+            setSearching(false);
+        }
+    };
+
+    useEffect(() => {
+        const timeoutId = setTimeout(() => {
+            if (recipientInput &
