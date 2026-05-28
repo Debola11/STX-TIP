@@ -42,4 +42,5 @@ export const NewsletterSection = () => {
             Stay Updated with TipStack
           </h2>
           <p className="text-base text-gray-600 max-w-2xl mx-auto">
-            Join our community
+            Join our community to receive the latest updates about new features, tips, and exclusive rewards
+ 
