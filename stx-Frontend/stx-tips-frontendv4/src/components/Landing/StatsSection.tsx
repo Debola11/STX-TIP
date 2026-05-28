@@ -117,4 +117,7 @@ export const StatsSection = () =>
                 <div className="absolute inset-0 bg-gradient-to-r from-gray-50 to-white rounded-xl transform rotate-1 group-hover:rotate-2 transition-transform duration-300" />
                 <div className="relative bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-100">
                   <div className={`inline-flex p-2 rounded-xl bg-gradient-to-r ${stat.color} mb-4`}>
-                    <Icon className="h-5 w-5 t
+                    <Icon className="h-5 w-5 text-white" />
+                  </div>
+
+                  <div className="flex gap-4 i
