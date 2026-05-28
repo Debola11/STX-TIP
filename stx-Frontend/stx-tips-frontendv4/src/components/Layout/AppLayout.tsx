@@ -6,4 +6,4 @@ import { Dashboard } from '@/pages/Dashboard';
 import { History } from '@/pages/History';
 import { Rewards } from '@/pages/Rewards';
 import { Settings } from '@/pages/Settings';
-import { Home
+import { HomePage } from '@/pages/HomePage';
