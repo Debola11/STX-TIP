@@ -13,3 +13,8 @@ const Card = React.forwardRef<
       className
     )}
     {...props}
+  />
+))
+Card.displayName = "Card"
+
+co
