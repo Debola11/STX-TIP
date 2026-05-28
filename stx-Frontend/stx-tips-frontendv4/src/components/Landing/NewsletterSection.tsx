@@ -66,4 +66,6 @@ export const NewsletterSection = () => {
                 disabled={isSubmitting || isSuccess}
               />
               <button
-                type="
+                type="submit"
+                disabled={isSubmitting || isSuccess || !email}
+         
