@@ -27,4 +27,7 @@ export const HowItWorksSection = () => {
     {
       icon: Wallet,
       title: "Connect Wallet",
-      description: "Connect your Stacks wallet securely to start sending and
+      description: "Connect your Stacks wallet securely to start sending and receiving tips",
+      gradient: "from-violet-500 to-purple-500"
+    },
+ 
