@@ -28,4 +28,5 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
       <label className="block text-sm font-medium text-gray-700">
         Recipient Stacks Address
       </label>
-      <div 
+      <div className="relative group">
+        <Search className="absolute left
