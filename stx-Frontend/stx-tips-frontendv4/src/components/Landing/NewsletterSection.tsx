@@ -18,4 +18,7 @@ export const NewsletterSection = () => {
     setEmail('');
     
     setTimeout(() => setIsSuccess(false), 3000);
-  }
+  };
+
+  return (
+    <div className="relative overflow-hidden bg-gradient-to-b from
