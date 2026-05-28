@@ -3,4 +3,5 @@ import { Send, Mail } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export const NewsletterSection = () => {
- 
+  const [email, setEmail] = useState('');
+  const [isSubmitting, setIsSubmitting]
