@@ -25,4 +25,6 @@ export const AppLayout: React.FC = () =>
 
     const renderPage = () =>
     {
-        sw
+        switch (currentPage)
+        {
+  
