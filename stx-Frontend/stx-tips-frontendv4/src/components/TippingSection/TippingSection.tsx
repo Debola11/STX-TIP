@@ -129,4 +129,7 @@ export const TippingSection: React.FC = () =>
       <div className="absolute top-0 right-0 w-1/2 h-1/2 bg-gradient-to-br from-violet-100/20 to-purple-100/20 blur-3xl transform rotate-12" />
 
       <motion.h2
-        className="text-3xl font-bold bg-gradie
+        className="text-3xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-transparent mb-8"
+        variants={itemVariants}
+      >
+        Sen
