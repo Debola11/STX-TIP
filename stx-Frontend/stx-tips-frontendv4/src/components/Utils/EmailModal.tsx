@@ -15,4 +15,10 @@ interface EmailModalProps {
 
 const EmailModal: FC<EmailModalProps> = ({
   isOpen,
-  onOpenChang
+  onOpenChange,
+  email,
+  setEmail,
+  handleSubmit,
+  isLoading
+}) => (
+  <Dialog open={
