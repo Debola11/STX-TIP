@@ -37,4 +37,7 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
           value={recipientInput}
           onChange={(e) => setRecipientInput(e.target.value)}
           disabled={disabled}
-      
+        />
+        <AnimatePresence>
+          {searching && (
+           
