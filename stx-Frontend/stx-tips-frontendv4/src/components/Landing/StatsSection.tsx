@@ -53,4 +53,11 @@ const cardVariants = {
   hover: {
     y: -5,
     transition: {
-      duration:
+      duration: 0.2,
+      ease: "easeInOut"
+    }
+  }
+};
+
+const numberVariants = {
+  hidden: { scale
