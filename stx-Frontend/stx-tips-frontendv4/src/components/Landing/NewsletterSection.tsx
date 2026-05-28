@@ -43,4 +43,8 @@ export const NewsletterSection = () => {
           </h2>
           <p className="text-base text-gray-600 max-w-2xl mx-auto">
             Join our community to receive the latest updates about new features, tips, and exclusive rewards
- 
+          </p>
+        </div>
+
+        <motion.form 
+          onSubmit={handleSu
