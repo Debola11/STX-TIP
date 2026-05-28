@@ -4,4 +4,7 @@ import { TrendingUp, Users, ArrowUpRight } from 'lucide-react';
 const statsData = [
   {
     value: '$1M+',
-    label: 'Tips Process
+    label: 'Tips Processed',
+    subtext: 'Across global communities',
+    icon: TrendingUp,
+    growth: '+127
