@@ -14,4 +14,8 @@ export const NewsletterSection = () => {
     setIsSubmitting(true);
     await new Promise(resolve => setTimeout(resolve, 1000));
     setIsSubmitting(false);
-    setIsSuccess(tr
+    setIsSuccess(true);
+    setEmail('');
+    
+    setTimeout(() => setIsSuccess(false), 3000);
+  }
