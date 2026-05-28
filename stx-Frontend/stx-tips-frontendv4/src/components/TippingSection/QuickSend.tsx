@@ -58,4 +58,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
 
         try {
             if (validateStacksAddress(input)) {
+                const data = await fetchUserWalletInfo(input);
+                setUserInfo({
+                    email: data.data.email,
        
