@@ -120,4 +120,7 @@ export const TippingSection: React.FC = () =>
 
   return (
     <motion.div
-      className="bg-gradient-to-br from-white to-gr
+      className="bg-gradient-to-br from-white to-gray-50 rounded-3xl shadow-lg p-8 relative overflow-hidden"
+      variants={containerVariants}
+      initial="hidden"
+      ani
