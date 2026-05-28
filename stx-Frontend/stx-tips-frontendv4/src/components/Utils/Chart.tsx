@@ -22,4 +22,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           }} 
         />
         <Line 
-          t
+          type="monotone" 
+     
