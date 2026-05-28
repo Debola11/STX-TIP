@@ -227,4 +227,8 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
             <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/20 to-purple-500/20 rounded-3xl transform rotate-3 animate-pulse" />
             <div className="relative bg-white/10 backdrop-blur-lg p-8 rounded-3xl shadow-2xl border border-white/10">
               <div className="aspect-w-16 aspect-h-9 bg-gradient-to-br from-violet-500/10 to-purple-500/10 rounded-lg overflow-hidden">
-                <div className=
+                <div className="p-6">
+                  <div className="animate-bounce mb-4">
+                    <Sparkles className="h-12 w-12 text-violet-300 mx-auto" />
+                  </div>
+                  <div className="text-
