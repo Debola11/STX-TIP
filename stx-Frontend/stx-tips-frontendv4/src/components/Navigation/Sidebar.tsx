@@ -1,2 +1,2 @@
 import React from 'react';
-import { Trop
+import { Trophy, History, Gift, Settings, LogOut, X }
