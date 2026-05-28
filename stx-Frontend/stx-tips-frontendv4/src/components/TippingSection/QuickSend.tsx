@@ -130,4 +130,4 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                             type="number"
                             min="0"
                             step="0.1"
-   
+                            className="block w-full px-4 py-3 border border-gray-200 rounded-xl bg-white/80 backdrop-blur-sm focus:outline-n
