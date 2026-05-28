@@ -137,4 +137,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                 <p className="text-sm text-gray-500 dark:text-gray-400">
                                     Didn't receive the code?
                                 </p>
-                           
+                                <button
+                                    type="button"
+                                    className="text-sm text-violet-600 dark:text-
