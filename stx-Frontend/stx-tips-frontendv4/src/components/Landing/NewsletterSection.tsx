@@ -7,4 +7,6 @@ export const NewsletterSection = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
 
-  cons
+  const handleSubscribe = async (e: React.FormEvent) => {
+    e.preventDefault();
+    
