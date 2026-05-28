@@ -47,4 +47,10 @@ const cardVariants = {
     y: 0,
     transition: {
       duration: 0.6,
-  
+      ease: "easeOut"
+    }
+  },
+  hover: {
+    y: -5,
+    transition: {
+      duration:
