@@ -94,4 +94,6 @@ export const StatsSection = () =>
             Growing Impact
           </motion.h2>
           <motion.p
-            className="text-gray-600 text-sm max-w-2xl
+            className="text-gray-600 text-sm max-w-2xl mx-auto"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opaci
