@@ -44,4 +44,6 @@ const AlertTitle = React.forwardRef<
 ))
 AlertTitle.displayName = "AlertTitle"
 
-const AlertDescription = React.forwar
+const AlertDescription = React.forwardRef<
+  HTMLParagraphElement,
+  
