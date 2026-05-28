@@ -46,4 +46,7 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
               exit={{ opacity: 0 }}
               className="absolute right-3 top-1/2 transform -translate-y-1/2"
             >
-              <Loader2 className="h-5 w-5 text-viole
+              <Loader2 className="h-5 w-5 text-violet-600 animate-spin" />
+            </motion.div>
+          )}
+      
