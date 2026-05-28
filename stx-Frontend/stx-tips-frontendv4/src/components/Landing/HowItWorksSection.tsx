@@ -40,4 +40,9 @@ export const HowItWorksSection = () => {
       icon: TrendingUp,
       title: "Send & Earn",
       description: "Send your tip and earn rewards points for your contribution",
-      gradient: "from-fuchsia-500 to
+      gradient: "from-fuchsia-500 to-violet-500"
+    }
+  ];
+
+  return (
+    <div className="relative overflow-
