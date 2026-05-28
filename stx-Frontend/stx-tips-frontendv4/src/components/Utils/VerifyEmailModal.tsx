@@ -9,4 +9,11 @@ import { authContext } from '@/context/AuthContext';
 interface VerifyEmailModalProps
 {
     isOpen: boolean;
-    onOpenChange:
+    onOpenChange: (open: boolean) => void;
+    userEmail?: string;
+}
+
+const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
+    isOpen,
+    onOpenChange,
+    us
