@@ -28,4 +28,8 @@ const statsData = [
   }
 ];
 
-co
+const containerVariants = {
+  hidden: {},
+  visible: {
+    transition: {
+      staggerCh
