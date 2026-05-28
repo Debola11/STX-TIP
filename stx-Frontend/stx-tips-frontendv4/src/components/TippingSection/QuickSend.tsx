@@ -65,4 +65,7 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                     found: !!data.data.email
                 });
             } else {
-                
+                setValidationError('Invalid Stacks address format');
+            }
+        } catch (error) {
+            setUserInfo({ error: 'Failed to 
