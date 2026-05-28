@@ -186,4 +186,10 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
                 <>
                   <Button
                     onClick={handleStartGiving}
-                    className="bg-green-500/90 text-white px-8 py-6 rounded-xl text-lg shadow-lg shadow-green-
+                    className="bg-green-500/90 text-white px-8 py-6 rounded-xl text-lg shadow-lg shadow-green-500/25"
+                  >
+                    <Sparkles className="mr-2 h-5 w-5" />
+                    Start Giving
+                  </Button>
+                  <Button
+                    onClick={() =
