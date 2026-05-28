@@ -24,4 +24,5 @@ export const Sidebar: React.FC = () => {
         </button>
       </div>
 
-      <nav clas
+      <nav className="space-y-4">
+        {navItems.map
