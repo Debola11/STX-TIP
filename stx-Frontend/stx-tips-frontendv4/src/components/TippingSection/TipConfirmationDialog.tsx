@@ -131,4 +131,8 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     </span>
                   </motion.div>
 
-         
+                  <motion.div
+                    variants={contentVariants}
+                    initial="hidden"
+                    animate="visible"
+      
