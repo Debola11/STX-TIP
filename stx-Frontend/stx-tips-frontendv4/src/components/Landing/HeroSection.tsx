@@ -163,4 +163,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
             <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-violet-500/10 border border-violet-500/20 text-violet-300 text-sm font-medium mb-4">
               <Zap className="w-4 h-4 mr-2" />
               Instant Blockchain Transfers
-          
+            </div>
+
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
+              <span className="text-transparent bg-gradient-to-r from-violet-300 to-purple-300 bg-clip-text">
