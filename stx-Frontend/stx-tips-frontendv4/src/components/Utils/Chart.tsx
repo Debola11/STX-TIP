@@ -21,4 +21,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
             boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' 
           }} 
         />
-     
+        <Line 
+          t
