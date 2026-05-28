@@ -61,4 +61,7 @@ export const HowItWorksSection = () => {
           className="text-center mb-16"
           variants={itemVariants}
         >
-          <h2 className="text-4xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-t
+          <h2 className="text-4xl font-bold bg-gradient-to-r from-violet-900 to-purple-900 bg-clip-text text-transparent mb-4">
+            How It Works
+          </h2>
+          <p cl
