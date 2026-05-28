@@ -73,4 +73,4 @@ export const RecipientInput: React.FC<RecipientInputProps> = ({
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
-            cl
+            className="mt-2 p-4 bg-gradient-to-r from-violet-50 to-purple-50 round
