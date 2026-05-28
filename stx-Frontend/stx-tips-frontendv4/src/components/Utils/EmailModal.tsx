@@ -74,4 +74,8 @@ const EmailModal: FC<EmailModalProps> = ({
                   <span>Complete Setup</span>
                 </div>
               )}
-            </Button
+            </Button>
+          </form>
+
+          {/* Footer text */}
+          <p className="t
