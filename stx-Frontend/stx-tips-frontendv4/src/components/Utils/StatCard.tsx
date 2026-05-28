@@ -8,4 +8,4 @@ export const StatCard: React.FC<Stat> = ({ title, value, change, icon }) => (
       {icon && <div className="text-violet-600">{icon}</div>}
     </div>
     <p className="text-2xl font-bold">{value}</p>
-    <span cl
+    <span className={`tex
