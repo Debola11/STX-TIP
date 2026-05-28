@@ -31,4 +31,6 @@ export const BenefitsList: React.FC = () => {
             <span>{benefit}</span>
           </motion.li>
         ))}
-      </ul
+      </ul>
+    </motion.div>
+  );
