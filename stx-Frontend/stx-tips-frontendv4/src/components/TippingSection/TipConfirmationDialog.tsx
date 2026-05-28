@@ -23,4 +23,10 @@
 //   transactionInProgress: boolean;
 // }
 
-// export co
+// export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
+//   open,
+//   onOpenChange,
+//   amount,
+//   recipientInput,
+//   userInfo,
+/
