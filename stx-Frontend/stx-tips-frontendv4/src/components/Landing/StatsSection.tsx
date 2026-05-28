@@ -141,4 +141,10 @@ export const StatsSection = () =>
               </motion.div>
             );
           })}
-        
+        </div>
+      </motion.div>
+    </div>
+  );
+};
+
+export default StatsSection;
