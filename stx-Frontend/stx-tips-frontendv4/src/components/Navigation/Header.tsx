@@ -202,4 +202,7 @@ export const Header = () => {
           </div>
 
           {/* Right section */}
-          <div className="flex 
+          <div className="flex items-center space-x-4">
+            {isAuthenticated && (
+              <>
+                <button className="p-2 rounded-full hover:bg-gray-100 relative transition-colors">
