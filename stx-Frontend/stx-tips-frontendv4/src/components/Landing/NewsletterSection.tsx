@@ -36,4 +36,6 @@ export const NewsletterSection = () => {
         <div className="text-center mb-8">
           <div className="inline-flex items-center px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-700 text-sm font-medium mb-3 backdrop-blur-sm">
             <Mail className="w-3 h-3 mr-1" />
- 
+            Newsletter
+          </div>
+          <h2 className="text-3xl font-bo
