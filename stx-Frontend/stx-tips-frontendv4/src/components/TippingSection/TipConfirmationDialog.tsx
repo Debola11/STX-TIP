@@ -161,4 +161,9 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                         </p>
                       </div>
                     )}
-   
+                  </motion.div>
+                </AlertDialogDescription>
+              </AlertDialogHeader>
+
+              <motion.div
+                
