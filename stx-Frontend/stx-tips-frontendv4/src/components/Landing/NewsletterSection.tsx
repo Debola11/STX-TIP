@@ -54,4 +54,5 @@ export const NewsletterSection = () => {
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
         >
-          <d
+          <div className="relative group">
+            <div className="absolute inset-0 bg-g
