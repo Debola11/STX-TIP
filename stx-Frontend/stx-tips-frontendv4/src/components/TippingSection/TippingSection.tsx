@@ -195,4 +195,6 @@ export const TippingSection: React.FC = () =>
         open={showConfirmDialog}
         onOpenChange={setShowConfirmDialog}
         amount={amount}
-    
+        recipientInput={recipientInput}
+        userInfo={userInfo}
+        onConfirm={() => processTip(recipientInput, amount)}
