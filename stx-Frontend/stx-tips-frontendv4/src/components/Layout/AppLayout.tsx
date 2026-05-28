@@ -28,4 +28,5 @@ export const AppLayout: React.FC = () =>
         switch (currentPage)
         {
             // case 'home':
-            //     return <HomePage 
+            //     return <HomePage />;
+            case 'dashboard
