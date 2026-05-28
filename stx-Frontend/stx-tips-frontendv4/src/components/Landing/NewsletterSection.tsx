@@ -38,4 +38,4 @@ export const NewsletterSection = () => {
             <Mail className="w-3 h-3 mr-1" />
             Newsletter
           </div>
-          <h2 className="text-3xl font-bo
+          <h2 className="text-3xl font-bold text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text 
