@@ -75,4 +75,5 @@ export const HowItWorksSection = () => {
             return (
               <motion.div
                 key={index}
-    
+                variants={itemVariants}
+                whileHover={{ y: -5 }}
