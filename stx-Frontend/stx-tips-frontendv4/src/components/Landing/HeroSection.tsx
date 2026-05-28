@@ -74,4 +74,13 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
       const data = await response.json();
       if (!data.exists) {
-     
+        setIsEmailModalOpen(true);
+      }
+    } catch (error) {
+      console.error('Failed to check user existence:', error);
+    }
+  };
+
+  const handleAuth = () => {
+    if (isAuthenticated) {
+      signUserO
