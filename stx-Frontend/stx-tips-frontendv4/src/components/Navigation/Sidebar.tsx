@@ -41,4 +41,5 @@ export const Sidebar: React.FC = () => {
 
       <div className="absolute bottom-6 left-6 right-6">
         <button className="flex items-center space-x-3 w-full p-3 rounded-lg hover:bg-white/5 text-red-300">
-          <LogOut cl
+          <LogOut className="h-5 w-5" />
+          <span>Dis
