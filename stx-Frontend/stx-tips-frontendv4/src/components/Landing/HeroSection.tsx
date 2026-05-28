@@ -175,3 +175,6 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
               </span>
             </h1>
 
+            <p className="text-lg text-gray-300/90 max-w-xl">
+              Send instant tips and rewards to anyone, anywhere. Support creators,
+              contribute to communities, or show appreciation
