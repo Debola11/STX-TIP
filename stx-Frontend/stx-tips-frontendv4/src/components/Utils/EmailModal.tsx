@@ -28,4 +28,6 @@ const EmailModal: FC<EmailModalProps> = ({
         <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/10 to-purple-500/10 animate-gradient" />
         
         {/* Grid pattern overlay */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:24px_24px]" />
+        
+        <div className="relative z-10 sp
