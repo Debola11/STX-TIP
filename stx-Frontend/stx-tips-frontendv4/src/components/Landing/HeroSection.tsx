@@ -13,4 +13,10 @@ import {
 } from '@/lib/auth';
 import { UserData } from '@/lib/type';
 import EmailModal from '../Utils/EmailModal';
-import VerifyEmailModal from '../Utils/VerifyEmailModal'
+import VerifyEmailModal from '../Utils/VerifyEmailModal';
+import { QuickSend } from '@/components/TippingSection/QuickSend';
+import { authContext } from '@/context/AuthContext';
+
+interface HeroSectionProps {}
+
+export const HeroSection: React.FC<HeroSectionProps>
