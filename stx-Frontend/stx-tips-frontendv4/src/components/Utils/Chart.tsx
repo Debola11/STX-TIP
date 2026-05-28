@@ -29,4 +29,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           dot={{ fill: '#8b5cf6', strokeWidth: 2 }}
           activeDot={{ r: 6, fill: '#8b5cf6' }}
         />
-   
+      </LineChart>
+    <
