@@ -68,4 +68,6 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                 setValidationError('Invalid Stacks address format');
             }
         } catch (error) {
-            setUserInfo({ error: 'Failed to 
+            setUserInfo({ error: 'Failed to fetch user info' });
+            if (!walletConnected) {
+                setValidationError('Please connect your wallet first to continue
