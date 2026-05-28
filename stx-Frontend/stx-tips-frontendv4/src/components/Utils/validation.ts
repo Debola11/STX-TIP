@@ -1,2 +1,2 @@
 export const validateStacksAddress = (address: string): boolean => {
-    return address.star
+    return address.startsWi
