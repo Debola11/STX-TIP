@@ -4,4 +4,6 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/com
 import { validateStacksAddress } from '../Utils/validation';
 import { fetchUserWalletInfo } from '../../services/apiService';
 import { useTipTransaction } from '../../hooks/useTipTransaction';
-import { TipConf
+import { TipConfirmationDialog } from './TipConfirmationDialog';
+import { useAppContext } from '@/context/AppContext';
+import { RecipientInput } from './
