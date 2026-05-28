@@ -7,4 +7,10 @@ import { useAppContext } from '@/context/AppContext';
 import { useNavigate } from 'react-router-dom';
 import {
   authenticate,
- 
+  getUserData,
+  signUserOut,
+  userSession,
+} from '@/lib/auth';
+import { UserData } from '@/lib/type';
+import EmailModal from '../Utils/EmailModal';
+import VerifyEmailModal from '../Utils/VerifyEmailModal'
