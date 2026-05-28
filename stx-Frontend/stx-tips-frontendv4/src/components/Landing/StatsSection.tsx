@@ -92,4 +92,6 @@ export const StatsSection = () =>
             transition={{ duration: 0.6 }}
           >
             Growing Impact
-          <
+          </motion.h2>
+          <motion.p
+            className="text-gray-600 text-sm max-w-2xl
