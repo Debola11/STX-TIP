@@ -83,4 +83,6 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
                                 </div>
                             </div>
                             <h2 className="text-2xl font-bold bg-gradient-to-r from-violet-600 to-purple-600 dark:from-violet-400 dark:to-purple-400 bg-clip-text text-transparent">
-       
+                                Verify Your Email
+                            </h2>
+                            <p className="text-gray-600 dark:text-g
