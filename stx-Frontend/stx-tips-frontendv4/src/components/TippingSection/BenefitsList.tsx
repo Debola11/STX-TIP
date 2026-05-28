@@ -16,4 +16,5 @@ export const BenefitsList: React.FC = () => {
       className="lg:col-span-2 bg-gradient-to-br from-gray-50 to-white rounded-2xl p-6 border border-gray-100/50 backdrop-blur-sm"
       variants={itemVariants}
     >
-      <h3 className="font-medium flex items-center gap-2 text-lg mb-
+      <h3 className="font-medium flex items-center gap-2 text-lg mb-6">
+        <Gift classNa
