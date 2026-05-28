@@ -34,4 +34,6 @@ const EmailModal: FC<EmailModalProps> = ({
           {/* Header with icon */}
           <div className="text-center space-y-2">
             <div className="bg-violet-500/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-              <Ma
+              <Mail className="w-8 h-8 text-violet-300" />
+            </div>
+            <h2
