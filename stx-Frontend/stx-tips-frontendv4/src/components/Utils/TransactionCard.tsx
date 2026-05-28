@@ -1,1 +1,2 @@
-import { Transaction } from '@/lib/type'
+import { Transaction } from '@/lib/type';
+import React from 
