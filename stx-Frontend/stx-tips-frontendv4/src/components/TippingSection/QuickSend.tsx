@@ -170,4 +170,10 @@ export const QuickSend: React.FC<QuickSendProps> = ({ initialAddress }) => {
                 recipientInput={recipientInput}
                 userInfo={userInfo}
                 onConfirm={() => processTip(recipientInput, amount)}
-   
+                transactionInProgress={isProcessing}
+            />
+        </Card>
+    );
+};
+
+export default QuickSend;
