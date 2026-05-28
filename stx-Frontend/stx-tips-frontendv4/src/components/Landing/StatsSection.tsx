@@ -100,4 +100,7 @@ export const StatsSection = () =>
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             Track our community's expanding reach and impact across the globe
-          </
+          </motion.p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-
