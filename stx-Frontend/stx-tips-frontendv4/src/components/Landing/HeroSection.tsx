@@ -92,4 +92,10 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   };
 
   const handleEmailSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    e.prevent
+    e.preventDefault();
+    if (!email.trim().toLowerCase() || !walletAddress?.toLowerCase()) return;
+
+    try {
+      setIsLoading(true);
+
+      const response = await fetch('https://stx-tip.onrender.com/api/v1/users/c
