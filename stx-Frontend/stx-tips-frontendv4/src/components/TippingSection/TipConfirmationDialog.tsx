@@ -182,4 +182,7 @@ export const TipConfirmationDialog: React.FC<TipConfirmationDialogProps> = ({
                     }}
                     disabled={transactionInProgress}
                     className="w-full sm:w-auto bg-gradient-to-r from-violet-600 to-purple-600 text-white hover:from-violet-700 hover:to-purple-700 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
-            
+                  >
+                    <span className="flex items-center justify-center gap-2">
+                      {transactionInProgress ? (
+              
