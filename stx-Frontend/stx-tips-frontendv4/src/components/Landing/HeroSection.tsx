@@ -45,4 +45,9 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         setWalletConnected(true);
         await checkUserExists(userData?.profile?.stxAddress?.testnet);
       } else if (userSession.isUserSignedIn()) {
-        const userD
+        const userData = getUserData();
+        setIsAuthenticated(true);
+        setUserData(userData);
+        setWalletAddress(userData?.profile?.stxAddress?.testnet ?? null);
+        setWalletConnected(true);
+        awai
