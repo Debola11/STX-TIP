@@ -16,4 +16,4 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) =>
 {
-  const [currentPage, setCu
+  const [currentPage, setCurrentPage] = useState('hom
