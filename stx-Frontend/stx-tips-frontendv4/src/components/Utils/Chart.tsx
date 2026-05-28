@@ -25,4 +25,5 @@ export const Chart: React.FC<ChartProps> = ({ data }) => (
           type="monotone" 
           dataKey="tips" 
           stroke="#8b5cf6" 
-          stro
+          strokeWidth={2}
+         
