@@ -61,4 +61,10 @@ const VerifyEmailModal: FC<VerifyEmailModalProps> = ({
             // Handle successful verification
         } catch (error: any)
         {
-            co
+            console.error('Verification failed:', error);
+            toast.error(error.message);
+            setIsLoading(false);
+        }
+    };
+
+    retur
