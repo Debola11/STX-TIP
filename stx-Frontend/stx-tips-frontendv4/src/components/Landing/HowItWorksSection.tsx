@@ -51,4 +51,7 @@ export const HowItWorksSection = () => {
       <div className="absolute top-0 left-0 w-full h-24 bg-gradient-to-b from-white to-transparent" />
       
       <motion.div 
-        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-
+        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
+        variants={containerVariants}
+        initial="hidden"
+        w
