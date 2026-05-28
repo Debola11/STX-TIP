@@ -50,4 +50,14 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
         setUserData(userData);
         setWalletAddress(userData?.profile?.stxAddress?.testnet ?? null);
         setWalletConnected(true);
-        awai
+        await checkUserExists(userData?.profile?.stxAddress?.testnet);
+      }
+    };
+
+    checkAuth();
+  }, []);
+
+  const checkUserExists = async (walletAddress: string | null) => {
+    if (!walletAddress) return;
+
+  
