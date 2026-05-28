@@ -96,4 +96,7 @@ export const StatsSection = () =>
           <motion.p
             className="text-gray-600 text-sm max-w-2xl mx-auto"
             initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opaci
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+          >
+    
