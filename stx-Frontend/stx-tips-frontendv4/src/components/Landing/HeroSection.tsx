@@ -143,4 +143,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
   };
 
   return (
-    <div className="relativ
+    <div className="relative overflow-hidden bg-gradient-to-b from-gray-900 via-violet-950 to-purple-950">
+      {/* Keep all existing background elements and styling */}
+      <div className="absolute inset-0 overflow-hidden">
+     
