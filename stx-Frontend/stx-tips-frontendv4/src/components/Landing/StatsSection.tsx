@@ -19,4 +19,7 @@ const statsData = [
     color: 'from-violet-500 to-purple-500'
   },
   {
-    value: '
+    value: '50K+',
+    label: 'Transactions',
+    subtext: 'Secure transfers',
+    icon: ArrowUpRi
