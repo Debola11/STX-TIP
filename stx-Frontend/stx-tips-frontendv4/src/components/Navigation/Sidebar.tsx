@@ -20,4 +20,5 @@ export const Sidebar: React.FC = () => {
       <div className="flex items-center justify-between mb-8">
         <h1 className="text-2xl font-bold">TipStack</h1>
         <button onClick={() => setIsOpen(false)} className="lg:hidden">
-   
+          <X className="h-6 w-6" />
+       
