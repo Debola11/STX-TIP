@@ -18,4 +18,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
     setIsProcessing(true);
     
     try {
-      console.log('Starting tip transaction...
+      console.log('Starting tip transaction...');
+      console.log('Contract details:', {
+  
