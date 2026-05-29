@@ -62,4 +62,8 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
 
 export async function sendTip(recipient: string, amount: number, tokenType: string = 'STX')
 {
-    const functi
+    const functionName = 'tip';
+
+    try
+    {
+        const re
