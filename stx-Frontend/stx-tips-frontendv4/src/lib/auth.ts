@@ -18,4 +18,5 @@ export function authenticate() {
 }
 
 export function getUserData() {
-  return userSession.load
+  return userSession.loadUserData();
+}
