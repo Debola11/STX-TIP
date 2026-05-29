@@ -86,4 +86,9 @@ type AuthAction = {
   type: "ACTIVATE_USER";
   payload: {
     activationToken: string;
-    activation_Code: str
+    activation_Code: string;
+  };
+};
+
+interface AuthContextType extends AuthState {
+  dispatch: Dis
