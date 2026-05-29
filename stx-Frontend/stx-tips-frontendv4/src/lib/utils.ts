@@ -1,2 +1,2 @@
 import { clsx, type ClassValue } from "clsx"
-import { twMerge } from "tailwi
+import { twMerge } from "tailwind-m
