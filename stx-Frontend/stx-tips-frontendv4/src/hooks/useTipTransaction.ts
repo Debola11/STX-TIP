@@ -60,4 +60,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         }
       });
     } catch (error) {
-      console.error('Transa
+      console.error('Transaction error:', error);
+      onError(error inst
