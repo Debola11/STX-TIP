@@ -209,4 +209,7 @@ export const Dashboard = () =>
                   <div>
                     <p className="text-sm font-medium">Consistent Tipper</p>
                     <p className="text-xs text-gray-500">Tipped for 5 consecutive weeks</p>
- 
+                  </div>
+                </div>
+                <span className="text-sm font-medium text-violet-600">Achieved</span>
+    
