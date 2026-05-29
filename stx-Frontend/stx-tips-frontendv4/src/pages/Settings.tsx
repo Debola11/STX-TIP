@@ -41,4 +41,7 @@ export const Settings: React.FC = () => {
             </div>
 
             <div className="flex items-center justify-between">
-        
+              <div>
+                <p className="font-medium">Milestone Alerts</p>
+                <p className="text-sm text-gray-500">Get notified when you reach milestones</p>
+   
