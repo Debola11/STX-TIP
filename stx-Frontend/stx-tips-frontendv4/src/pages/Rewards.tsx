@@ -53,4 +53,6 @@ export const Rewards: React.FC = () => {
       <div className="space-y-4">
         <h2 className="text-lg font-bold">Available Rewards</h2>
         {rewards.map((reward) => (
-    
+          <div
+            key={reward.id}
+        
