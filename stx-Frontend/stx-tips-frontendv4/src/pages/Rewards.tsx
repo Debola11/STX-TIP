@@ -19,4 +19,6 @@ export const Rewards: React.FC = () => {
       unlocked: true
     },
     {
-    
+      id: '2',
+      title: 'Tip Master',
+      des
