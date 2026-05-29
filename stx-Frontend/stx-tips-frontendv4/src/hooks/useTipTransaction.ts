@@ -39,4 +39,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         anchorMode: AnchorMode.Any,
         contractAddress: CONTRACT_ADDRESS,
         contractName: CONTRACT_NAME,
-        functi
+        functionName: 'tip',
+        functionArgs: args,
+    
