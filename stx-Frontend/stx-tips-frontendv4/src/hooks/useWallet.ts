@@ -82,4 +82,8 @@ export const useWallet = () => {
       walletConnected: false,
       walletAddress: null,
     });
-  }, [authOptions
+  }, [authOptions?.userSession]);
+
+  return {
+    ...walletState,
+    
