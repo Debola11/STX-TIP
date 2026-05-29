@@ -16,4 +16,4 @@ export const HomePage: React.FC = () => {
       <HeroSection />
       <StatsSection />
 
-      <div className="max-w-7x
+      <div className="max-w-7xl mx-auto px-4 sm:px
