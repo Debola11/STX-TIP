@@ -14,4 +14,6 @@ export const HomePage: React.FC = () => {
     <div className="w-full">
      
       <HeroSection />
-      <StatsSe
+      <StatsSection />
+
+      <div
