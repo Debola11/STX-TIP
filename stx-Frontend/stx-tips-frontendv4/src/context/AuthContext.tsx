@@ -62,4 +62,8 @@
 //         activationToken: state.activationToken,
 //         activation_Code: state.activation_Code,
 //         dispatch,
-//  
+//       }}
+//     >
+//       {children}
+//     </authContext.Provider>
+//   );
