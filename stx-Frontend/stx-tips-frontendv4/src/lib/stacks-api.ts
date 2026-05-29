@@ -55,4 +55,4 @@ export async function getTipHistory(sender: string, recipient: string, amount: n
         return result;
     } catch (error)
     {
-        conso
+        console.error('Error fetching tip history:', error);
