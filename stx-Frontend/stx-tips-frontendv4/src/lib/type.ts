@@ -16,4 +16,7 @@ export interface Stat {
     sender: string;
     recipient: string;
     amount: number;
-    timestam
+    timestamp: Date;
+  }
+  
+  export i
