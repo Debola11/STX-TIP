@@ -7,4 +7,5 @@ export const History: React.FC = () => {
   const [filter, setFilter] = useState('all');
 
   // Sample data - replace with real data in production
-  const transactions: Transactio
+  const transactions: Transaction[] = [
+    { id: '1', sender: '0x1234567890abcdef', recipie
