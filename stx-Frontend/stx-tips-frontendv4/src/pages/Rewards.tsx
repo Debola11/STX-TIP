@@ -63,4 +63,4 @@ export const Rewards: React.FC = () => {
                 {!reward.unlocked && <Lock className="h-4 w-4 text-gray-400" />}
               </div>
               <p className="text-gray-500">{reward.description}</p>
-        
+              <p className="text-sm font-medium text-vi
