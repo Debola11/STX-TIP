@@ -50,4 +50,6 @@ export const History: React.FC = () => {
           <div>Amount</div>
           <div>Date</div>
         </div>
-        <div clas
+        <div className="divide-y">
+          {transactions.map((tx) => (
+    
