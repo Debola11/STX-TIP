@@ -26,4 +26,11 @@ import
     Tooltip,
     ResponsiveContainer
   } from 'recharts';
-import QuickSend from '@/co
+import QuickSend from '@/components/TippingSection/QuickSend';
+
+export const Dashboard = () =>
+{
+ 
+
+  // Sample data - would be replaced with real blockchain data
+ 
