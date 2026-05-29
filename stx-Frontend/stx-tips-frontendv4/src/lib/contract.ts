@@ -29,4 +29,7 @@ export const sendTip = async ({
     const functionArgs = [
       stringAsciiCV(recipient),
       uintCV(amount),
-      stringAsciiCV(t
+      stringAsciiCV(tokenType)
+    ];
+
+    con
