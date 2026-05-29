@@ -41,4 +41,9 @@ const VerifiedUsers: React.FC = () => {
     fetchUsers();
   }, []);
 
-  const handleTipClick = (user: VerifiedUser
+  const handleTipClick = (user: VerifiedUser) => {
+    setSelectedUser(user);
+    setIsQuickSendOpen(true);
+  };
+
+  const copyToClipboard = async (wallet: str
