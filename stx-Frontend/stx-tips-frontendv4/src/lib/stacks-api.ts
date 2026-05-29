@@ -14,4 +14,4 @@ export async function getUserStats(userAddress: string)
 
     try
     {
-   
+        const result = await callReadOnlyFunction(
