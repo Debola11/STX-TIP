@@ -99,4 +99,8 @@ export const Settings: React.FC = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Show Tip Amounts</p>
-                <p className="text-sm text-gray-500">
+                <p className="text-sm text-gray-500">Display tip amounts on your public profile</p>
+              </div>
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input
+ 
