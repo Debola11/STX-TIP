@@ -52,4 +52,4 @@ export const History: React.FC = () => {
         </div>
         <div className="divide-y">
           {transactions.map((tx) => (
-    
+            <div key={tx.id} className="grid grid-cols-4 gap-4 p
