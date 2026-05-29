@@ -58,4 +58,6 @@
 //     <authContext.Provider
 //       value={{
 //         user: state.user,
-//      
+//         token: state.token,
+//         activationToken: state.activationToken,
+/
