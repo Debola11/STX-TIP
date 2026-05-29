@@ -47,4 +47,5 @@ export interface UserStats {
 
 export interface RawUserStats {
   'total-tips-sent': { value: bigint };
-  'total-tips-received': {
+  'total-tips-received': { value: bigint };
+  'rewar
