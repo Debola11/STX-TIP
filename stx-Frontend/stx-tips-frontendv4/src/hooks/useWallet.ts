@@ -7,4 +7,6 @@
 //     const [walletConnected, setWalletConnected] = useState(false);
 //     const [walletAddress, setWalletAddress] = useState<string | null>(null);
 
-//     const connectWallet = us
+//     const connectWallet = useCallback(async () =>
+//     {
+//         showConnect
