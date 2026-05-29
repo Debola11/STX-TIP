@@ -65,4 +65,5 @@ export const Rewards: React.FC = () => {
               <p className="text-gray-500">{reward.description}</p>
               <p className="text-sm font-medium text-violet-600">{reward.points} points required</p>
             </div>
-            <ChevronRight cla
+            <ChevronRight className="h-6 w-6 text-gray-400" />
+          </d
