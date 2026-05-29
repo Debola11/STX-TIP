@@ -10,4 +10,5 @@ export function authenticate() {
       icon: "https://raw.githubusercontent.com/stacksgov/stacksgov.github.io/master/img/stacks-logo.svg",
     },
     redirectTo: "/",
-    onFinish: () =
+    onFinish: () => {
+      wind
