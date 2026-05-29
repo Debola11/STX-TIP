@@ -1,2 +1,3 @@
 // Network configuration
-export const NETWORK_CONFIG =
+export const NETWORK_CONFIG = {
+    AP
