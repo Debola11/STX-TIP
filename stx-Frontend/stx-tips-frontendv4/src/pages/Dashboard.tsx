@@ -33,4 +33,9 @@ export const Dashboard = () =>
  
 
   // Sample data - would be replaced with real blockchain data
- 
+  const stats = [
+    {
+      title: 'Total Balance',
+      value: '1,234 STX',
+      change: '+12.3%',
+      icon: <Wallet className="h-6
