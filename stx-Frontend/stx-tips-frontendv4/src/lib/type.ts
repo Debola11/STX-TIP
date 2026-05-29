@@ -15,4 +15,5 @@ export interface Stat {
     id: string;
     sender: string;
     recipient: string;
-    am
+    amount: number;
+    timestam
