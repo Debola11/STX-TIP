@@ -150,3 +150,6 @@ export const Settings: React.FC = () => {
                 <option value="fr">Français</option>
               </select>
             </div>
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">Time Zone</label>
+              <select className="block w-full px-3 py-2 borde
