@@ -51,4 +51,8 @@
 //   {
 //     localStorage.setItem("user", JSON.stringify(state.user))
 //     localStorage.setItem("activationToken", state.activationToken);
-//     localStorage.setItem("activati
+//     localStorage.setItem("activation_Code", state.activation_Code);
+//   }, [state])
+
+//   return (
+//     <a
