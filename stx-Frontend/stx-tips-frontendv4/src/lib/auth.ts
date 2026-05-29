@@ -6,4 +6,5 @@ export const userSession = new UserSession({ appConfig });
 export function authenticate() {
   showConnect({
     appDetails: {
-      name: "TipStack"
+      name: "TipStack",
+      icon: 
