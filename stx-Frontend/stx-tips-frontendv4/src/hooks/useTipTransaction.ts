@@ -35,4 +35,5 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
       });
 
       await doContractCall({
-        network
+        network: NETWORK,
+        anchorMode: AnchorMode.Any,
