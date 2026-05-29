@@ -185,3 +185,8 @@ export const Dashboard = () =>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         
         <QuickSend />
+
+        <Card>
+          <CardHeader>
+            <CardTitle>Rewards & Achievements</CardTitle>
+            <CardDescription>Your tippi
