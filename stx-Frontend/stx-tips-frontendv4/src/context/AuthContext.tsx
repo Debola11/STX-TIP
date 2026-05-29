@@ -132,4 +132,7 @@ export const AuthContextProvider = ({ children }: AuthContextProviderProps) => {
 
   useEffect(() => {
     if (state.user) {
-      localStorage.setItem("user", JSON.stringify(state.use
+      localStorage.setItem("user", JSON.stringify(state.user));
+    }
+    if (state.activationToken) {
+      localStorage.setItem("act
