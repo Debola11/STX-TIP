@@ -55,4 +55,12 @@ export const Dashboard = () =>
     {
       title: 'Reward Points',
       value: '1,250',
-      change:
+      change: '+25.3%',
+      icon: <Award className="h-6 w-6 text-yellow-600" />
+    }
+  ];
+
+  const recentTips = [
+    {
+      id: 1,
+      type: 's
