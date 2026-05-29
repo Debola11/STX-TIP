@@ -25,4 +25,6 @@ export const useTipTransaction = ({ onSuccess, onError }: UseTipTransactionProps
         network: NETWORK
       });
 
-      const { args, microStacks } = prepare
+      const { args, microStacks } = prepareTipArgs(recipient, amount);
+      
+      consol
