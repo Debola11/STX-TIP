@@ -64,4 +64,12 @@ const VerifiedUsers: React.FC = () => {
           <div className="flex flex-col items-center justify-center min-h-[60vh]">
             <Loader2 className="h-8 w-8 animate-spin text-violet-400" />
             <p className="mt-4 text-violet-3         <Loader2 className="h-8 w-8 animate-spin text-violet-400" />
-            <p className="mt-4 text-violet-3
+            <p className="mt-4 text-violet-300">Loading verified users...</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div cla
