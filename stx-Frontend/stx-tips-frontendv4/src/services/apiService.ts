@@ -44,4 +44,5 @@ export const notifyTipSent = async (
             throw new Error(`HTTP error! status: ${response.status}`);
         }
 
-        return await respon
+        return await response.json();
+    } catch (er
