@@ -48,4 +48,6 @@ export const notifyTipSent = async (
     } catch (error)
     {
         console.error('Error notifying tip sent:', error);
-        
+        throw error;
+    }
+};
