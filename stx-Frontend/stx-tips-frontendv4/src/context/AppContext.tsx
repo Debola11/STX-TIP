@@ -18,4 +18,31 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 {
   const [currentPage, setCurrentPage] = useState('home');
   const [walletConnected, setWalletConnected] = useState(false);
-  const 
+  const [walletAddress, setWalletA[walletAddress, setWalletAddress] = useState<string | null>(null);
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <AppContext.Provider value={{
+      currentPage,
+      setCurrentPage,
+      walletConnected,
+      setWalletConnected,
+      walletAddress,
+      setWalletAddress, 
+      isOpen, 
+      setIsOpen
+    }}>
+      {children}
+    </AppContext.Provider>
+  );
+};
+
+export const useAppContext = () =>
+{
+  const context = useContext(AppContext);
+  if (context === undefined)
+  {
+    throw new Error('useAppContext must be used within an AppProvider');
+  }
+  return context;
+};
