@@ -118,4 +118,6 @@ const VerifiedUsers: React.FC = () => {
                           )}
                         </button>
                       </div>
- 
+                      <Button
+                        onClick={() => handleTipClick(user)}
+                        
