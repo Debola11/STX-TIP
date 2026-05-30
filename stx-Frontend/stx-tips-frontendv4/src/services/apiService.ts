@@ -47,4 +47,4 @@ export const notifyTipSent = async (
         return await response.json();
     } catch (error)
     {
-        console
+        console.error('Error notifying ti
