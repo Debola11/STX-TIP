@@ -41,4 +41,7 @@ export const notifyTipSent = async (
 
         if (!response.ok)
         {
-            throw new Error(`HTTP error! status: ${respon
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+ 
