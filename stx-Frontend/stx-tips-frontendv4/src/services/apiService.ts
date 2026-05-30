@@ -1,2 +1,2 @@
 // API endpoints
-const API
+const API_BASE_URL = 'https://stx-t
